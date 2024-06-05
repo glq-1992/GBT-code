@@ -1,0 +1,4 @@
+dataset_root: /disk1/dataset/CSL-Daily_256x256px
+dict_path: ./preprocess/phoenix2014/gloss_dict.npy
+evaluation_dir: ./evaluation/slr_eval_dialouge_csldaily
+evaluation_prefix: dialogue_csldaily-groundtruth

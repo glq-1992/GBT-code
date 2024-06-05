@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@0d00617b-084c-4fb4-9d25-363b003752ce" />
+        <remote-mappings server-id="python@sftp://gaoliqing@211.81.55.162:22/home/gaoliqing/anaconda3/envs/slr/bin/python" />
+        <remote-mappings server-id="python@sftp://gaoliqing@211.81.55.163:7022/home/gaoliqing/anaconda3/envs/slr/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/gaoliqing/code_glq/CVPR_2022/GBT" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

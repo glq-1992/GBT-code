@@ -1,0 +1,1420 @@
+/disk1/dataset_glq/SP-10_video_frame/dev/635/zhQ去 哪 儿Q走 吧Q走 吧Q去 哪 儿
+/disk1/dataset_glq/SP-10_video_frame/dev/635/ukQкудиQХодімоQХодімоQкуди
+/disk1/dataset_glq/SP-10_video_frame/dev/635/ruQКудаQПоехалиQПоехалиQКуда
+/disk1/dataset_glq/SP-10_video_frame/dev/635/bgQКъде отивашQХайдеQХайдеQКъде отиваш
+/disk1/dataset_glq/SP-10_video_frame/dev/635/isQhvertQFörumQFörumQhvert
+/disk1/dataset_glq/SP-10_video_frame/dev/635/deQwohinQLaten we gaanQLaten we gaanQwohin
+/disk1/dataset_glq/SP-10_video_frame/dev/635/itQDoveQAndiamoQAndiamoQDove
+/disk1/dataset_glq/SP-10_video_frame/dev/635/svQVartQNu går viQNu går viQVart
+/disk1/dataset_glq/SP-10_video_frame/dev/635/ltQĮ kurQVažiuokimeQVažiuokimeQĮ kur
+/disk1/dataset_glq/SP-10_video_frame/dev/635/enQWhere toQLet's goQLet's goQWhere to
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/zhQ再 见Q再 见Q再 见Q再 见
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/ukQбувайтеQБувайQБувайQбувайте
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/ruQУвидимсяQПока ПокаQПока ПокаQУвидимся
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/bgQЩе се видимQДовижданеQДовижданеQЩе се видим
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/isQsjáumstQBlessQBlessQsjáumst
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/deQMan sieht sichQDoei DoeiQDoei DoeiQMan sieht sich
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/itQCi vediamoQCiaoQCiaoQCi vediamo
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/svQVi sesQHej dåQHej dåQVi ses
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/ltQIki pasimatymoQIki pasimatymoQIki pasimatymoQIki pasimatymo
+/disk1/dataset_glq/SP-10_video_frame/dev/1746/enQSee youQByeQByeQSee you
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/zhQ我 爱 你Q你 爱 谁Q你 爱 谁Q我 爱 你
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/ukQя тебе люблюQКого ти любишQКого ти любишQя тебе люблю
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/ruQя люблю тебяQКого ты любишьQКого ты любишьQя люблю тебя
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/bgQобичам теQКого обичашQКого обичашQобичам те
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/isQég elska þigQHvern elskarðuQHvern elskarðuQég elska þig
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/deQIch liebe dichQVan wie hou jeQVan wie hou jeQIch liebe dich
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/itQTi amoQChi amiQChi amiQTi amo
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/svQJag älskar digQVem älskar duQVem älskar duQJag älskar dig
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/ltQAš tave myliuQKą tu myliQKą tu myliQAš tave myliu
+/disk1/dataset_glq/SP-10_video_frame/dev/2791/enQI love youQWho do you loveQWho do you loveQI love you
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/zhQ什 么 也 不 会 发 生Q发 生 什 么 了Q发 生 什 么 了Q什 么 也 不 会 发 生
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/ukQнічого не відбуваєтьсяQЩо сталосяQЩо сталосяQнічого не відбувається
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/ruQничего новогоQЧто происходитQЧто происходитQничего нового
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/bgQнищо не се случваQКакво се случваQКакво се случваQнищо не се случва
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/isQekkert geristQHvað gerðistQHvað gerðistQekkert gerist
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/deQNichts passiertQWat is er aan de handQWat is er aan de handQNichts passiert
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/itQnon succede nullaQCosa succedeQCosa succedeQnon succede nulla
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/svQIngenting händerQVad är det som händerQVad är det som händerQIngenting händer
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/ltQNiekas nevykstaQKas vykstaQKas vykstaQNiekas nevyksta
+/disk1/dataset_glq/SP-10_video_frame/dev/3110/enQNothing happensQWhat's going onQWhat's going onQNothing happens
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/zhQ我 们 将 在 什 么 时 候 见 面Q我 们 马 上 见 面 了Q我 们 马 上 见 面 了Q我 们 将 在 什 么 时 候 见 面
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/ukQКоли ми зустрінемосяQСкоро побачимосяQСкоро побачимосяQКоли ми зустрінемося
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/ruQкогда мы встретимсяQСкоро увидимсяQСкоро увидимсяQкогда мы встретимся
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/bgQкога ще се срещнемQЩе се видим скороQЩе се видим скороQкога ще се срещнем
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/isQhvenær hittumst viðQVið hittumst straxQVið hittumst straxQhvenær hittumst við
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/deQWann treffen wir unsQIk zie je snel weerQIk zie je snel weerQWann treffen wir uns
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/itQDove ci incontreremoQCi vediamo prestoQCi vediamo prestoQDove ci incontreremo
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/svQNär ska vi träffasQVi ses snart igenQVi ses snart igenQNär ska vi träffas
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/ltQKada mes susitiksimeQNetrukus pasimatysimeQNetrukus pasimatysimeQKada mes susitiksime
+/disk1/dataset_glq/SP-10_video_frame/dev/3115/enQWhen will we meetQI'll see you soonQI'll see you soonQWhen will we meet
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/zhQ那 里 出 了 事 故Q哪 里 出 事 故 了Q哪 里 出 事 故 了Q那 里 出 了 事 故
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/ukQСтався інцендентQДе сталася аваріяQДе сталася аваріяQСтався інцендент
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/ruQбыл несчастный случайQГде произошла аварияQГде произошла аварияQбыл несчастный случай
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/bgQСтана инцидент / Стана катастрофаQКъде беше инцидентътQКъде беше инцидентътQСтана инцидент / Стана катастрофа
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/isQþað varð slysQHvar varð slysiðQHvar varð slysiðQþað varð slys
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/deQDa ist ein Unfall passiertQWaar was het ongelukQWaar was het ongelukQDa ist ein Unfall passiert
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/itQC'è stato un incidenteQDov'è stato l'incidenteQDov'è stato l'incidenteQC'è stato un incidente
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/svQDet har skett en olyckaQVar var olyckanQVar var olyckanQDet har skett en olycka
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/ltQTen įvyko automobilių avarijaQKur įvyko nelaimingas atsitikimasQKur įvyko nelaimingas atsitikimasQTen įvyko automobilių avarija
+/disk1/dataset_glq/SP-10_video_frame/dev/3650/enQThere has been an accidentQWhere was the accidentQWhere was the accidentQThere has been an accident
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/zhQ这 是 去 镇 上 的 路 吗Q这 是 去 哪Q这 是 去 哪Q这 是 去 镇 上 的 路 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/ukQце дорога в містоQКуди ми їдемоQКуди ми їдемоQце дорога в місто
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/ruQЭто дорога в городQКуда мы едемQКуда мы едемQЭто дорога в город
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/bgQТова ли е пътя за градаQКъде отивамеQКъде отивамеQТова ли е пътя за града
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/isQer þetta leiðin í bæinnQÞetta er hvert á að faraQÞetta er hvert á að faraQer þetta leiðin í bæinn
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/deQIst das die Straße in die StadtQWaar gaan we heenQWaar gaan we heenQIst das die Straße in die Stadt
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/itQÈ questa la strada che porta in cittàQDove stiamo andandoQDove stiamo andandoQÈ questa la strada che porta in città
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/svQÄr det här vägen till stanQVart är vi på vägQVart är vi på vägQÄr det här vägen till stan
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/ltQAr šis kelias veda į miestąQKur mes važiuojameQKur mes važiuojameQAr šis kelias veda į miestą
+/disk1/dataset_glq/SP-10_video_frame/dev/3651/enQIs this the road to the townQWhere are we goingQWhere are we goingQIs this the road to the town
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/zhQ你 想 要 杯 啤 酒 吗Q你 想 要 什 么Q你 想 要 什 么Q你 想 要 杯 啤 酒 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/ukQВи хочете пиваQЧого ти хочешQЧого ти хочешQВи хочете пива
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/ruQВы хотите пивоQЧто вы хотитеQЧто вы хотитеQВы хотите пиво
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/bgQискаш ли бираQКакво искашQКакво искашQискаш ли бира
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/isQviltu bjórQHvað viltuQHvað viltuQviltu bjór
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/deQMöchten Sie ein BierQWat wil jeQWat wil jeQMöchten Sie ein Bier
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/itQVuoi una birraQChe cosa vuoiQChe cosa vuoiQVuoi una birra
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/svQVill du ha en ölQVad är det du villQVad är det du villQVill du ha en öl
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/ltQAr norėtumėt alausQKo tu noriQKo tu noriQAr norėtumėt alaus
+/disk1/dataset_glq/SP-10_video_frame/dev/3656/enQDo you want a beerQWhat do you wantQWhat do you wantQDo you want a beer
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/zhQ这 对 我 来 说 太 先 进 了Q这 对 你 来 说 先 进 吗Q这 对 你 来 说 先 进 吗Q这 对 我 来 说 太 先 进 了
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/ukQце занадто складно для менеQДля тебе це вже занадтоQДля тебе це вже занадтоQце занадто складно для мене
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/ruQдля меня это слишком сложноQЭто продвинуто для тебяQЭто продвинуто для тебяQдля меня это слишком сложно
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/bgQтова е твърде напреднало за менQТова напреднало ли е за васQТова напреднало ли е за васQтова е твърде напреднало за мен
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/isQþetta er of erfitt fyrir migQEr þetta háþróað fyrir þigQEr þetta háþróað fyrir þigQþetta er of erfitt fyrir mig
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/deQDas ist mir zu fortschrittlichQIs dit gevorderd voor jouQIs dit gevorderd voor jouQDas ist mir zu fortschrittlich
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/itQÈ troppo avanzato per meQÈ una cosa avanzata per teQÈ una cosa avanzata per teQÈ troppo avanzato per me
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/svQDet är för avancerat för migQÄr det här avancerat för digQÄr det här avancerat för digQDet är för avancerat för mig
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/ltQTai man pernelyg sudėtingaQAr tai jums pažengęQAr tai jums pažengęQTai man pernelyg sudėtinga
+/disk1/dataset_glq/SP-10_video_frame/dev/3664/enQIt is too advanced for meQIs this advanced for youQIs this advanced for youQIt is too advanced for me
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/zhQ再 给 我 一 个 机 会 吧Q给 你 机 会 了 吗Q给 你 机 会 了 吗Q再 给 我 一 个 机 会 吧
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/ukQдай мені ще один шансQЯ дала тобі шансQЯ дала тобі шансQдай мені ще один шанс
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/ruQДай мне еще один шансQЯ дал тебе шансQЯ дал тебе шансQДай мне еще один шанс
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/bgQдайте ми нов шансQДадох ли ви шансQДадох ли ви шансQдайте ми нов шанс
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/isQgefðu mér nýtt tækifæriQGaf þér tækifæriQGaf þér tækifæriQgefðu mér nýtt tækifæri
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/deQBitte gib mir eine neue ChanceQHeb ik je een kans gegevenQHeb ik je een kans gegevenQBitte gib mir eine neue Chance
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/itQDammi un'altra possibilitàQTi ho dato una possibilitàQTi ho dato una possibilitàQDammi un'altra possibilità
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/svQGe mig en chans tillQGav jag dig en chansQGav jag dig en chansQGe mig en chans till
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/ltQSuteik man dar vieną progąQAr suteikiau jums galimybęQAr suteikiau jums galimybęQSuteik man dar vieną progą
+/disk1/dataset_glq/SP-10_video_frame/dev/3683/enQGive me a new chanceQDid I give you a chanceQDid I give you a chanceQGive me a new chance
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/zhQ你 去 看 过 妇 科 医 生 吗Q我 去 看 医 生 了Q我 去 看 医 生 了Q你 去 看 过 妇 科 医 生 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/ukQВи були у гінекологаQЯ ходила до лікаряQЯ ходила до лікаряQВи були у гінеколога
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/ruQТы была у гинекологаQЯ ходил к врачуQЯ ходил к врачуQТы была у гинеколога
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/bgQБили ли сте на гинекологQОтидох да видя лекарQОтидох да видя лекарQБили ли сте на гинеколог
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/isQhefur þú verið hjá kvensjúkdómalækniQÉg fór til læknisQÉg fór til læknisQhefur þú verið hjá kvensjúkdómalækni
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/deQWaren sie beim FrauenarztQIk ben naar een dokter geweestQIk ben naar een dokter geweestQWaren sie beim Frauenarzt
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/itQSei mai stata dal ginecologoQSono andato da un medicoQSono andato da un medicoQSei mai stata dal ginecologo
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/svQHar du varit hos gynekologenQJag gick för att träffa en läkareQJag gick för att träffa en läkareQHar du varit hos gynekologen
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/ltQAr jau apsilankėte pas ginekologąQAš nuėjau pas gydytojąQAš nuėjau pas gydytojąQAr jau apsilankėte pas ginekologą
+/disk1/dataset_glq/SP-10_video_frame/dev/3686/enQHave you been to the gynecologistQI went to see a doctorQI went to see a doctorQHave you been to the gynecologist
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/zhQ这 是 真 的 吗Q这 不 是 真 的Q这 不 是 真 的Q这 是 真 的 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/ukQце правдаQЦе неправдаQЦе неправдаQце правда
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/ruQПравдаQЭто неправдаQЭто неправдаQПравда
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/bgQвярно ли еQТова не е вярноQТова не е вярноQвярно ли е
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/isQer þetta sattQÞetta er ekki sattQÞetta er ekki sattQer þetta satt
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/deQIst das wahrQDat is niet waarQDat is niet waarQIst das wahr
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/itQÈ veroQNon è veroQNon è veroQÈ vero
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/svQÄr det santQDet där är inte santQDet där är inte santQÄr det sant
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/ltQAr tai tiesaQTai netiesaQTai netiesaQAr tai tiesa
+/disk1/dataset_glq/SP-10_video_frame/dev/3690/enQIs it trueQThat's not trueQThat's not trueQIs it true
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/zhQ你 能 给 我 写 下 来 吗Q我 给 你 写 下 来 吧Q我 给 你 写 下 来 吧Q你 能 给 我 写 下 来 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/ukQне могли б ви написати для менеQЯ тобі запишуQЯ тобі запишуQне могли б ви написати для мене
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/ruQНе могли бы вы написать это для меняQЯ запишу это для васQЯ запишу это для васQНе могли бы вы написать это для меня
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/bgQБихте ли записали това за менQЩе ви го запишаQЩе ви го запишаQБихте ли записали това за мен
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/isQgeturðu skrifað þetta niðurQÉg skal skrifa það niður fyrir þigQÉg skal skrifa það niður fyrir þigQgeturðu skrifað þetta niður
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/deQKannst du mir das aufschreibenQIk zal het voor je opschrijvenQIk zal het voor je opschrijvenQKannst du mir das aufschreiben
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/itQPotrebbe prendere appunti per meQGlielo scrivo ioQGlielo scrivo ioQPotrebbe prendere appunti per me
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/svQKan du skriva ner det åt migQJag skriver ner det åt digQJag skriver ner det åt digQKan du skriva ner det åt mig
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/ltQGal galėtumėte man tai užrašytiQAš jums tai užrašysiuQAš jums tai užrašysiuQGal galėtumėte man tai užrašyti
+/disk1/dataset_glq/SP-10_video_frame/dev/3692/enQCould you write that down for meQI'll write it down for youQI'll write it down for youQCould you write that down for me
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/zhQ这 太 棒 了Q这 个 怎 么 样Q这 个 怎 么 样Q这 太 棒 了
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/ukQце фантастикаQА якщо такQА якщо такQце фантастика
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/ruQПотрясающеQКак насчет этогоQКак насчет этогоQПотрясающе
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/bgQтова е фантастичноQКакво ще кажете за товаQКакво ще кажете за товаQтова е фантастично
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/isQþetta er frábærtQHvað með þettaQHvað með þettaQþetta er frábært
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/deQDas ist fantastischQWat dacht je hiervanQWat dacht je hiervanQDas ist fantastisch
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/itQÈ fantasticoQChe ne dici di questoQChe ne dici di questoQÈ fantastico
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/svQDet här är fantastisktQVad sägs om det härQVad sägs om det härQDet här är fantastiskt
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/ltQNuostabuQO kaip dėl šitoQO kaip dėl šitoQNuostabu
+/disk1/dataset_glq/SP-10_video_frame/dev/3695/enQThis is fantasticQHow about thisQHow about thisQThis is fantastic
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/zhQ你 帮 我 把 行 李 拿 到 我 的 房 间 吗Q我 帮 你 做 点 什 么Q我 帮 你 做 点 什 么Q你 帮 我 把 行 李 拿 到 我 的 房 间 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/ukQне могли б ви принести мій багаж в мою кімнатуQЯ дещо для тебе зроблюQЯ дещо для тебе зроблюQне могли б ви принести мій багаж в мою кімнату
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/ruQвы не могли бы отнести мой багаж в мою комнатуQЯ сделаю кое-что для васQЯ сделаю кое-что для васQвы не могли бы отнести мой багаж в мою комнату
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/bgQБихте ли отнесли багажа ми до моята стая / до такситоQЩе направя нещо за тебQЩе направя нещо за тебQБихте ли отнесли багажа ми до моята стая / до таксито
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/isQgæti þú borið töskur mínar upp í herbergið/í leigubílinnQÉg skal gera dálítið fyrir þigQÉg skal gera dálítið fyrir þigQgæti þú borið töskur mínar upp í herbergið/í leigubílinn
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/deQKönnen sie mein Gepäck zum Zimmer bringenQIk zal iets voor je doenQIk zal iets voor je doenQKönnen sie mein Gepäck zum Zimmer bringen
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/itQPotrebbe portare il mio bagaglio in cameraQFarò qualcosa per teQFarò qualcosa per teQPotrebbe portare il mio bagaglio in camera
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/svQSkulle du kunna ta mitt bagage upp till rummet/till taxinQJag ska göra något för digQJag ska göra något för digQSkulle du kunna ta mitt bagage upp till rummet/till taxin
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/ltQGal galėtumėte nunešti mano bagažą į kambarį/į taksiQAš ką nors dėl tavęs padarysiuQAš ką nors dėl tavęs padarysiuQGal galėtumėte nunešti mano bagažą į kambarį/į taksi
+/disk1/dataset_glq/SP-10_video_frame/dev/3698/enQCould you take my luggage up to my roomQI'll do something for youQI'll do something for youQCould you take my luggage up to my room
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/zhQ我 在 找 一 个 房 间Q你 在 找 什 么Q你 在 找 什 么Q我 在 找 一 个 房 间
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/ukQШукаю кімнатуQЩо ти шукаєшQЩо ти шукаєшQШукаю кімнату
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/ruQМне нужна комнатаQЧто вы ищетеQЧто вы ищетеQМне нужна комната
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/bgQаз търся стаяQКакво търсишQКакво търсишQаз търся стая
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/isQég er að leita að herbergiQEftir hverju ert þú að leitaQEftir hverju ert þú að leitaQég er að leita að herbergi
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/deQIch suche ein ZimmerQWat zoek jeQWat zoek jeQIch suche ein Zimmer
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/itQSto cercando una cameraQCosa stai cercandoQCosa stai cercandoQSto cercando una camera
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/svQJag letar efter ett rumQVad letar du efterQVad letar du efterQJag letar efter ett rum
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/ltQAš ieškau kambarioQKo jūs ieškoteQKo jūs ieškoteQAš ieškau kambario
+/disk1/dataset_glq/SP-10_video_frame/dev/3702/enQI'm looking for a roomQWhat are you looking forQWhat are you looking forQI'm looking for a room
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/zhQ你 有 孩 子 吗Q我 有 孩 子Q我 有 孩 子Q你 有 孩 子 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/ukQВ тебе є дітиQУ мене є дітиQУ мене є дітиQВ тебе є діти
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/ruQУ вас есть детиQУ меня есть детиQУ меня есть детиQУ вас есть дети
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/bgQИмаш ли децаQИмам децаQИмам децаQИмаш ли деца
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/isQÁtt þú börnQÉg á börnQÉg á börnQÁtt þú börn
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/deQHast Du KinderQIk heb kinderenQIk heb kinderenQHast Du Kinder
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/itQHai bambiniQHo dei bambiniQHo dei bambiniQHai bambini
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/svQHar du några barnQJag har barnQJag har barnQHar du några barn
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/ltQAr turi vaikųQAš turiu vaikųQAš turiu vaikųQAr turi vaikų
+/disk1/dataset_glq/SP-10_video_frame/dev/8806/enQDo you have any childrenQI have kidsQI have kidsQDo you have any children
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/zhQ你 喜 欢 看 电 视 吗Q我 不 喜 欢 看 电 视Q我 不 喜 欢 看 电 视Q你 喜 欢 看 电 视 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/ukQТи любиш дивитися телевізорQЯ не люблю дивитися телевізорQЯ не люблю дивитися телевізорQТи любиш дивитися телевізор
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/ruQТы любишь смотреть телевизорQЯ не люблю смотреть телевизорQЯ не люблю смотреть телевизорQТы любишь смотреть телевизор
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/bgQобичаш ли да гледаш телевизияQНе обичам да гледам телевизияQНе обичам да гледам телевизияQобичаш ли да гледаш телевизия
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/isQFinnst þér gaman að horfa á sjónvarpQMér líkar ekki að horfa á sjónvarpiðQMér líkar ekki að horfa á sjónvarpiðQFinnst þér gaman að horfa á sjónvarp
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/deQMagst du fernsehenQIk kijk niet graag tvQIk kijk niet graag tvQMagst du fernsehen
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/itQTi piace guardare la TVQNon mi piace guardare la TVQNon mi piace guardare la TVQTi piace guardare la TV
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/svQTycker du om att titta på tvQJag gillar inte att titta på TVQJag gillar inte att titta på TVQTycker du om att titta på tv
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/ltQAr tau patinka žiūrėti televizoriųQNemėgstu žiūrėti televizoriausQNemėgstu žiūrėti televizoriausQAr tau patinka žiūrėti televizorių
+/disk1/dataset_glq/SP-10_video_frame/dev/8807/enQDo you like to watch TVQI don't like watching TVQI don't like watching TVQDo you like to watch TV
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/zhQ我 需 要 发 电 子 邮 件Q你 需 要 发 什 么Q你 需 要 发 什 么Q我 需 要 发 电 子 邮 件
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/ukQМені потрібно відправити електронний листQЩо ти хочеш відправитиQЩо ти хочеш відправитиQМені потрібно відправити електронний лист
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/ruQМне надо послать емайлQЧто вам нужно отправитьQЧто вам нужно отправитьQМне надо послать емайл
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/bgQТрябва да изпратя имейлQКакво трябва да изпратитеQКакво трябва да изпратитеQТрябва да изпратя имейл
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/isQÉg þarf að senda tölvupóstQHvað þarftu að sendaQHvað þarftu að sendaQÉg þarf að senda tölvupóst
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/deQIch muss eine Mail schreibenQWat moet je sturenQWat moet je sturenQIch muss eine Mail schreiben
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/itQHo bisogno di inviare una emailQCosa /disk1/dataset_glq/SP-10_video_frame/deve spedireQCosa /disk1/dataset_glq/SP-10_video_frame/deve spedireQHo bisogno di inviare una email
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/svQJag behöver skicka ett mailQVad vill du skickaQVad vill du skickaQJag behöver skicka ett mail
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/ltQMan reikia išsiųsti elektroninį laiškąQKą jums reikia atsiųstiQKą jums reikia atsiųstiQMan reikia išsiųsti elektroninį laišką
+/disk1/dataset_glq/SP-10_video_frame/dev/8839/enQI need to send an emailQWhat do you need to sendQWhat do you need to sendQI need to send an email
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/zhQ我 过 会 再 见 你Q你 多 久 见 我Q你 多 久 见 我Q我 过 会 再 见 你
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/ukQПобачимося пізнішеQЯк часто ти мене бачишQЯк часто ти мене бачишQПобачимося пізніше
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/ruQУвидимся попозжеQКак часто вы меня видитеQКак часто вы меня видитеQУвидимся попозже
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/bgQЩе се видим по-късноQКолко често ме виждатеQКолко често ме виждатеQЩе се видим по-късно
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/isQÉg sé þig seinnaQHve oft sérðu migQHve oft sérðu migQÉg sé þig seinna
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/deQBis späterQHoe vaak zie je meQHoe vaak zie je meQBis später
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/itQCi vediamo dopoQquanto spesso mi vediQquanto spesso mi vediQCi vediamo dopo
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/svQVi ses senQHur ofta träffas viQHur ofta träffas viQVi ses sen
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/ltQSusitiksime vėliauQKaip dažnai mane matoteQKaip dažnai mane matoteQSusitiksime vėliau
+/disk1/dataset_glq/SP-10_video_frame/dev/8841/enQI'll see you laterQHow often do you see meQHow often do you see meQI'll see you later
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/zhQ什 么Q怎 么 了Q怎 么 了Q什 么
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/ukQЩоQЩо сталосяQЩо сталосяQЩо
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/ruQЧтоQЧто происходитQЧто происходитQЧто
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/bgQКаквоQКакво се случваQКакво се случваQКакво
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/isQHvaðQHvað er aðQHvað er aðQHvað
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/deQWasQWat is er aan de handQWat is er aan de handQWas
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/itQCosaQCosa succedeQCosa succedeQCosa
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/svQVadQVad är det som händerQVad är det som händerQVad
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/ltQKąQKas vykstaQKas vykstaQKą
+/disk1/dataset_glq/SP-10_video_frame/dev/8856/enQWhatQWhat's going onQWhat's going onQWhat
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/zhQ花 时 间Q需 要 时 间 吗Q需 要 时 间 吗Q花 时 间
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/ukQВзяти тайм-аутQТобі потрібен часQТобі потрібен часQВзяти тайм-аут
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/ruQНужно времяQВам нужно времяQВам нужно времяQНужно время
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/bgQда спрат временно дейностQИмаш ли нужда от времеQИмаш ли нужда от времеQда спрат временно дейност
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/isQAð taka hléQTekur það tímaQTekur það tímaQAð taka hlé
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/deQPause machenQHeb je tijd nodigQHeb je tijd nodigQPause machen
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/itQprendersi del tempoQHai bisogno di tempoQHai bisogno di tempoQprendersi del tempo
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/svQTa en pausQBehöver du tidQBehöver du tidQTa en paus
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/ltQPasiimu pertraukėlęQAr tau reikia laikoQAr tau reikia laikoQPasiimu pertraukėlę
+/disk1/dataset_glq/SP-10_video_frame/dev/9605/enQTaking time outQDo you need timeQDo you need timeQTaking time out
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/zhQ光 阴 似 箭Q时 间 过 得 快 吗Q时 间 过 得 快 吗Q光 阴 似 箭
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/ukQЧас летитьQВін швидко минаєQВін швидко минаєQЧас летить
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/ruQВремя летитQБыстро ли оно проходитQБыстро ли оно проходитQВремя летит
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/bgQВремето летиQБързо ли минаваQБързо ли минаваQВремето лети
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/isQTími flýgurQFlýgur tíminnQFlýgur tíminnQTími flýgur
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/deQDie Zeit vergeht im FlugeQGaat het snel voorbijQGaat het snel voorbijQDie Zeit vergeht im Fluge
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/itQIl tempo volaQPassa in frettaQPassa in frettaQIl tempo vola
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/svQTiden flygerQGår det fortQGår det fortQTiden flyger
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/ltQLaikas bėgaQAr jis greitai prabėgaQAr jis greitai prabėgaQLaikas bėga
+/disk1/dataset_glq/SP-10_video_frame/dev/9606/enQTime fliesQDoes it go by fastQDoes it go by fastQTime flies
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/zhQ我 学 音 乐 专 业Q你 学 什 么 专 业Q你 学 什 么 专 业Q我 学 音 乐 专 业
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/ukQЯ спеціалізуюсь на музиціQЯка твоя спеціальністьQЯка твоя спеціальністьQЯ спеціалізуюсь на музиці
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/ruQМоя специализация - музыкаQКакая у тебя специальностьQКакая у тебя специальностьQМоя специализация - музыка
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/bgQАз съм специалност МузикаQКаква е специалността тиQКаква е специалността тиQАз съм специалност Музика
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/isQMitt aðalfag er tónlistQHvaða majór lærir þúQHvaða majór lærir þúQMitt aðalfag er tónlist
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/deQIch studiere MusikQWat is je hoofdvakQWat is je hoofdvakQIch studiere Musik
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/itQMi sto specializzando in MusicaQqual è la sua specializzazioneQqual è la sua specializzazioneQMi sto specializzando in Musica
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/svQMitt huvudämne är musikQVad är ditt huvudämneQVad är ditt huvudämneQMitt huvudämne är musik
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/ltQUniversitete specializuojuosi muzikojeQKokia jūsų specialybėQKokia jūsų specialybėQUniversitete specializuojuosi muzikoje
+/disk1/dataset_glq/SP-10_video_frame/dev/9633/enQI am majoring in MusicQWhat's your majorQWhat's your majorQI am majoring in Music
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/zhQ我 上 大 学Q你 上 什 么 学Q你 上 什 么 学Q我 上 大 学
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/ukQЯ ходжу до коледжуQДля чого ти ходиш до школиQДля чого ти ходиш до школиQЯ ходжу до коледжу
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/ruQЯ учусь в колледжеQДля чего вы ходите в школуQДля чего вы ходите в школуQЯ учусь в колледже
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/bgQАз ходя в колежQЗа какво учитеQЗа какво учитеQАз ходя в колеж
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/isQÉg geng í háskólaQHvaða skóla fórstu íQHvaða skóla fórstu íQÉg geng í háskóla
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/deQIch geh auf's CollegeQWaarvoor ga je naar schoolQWaarvoor ga je naar schoolQIch geh auf's College
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/itQVado all'universitàQPer cosa vai a scuolaQPer cosa vai a scuolaQVado all'università
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/svQJag läser på högskolanQVad går du i skolan förQVad går du i skolan förQJag läser på högskolan
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/ltQAš einu į kolegijąQKą lankai mokyklojeQKą lankai mokyklojeQAš einu į kolegiją
+/disk1/dataset_glq/SP-10_video_frame/dev/9640/enQI go to collegeQWhat do you go to school forQWhat do you go to school forQI go to college
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/zhQ我 的 成 绩 单 上 有 一 个 优Q你 的 成 绩 单 怎 么 样Q你 的 成 绩 单 怎 么 样Q我 的 成 绩 单 上 有 一 个 优
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/ukQЯ отримав 'A' на моєму бланкуQЯк твій транскриптQЯк твій транскриптQЯ отримав 'A' на моєму бланку
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/ruQЗа свою письменную работу я получилQКак твой аттестатQКак твой аттестатQЗа свою письменную работу я получил
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/bgQИмам А на моя докладQКакъв е записът виQКакъв е записът виQИмам А на моя доклад
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/isQÉg fékk A fyrir verkefnina mínaQHvað með afritið þittQHvað með afritið þittQÉg fékk A fyrir verkefnina mína
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/deQIch habe für meine Arbeit eine Eins bekommenQHoe is je cijferlijstQHoe is je cijferlijstQIch habe für meine Arbeit eine Eins bekommen
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/itQHo preso ottimo nel compitoQCom'è il tuo librettoQCom'è il tuo librettoQHo preso ottimo nel compito
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/svQJag fick ett A på min uppsatsQHur är ditt betygQHur är ditt betygQJag fick ett A på min uppsats
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/ltQGavau A iš testoQKaip atrodo tavo pažymių knygelėQKaip atrodo tavo pažymių knygelėQGavau A iš testo
+/disk1/dataset_glq/SP-10_video_frame/dev/9644/enQI got an 'A' on my paperQHow's your transcriptQHow's your transcriptQI got an 'A' on my paper
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/zhQ我 的 成 绩 单 上 有 一 个 不 及 格Q你 的 成 绩 单 及 格 了 吗Q你 的 成 绩 单 及 格 了 吗Q我 的 成 绩 单 上 有 一 个 不 及 格
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/ukQЯ отримав 'F' на моєму бланкуQТи отримав табель успішностіQТи отримав табель успішностіQЯ отримав 'F' на моєму бланку
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/ruQЯ получил "неуд" за свою письменную работуQТы сдал табель успеваемостиQТы сдал табель успеваемостиQЯ получил "неуд" за свою письменную работу
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/bgQИмам F на моя докладQСправихте ли се с оценките сиQСправихте ли се с оценките сиQИмам F на моя доклад
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/isQÉg fékk F fyrir verkefnina mínaQStóðst þú afritið þittQStóðst þú afritið þittQÉg fékk F fyrir verkefnina mína
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/deQIch habe für meine Arbeit eine Fünf bekommenQHeb je je rapport gehaaldQHeb je je rapport gehaaldQIch habe für meine Arbeit eine Fünf bekommen
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/itQHo preso gravemente insufficiente nel compitoQHai superato la pagellaQHai superato la pagellaQHo preso gravemente insufficiente nel compito
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/svQJag fick ett F på min uppsatsQFick du godkänt på ditt betygQFick du godkänt på ditt betygQJag fick ett F på min uppsats
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/ltQGavau F iš testoQAr išlaikėte pažymių knygelęQAr išlaikėte pažymių knygelęQGavau F iš testo
+/disk1/dataset_glq/SP-10_video_frame/dev/9645/enQI got a 'F' on my paperQDid you pass your report cardQDid you pass your report cardQI got a 'F' on my paper
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/zhQ老 师 问 了 我 很 多 问 题Q老 师 问 你 问 题 了 吗Q老 师 问 你 问 题 了 吗Q老 师 问 了 我 很 多 问 题
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/ukQУчитель задав мені багато питаньQВчитель ставив тобі якісь запитанняQВчитель ставив тобі якісь запитанняQУчитель задав мені багато питань
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/ruQУчитель задавал мне много вопросовQУчитель задавал тебе какие-нибудь вопросыQУчитель задавал тебе какие-нибудь вопросыQУчитель задавал мне много вопросов
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/bgQУчителят ми зададе много въпросиQУчителят зададе ли ти някакви въпросиQУчителят зададе ли ти някакви въпросиQУчителят ми зададе много въпроси
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/isQKennarinn spurði mig margar spurningarQSpurði kennarinn þig spurningaQSpurði kennarinn þig spurningaQKennarinn spurði mig margar spurningar
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/deQDer Lehrer stellt mir viele FragenQHeeft de leraar je nog vragen gesteldQHeeft de leraar je nog vragen gesteldQDer Lehrer stellt mir viele Fragen
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/itQLa maestra mi ha fatto un sacco di domandeQL'insegnante ti ha fatto qualche domandaQL'insegnante ti ha fatto qualche domandaQLa maestra mi ha fatto un sacco di domande
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/svQLäraren frågade mig en massa frågorQStällde läraren några frågorQStällde läraren några frågorQLäraren frågade mig en massa frågor
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/ltQMokytoja manęs klausė daug klausimųQAr mokytojas uždavė tau kokių nors klausimųQAr mokytojas uždavė tau kokių nors klausimųQMokytoja manęs klausė daug klausimų
+/disk1/dataset_glq/SP-10_video_frame/dev/9661/enQThe teacher asked me a lot of questionsQDid the teacher ask you any questionsQDid the teacher ask you any questionsQThe teacher asked me a lot of questions
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/zhQ行 政 大 楼 在 哪 里Q我 没 找 到 行 政 大 楼Q我 没 找 到 行 政 大 楼Q行 政 大 楼 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/ukQДе знаходиться Адміністративний будинокQЯ не зміг знайти адміністративну будівлюQЯ не зміг знайти адміністративну будівлюQДе знаходиться Адміністративний будинок
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/ruQГде здание администрацииQЯ не могу найти здание администрацииQЯ не могу найти здание администрацииQГде здание администрации
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/bgQКъде е административната сградаQНе можах да намеря административната сградаQНе можах да намеря административната сградаQКъде е административната сграда
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/isQÍ hvaða byggingu er aðalskrifstofan staðsettQÉg fann ekki stjórnsýslubyggingunaQÉg fann ekki stjórnsýslubyggingunaQÍ hvaða byggingu er aðalskrifstofan staðsett
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/deQWo ist das VerwaltungsgebäudeQIk kon het administratiegebouw niet vindenQIk kon het administratiegebouw niet vindenQWo ist das Verwaltungsgebäude
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/itQDov'è l'edificio dell'amministrazioneQNon sono riuscito a trovare l'edificio dell'amministrazioneQNon sono riuscito a trovare l'edificio dell'amministrazioneQDov'è l'edificio dell'amministrazione
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/svQVar är administrationsbyggnadenQJag kunde inte hitta administrationsbyggnadenQJag kunde inte hitta administrationsbyggnadenQVar är administrationsbyggnaden
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/ltQKur administracijos pastatasQNegalėjau rasti administracijos pastatoQNegalėjau rasti administracijos pastatoQKur administracijos pastatas
+/disk1/dataset_glq/SP-10_video_frame/dev/9665/enQWhere is the Administration buildingQI couldn't find the administration buildingQI couldn't find the administration buildingQWhere is the Administration building
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/zhQ你 办 理 行 李 托 运 手 续 了 吗Q我 没 有 办 理 行 李 托 运 手 续Q我 没 有 办 理 行 李 托 运 手 续Q你 办 理 行 李 托 运 手 续 了 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/ukQВи перевірили ваш багажQЯ не здав багажQЯ не здав багажQВи перевірили ваш багаж
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/ruQВы зарегистрировали свой багажQЯ не сдал свой багажQЯ не сдал свой багажQВы зарегистрировали свой багаж
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/bgQПровери ли си багажаQНе си проверих багажаQНе си проверих багажаQПровери ли си багажа
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/isQErtu búinn að innrita farangur þinnQÉg innritaði ekki farangurinn minnQÉg innritaði ekki farangurinn minnQErtu búinn að innrita farangur þinn
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/deQHast du dein Gepäck überprüftQIk heb mijn bagage niet gecontroleerdQIk heb mijn bagage niet gecontroleerdQHast du dein Gepäck überprüft
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/itQAvete controllato il vostro bagaglioQNon ho registrato il mio bagaglioQNon ho registrato il mio bagaglioQAvete controllato il vostro bagaglio
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/svQHar du kollat ditt bagageQJag checkade inte in mitt bagageQJag checkade inte in mitt bagageQHar du kollat ditt bagage
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/ltQAr patikrinote savo bagažąQNepatikrinau savo bagažoQNepatikrinau savo bagažoQAr patikrinote savo bagažą
+/disk1/dataset_glq/SP-10_video_frame/dev/9685/enQHave you checked your luggageQI didn't check my baggageQI didn't check my baggageQHave you checked your luggage
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/zhQ在 这 里 过 夜 是 违 法 的Q什 么 是 违 法 的Q什 么 是 违 法 的Q在 这 里 过 夜 是 违 法 的
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/ukQНезаконно паркуватися тут на нічQА що тут нелегальногоQА що тут нелегальногоQНезаконно паркуватися тут на ніч
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/ruQЗдесь запрещено оставлять машину на ночьQЧто незаконноQЧто незаконноQЗдесь запрещено оставлять машину на ночь
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/bgQНезаконно е да се паркира тук през нощтаQКакво е незаконноQКакво е незаконноQНезаконно е да се паркира тук през нощта
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/isQÞað er ólöglegt að leggja hér á nóttuQHvað er ólöglegtQHvað er ólöglegtQÞað er ólöglegt að leggja hér á nóttu
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/deQEs ist verboten hier nachts zu parkenQWat is illegaalQWat is illegaalQEs ist verboten hier nachts zu parken
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/itQNon si può parcheggiare qui di notteQCos'è illegaleQCos'è illegaleQNon si può parcheggiare qui di notte
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/svQDet är olagligt att parkera här över nattenQVad är olagligtQVad är olagligtQDet är olagligt att parkera här över natten
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/ltQDraudžiama palikti mašiną čia per naktįQKas neteisėtaQKas neteisėtaQDraudžiama palikti mašiną čia per naktį
+/disk1/dataset_glq/SP-10_video_frame/dev/9707/enQIt is illegal to park here overnightQWhat's illegalQWhat's illegalQIt is illegal to park here overnight
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/zhQ请 系 好 安 全 带Q系 好 什 么Q系 好 什 么Q请 系 好 安 全 带
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/ukQБудь ласка, пристебніть ремінь безпекиQЩо зав'язатиQЩо зав'язатиQБудь ласка, пристебніть ремінь безпеки
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/ruQПожалуйста, пристягните ремниQЧто привязыватьQЧто привязыватьQПожалуйста, пристягните ремни
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/bgQМоля, затегнете коланитеQКакво се връзваQКакво се връзваQМоля, затегнете коланите
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/isQVinsamlegast spennið beltinQHvað á að bindaQHvað á að bindaQVinsamlegast spennið beltin
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/deQBitte anschnallenQWat vastbindenQWat vastbindenQBitte anschnallen
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/itQPer favore allacciati la cintura di sicurezzaQLegare cosaQLegare cosaQPer favore allacciati la cintura di sicurezza
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/svQSnälla, spänn fast säkerhetsbältetQKnyta vadQKnyta vadQSnälla, spänn fast säkerhetsbältet
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/ltQPrašome užsisegti saugos diržusQKą surištiQKą surištiQPrašome užsisegti saugos diržus
+/disk1/dataset_glq/SP-10_video_frame/dev/9710/enQPlease fasten your seatbeltQTie whatQTie whatQPlease fasten your seatbelt
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/zhQ电 梯 卡 住 了Q电 梯 怎 么 了Q电 梯 怎 么 了Q电 梯 卡 住 了
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/ukQЛіфт застрягQА що не так з ліфтомQА що не так з ліфтомQЛіфт застряг
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/ruQЛифт застрялQЧто не так с лифтомQЧто не так с лифтомQЛифт застрял
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/bgQАсансьорът е заседналQКакво не е наред с асансьораQКакво не е наред с асансьораQАсансьорът е заседнал
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/isQLyftan er föstQHvað varð um lyftunaQHvað varð um lyftunaQLyftan er föst
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/deQDer Aufzug steckt festQWat is er mis met de liftQWat is er mis met de liftQDer Aufzug steckt fest
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/itQL'ascensore è bloccatoQCosa c'è che non va nell'ascensoreQCosa c'è che non va nell'ascensoreQL'ascensore è bloccato
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/svQHissen har fastnatQVad är det för fel på hissenQVad är det för fel på hissenQHissen har fastnat
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/ltQLiftas užstrigoQKas negerai su liftuQKas negerai su liftuQLiftas užstrigo
+/disk1/dataset_glq/SP-10_video_frame/dev/9715/enQThe elevator is stuckQWhat's wrong with the liftQWhat's wrong with the liftQThe elevator is stuck
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/zhQ地 铁 在 哪 里Q我 想 去 地 铁Q我 想 去 地 铁Q地 铁 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/ukQДе знаходиться метроQЯ намагаюся дістатися до метроQЯ намагаюся дістатися до метроQДе знаходиться метро
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/ruQГде метроQЯ пытаюсь спуститься в метроQЯ пытаюсь спуститься в метроQГде метро
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/bgQКъде е метротоQОпитвам се да стигна до метротоQОпитвам се да стигна до метротоQКъде е метрото
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/isQHvar er neðanjarðarlestinQÉg vil fara í neðanjarðarlestinaQÉg vil fara í neðanjarðarlestinaQHvar er neðanjarðarlestin
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/deQWo ist die U-BahnQIk probeer naar de metro te gaanQIk probeer naar de metro te gaanQWo ist die U-Bahn
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/itQDov'è la metroQSto cercando di raggiungere la metropolitanaQSto cercando di raggiungere la metropolitanaQDov'è la metro
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/svQVar är tunnelbananQJag försöker ta mig till tunnelbananQJag försöker ta mig till tunnelbananQVar är tunnelbanan
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/ltQKur yra metroQBandau patekti į metroQBandau patekti į metroQKur yra metro
+/disk1/dataset_glq/SP-10_video_frame/dev/9729/enQWhere is the subwayQI'm trying to get to the undergroundQI'm trying to get to the undergroundQWhere is the subway
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/zhQ麻 烦 你 给 我 们 拍 照 吧Q需 要 拍 照 吗Q需 要 拍 照 吗Q麻 烦 你 给 我 们 拍 照 吧
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/ukQХочете взяти наше фотоQМожна я вас сфотографуюQМожна я вас сфотографуюQХочете взяти наше фото
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/ruQВы нас не сфотографируетеQМне нужно сфотографироватьсяQМне нужно сфотографироватьсяQВы нас не сфотографируете
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/bgQБихте ли взели наша картина / снимкаQТрябва ли да направя снимкаQТрябва ли да направя снимкаQБихте ли взели наша картина / снимка
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/isQGetur þú tekið myndina af okkurQÞarftu að taka myndirQÞarftu að taka myndirQGetur þú tekið myndina af okkur
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/deQKönnten Sie ein Foto von uns machenQMoet ik een foto makenQMoet ik een foto makenQKönnten Sie ein Foto von uns machen
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/itQPotresti farci una fotoQ/disk1/dataset_glq/SP-10_video_frame/devo fare una fotoQ/disk1/dataset_glq/SP-10_video_frame/devo fare una fotoQPotresti farci una foto
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/svQKan du ta en bild av ossQBehöver jag ta en bildQBehöver jag ta en bildQKan du ta en bild av oss
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/ltQAr galėtumėte mus nufotografuotiQAr man reikia nusifotografuotiQAr man reikia nusifotografuotiQAr galėtumėte mus nufotografuoti
+/disk1/dataset_glq/SP-10_video_frame/dev/9737/enQWould you take our pictureQDo I need to take a pictureQDo I need to take a pictureQWould you take our picture
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/zhQ你 知 道 如 何 制 作 照 片 光 盘 吗Q我 想 制 作 照 片 光 盘Q我 想 制 作 照 片 光 盘Q你 知 道 如 何 制 作 照 片 光 盘 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/ukQВи знаєте, як зробити фото компакт-дискQХочу зробити фотодискQХочу зробити фотодискQВи знаєте, як зробити фото компакт-диск
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/ruQМожете ли вы сохранять фотографии на дискеQЯ хочу сделать диск с фотографиямиQЯ хочу сделать диск с фотографиямиQМожете ли вы сохранять фотографии на диске
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/bgQЗнаеш ли как се записва CD със снимкиQИскам да направя диск със снимкиQИскам да направя диск със снимкиQЗнаеш ли как се записва CD със снимки
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/isQVeistu hvernig á að gera myndadiskQMig langar að búa til myndadiskQMig langar að búa til myndadiskQVeistu hvernig á að gera myndadisk
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/deQWeißt du, wie man eine Foto-CD machtQIk wil een fotodisk makenQIk wil een fotodisk makenQWeißt du, wie man eine Foto-CD macht
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/itQSai come si fa un CD di fotoQVoglio fare un disco fotograficoQVoglio fare un disco fotograficoQSai come si fa un CD di foto
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/svQVet du hur man gör en foto-CDQJag vill göra en fotoskivaQJag vill göra en fotoskivaQVet du hur man gör en foto-CD
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/ltQAr tu žinai, kaip sukurti foto CDQNoriu pasidaryti nuotraukų diskąQNoriu pasidaryti nuotraukų diskąQAr tu žinai, kaip sukurti foto CD
+/disk1/dataset_glq/SP-10_video_frame/dev/9741/enQDo you know how to make a photo CDQI want to make a photo discQI want to make a photo discQDo you know how to make a photo CD
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/zhQ我 正 在 找 工 作Q你 在 找 工 作 吗Q你 在 找 工 作 吗Q我 正 在 找 工 作
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/ukQЯ шукаю роботуQВи шукаєте роботуQВи шукаєте роботуQЯ шукаю роботу
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/ruQЯ ищу работуQВы ищете работуQВы ищете работуQЯ ищу работу
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/bgQТурся си работаQТърсиш ли си работаQТърсиш ли си работаQТурся си работа
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/isQÉg er að leita að vinnuQErtu að leita að vinnuQErtu að leita að vinnuQÉg er að leita að vinnu
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/deQIch suche eine neue ArbeitQZoek je een baanQZoek je een baanQIch suche eine neue Arbeit
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/itQSto cercando lavoroQSta cercando un lavoroQSta cercando un lavoroQSto cercando lavoro
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/svQJag letar efter en anställningQLetar du efter ett jobbQLetar du efter ett jobbQJag letar efter en anställning
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/ltQAš ieškau darboQAr ieškote darboQAr ieškote darboQAš ieškau darbo
+/disk1/dataset_glq/SP-10_video_frame/dev/9742/enQI am doing an employment searchQAre you looking for a jobQAre you looking for a jobQI am doing an employment search
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/zhQ插 入 CDQ插 入 什 么Q插 入 什 么Q插 入 CD
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/ukQВставте компакт-дискQЩо вставитиQЩо вставитиQВставте компакт-диск
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/ruQВставь диск CDQЧто вставлятьQЧто вставлятьQВставь диск CD
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/bgQПоставете CDQКакво да поставятеQКакво да поставятеQПоставете CD
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/isQSettu inn geisladiskQHvað á að setja innQHvað á að setja innQSettu inn geisladisk
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/deQCD einlegenQWat invoegenQWat invoegenQCD einlegen
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/itQInserisci il CDQInserire cosaQInserire cosaQInserisci il CD
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/svQSätt in en cdQInfoga vadQInfoga vadQSätt in en cd
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/ltQĮdėkite CD (diską)QĮdėti kąQĮdėti kąQĮdėkite CD (diską)
+/disk1/dataset_glq/SP-10_video_frame/dev/9757/enQInsert CDQInsert whatQInsert whatQInsert CD
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/zhQ你 受 过 洗 礼 吗Q我 没 有 受 过 洗 礼Q我 没 有 受 过 洗 礼Q你 受 过 洗 礼 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/ukQЧи вас хрестилиQЯ не хрещенийQЯ не хрещенийQЧи вас хрестили
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/ruQТы крещенныйQЯ не крещенаяQЯ не крещенаяQТы крещенный
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/bgQКръщаван ли сеQНе съм кръстенQНе съм кръстенQКръщаван ли се
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/isQHefur þú verið skírðurQÉg hef ekki verið skírðurQÉg hef ekki verið skírðurQHefur þú verið skírður
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/deQBist du getauftQIk ben niet gedooptQIk ben niet gedooptQBist du getauft
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/itQSei stato battezzatoQNon sono battezzatoQNon sono battezzatoQSei stato battezzato
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/svQHar du blivit döptQJag är inte döptQJag är inte döptQHar du blivit döpt
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/ltQAr tu buvai pakrikštytasQAš nesu pakrikštytasQAš nesu pakrikštytasQAr tu buvai pakrikštytas
+/disk1/dataset_glq/SP-10_video_frame/dev/9771/enQHave you been baptizedQI'm not baptisedQI'm not baptisedQHave you been baptized
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/zhQ我 只 是 来 参 观Q你 来 干 什 么Q你 来 干 什 么Q我 只 是 来 参 观
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/ukQЯ просто заскочивQЩо ти тут робишQЩо ти тут робишQЯ просто заскочив
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/ruQЯ просто зашелQЧто вы здесь делаетеQЧто вы здесь делаетеQЯ просто зашел
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/bgQАз съм просто/само/ на посещениеQКакво правите тукQКакво правите тукQАз съм просто/само/ на посещение
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/isQÉg er aðeins í heimsóknQHvað ert þú að gera hérnaQHvað ert þú að gera hérnaQÉg er aðeins í heimsókn
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/deQIch bin nur zu BesuchQWat doet u hierQWat doet u hierQIch bin nur zu Besuch
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/itQSono qui solo di passaggioQCosa ci fai quiQCosa ci fai quiQSono qui solo di passaggio
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/svQJag är bara på besökQVad gör du här dåQVad gör du här dåQJag är bara på besök
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/ltQAš tiesiog lankausiQKą jūs čia veikiateQKą jūs čia veikiateQAš tiesiog lankausi
+/disk1/dataset_glq/SP-10_video_frame/dev/9774/enQI am just visitingQWhat are you doing hereQWhat are you doing hereQI am just visiting
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/zhQ我 们 的 牧 师 是 一 个 好 牧 师Q我 们 的 牧 师 怎 么 样Q我 们 的 牧 师 怎 么 样Q我 们 的 牧 师 是 一 个 好 牧 师
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/ukQНаш пастор є хорошим проповідникомQЯк наш пасторQЯк наш пасторQНаш пастор є хорошим проповідником
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/ruQНаш пастор хороший проповедникQКак поживает наш пасторQКак поживает наш пасторQНаш пастор хороший проповедник
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/bgQНашият пастор е добър проповедникQКак е нашият пасторQКак е нашият пасторQНашият пастор е добър проповедник
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/isQPrestur okkar er góður prédikariQHvað með prestana okkarQHvað með prestana okkarQPrestur okkar er góður prédikari
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/deQUnser Pfarrer ist ein guter PredigerQHoe gaat het met onze voorgangerQHoe gaat het met onze voorgangerQUnser Pfarrer ist ein guter Prediger
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/itQIl nostro pastore è un buon predicatoreQCome sta il nostro pastoreQCome sta il nostro pastoreQIl nostro pastore è un buon predicatore
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/svQVår pastor är en bra predikantQHur mår vår pastorQHur mår vår pastorQVår pastor är en bra predikant
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/ltQMūsų pastorius yra geras pamokslininkasQKaip sekasi mūsų pastoriuiQKaip sekasi mūsų pastoriuiQMūsų pastorius yra geras pamokslininkas
+/disk1/dataset_glq/SP-10_video_frame/dev/9783/enQOur pastor is a good preacherQHow's our pastorQHow's our pastorQOur pastor is a good preacher
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/zhQ你 加 入 哪 个 教 会Q我 加 入 了 教 会Q我 加 入 了 教 会Q你 加 入 哪 个 教 会
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/ukQДо якої церкви ти відносишсяQЯ приєднався до церквиQЯ приєднався до церквиQДо якої церкви ти відносишся
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/ruQК какой церкви вы относитесьQЯ присоединился к церквиQЯ присоединился к церквиQК какой церкви вы относитесь
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/bgQКъм коя църква принадлежитеQПрисъединих се към църкватаQПрисъединих се към църкватаQКъм коя църква принадлежите
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/isQÍ hvaða kirkju ertu sóknarbarnQÉg gekk í kirkjunaQÉg gekk í kirkjunaQÍ hvaða kirkju ertu sóknarbarn
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/deQWelche Religion hast duQIk ben lid geworden van de kerkQIk ben lid geworden van de kerkQWelche Religion hast du
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/itQA quale chiesa appartieniQSono entrato in chiesaQSono entrato in chiesaQA quale chiesa appartieni
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/svQVilken kyrka tillhör duQJag gick med i kyrkanQJag gick med i kyrkanQVilken kyrka tillhör du
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/ltQKuriai bažnyciai jūs priklausoteQAš įstojau į bažnyčiąQAš įstojau į bažnyčiąQKuriai bažnyciai jūs priklausote
+/disk1/dataset_glq/SP-10_video_frame/dev/9790/enQWhich church do you belong toQI joined the churchQI joined the churchQWhich church do you belong to
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/zhQ我 不 能 把 整 个 东 西 全 吃 掉Q你 全 吃 了 吗Q你 全 吃 了 吗Q我 不 能 把 整 个 东 西 全 吃 掉
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/ukQЯ не можу з'їсти всеQТи все з'ївQТи все з'ївQЯ не можу з'їсти все
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/ruQЯ все это не съемQТы все съелQТы все съелQЯ все это не съем
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/bgQНе мога да изям всичкоQИзядохте ли всичко товаQИзядохте ли всичко товаQНе мога да изям всичко
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/isQÉg get ekki borðað allt þettaQHefurðu borðað það alltQHefurðu borðað það alltQÉg get ekki borðað allt þetta
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/deQDas kann ich nicht alles essenQHeb je alles opgegetenQHeb je alles opgegetenQDas kann ich nicht alles essen
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/itQNon riesco a mangiare tuttoQHai mangiato tuttoQHai mangiato tuttoQNon riesco a mangiare tutto
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/svQJag kan inte äta alltQÅt du upp alltQÅt du upp alltQJag kan inte äta allt
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/ltQAš nepajėgiu visko suvalgytiQAr tu viską suvalgeiQAr tu viską suvalgeiQAš nepajėgiu visko suvalgyti
+/disk1/dataset_glq/SP-10_video_frame/dev/9792/enQI can't eat the whole thingQDid you eat it allQDid you eat it allQI can't eat the whole thing
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/zhQ我 的 城 市 有 六 万 人Q你 的 城 市 有 多 少 人Q你 的 城 市 有 多 少 人Q我 的 城 市 有 六 万 人
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/ukQШістдесят тисяч людей живуть у моєму містіQСкільки людей у вашому містіQСкільки людей у вашому містіQШістдесят тисяч людей живуть у моєму місті
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/ruQВ моем городе шестьдесят тысяч жителейQСколько людей в вашем городеQСколько людей в вашем городеQВ моем городе шестьдесят тысяч жителей
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/bgQШестдесет хиляди души живеят в моя градQКолко души има във вашия градQКолко души има във вашия градQШестдесет хиляди души живеят в моя град
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/isQSextíu þúsund manns eru íbúar í borg minniQHversu margir eru í borginni þinniQHversu margir eru í borginni þinniQSextíu þúsund manns eru íbúar í borg minni
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/deQ60000 Einwohner leben in meiner StadtQHoeveel mensen zijn er in jouw stadQHoeveel mensen zijn er in jouw stadQ60000 Einwohner leben in meiner Stadt
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/itQ60000 persone vivono nella mia cittàQquante persone ci sono nella vostra cittàQquante persone ci sono nella vostra cittàQ60000 persone vivono nella mia città
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/svQSextio tusen människor bor i min stadQHur många människor finns det i din stadQHur många människor finns det i din stadQSextio tusen människor bor i min stad
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/ltQMano mieste gyvena šešiasdešimt tūkstančių žmoniųQKiek žmonių yra jūsų miesteQKiek žmonių yra jūsų miesteQMano mieste gyvena šešiasdešimt tūkstančių žmonių
+/disk1/dataset_glq/SP-10_video_frame/dev/9802/enQSixty thousand people live in my cityQHow many people are there in your cityQHow many people are there in your cityQSixty thousand people live in my city
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/zhQ温 度 是 76 度Q温 度 是 多 少Q温 度 是 多 少Q温 度 是 76 度
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/ukQТемпература становить 76 градусівQЯка температураQЯка температураQТемпература становить 76 градусів
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/ruQТемпература 76 градусовQКакая температураQКакая температураQТемпература 76 градусов
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/bgQТемпературата е 76 градусаQКаква е температуратаQКаква е температуратаQТемпературата е 76 градуса
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/isQHitastigið er 76 stiga í FQHvert er hitastigiðQHvert er hitastigiðQHitastigið er 76 stiga í F
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/deQDie Temperatur ist 76 GradQWat is de temperatuurQWat is de temperatuurQDie Temperatur ist 76 Grad
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/itQLa temperatura è di 76 gradiQChe temperatura c'èQChe temperatura c'èQLa temperatura è di 76 gradi
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/svQTemperaturen är 76 graderQVad är det för temperaturQVad är det för temperaturQTemperaturen är 76 grader
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/ltQTemperatūra yra 76 laipsniaiQKokia temperatūraQKokia temperatūraQTemperatūra yra 76 laipsniai
+/disk1/dataset_glq/SP-10_video_frame/dev/9804/enQThe temperature is 76 degreesQWhat's the temperatureQWhat's the temperatureQThe temperature is 76 degrees
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/zhQ我 是 律 师Q你 是 什 么 职 业Q你 是 什 么 职 业Q我 是 律 师
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/ukQЯ юристQХто ти за професієюQХто ти за професієюQЯ юрист
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/ruQЯ адвокатQКакая у тебя профессияQКакая у тебя профессияQЯ адвокат
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/bgQАз съм адвокатQКаква е професията виQКаква е професията виQАз съм адвокат
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/isQÉg er lögfræðingurQHvaða starfsgrein ertuQHvaða starfsgrein ertuQÉg er lögfræðingur
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/deQIch bin AnwaltQWat is jouw beroepQWat is jouw beroepQIch bin Anwalt
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/itQSono un avvocatoQqual è la sua professioneQqual è la sua professioneQSono un avvocato
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/svQJag är juristQVad har du för yrkeQVad har du för yrkeQJag är jurist
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/ltQAš esu teisininkasQKokia jūsų profesijaQKokia jūsų profesijaQAš esu teisininkas
+/disk1/dataset_glq/SP-10_video_frame/dev/9816/enQI am a lawyerQWhat's your professionQWhat's your professionQI am a lawyer
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/zhQ我 不 想 要 她 的 工 作Q你 想 要 她 的 工 作 吗Q你 想 要 她 的 工 作 吗Q我 不 想 要 她 的 工 作
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/ukQЯ б не хотіла її роботуQХочеш її роботуQХочеш її роботуQЯ б не хотіла її роботу
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/ruQЯ бы не хотел ее работуQТебе нужна ее работаQТебе нужна ее работаQЯ бы не хотел ее работу
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/bgQНе бих искал нейната работаQИскате ли нейната работаQИскате ли нейната работаQНе бих искал нейната работа
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/isQÉg myndi ekki vilja þessa vinnuQViltu starfið hennarQViltu starfið hennarQÉg myndi ekki vilja þessa vinnu
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/deQIch möchte ihren Job nicht habenQWil je haar baanQWil je haar baanQIch möchte ihren Job nicht haben
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/itQNon voglio il suo lavoroQVuoi il suo lavoroQVuoi il suo lavoroQNon voglio il suo lavoro
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/svQJag skulle inte vilja ha hennes jobbQVill du ha hennes jobbQVill du ha hennes jobbQJag skulle inte vilja ha hennes jobb
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/ltQAš nenorėčiau jos darboQAr norite jos darboQAr norite jos darboQAš nenorėčiau jos darbo
+/disk1/dataset_glq/SP-10_video_frame/dev/9825/enQI would not want her jobQDo you want her jobQDo you want her jobQI would not want her job
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/zhQ有 什 么 好 处 呢Q没 有 好 处Q没 有 好 处Q有 什 么 好 处 呢
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/ukQЯкі перевагиQВона не годитьсяQВона не годитьсяQЯкі переваги
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/ruQКакая выгодаQЭто нехорошоQЭто нехорошоQКакая выгода
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/bgQКакви са ползитеQТова не е добреQТова не е добреQКакви са ползите
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/isQHvað eru kostirQÞað er enginn ávinningurQÞað er enginn ávinningurQHvað eru kostir
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/deQWas sind die VorteileQHet is niet goedQHet is niet goedQWas sind die Vorteile
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/itQquali sono i beneficiQNon va beneQNon va beneQquali sono i benefici
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/svQVilka är fördelarnaQDet är inte braQDet är inte braQVilka är fördelarna
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/ltQKokie privalumaiQTai nėra geraiQTai nėra geraiQKokie privalumai
+/disk1/dataset_glq/SP-10_video_frame/dev/9829/enQWhat are the benefitsQIt's no goodQIt's no goodQWhat are the benefits
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/zhQ我 害 怕 飓 风Q你 害 怕 飓 风 吗Q你 害 怕 飓 风 吗Q我 害 怕 飓 风
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/ukQЯ боюся ураганівQТи боїшся ураганівQТи боїшся ураганівQЯ боюся ураганів
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/ruQЯ боюсь урагановQВы боитесь урагановQВы боитесь урагановQЯ боюсь ураганов
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/bgQСтрах ме е от ураганиQСтрахувате ли се от ураганиQСтрахувате ли се от ураганиQСтрах ме е от урагани
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/isQÉg er hræddur við fellibylirQErtu hræddur við fellibyljiQErtu hræddur við fellibyljiQÉg er hræddur við fellibylir
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/deQIch fürchte mich vor HurrikansQBen je bang voor orkanenQBen je bang voor orkanenQIch fürchte mich vor Hurrikans
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/itQHo paura degli uraganiQHa paura degli uraganiQHa paura degli uraganiQHo paura degli uragani
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/svQJag är rädd för orkanerQÄr du rädd för orkanerQÄr du rädd för orkanerQJag är rädd för orkaner
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/ltQAš bijau uraganųQAr bijote uraganųQAr bijote uraganųQAš bijau uraganų
+/disk1/dataset_glq/SP-10_video_frame/dev/9836/enQI am afraid of hurricanesQAre you afraid of hurricanesQAre you afraid of hurricanesQI am afraid of hurricanes
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/zhQ我 喜 欢 坐 在 沙 滩 上Q你 喜 欢 坐 在 哪Q你 喜 欢 坐 在 哪Q我 喜 欢 坐 在 沙 滩 上
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/ukQМені подобається сидіти на пляжіQДе ти любиш сидітиQДе ти любиш сидітиQМені подобається сидіти на пляжі
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/ruQЯ люблю сидеть на пляжеQГде вы любите сидетьQГде вы любите сидетьQЯ люблю сидеть на пляже
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/bgQОбичам да седя на плажаQКъде обичате да седитеQКъде обичате да седитеQОбичам да седя на плажа
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/isQMér finnst gaman að sitja á ströndinniQHvar finnst þér gaman að sitjaQHvar finnst þér gaman að sitjaQMér finnst gaman að sitja á ströndinni
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/deQIch sitze gerne am StrandQWaar zit je graagQWaar zit je graagQIch sitze gerne am Strand
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/itQMi piace stare sdraiato in spiaggiaQDove ti piace sedertiQDove ti piace sedertiQMi piace stare sdraiato in spiaggia
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/svQJag gillar att sitta på strandenQVar tycker du om att sittaQVar tycker du om att sittaQJag gillar att sitta på stranden
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/ltQMan patinka sėdėti ant suoliukoQKur mėgstate sėdėtiQKur mėgstate sėdėtiQMan patinka sėdėti ant suoliuko
+/disk1/dataset_glq/SP-10_video_frame/dev/9842/enQI like to sit on the beachQWhere do you like to sitQWhere do you like to sitQI like to sit on the beach
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/zhQ温 度 在 零 度 以 下Q温 度 多 少Q温 度 多 少Q温 度 在 零 度 以 下
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/ukQТемпература нижче нуляQЯка температураQЯка температураQТемпература нижче нуля
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/ruQТемпература ниже нуляQКакая температураQКакая температураQТемпература ниже нуля
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/bgQТемпературата е под нулатаQКаква е температуратаQКаква е температуратаQТемпературата е под нулата
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/isQHitastigið er undir frostmarkiQHvert er hitastigiðQHvert er hitastigiðQHitastigið er undir frostmarki
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/deQWir haben FrostQWat is de temperatuurQWat is de temperatuurQWir haben Frost
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/itQLa temperatura è meno di 0QChe temperatura c'èQChe temperatura c'èQLa temperatura è meno di 0
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/svQTemperaturen är under nollQVad är det för temperaturQVad är det för temperaturQTemperaturen är under noll
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/ltQTemperatūra yra žemiau 0QKokia temperatūraQKokia temperatūraQTemperatūra yra žemiau 0
+/disk1/dataset_glq/SP-10_video_frame/dev/9859/enQThe temperature is below zeroQWhat's the temperatureQWhat's the temperatureQThe temperature is below zero
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/zhQ这 小 路 通 往 哪 里Q这 小 路 通 的 很 远Q这 小 路 通 的 很 远Q这 小 路 通 往 哪 里
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/ukQКудя веде ця стежкаQДалеко внизQДалеко внизQКудя веде ця стежка
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/ruQКуда ведет эта тропинкаQЭто очень далекоQЭто очень далекоQКуда ведет эта тропинка
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/bgQЗа къде води тази пътекаQДълъг е пътят надолуQДълъг е пътят надолуQЗа къде води тази пътека
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/isQHvar endar þessi leiðQÞessi stígur liggur langt í burtuQÞessi stígur liggur langt í burtuQHvar endar þessi leið
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/deQWohin führt diese SpurQHet is een heel eind naar benedenQHet is een heel eind naar benedenQWohin führt diese Spur
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/itQDove conduce questo sentieroQLa strada è lungaQLa strada è lungaQDove conduce questo sentiero
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/svQVart leder stigenQDet är långt nerQDet är långt nerQVart leder stigen
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/ltQKur važiuoja šis traukinysQTai ilgas kelias žemynQTai ilgas kelias žemynQKur važiuoja šis traukinys
+/disk1/dataset_glq/SP-10_video_frame/dev/9868/enQWhere does this trail leadQIt's a long way downQIt's a long way downQWhere does this trail lead
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/zhQ不 到 五 美 元Q多 少 美 元Q多 少 美 元Q不 到 五 美 元
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/ukQЦе менше п'яти доларівQСкільки доларівQСкільки доларівQЦе менше п'яти доларів
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/ruQЭто меньше 5 долларовQСколько долларовQСколько долларовQЭто меньше 5 долларов
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/bgQТова е под пет долараQКолко долараQКолко долараQТова е под пет долара
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/isQÞetta er undir fimm dollaraQHversu margir dollararQHversu margir dollararQÞetta er undir fimm dollara
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/deQEs kostet weniger als 5 DollarQHoeveel dollarQHoeveel dollarQEs kostet weniger als 5 Dollar
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/itQSono meno di cinque dollariQquanti dollariQquanti dollariQSono meno di cinque dollari
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/svQDet är under fem dollarQHur många dollarQHur många dollarQDet är under fem dollar
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/ltQTai kainuoja mažiau negu 5 doleriaiQKiek doleriųQKiek doleriųQTai kainuoja mažiau negu 5 doleriai
+/disk1/dataset_glq/SP-10_video_frame/dev/9887/enQIt is under five dollarsQHow many dollarsQHow many dollarsQIt is under five dollars
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/zhQ请 当 我 的 瓦 伦 丁 情 人Q你 要 当 我 的 什 么Q你 要 当 我 的 什 么Q请 当 我 的 瓦 伦 丁 情 人
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/ukQБудь моєю коханоюQКим ти хочеш бутиQКим ти хочеш бутиQБудь моєю коханою
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/ruQБудь моей валентинкойQКем ты хочешь бытьQКем ты хочешь бытьQБудь моей валентинкой
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/bgQБъди моята валентинкаQКакво искаш да ми бъдешQКакво искаш да ми бъдешQБъди моята валентинка
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/isQVertu ástin mínQHvað ætlarðu að vera égQHvað ætlarðu að vera égQVertu ástin mín
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/deQSei mein SchatzQWat wil je mijn wat zijnQWat wil je mijn wat zijnQSei mein Schatz
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/itQSei il mio ValentinoQCosa vuoi che siaQCosa vuoi che siaQSei il mio Valentino
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/svQBli min dejt på alla hjärtans dagQVad vill du att jag ska göraQVad vill du att jag ska göraQBli min dejt på alla hjärtans dag
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/ltQBūkite mano ValentinuQKą norite, kad būtų mano kasQKą norite, kad būtų mano kasQBūkite mano Valentinu
+/disk1/dataset_glq/SP-10_video_frame/dev/9890/enQBe my ValentineQWhat do you want to be my whatQWhat do you want to be my whatQBe my Valentine
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/zhQ请 叫 救 护 车Q要 救 护 车 吗Q要 救 护 车 吗Q请 叫 救 护 车
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/ukQВикликай швидкуQШвидкою допомогоюQШвидкою допомогоюQВикликай швидку
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/ruQВызови скорую помощьQСкорую помощьQСкорую помощьQВызови скорую помощь
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/bgQОбади се на спешна помощQЛинейкаQЛинейкаQОбади се на спешна помощ
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/isQHringdu á sjúkrabíl QViltu sjúkrabílQViltu sjúkrabílQHringdu á sjúkrabíl 
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/deQRuf den KrankenwagenQEen ambulanceQEen ambulanceQRuf den Krankenwagen
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/itQChiama un'ambulanzaQUn'ambulanzaQUn'ambulanzaQChiama un'ambulanza
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/svQRing ambulansenQEn ambulansQEn ambulansQRing ambulansen
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/ltQIškviesk greitąją pagalbąQGreitosios pagalbos automobilįQGreitosios pagalbos automobilįQIškviesk greitąją pagalbą
+/disk1/dataset_glq/SP-10_video_frame/dev/9914/enQCall the ambulanceQAn ambulanceQAn ambulanceQCall the ambulance
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/zhQ你 有 阿 司 匹 林 吗Q我 需 要 阿 司 匹 林Q我 需 要 阿 司 匹 林Q你 有 阿 司 匹 林 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/ukQВ тебе є аспіринQМені потрібен аспіринQМені потрібен аспіринQВ тебе є аспірин
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/ruQУ тебя есть аспиринQМне нужен аспиринQМне нужен аспиринQУ тебя есть аспирин
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/bgQИмаш ли аспиринQИмам нужда от аспиринQИмам нужда от аспиринQИмаш ли аспирин
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/isQÁttu einhverja verkjatöflurQÉg þarf aspirínQÉg þarf aspirínQÁttu einhverja verkjatöflur
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/deQHast du ein Aspirin für michQIk heb aspirine nodigQIk heb aspirine nodigQHast du ein Aspirin für mich
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/itQHai un'aspirinaQMi serve un'aspirinaQMi serve un'aspirinaQHai un'aspirina
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/svQHar du en huvudvärkstablettQJag behöver aspirinQJag behöver aspirinQHar du en huvudvärkstablett
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/ltQGal turi aspirinoQMan reikia aspirinoQMan reikia aspirinoQGal turi aspirino
+/disk1/dataset_glq/SP-10_video_frame/dev/9916/enQDo you have any aspirinQI need aspirinQI need aspirinQDo you have any aspirin
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/zhQ我 感 冒 了Q你 怎 么 了Q你 怎 么 了Q我 感 冒 了
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/ukQУ мене застудаQЩо з тобоюQЩо з тобоюQУ мене застуда
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/ruQУ меня простудаQЧто с тобойQЧто с тобойQУ меня простуда
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/bgQНастинал съмQКакво става с тебQКакво става с тебQНастинал съм
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/isQÉg er með kvefQHvað kom fyrir þigQHvað kom fyrir þigQÉg er með kvef
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/deQIch habe eine ErkältungQWat is er met je aan de handQWat is er met je aan de handQIch habe eine Erkältung
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/itQHo il raffreddoreQChe ti succedeQChe ti succedeQHo il raffreddore
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/svQJag är förkyldQVad är det för fel på digQVad är det för fel på digQJag är förkyld
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/ltQAš peršalauQKas tau nutikoQKas tau nutikoQAš peršalau
+/disk1/dataset_glq/SP-10_video_frame/dev/9927/enQI have a coldQWhat's the matter with youQWhat's the matter with youQI have a cold
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/zhQ我 丢 掉 了 一 个 补 牙 的 填 充 物Q你 丢 掉 了 什 么Q你 丢 掉 了 什 么Q我 丢 掉 了 一 个 补 牙 的 填 充 物
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/ukQВ мене випала пломбаQЩо ти втратилаQЩо ти втратилаQВ мене випала пломба
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/ruQУ меня пломба выпалаQЧто ты потерялQЧто ты потерялQУ меня пломба выпала
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/bgQИзгубил съм пломбаQКакво си загубилQКакво си загубилQИзгубил съм пломба
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/isQÉg hef misst fyllinguQÞað sem þú misstirQÞað sem þú misstirQÉg hef misst fyllingu
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/deQIch habe eine Zahnfüllung verlorenQWat ben je kwijtQWat ben je kwijtQIch habe eine Zahnfüllung verloren
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/itQHo perso un'otturazioneQCosa hai persoQCosa hai persoQHo perso un'otturazione
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/svQJag har tappat en tandfyllningQVad har du förloratQVad har du förloratQJag har tappat en tandfyllning
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/ltQMan iškrito plombaQKą praradoteQKą praradoteQMan iškrito plomba
+/disk1/dataset_glq/SP-10_video_frame/dev/9934/enQI have lost a fillingQWhat have you lostQWhat have you lostQI have lost a filling
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/zhQ我 父 亲 上 个 月 去 世 了Q你 父 亲 怎 么 了Q你 父 亲 怎 么 了Q我 父 亲 上 个 月 去 世 了
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/ukQМій батько помер минулого місяцяQЩо сталося з твоїм батькомQЩо сталося з твоїм батькомQМій батько помер минулого місяця
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/ruQМой отец умер месяц назадQЧто случилось с твоим отцомQЧто случилось с твоим отцомQМой отец умер месяц назад
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/bgQБаща ми почина миналия месецQКакво се е случило с баща тиQКакво се е случило с баща тиQБаща ми почина миналия месец
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/isQFaðir minn lést í síðasta mánuðiQHvað kom fyrir föður þinnQHvað kom fyrir föður þinnQFaðir minn lést í síðasta mánuði
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/deQMein Vater ist letzte Woche gestorbenQWat is er met je vader gebeurdQWat is er met je vader gebeurdQMein Vater ist letzte Woche gestorben
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/itQMio padre è venuto a mancare il mese scorsoQCosa è successo a tuo padreQCosa è successo a tuo padreQMio padre è venuto a mancare il mese scorso
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/svQMin far gick bort förra månadenQVad hände med din pappaQVad hände med din pappaQMin far gick bort förra månaden
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/ltQMano tėvas mirė praeitą mėnesįQKas nutiko tavo tėvuiQKas nutiko tavo tėvuiQMano tėvas mirė praeitą mėnesį
+/disk1/dataset_glq/SP-10_video_frame/dev/9945/enQMy father passed away last monthQWhat happened to your fatherQWhat happened to your fatherQMy father passed away last month
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/zhQ我 在 哪 里 可 以 找 到 医 生Q我 找 不 到 医 生Q我 找 不 到 医 生Q我 在 哪 里 可 以 找 到 医 生
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/ukQДе я можу знайти лікаряQЯ не можу знайти лікаряQЯ не можу знайти лікаряQДе я можу знайти лікаря
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/ruQГде мне найти врачаQЯ не могу найти врачаQЯ не могу найти врачаQГде мне найти врача
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/bgQКъде мога да намеря лекарQНе мога да намеря лекарQНе мога да намеря лекарQКъде мога да намеря лекар
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/isQHvar get ég náð í lækninnQÉg finn ekki lækniQÉg finn ekki lækniQHvar get ég náð í lækninn
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/deQWo finde ich einen ArztQIk kan geen dokter vindenQIk kan geen dokter vindenQWo finde ich einen Arzt
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/itQDove posso trovare un medicoQNon riesco a trovare un medicoQNon riesco a trovare un medicoQDove posso trovare un medico
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/svQVar kan jag hitta en läkareQJag kan inte hitta en läkareQJag kan inte hitta en läkareQVar kan jag hitta en läkare
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/ltQKur galiu rasti gydytojąQNegaliu rasti gydytojoQNegaliu rasti gydytojoQKur galiu rasti gydytoją
+/disk1/dataset_glq/SP-10_video_frame/dev/9955/enQWhere can I find a doctorQI can't find a doctorQI can't find a doctorQWhere can I find a doctor
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/zhQ伤 在 哪 儿 了Q受 伤 了Q受 伤 了Q伤 在 哪 儿 了
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/ukQДе болитьQЯ пораненийQЯ пораненийQДе болить
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/ruQГде болитQЯ раненQЯ раненQГде болит
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/bgQКъде Ви болиQРанен съмQРанен съмQКъде Ви боли
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/isQHvar finnur þú tilQMeiddurQMeiddurQHvar finnur þú til
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/deQWo tut es wehQIk ben gewondQIk ben gewondQWo tut es weh
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/itQDove ti fa maleQSono feritoQSono feritoQDove ti fa male
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/svQVar gör det ontQJag är skadadQJag är skadadQVar gör det ont
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/ltQKur skaudaQMan skaudaQMan skaudaQKur skauda
+/disk1/dataset_glq/SP-10_video_frame/dev/9957/enQWhere does it hurtQI'm hurtQI'm hurtQWhere does it hurt
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/zhQ你 看 到 那 个 女 人 了 吗Q我 没 有 看 到 那 个 女 人Q我 没 有 看 到 那 个 女 人Q你 看 到 那 个 女 人 了 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/ukQТи бачив цю жінкуQЯ не бачив жінкуQЯ не бачив жінкуQТи бачив цю жінку
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/ruQТы видел эту женщинуQЯ не видел женщинуQЯ не видел женщинуQТы видел эту женщину
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/bgQвидя ли женатаQНе съм виждал женатаQНе съм виждал женатаQвидя ли жената
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/isQSástu konunaQÉg sá ekki konunaQÉg sá ekki konunaQSástu konuna
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/deQHast du die Frau gesehenQIk heb de vrouw niet gezienQIk heb de vrouw niet gezienQHast du die Frau gesehen
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/itQHai visto quella donnaQNon ho visto la donnaQNon ho visto la donnaQHai visto quella donna
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/svQSåg du kvinnanQJag såg inte kvinnanQJag såg inte kvinnanQSåg du kvinnan
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/ltQAr matei tą moterįQAš nemačiau tos motersQAš nemačiau tos motersQAr matei tą moterį
+/disk1/dataset_glq/SP-10_video_frame/dev/9967/enQDid you see the womanQI didn't see the womanQI didn't see the womanQDid you see the woman
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/zhQ你 有 雨 衣 吗Q我 没 有 雨 衣Q我 没 有 雨 衣Q你 有 雨 衣 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/ukQВ тебе є плащQУ мене немає макінтошаQУ мене немає макінтошаQВ тебе є плащ
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/ruQУ вас есть плащQУ меня нет макинтошаQУ меня нет макинтошаQУ вас есть плащ
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/bgQИмаш ли дъждобранQНямам макинтошQНямам макинтошQИмаш ли дъждобран
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/isQErtu með regnkápuQÉg á ekki regnkápuQÉg á ekki regnkápuQErtu með regnkápu
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/deQHast du einen RegenmantelQIk heb geen mackintoshQIk heb geen mackintoshQHast du einen Regenmantel
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/itQHai un impermeabileQNon ho un mackintoshQNon ho un mackintoshQHai un impermeabile
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/svQHar du en regnkappaQJag har ingen mackintoshQJag har ingen mackintoshQHar du en regnkappa
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/ltQAr turi lietpaltįQAš neturiu mackintošoQAš neturiu mackintošoQAr turi lietpaltį
+/disk1/dataset_glq/SP-10_video_frame/dev/9968/enQDo you have a raincoatQI don't have a mackintoshQI don't have a mackintoshQDo you have a raincoat
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/zhQ我 很 高 兴 认 识 你Q你 认 识 我 高 兴 吗Q你 认 识 我 高 兴 吗Q我 很 高 兴 认 识 你
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/ukQЯ радий зустрітися з вамиQТи радий, що ми знайоміQТи радий, що ми знайоміQЯ радий зустрітися з вами
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/ruQРад (-а) познакомиться с вамиQТы рад, что знаешь меняQТы рад, что знаешь меняQРад (-а) познакомиться с вами
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/bgQРадвам се, че те виждамQРадваш ли се, че ме познавашQРадваш ли се, че ме познавашQРадвам се, че те виждам
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/isQÉg er ánægður að hitta þigQErtu ánægður að þekkja migQErtu ánægður að þekkja migQÉg er ánægður að hitta þig
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/deQIch freue mich dich kennenzulernenQBen je blij dat je me kentQBen je blij dat je me kentQIch freue mich dich kennenzulernen
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/itQSono felice di incontrartiQSei contento di conoscermiQSei contento di conoscermiQSono felice di incontrarti
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/svQJag är glad att träffa digQÄr du glad att du känner migQÄr du glad att du känner migQJag är glad att träffa dig
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/ltQMan malonu su jumis susitiktiQAr džiaugiesi, kad mane pažįstiQAr džiaugiesi, kad mane pažįstiQMan malonu su jumis susitikti
+/disk1/dataset_glq/SP-10_video_frame/dev/9985/enQI am happy to meet youQAre you glad you know meQAre you glad you know meQI am happy to meet you
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/zhQ我 感 到 累 了Q你 感 到 累 吗Q你 感 到 累 吗Q我 感 到 累 了
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/ukQЯ відчуваю себе втомленимQВи втомилисяQВи втомилисяQЯ відчуваю себе втомленим
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/ruQЯ чувствую себя уставшей(-им)QВы усталиQВы усталиQЯ чувствую себя уставшей(-им)
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/bgQЧувствам се уморенQУморен ли сиQУморен ли сиQЧувствам се уморен
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/isQMér finnst vera þreytturQErtu þreytturQErtu þreytturQMér finnst vera þreyttur
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/deQIch bin müdeQBen je moeQBen je moeQIch bin müde
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/itQSono stancoQSei stancoQSei stancoQSono stanco
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/svQJag känner mig tröttQÄr du tröttQÄr du tröttQJag känner mig trött
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/ltQAš jaučiuosi pavargęsQAr esi pavargęsQAr esi pavargęsQAš jaučiuosi pavargęs
+/disk1/dataset_glq/SP-10_video_frame/dev/9989/enQI feel tiredQAre you tiredQAre you tiredQI feel tired
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/zhQ我 感 觉 好 极 了Q你 感 觉 怎 么 样Q你 感 觉 怎 么 样Q我 感 觉 好 极 了
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/ukQЯ відчуваю себе чудовоQЯк ви себе почуваєтеQЯк ви себе почуваєтеQЯ відчуваю себе чудово
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/ruQЯ отлично себя чувствуюQКак вы себя чувствуетеQКак вы себя чувствуетеQЯ отлично себя чувствую
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/bgQЧувствам се прекрасноQКак се чувствашQКак се чувствашQЧувствам се прекрасно
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/isQMér finnst vera dásamlegtQHvernig líður þérQHvernig líður þérQMér finnst vera dásamlegt
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/deQIch fühle mich primaQHoe voel je jeQHoe voel je jeQIch fühle mich prima
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/itQMi sento benissimoQCome ti sentiQCome ti sentiQMi sento benissimo
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/svQJag mår underbartQHur känner du digQHur känner du digQJag mår underbart
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/ltQAš jaučiuosi nuostabiaiQKaip jautiesiQKaip jautiesiQAš jaučiuosi nuostabiai
+/disk1/dataset_glq/SP-10_video_frame/dev/9990/enQI feel wonderfulQHow do you feelQHow do you feelQI feel wonderful
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/zhQ我 想 订 阅 一 份 报 纸Q你 想 订 阅 什 么Q你 想 订 阅 什 么Q我 想 订 阅 一 份 报 纸
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/ukQЯ хочу підписатися на газетуQНа що б ви хотіли підписатисяQНа що б ви хотіли підписатисяQЯ хочу підписатися на газету
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/ruQЯ хочу подписаться на газетуQНа что бы вы хотели подписатьсяQНа что бы вы хотели подписатьсяQЯ хочу подписаться на газету
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/bgQИскам да се абонирам за вестникQЗа какво бихте искали да се абониратеQЗа какво бихте искали да се абониратеQИскам да се абонирам за вестник
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/isQÉg vil gerast áskrifandi að dagblaðiQÞað sem þú vilt gerast áskrifandi aðQÞað sem þú vilt gerast áskrifandi aðQÉg vil gerast áskrifandi að dagblaði
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/deQIch möchte eine Zeitung abonnierenQWaar wil je je op abonnerenQWaar wil je je op abonnerenQIch möchte eine Zeitung abonnieren
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/itQVoglio abbonarmi ad un giornaleQA cosa vorresti abbonartiQA cosa vorresti abbonartiQVoglio abbonarmi ad un giornale
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/svQJag vill prenumerera på en tidningQVad skulle du vilja prenumerera påQVad skulle du vilja prenumerera påQJag vill prenumerera på en tidning
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/ltQAš noriu užsiprenumeruoti laikraštįQKą norėtumėte užsiprenumeruotiQKą norėtumėte užsiprenumeruotiQAš noriu užsiprenumeruoti laikraštį
+/disk1/dataset_glq/SP-10_video_frame/dev/10004/enQI want to subscribe to a newspaperQWhat would you like to subscribe toQWhat would you like to subscribe toQI want to subscribe to a newspaper
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/zhQ这 还 好Q好 吗Q好 吗Q这 还 好
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/ukQЦе нормальноQЯк твої справиQЯк твої справиQЦе нормально
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/ruQОКQКак делаQКак делаQОК
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/bgQТова е ОКQКак вървиQКак вървиQТова е ОК
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/isQÞað er í lagiQAllt í lagiQAllt í lagiQÞað er í lagi
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/deQEs ist okQHoe gaat hetQHoe gaat hetQEs ist ok
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/itQVa beneQCome vaQCome vaQVa bene
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/svQDet är okQHur går det för digQHur går det för digQDet är ok
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/ltQViskas geraiQKaip sekasiQKaip sekasiQViskas gerai
+/disk1/dataset_glq/SP-10_video_frame/dev/10007/enQIt is OKQHow's it goingQHow's it goingQIt is OK
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/zhQ我 弟 弟 比 我 年 轻Q你 弟 弟 多 少 岁 了Q你 弟 弟 多 少 岁 了Q我 弟 弟 比 我 年 轻
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/ukQМій брат молодший за менеQСкільки років твоєму братовіQСкільки років твоєму братовіQМій брат молодший за мене
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/ruQМой брат младше меняQСколько лет твоему братуQСколько лет твоему братуQМой брат младше меня
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/bgQБрат ми е по-млад от менQНа колко години е брат тиQНа колко години е брат тиQБрат ми е по-млад от мен
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/isQBróðir minn er yngri en égQHvað er bróðir þinn gamallQHvað er bróðir þinn gamallQBróðir minn er yngri en ég
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/deQMein Bruder ist jünger als ichQHoe oud is je broerQHoe oud is je broerQMein Bruder ist jünger als ich
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/itQMio fratello è più giovane di meQquanti anni ha tuo fratelloQquanti anni ha tuo fratelloQMio fratello è più giovane di me
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/svQMin bror är yngre än jagQHur gammal är din brorQHur gammal är din brorQMin bror är yngre än jag
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/ltQMano brolis yra jausnesnis už maneQKiek metų tavo broliuiQKiek metų tavo broliuiQMano brolis yra jausnesnis už mane
+/disk1/dataset_glq/SP-10_video_frame/dev/10025/enQMy brother is younger than meQHow old is your brotherQHow old is your brotherQMy brother is younger than me
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/zhQ请 拉 上 窗 帘Q需 要 拉 上 窗 帘 吗Q需 要 拉 上 窗 帘 吗Q请 拉 上 窗 帘
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/ukQБудь ласка, закрийте шториQВам потрібно закрити шториQВам потрібно закрити шториQБудь ласка, закрийте штори
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/ruQПожалуйста, задерни шторыQТебе нужно закрыть шторыQТебе нужно закрыть шторыQПожалуйста, задерни шторы
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/bgQМоля, дръпнете пердетатаQТрябва ли да се затворят завеситеQТрябва ли да се затворят завеситеQМоля, дръпнете пердетата
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/isQVinsamlegast dragðu gardínur fyrirQÞarftu að loka gluggatjöldunumQÞarftu að loka gluggatjöldunumQVinsamlegast dragðu gardínur fyrir
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/deQBitte schließe die GardinenQMoeten de gordijnen dichtQMoeten de gordijnen dichtQBitte schließe die Gardinen
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/itQPer favore chiudi le tendeQ/disk1/dataset_glq/SP-10_video_frame/devi chiudere le tendeQ/disk1/dataset_glq/SP-10_video_frame/devi chiudere le tendeQPer favore chiudi le tende
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/svQVar snäll och dra för gardinernaQBehöver du dra för gardinernaQBehöver du dra för gardinernaQVar snäll och dra för gardinerna
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/ltQPrašau, užtraukite užuolaidasQAr reikia užtraukti užuolaidasQAr reikia užtraukti užuolaidasQPrašau, užtraukite užuolaidas
+/disk1/dataset_glq/SP-10_video_frame/dev/10037/enQPlease close the curtainsQDo you need to close the curtainsQDo you need to close the curtainsQPlease close the curtains
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/zhQ我 和 她 讨 论 一 下Q我 和 谁 讨 论Q我 和 谁 讨 论Q我 和 她 讨 论 一 下
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/ukQМи з нею обговорювали цеQЗ ким мені поговоритиQЗ ким мені поговоритиQМи з нею обговорювали це
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/ruQЯ с ней это обсуждалаQС кем мне поговоритьQС кем мне поговоритьQЯ с ней это обсуждала
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/bgQТя и аз го обсъдихмеQС кого да говоряQС кого да говоряQТя и аз го обсъдихме
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/isQHún og ég ræddi þaðQVið hvern ræði égQVið hvern ræði égQHún og ég ræddi það
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/deQSie und ich haben das diskutiertQMet wie spreek ikQMet wie spreek ikQSie und ich haben das diskutiert
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/itQLei ed io ne discutemmoQCon chi /disk1/dataset_glq/SP-10_video_frame/devo parlareQCon chi /disk1/dataset_glq/SP-10_video_frame/devo parlareQLei ed io ne discutemmo
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/svQHon och jag diskuterade detQVem ska jag prata medQVem ska jag prata medQHon och jag diskuterade det
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/ltQAš ir ji tai aptarėmeQSu kuo aš galiu pasikalbėtiQSu kuo aš galiu pasikalbėtiQAš ir ji tai aptarėme
+/disk1/dataset_glq/SP-10_video_frame/dev/10039/enQShe and I discussed itQWho do I discuss it withQWho do I discuss it withQShe and I discussed it
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/zhQ洗 手Q洗 手Q洗 手Q洗 手
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/ukQВимийте рукиQВимий рукиQВимий рукиQВимийте руки
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/ruQПомой рукиQВымойте рукиQВымойте рукиQПомой руки
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/bgQИзмийте ръцете сиQИзмийте си ръцетеQИзмийте си ръцетеQИзмийте ръцете си
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/isQÞvoðu hendur þínarQÞvoðu þér um hendurnarQÞvoðu þér um hendurnarQÞvoðu hendur þínar
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/deQWasch deine HändeQWas je handenQWas je handenQWasch deine Hände
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/itQLavati le maniQLavati le maniQLavati le maniQLavati le mani
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/svQTvätta dina händerQTvätta händernaQTvätta händernaQTvätta dina händer
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/ltQNusiplauk rankasQNusiplaukite rankasQNusiplaukite rankasQNusiplauk rankas
+/disk1/dataset_glq/SP-10_video_frame/dev/10044/enQWash your handsQWash your handsQWash your handsQWash your hands
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/zhQ去 年 夏 天 我 们 全 家 团 圆 了Q什 么 时 候 团 圆 的Q什 么 时 候 团 圆 的Q去 年 夏 天 我 们 全 家 团 圆 了
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/ukQУ нас була сімейна зустріч влітку минулого рокуQКоли зустріч випускниківQКоли зустріч випускниківQУ нас була сімейна зустріч влітку минулого року
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/ruQПрошлым летом встречались все члены нашей семьиQКогда была встреча выпускниковQКогда была встреча выпускниковQПрошлым летом встречались все члены нашей семьи
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/bgQИмахме семейна среща миналото лятоQКога беше събиранетоQКога беше събиранетоQИмахме семейна среща миналото лято
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/isQVið höfðum ættarmót síðastliðið sumarQHvenær á að sameinast á nýQHvenær á að sameinast á nýQVið höfðum ættarmót síðastliðið sumar
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/deQWir hatten letztes Jahr ein FamilientreffenQWanneer was de reünieQWanneer was de reünieQWir hatten letztes Jahr ein Familientreffen
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/itQAbbiamo avuto una riunione di famiglia l'estate scorsaQquando c'è stata la riunioneQquando c'è stata la riunioneQAbbiamo avuto una riunione di famiglia l'estate scorsa
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/svQVi hade en släktträff förra sommarenQNär var återträffenQNär var återträffenQVi hade en släktträff förra sommaren
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/ltQPraeitą vasarą dalyvavome giminės susitikimeQKada buvo susitikimasQKada buvo susitikimasQPraeitą vasarą dalyvavome giminės susitikime
+/disk1/dataset_glq/SP-10_video_frame/dev/10045/enQWe had a family reunion last summerQWhen was the reunionQWhen was the reunionQWe had a family reunion last summer
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/zhQ你 的 地 址 是 哪 儿Q我 忘 了 你 的 地 址Q我 忘 了 你 的 地 址Q你 的 地 址 是 哪 儿
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/ukQЯка ваша адресаQЯ забула твою адресуQЯ забула твою адресуQЯка ваша адреса
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/ruQКакой у тебя адресQЯ забыл ваш адресQЯ забыл ваш адресQКакой у тебя адрес
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/bgQКакъв е Вашият адресQЗабравих адреса тиQЗабравих адреса тиQКакъв е Вашият адрес
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/isQHvað er heimilisfangið þittQÉg gleymdi heimilisfanginu þínuQÉg gleymdi heimilisfanginu þínuQHvað er heimilisfangið þitt
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/deQWie ist deine AdresseQIk ben je adres vergetenQIk ben je adres vergetenQWie ist deine Adresse
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/itQquale é il tuo indirizzoQHo dimenticato il tuo indirizzoQHo dimenticato il tuo indirizzoQquale é il tuo indirizzo
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/svQVad är din adressQJag har glömt din adressQJag har glömt din adressQVad är din adress
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/ltQKoks tavo adresasQPamiršau tavo adresąQPamiršau tavo adresąQKoks tavo adresas
+/disk1/dataset_glq/SP-10_video_frame/dev/10046/enQWhat is your addressQI forgot your addressQI forgot your addressQWhat is your address
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/zhQ你 的 父 亲 很 帅Q我 父 亲 帅 吗Q我 父 亲 帅 吗Q你 的 父 亲 很 帅
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/ukQТвій батько гарно виглядаєQМій батько гарнийQМій батько гарнийQТвій батько гарно виглядає
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/ruQТвой отец хорошо выглядитQМой отец красивыйQМой отец красивыйQТвой отец хорошо выглядит
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/bgQБаща ти изглежда добреQКрасив ли е баща миQКрасив ли е баща миQБаща ти изглежда добре
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/isQFaðir þinn er myndalegurQEr faðir minn myndarlegurQEr faðir minn myndarlegurQFaðir þinn er myndalegur
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/deQDein Vater sieht gut ausQIs mijn vader knapQIs mijn vader knapQDein Vater sieht gut aus
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/itQTuo padre è carinoQMio padre è belloQMio padre è belloQTuo padre è carino
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/svQDin pappa är snyggQÄr min far stiligQÄr min far stiligQDin pappa är snygg
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/ltQJūsų tėvas atrodo gražiaiQAr mano tėvas yra gražusQAr mano tėvas yra gražusQJūsų tėvas atrodo gražiai
+/disk1/dataset_glq/SP-10_video_frame/dev/10055/enQYour father is nice-lookingQIs my father handsomeQIs my father handsomeQYour father is nice-looking
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/zhQ上 午 11 点 以 后 不 提 供 早 餐 了Q什 么 时 候 不 提 供 早 餐 了Q什 么 时 候 不 提 供 早 餐 了Q上 午 11 点 以 后 不 提 供 早 餐 了
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/ukQПісля одинадцяти ми не подаємо сніданокQКоли перестали подавати сніданокQКоли перестали подавати сніданокQПісля одинадцяти ми не подаємо сніданок
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/ruQПосле 11 утра мы не сервируем завтракQКогда перестали подавать завтракQКогда перестали подавать завтракQПосле 11 утра мы не сервируем завтрак
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/bgQЗакуската не се сервира след 11 часаQКога спряха да сервират закускатаQКога спряха да сервират закускатаQЗакуската не се сервира след 11 часа
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/isQMorgunmaturinn er ekki borinn fram fyrr en eftir 11 fhQHvenær er morgunmatur ekki lengur borinn framQHvenær er morgunmatur ekki lengur borinn framQMorgunmaturinn er ekki borinn fram fyrr en eftir 11 fh
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/deQFrühstück wird nicht nach 11 Uhr serviertQWanneer is het ontbijt gestoptQWanneer is het ontbijt gestoptQFrühstück wird nicht nach 11 Uhr serviert
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/itQLa colazione non viene servita dopo le 11Qquando hanno smesso di servire la colazioneQquando hanno smesso di servire la colazioneQLa colazione non viene servita dopo le 11
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/svQFrukost serveras inte efter klockan 11QNär slutade de servera frukostQNär slutade de servera frukostQFrukost serveras inte efter klockan 11
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/ltQPusryčiai duodami iki 11 valandosQKada jie nustojo tiekti pusryčiusQKada jie nustojo tiekti pusryčiusQPusryčiai duodami iki 11 valandos
+/disk1/dataset_glq/SP-10_video_frame/dev/10058/enQBreakfast is not served after 11 amQWhen did they stop serving breakfastQWhen did they stop serving breakfastQBreakfast is not served after 11 am
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/zhQ我 吃 完 饭 后 再 喝 咖 啡Q你 什 么 时 候 喝 咖 啡Q你 什 么 时 候 喝 咖 啡Q我 吃 完 饭 后 再 喝 咖 啡
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/ukQЯ буду пити каву після їжіQКоли ти п'єш кавуQКоли ти п'єш кавуQЯ буду пити каву після їжі
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/ruQЯ буду кофе после едыQКогда вы пьете кофеQКогда вы пьете кофеQЯ буду кофе после еды
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/bgQЩе пия кафе след като се нахраняQКога пиете кафеQКога пиете кафеQЩе пия кафе след като се нахраня
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/isQÉg fæ mér kaffi eftir máltíðinaQHvenær drekkurðu kaffiQHvenær drekkurðu kaffiQÉg fæ mér kaffi eftir máltíðina
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/deQIch möchte einen Kaffee nach dem EssenQWanneer drink je koffieQWanneer drink je koffieQIch möchte einen Kaffee nach dem Essen
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/itQBerrò un caffè dopo aver mangiatoQquando si beve il caffèQquando si beve il caffèQBerrò un caffè dopo aver mangiato
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/svQJag vill ha kaffe efter matenQNär dricker du kaffeQNär dricker du kaffeQJag vill ha kaffe efter maten
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/ltQAš gersiu kavą po to, kai pavalgysiuQKada geriate kavąQKada geriate kavąQAš gersiu kavą po to, kai pavalgysiu
+/disk1/dataset_glq/SP-10_video_frame/dev/10082/enQI will have coffee after I eatQWhen do you drink coffeeQWhen do you drink coffeeQI will have coffee after I eat
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/zhQ今 天 的 头 汤 是 什 么Q今 天 的 头 汤 不 错Q今 天 的 头 汤 不 错Q今 天 的 头 汤 是 什 么
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/ukQЯкий сьогодні супQСьогоднішній суп з голови дуже смачнийQСьогоднішній суп з голови дуже смачнийQЯкий сьогодні суп
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/ruQКакой сегодня суп дняQСегодняшний суп из головы очень вкусныйQСегодняшний суп из головы очень вкусныйQКакой сегодня суп дня
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/bgQКаква е супата на деняQДнешната супа от глава е добраQДнешната супа от глава е добраQКаква е супата на деня
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/isQHvað er súpan dagsinsQGóð höfuðsúpa í dagQGóð höfuðsúpa í dagQHvað er súpan dagsins
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/deQWelche Tagessuppe gibt esQDe kopsoep van vandaag is goedQDe kopsoep van vandaag is goedQWelche Tagessuppe gibt es
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/itQqual è la zuppa del giornoQLa zuppa di testa di oggi è buonaQLa zuppa di testa di oggi è buonaQqual è la zuppa del giorno
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/svQVad är dagens soppaQDagens huvudsoppa är godQDagens huvudsoppa är godQVad är dagens soppa
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/ltQKokia šiandienos speciali sriubaQŠiandien galvos sriuba geraQŠiandien galvos sriuba geraQKokia šiandienos speciali sriuba
+/disk1/dataset_glq/SP-10_video_frame/dev/10103/enQWhat is the soup of the dayQToday's head soup is goodQToday's head soup is goodQWhat is the soup of the day
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/zhQ你 想 点 什 么 吗Q我 想 点 很 多 东 西Q我 想 点 很 多 东 西Q你 想 点 什 么 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/ukQЩо б ви хотіли замовитиQЯ хотів би замовити ще багато чогоQЯ хотів би замовити ще багато чогоQЩо б ви хотіли замовити
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/ruQЧто вы хотите заказатьQЯ бы хотел заказать много всегоQЯ бы хотел заказать много всегоQЧто вы хотите заказать
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/bgQКакво бихте искали да поръчатеQИскам да поръчам много нещаQИскам да поръчам много нещаQКакво бихте искали да поръчате
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/isQHvað myndi þú vilja að pantaQMig langar að panta margtQMig langar að panta margtQHvað myndi þú vilja að panta
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/deQWas möchten sie bestellenQIk wil graag van alles bestellenQIk wil graag van alles bestellenQWas möchten sie bestellen
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/itQCosa vorresti ordinareQVorrei ordinare molte coseQVorrei ordinare molte coseQCosa vorresti ordinare
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/svQVad vill du beställaQJag skulle vilja beställa en massa sakerQJag skulle vilja beställa en massa sakerQVad vill du beställa
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/ltQKą norėtumėte užsisakytiQNorėčiau užsisakyti daug dalykųQNorėčiau užsisakyti daug dalykųQKą norėtumėte užsisakyti
+/disk1/dataset_glq/SP-10_video_frame/dev/10105/enQWhat would you like to orderQI'd like to order a lot of thingsQI'd like to order a lot of thingsQWhat would you like to order
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/zhQ你 要 再 满 上 吗Q不 用 再 满 上 了Q不 用 再 满 上 了Q你 要 再 满 上 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/ukQще по однійQНе треба знову наливатиQНе треба знову наливатиQще по одній
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/ruQЕще по однойQНе нужно наполнять его сноваQНе нужно наполнять его сноваQЕще по одной
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/bgQБихте ли заредилиQНе е необходимо да я пълните отновоQНе е необходимо да я пълните отновоQБихте ли заредили
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/isQMyndi þú vilja ábótQÞað er óþarfi að fylla það lengurQÞað er óþarfi að fylla það lengurQMyndi þú vilja ábót
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/deQMöchten Sie, dass ich nachschenkeQJe hoeft hem niet opnieuw te vullenQJe hoeft hem niet opnieuw te vullenQMöchten Sie, dass ich nachschenke
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/itQOrdiniamo un altro giroQNon c'è bisogno di riempirlo di nuovoQNon c'è bisogno di riempirlo di nuovoQOrdiniamo un altro giro
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/svQVill ni ha en påfyllningQDu behöver inte fylla på den igenQDu behöver inte fylla på den igenQVill ni ha en påfyllning
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/ltQAr norėtumėte darQNereikia jo dar kartą pripildytiQNereikia jo dar kartą pripildytiQAr norėtumėte dar
+/disk1/dataset_glq/SP-10_video_frame/dev/10113/enQWould you care for a refillQNo need to fill it up againQNo need to fill it up againQWould you care for a refill
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/zhQ你 想 要 大 一 点 的 吗Q我 想 要 大 一 点 的Q我 想 要 大 一 点 的Q你 想 要 大 一 点 的 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/ukQХотіли б ви збільшити розмірQЯ хотів би більшуQЯ хотів би більшуQХотіли б ви збільшити розмір
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/ruQХотите размер по-большеQЯ бы хотел побольшеQЯ бы хотел побольшеQХотите размер по-больше
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/bgQБихте ли искали да се увеличиQБих искал по-голямаQБих искал по-голямаQБихте ли искали да се увеличи
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/isQViltu stærri skammtQÉg vil stærriQÉg vil stærriQViltu stærri skammt
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/deQMöchten Sie ein größeresQIk wil graag een grotereQIk wil graag een grotereQMöchten Sie ein größeres
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/itQVuole provare una taglia più grandeQNe vorrei una più grandeQNe vorrei una più grandeQVuole provare una taglia più grande
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/svQVill du ha störreQJag skulle vilja ha en störreQJag skulle vilja ha en störreQVill du ha större
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/ltQAr norėtumėte padidintiQNorėčiau didesnėsQNorėčiau didesnėsQAr norėtumėte padidinti
+/disk1/dataset_glq/SP-10_video_frame/dev/10117/enQWould you like to upsizeQI'd like a bigger oneQI'd like a bigger oneQWould you like to upsize
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/zhQ我 喜 欢 用 彩 色 铅 笔Q你 喜 欢 用 什 么 颜 色 的 铅 笔Q你 喜 欢 用 什 么 颜 色 的 铅 笔Q我 喜 欢 用 彩 色 铅 笔
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/ukQМені подобається використовувати кольорові олівціQЯкого кольору олівець ти любиш використовуватиQЯкого кольору олівець ти любиш використовуватиQМені подобається використовувати кольорові олівці
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/ruQЯ люблю рисовать цветными карандашамиQКакого цвета карандаш вы предпочитаете использоватьQКакого цвета карандаш вы предпочитаете использоватьQЯ люблю рисовать цветными карандашами
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/bgQХаресва ми да използвам цветни моливиQКакъв цвят молив обичате да използватеQКакъв цвят молив обичате да използватеQХаресва ми да използвам цветни моливи
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/isQMér líkar að nota litaðar blýantarQHvaða litablýant finnst þér gaman að notaQHvaða litablýant finnst þér gaman að notaQMér líkar að nota litaðar blýantar
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/deQIch benutze gerne FarbstifteQWelke kleur potlood gebruik je graagQWelke kleur potlood gebruik je graagQIch benutze gerne Farbstifte
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/itQMi piace usare i colori a matitaQChe colore di matita ti piace usareQChe colore di matita ti piace usareQMi piace usare i colori a matita
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/svQJag tycker om att använda färgpennorQVilken färgpenna gillar du att användaQVilken färgpenna gillar du att användaQJag tycker om att använda färgpennor
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/ltQMan patinka naudoti spalvotus pieštukusQKokios spalvos pieštuką mėgstate naudotiQKokios spalvos pieštuką mėgstate naudotiQMan patinka naudoti spalvotus pieštukus
+/disk1/dataset_glq/SP-10_video_frame/dev/10158/enQI like to use coloured pencilsQWhat colour pencil do you like to useQWhat colour pencil do you like to useQI like to use coloured pencils
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/zhQ日 落 的 红 色 和 蓝 色 很 美Q什 么 时 候 很 美Q什 么 时 候 很 美Q日 落 的 红 色 和 蓝 色 很 美
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/ukQЧервоні і сині заходи сонця красивіQКоли це красивоQКоли це красивоQЧервоні і сині заходи сонця красиві
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/ruQКрасно-синие цвета заката красивыеQКогда это красивоQКогда это красивоQКрасно-синие цвета заката красивые
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/bgQЧервените и сините на залеза са красивиQКога е красивQКога е красивQЧервените и сините на залеза са красиви
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/isQRauði og blái liturinn í sólarlag er fallegQÞegar það er fallegtQÞegar það er fallegtQRauði og blái liturinn í sólarlag er falleg
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/deQDas Rot und Blau des Sonnenuntergangs sind schönQWanneer is het mooiQWanneer is het mooiQDas Rot und Blau des Sonnenuntergangs sind schön
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/itQIl rosso e il blu del tramonto sono bellissimiQquando è belloQquando è belloQIl rosso e il blu del tramonto sono bellissimi
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/svQDet röda och blå i solnedgången är vackertQNär är det vackertQNär är det vackertQDet röda och blå i solnedgången är vackert
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/ltQSaulėlydžio raudoni ir mėlyni atspalviai yra nuostabūsQKada ji gražiQKada ji gražiQSaulėlydžio raudoni ir mėlyni atspalviai yra nuostabūs
+/disk1/dataset_glq/SP-10_video_frame/dev/10164/enQThe reds and blues of the sunset are beautifulQWhen is it beautifulQWhen is it beautifulQThe reds and blues of the sunset are beautiful
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/zhQ我 不 会 系 领 结Q你 会 系 领 结 吗Q你 会 系 领 结 吗Q我 不 会 系 领 结
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/ukQЯ не можу зав'язати краватку-метеликQЧи вмієш ти зав'язувати краватку-метеликаQЧи вмієш ти зав'язувати краватку-метеликаQЯ не можу зав'язати краватку-метелик
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/ruQЯ не могу повязать галстук-бабочкуQУмеете ли вы завязывать галстук-бабочкуQУмеете ли вы завязывать галстук-бабочкуQЯ не могу повязать галстук-бабочку
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/bgQНе мога да вържа папийонкаQЗнаете ли как се връзва папийонкаQЗнаете ли как се връзва папийонкаQНе мога да вържа папийонка
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/isQÉg kann ekki að hnýta slaufuQErtu með slaufuQErtu með slaufuQÉg kann ekki að hnýta slaufu
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/deQIch kann keine Krawatte bindenQWeet je hoe je een strik moet knopenQWeet je hoe je een strik moet knopenQIch kann keine Krawatte binden
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/itQNon sono capace di annodare la cravattaQSai fare il nodo al papillonQSai fare il nodo al papillonQNon sono capace di annodare la cravatta
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/svQJag kan inte knyta en flugaQVet du hur man knyter en flugaQVet du hur man knyter en flugaQJag kan inte knyta en fluga
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/ltQAš negaliu užsirišti kaklaraiščioQAr mokate užsirišti peteliškęQAr mokate užsirišti peteliškęQAš negaliu užsirišti kaklaraiščio
+/disk1/dataset_glq/SP-10_video_frame/dev/10176/enQI cannot tie a bowtieQDo you know how to tie a bow tieQDo you know how to tie a bow tieQI cannot tie a bowtie
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/zhQ我 需 要 洗 衣 服Q你 需 要 洗 衣 服 吗Q你 需 要 洗 衣 服 吗Q我 需 要 洗 衣 服
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/ukQМені потрібно попратиQЧи потрібно прати білизнуQЧи потрібно прати білизнуQМені потрібно попрати
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/ruQМне надо постиратьQНужно ли вам стирать бельеQНужно ли вам стирать бельеQМне надо постирать
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/bgQТрябва да изпераQИмате ли нужда да перетеQИмате ли нужда да перетеQТрябва да изпера
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/isQÉg þarf að þvo þvottQÞarftu að þvo þvottQÞarftu að þvo þvottQÉg þarf að þvo þvott
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/deQIch muss Wäsche waschenQMoet je de was doenQMoet je de was doenQIch muss Wäsche waschen
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/itQHo bisogno di fare il bucatoQ/disk1/dataset_glq/SP-10_video_frame/devi fare il bucatoQ/disk1/dataset_glq/SP-10_video_frame/devi fare il bucatoQHo bisogno di fare il bucato
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/svQJag behöver tvätta liteQBehöver du tvättaQBehöver du tvättaQJag behöver tvätta lite
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/ltQMan reikia išskalbti savo skalbiniusQAr jums reikia skalbtiQAr jums reikia skalbtiQMan reikia išskalbti savo skalbinius
+/disk1/dataset_glq/SP-10_video_frame/dev/10179/enQI need to do some laundryQDo you need to do laundryQDo you need to do laundryQI need to do some laundry
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/zhQ那 个 动 物 可 爱Q那 个 动 物 可 爱 吗Q那 个 动 物 可 爱 吗Q那 个 动 物 可 爱
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/ukQЦе - гарненька тваринаQЦя тварина милаQЦя тварина милаQЦе - гарненька тварина
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/ruQЭто симпатичное животноеQЭто животное милоеQЭто животное милоеQЭто симпатичное животное
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/bgQТова е хубавичко животноQСладко ли е това животноQСладко ли е това животноQТова е хубавичко животно
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/isQÞetta er fallegt dýrQEr þetta dýr sættQEr þetta dýr sættQÞetta er fallegt dýr
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/deQDas ist ein nettes TierQIs dat een schattig dierQIs dat een schattig dierQDas ist ein nettes Tier
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/itQquello è un animale carinoQÈ carino quell'animaleQÈ carino quell'animaleQquello è un animale carino
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/svQDet är ett fint djurQÄr det där djuret gulligtQÄr det där djuret gulligtQDet är ett fint djur
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/ltQGražus gyvūnasQAr tas gyvūnas yra mielasQAr tas gyvūnas yra mielasQGražus gyvūnas
+/disk1/dataset_glq/SP-10_video_frame/dev/10247/enQThat's a pretty animalQIs that animal cuteQIs that animal cuteQThat's a pretty animal
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/zhQ打 包 行 李 去 上 大 学Q打 包 行 李 去 干 嘛Q打 包 行 李 去 干 嘛Q打 包 行 李 去 上 大 学
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/ukQУпаковка речей для коледжуQДля чого ти пакуєш речіQДля чого ти пакуєш речіQУпаковка речей для коледжу
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/ruQсобираться к переезду в колледжQДля чего ты собираешь вещиQДля чего ты собираешь вещиQсобираться к переезду в колледж
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/bgQстягам си багажаQЗа какво си опаковате багажаQЗа какво си опаковате багажаQстягам си багажа
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/isQp0kkun fyrir framhaldsskólaQHvað á að gera þegar þú pakkar niðurQHvað á að gera þegar þú pakkar niðurQp0kkun fyrir framhaldsskóla
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/deQfürs College packenQWaar pak je voor inQWaar pak je voor inQfürs College packen
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/itQfare le valigie per andare all'universitàQPer cosa stai preparando la valigiaQPer cosa stai preparando la valigiaQfare le valigie per andare all'università
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/svQpacka inför högskolanQVad packar du tillQVad packar du tillQpacka inför högskolan
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/ltQkraustymasis į koledžąQKą jūs pakuojateQKą jūs pakuojateQkraustymasis į koledžą
+/disk1/dataset_glq/SP-10_video_frame/dev/10883/enQpacking for collegeQWhat are you packing forQWhat are you packing forQpacking for college
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/zhQ接 电 话Q在 干 嘛Q在 干 嘛Q接 电 话
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/ukQВідповідати на телефонні дзвінкиQЩо ти робишQЩо ти робишQВідповідати на телефонні дзвінки
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/ruQответить на звонок телефонаQЧто ты делаешьQЧто ты делаешьQответить на звонок телефона
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/bgQвдигни домашния телефонQКакво правишQКакво правишQвдигни домашния телефон
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/isQSvaraðu símanumQHvað ertu að geraQHvað ertu að geraQSvaraðu símanum
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/deQAns Telefon gehenQWat ben je aan het doenQWat ben je aan het doenQAns Telefon gehen
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/itQrispondere al telefonoQCosa stai facendoQCosa stai facendoQrispondere al telefono
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/svQsvara i telefonenQVad håller du på medQVad håller du på medQsvara i telefonen
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/ltQAtsiliepk telefonuQKą veikiateQKą veikiateQAtsiliepk telefonu
+/disk1/dataset_glq/SP-10_video_frame/dev/12077/enQAnswer the phoneQWhat are you doingQWhat are you doingQAnswer the phone
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/zhQ倾 刻 之 间Q倾 刻 之 间Q倾 刻 之 间Q倾 刻 之 间
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/ukQЗловити моментQЗаразQЗаразQЗловити момент
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/ruQловить моментQЧерез минутуQЧерез минутуQловить момент
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/bgQулавям моментаQСлед минутаQСлед минутаQулавям момента
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/isQfangaðu andartakinuQMilli hellaQMilli hellaQfangaðu andartakinu
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/deQcarpe diemQZo meteenQZo meteenQcarpe diem
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/itQcogli l'attimoQTra un minutoQTra un minutoQcogli l'attimo
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/svQFånga ögonblicketQOm en minutQOm en minutQFånga ögonblicket
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/ltQmomento užfiksavimasQPo minutėsQPo minutėsQmomento užfiksavimas
+/disk1/dataset_glq/SP-10_video_frame/dev/13256/enQcapture the momentQIn a minuteQIn a minuteQcapture the moment
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/zhQ拿 到 这 里 来Q拿 到 哪 里Q拿 到 哪 里Q拿 到 这 里 来
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/ukQПринеси сюдиQКуди ти його забираєшQКуди ти його забираєшQПринеси сюди
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/ruQПринеси сюдаQКуда ты его ведешьQКуда ты его ведешьQПринеси сюда
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/bgQДонеси го тукQКъде ще го вземешQКъде ще го вземешQДонеси го тук
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/isQKomdu með það hérQHvar á að fá þaðQHvar á að fá þaðQKomdu með það hér
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/deQBring es herQWaar breng je het heenQWaar breng je het heenQBring es her
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/itQPortalo quiQDove lo portiQDove lo portiQPortalo qui
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/svQTa hit denQVart ska du ta denQVart ska du ta denQTa hit den
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/ltQAtnešk čiaQKur jį vežateQKur jį vežateQAtnešk čia
+/disk1/dataset_glq/SP-10_video_frame/dev/14559/enQBring it hereQWhere are you taking itQWhere are you taking itQBring it here
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/zhQ过 来 ！Q过 来Q过 来Q过 来 ！
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/ukQІди сюдиQХоди сюди Ходи сюдиQХоди сюди Ходи сюдиQІди сюди
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/ruQИди сюдаQИди сюда Иди сюдаQИди сюда Иди сюдаQИди сюда
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/bgQЕла тукQЕла тук Ела тукQЕла тук Ела тукQЕла тук
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/isQkomdu hingaðQKomdu hingaðQKomdu hingaðQkomdu hingað
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/deQKomm herQKom hierQKom hierQKomm her
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/itQVieni quiQVieni quiQVieni quiQVieni qui
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/svQKom hitQKom hitQKom hitQKom hit
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/ltQAteik čiaQAteik čia Ateik čiaQAteik čia Ateik čiaQAteik čia
+/disk1/dataset_glq/SP-10_video_frame/dev/14566/enQCome hereQCome hereQCome hereQCome here
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/zhQ你 明 白 了 吗Q我 有 点 明 白 了Q我 有 点 明 白 了Q你 明 白 了 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/ukQВи зрозумілиQЯ забираю картинуQЯ забираю картинуQВи зрозуміли
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/ruQТы понялQЯ забираю картинуQЯ забираю картинуQТы понял
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/bgQРазбра ли меQВземам снимкатаQВземам снимкатаQРазбра ли ме
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/isQskilur þúQÉg skil það eiginlegaQÉg skil það eiginlegaQskilur þú
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/deQHast du verstandenQIk haal het schilderijQIk haal het schilderijQHast du verstanden
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/itQHai capitoQSto prendendo il quadroQSto prendendo il quadroQHai capito
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/svQFörstod duQJag tar bildenQJag tar bildenQFörstod du
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/ltQAr suprataiQAš gaunu nuotraukąQAš gaunu nuotraukąQAr supratai
+/disk1/dataset_glq/SP-10_video_frame/dev/14569/enQDid you understandQI'm getting the pictureQI'm getting the pictureQDid you understand
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/zhQ画 ！Q画Q画Q画 ！
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/ukQНамалюйQКартинуQКартинуQНамалюй
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/ruQРисуйQКартинуQКартинуQРисуй
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/bgQДърпай ТеглиQКартинатаQКартинатаQДърпай Тегли
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/isQdragaQMálaQMálaQdraga
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/deQZeichneQHet schilderijQHet schilderijQZeichne
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/itQDisegnaQIl quadroQIl quadroQDisegna
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/svQRitaQMålningenQMålningenQRita
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/ltQPieškQPaveiksląQPaveiksląQPiešk
+/disk1/dataset_glq/SP-10_video_frame/dev/14570/enQDrawQThe paintingQThe paintingQDraw
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/zhQ多 少Q多 吗Q多 吗Q多 少
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/ukQСкількиQСкількиQСкількиQСкільки
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/ruQСколькоQСколькоQСколькоQСколько
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/bgQКолкоQКолкоQКолкоQКолко
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/isQhversu mörgQMeiraQMeiraQhversu mörg
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/deQWie vieleQHoeveelQHoeveelQWie viele
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/itQquantiQmoltoQmoltoQquanti
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/svQHur mångaQHur mycketQHur mycketQHur många
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/ltQKiekQKiekQKiekQKiek
+/disk1/dataset_glq/SP-10_video_frame/dev/14580/enQHow manyQHow muchQHow muchQHow many
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/zhQ怎 么 样Q怎 么 样Q怎 么 样Q怎 么 样
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/ukQЯкQЯк справиQЯк справиQЯк
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/ruQКакQКак делаQКак делаQКак
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/bgQKakQКак вървиQКак вървиQKak
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/isQHvernigQHvað ertu að hugsaQHvað ertu að hugsaQHvernig
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/deQWieQHoe gaat het ermeeQHoe gaat het ermeeQWie
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/itQComeQCome vaQCome vaQCome
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/svQHurQHur går detQHur går detQHur
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/ltQKaipQKaip sekasiQKaip sekasiQKaip
+/disk1/dataset_glq/SP-10_video_frame/dev/14581/enQHowQHow's it goingQHow's it goingQHow
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/zhQ坐 下 吧Q坐 吗Q坐 吗Q坐 下 吧
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/ukQСідайQСядешQСядешQСідай
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/ruQСядьQСестьQСестьQСядь
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/bgQСедниQСеднетеQСеднетеQСедни
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/isQsetjast niðurQSitjaQSitjaQsetjast niður
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/deQSetz dichQGa zittenQGa zittenQSetz dich
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/itQSedeteviQSieditiQSieditiQSedetevi
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/svQSitt nedQSka vi sätta ossQSka vi sätta ossQSitt ned
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/ltQSėskiteQSėskisQSėskisQSėskite
+/disk1/dataset_glq/SP-10_video_frame/dev/14602/enQSit downQSit downQSit downQSit down
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/zhQ翻 译 ！Q翻 译Q翻 译Q翻 译 ！
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/ukQПерекладиQПерекладайQПерекладайQПереклади
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/ruQПереводиQПереведитеQПереведитеQПереводи
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/bgQПреведиQПреведетеQПреведетеQПреведи
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/isQþýðaQÞýðingQÞýðingQþýða
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/deQÜbersetzeQVertaalQVertaalQÜbersetze
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/itQTraduciQTraduciQTraduciQTraduci
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/svQÖversättQÖversättQÖversättQÖversätt
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/ltQIšverskiteQIšverskiteQIšverskiteQIšverskite
+/disk1/dataset_glq/SP-10_video_frame/dev/14612/enQTranslateQTranslateQTranslateQTranslate
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/zhQ你 准 备 好 了 吗Q我 准 备 好 了Q我 准 备 好 了Q你 准 备 好 了 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/ukQЧи готові виQЯ готовийQЯ готовийQЧи готові ви
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/ruQТы готовQЯ готовQЯ готовQТы готов
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/bgQГотов ли сиQГотов съмQГотов съмQГотов ли си
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/isQertu tilbúinnQÉg er tilbúinnQÉg er tilbúinnQertu tilbúinn
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/deQBist Du fertigQIk ben klaarQIk ben klaarQBist Du fertig
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/itQSiete prontiQSono prontoQSono prontoQSiete pronti
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/svQÄr du bereddQJag är klarQJag är klarQÄr du beredd
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/ltQAr tu pasirengęsQAš pasiruošęsQAš pasiruošęsQAr tu pasirengęs
+/disk1/dataset_glq/SP-10_video_frame/dev/19937/enQAre you readyQI'm readyQI'm readyQAre you ready
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/zhQ我 怀 疑 将 会 发 生 些 事Q你 怀 疑 什 么Q你 怀 疑 什 么Q我 怀 疑 将 会 发 生 些 事
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/ukQЯ підозрюю, що щось відбуваєтьсяQЩо ви підозрюєтеQЩо ви підозрюєтеQЯ підозрюю, що щось відбувається
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/ruQМне кажется, что-то происходитQЧто вы подозреваетеQЧто вы подозреваетеQМне кажется, что-то происходит
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/bgQПодозирам, че нещо се случваQКакво подозирашQКакво подозирашQПодозирам, че нещо се случва
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/isQÉg held að eitthvað sé að fara að gerastQHvað grunar þigQHvað grunar þigQÉg held að eitthvað sé að fara að gerast
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/deQIch glaube, da passiert etwasQWat vermoed jeQWat vermoed jeQIch glaube, da passiert etwas
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/itQHo il sospetto che stia succedendo qualcosaQCosa sospettiQCosa sospettiQHo il sospetto che stia succedendo qualcosa
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/svQJag misstänker att något håller på att händaQVad misstänker duQVad misstänker duQJag misstänker att något håller på att hända
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/ltQAš įtariu, kad kažkas vykstaQKą įtariateQKą įtariateQAš įtariu, kad kažkas vyksta
+/disk1/dataset_glq/SP-10_video_frame/dev/20037/enQI suspect that something is happeningQWhat do you suspectQWhat do you suspectQI suspect that something is happening
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/zhQ太 失 望 了Q失 望 吗Q失 望 吗Q太 失 望 了
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/ukQЯке розчаруванняQРозчарованийQРозчарованийQЯке розчарування
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/ruQКакое разочарованиеQРазочарованQРазочарованQКакое разочарование
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/bgQКакво разочарованиеQРазочарованQРазочарованQКакво разочарование
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/isQHvaða vonbrigðiQVonsvikinnQVonsvikinnQHvaða vonbrigði
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/deQWas für eine EnttäuschungQTeleurgesteldQTeleurgesteldQWas für eine Enttäuschung
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/itQChe delusioneQChe sia delusoQChe sia delusoQChe delusione
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/svQVilken besvikelseQÄr du besvikenQÄr du besvikenQVilken besvikelse
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/ltQKoks nusivylimasQNusivylęsQNusivylęsQKoks nusivylimas
+/disk1/dataset_glq/SP-10_video_frame/dev/20410/enQWhat a disappointmentQDisappointedQDisappointedQWhat a disappointment
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/zhQ真 是 异 想 天 开Q想 到 了 吗Q想 到 了 吗Q真 是 异 想 天 开
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/ukQЯка ідеяQДумаєш про цеQДумаєш про цеQЯка ідея
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/ruQЧто за идеяQРазмышляет об этомQРазмышляет об этомQЧто за идея
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/bgQКаква добра идеяQМислиш за товаQМислиш за товаQКаква добра идея
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/isQHvaða hugmyndQDatt þér það í hugQDatt þér það í hugQHvaða hugmynd
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/deQWas für eine VorstellungQEr over nadenkenQEr over nadenkenQWas für eine Vorstellung
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/itQChe ideaQChe ci stia pensandoQChe ci stia pensandoQChe idea
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/svQVilken idéQTänker på detQTänker på detQVilken idé
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/ltQTai idėja(mintis)QGalvojate apie taiQGalvojate apie taiQTai idėja(mintis)
+/disk1/dataset_glq/SP-10_video_frame/dev/20414/enQWhat an ideaQThinking about itQThinking about itQWhat an idea
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/zhQ他 头 痛Q他 怎 么 了Q他 怎 么 了Q他 头 痛
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/ukQУ нього болить головаQЩо з ним не такQЩо з ним не такQУ нього болить голова
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/ruQУ него голова болитQЧто с ним не такQЧто с ним не такQУ него голова болит
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/bgQТой има главоболиеQКакво не е наред с негоQКакво не е наред с негоQТой има главоболие
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/isQHann er með hausverkQHvað er að honumQHvað er að honumQHann er með hausverk
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/deQEr hat KopfschmerzenQWat is er mis met hemQWat is er mis met hemQEr hat Kopfschmerzen
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/itQHa mal di testaQCosa c'è che non va in luiQCosa c'è che non va in luiQHa mal di testa
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/svQHan har huvudvärkQVad är det för fel på honomQVad är det för fel på honomQHan har huvudvärk
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/ltQJam skauda galvąQKas jam negeraiQKas jam negeraiQJam skauda galvą
+/disk1/dataset_glq/SP-10_video_frame/dev/21524/enQHe has a headacheQWhat's wrong with himQWhat's wrong with himQHe has a headache
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/zhQ您 赶 时 间 吗Q我 不 赶 时 间Q我 不 赶 时 间Q您 赶 时 间 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/ukQТи поспішаєшQЯ нікуди не поспішаюQЯ нікуди не поспішаюQТи поспішаєш
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/ruQТы спешишьQЯ не тороплюсьQЯ не тороплюсьQТы спешишь
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/bgQБързаш лиQНе бързамQНе бързамQБързаш ли
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/isQErtu að drífa þigQÉg er ekki að flýta mérQÉg er ekki að flýta mérQErtu að drífa þig
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/deQSind Sie in EileQIk heb geen haastQIk heb geen haastQSind Sie in Eile
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/itQSei di frettaQNon ho frettaQNon ho frettaQSei di fretta
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/svQHar du bråttomQJag har inte bråttomQJag har inte bråttomQHar du bråttom
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/ltQAr tu skubiQAš neskubuQAš neskubuQAr tu skubi
+/disk1/dataset_glq/SP-10_video_frame/dev/21695/enQAre you in a hurryQI'm not in a hurryQI'm not in a hurryQAre you in a hurry
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/zhQ你 在 找 什 么 吗Q我 在 找 东 西Q我 在 找 东 西Q你 在 找 什 么 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/ukQВи шукаєте щосьQЯ дещо шукаюQЯ дещо шукаюQВи шукаєте щось
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/ruQВы что-то ищитеQЯ ищу кое-чтоQЯ ищу кое-чтоQВы что-то ищите
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/bgQТърсиш ли нещоQТърся нещоQТърся нещоQТърсиш ли нещо
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/isQertu að leita af einhverjuQÉg er að leita að einhverjuQÉg er að leita að einhverjuQertu að leita af einhverju
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/deQSuchen Sie etwasQIk ben op zoek naar ietsQIk ben op zoek naar ietsQSuchen Sie etwas
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/itQStai cercando qualcosaQSto cercando qualcosaQSto cercando qualcosaQStai cercando qualcosa
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/svQLetar du efter någotQJag letar efter någotQJag letar efter någotQLetar du efter något
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/ltQAr tu kažko ieškaiQAš kažko ieškauQAš kažko ieškauQAr tu kažko ieškai
+/disk1/dataset_glq/SP-10_video_frame/dev/21696/enQAre you looking for anythingQI'm looking for somethingQI'm looking for somethingQAre you looking for anything
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/zhQ你 想 吃 点 什 么Q我 不 想 吃 这 些Q我 不 想 吃 这 些Q你 想 吃 点 什 么
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/ukQЧи можу я запропонувати вам що-небудь поїстиQЯ не хочу нічого з цьогоQЯ не хочу нічого з цьогоQЧи можу я запропонувати вам що-небудь поїсти
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/ruQЯ могу предложить Вам что-то поестьQМне не нужно ничего из этогоQМне не нужно ничего из этогоQЯ могу предложить Вам что-то поесть
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/bgQМога ли да ти предложа нещо за яденеQНе искам нищо от товаQНе искам нищо от товаQМога ли да ти предложа нещо за ядене
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/isQGet ég boðið þér eitthvað að borðaQÉg vil ekki borða þettaQÉg vil ekki borða þettaQGet ég boðið þér eitthvað að borða
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/deQKann ich Ihnen etwas zu essen anbietenQIk wil niets van dit allesQIk wil niets van dit allesQKann ich Ihnen etwas zu essen anbieten
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/itQPosso offrirti qualcosa da mangiareQNon voglio niente di tutto questoQNon voglio niente di tutto questoQPosso offrirti qualcosa da mangiare
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/svQKan jag ge dig något att ätaQJag vill inte ha något av det härQJag vill inte ha något av det härQKan jag ge dig något att äta
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/ltQAr galėčiau pasiūlyti valgytiQNenoriu nieko iš toQNenoriu nieko iš toQAr galėčiau pasiūlyti valgyti
+/disk1/dataset_glq/SP-10_video_frame/dev/21703/enQCan I offer you anything to eatQI don't want any of thisQI don't want any of thisQCan I offer you anything to eat
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/zhQ你 吸 烟 吗Q我 不 吸 烟Q我 不 吸 烟Q你 吸 烟 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/ukQВи куритеQЯ не палюQЯ не палюQВи курите
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/ruQВы куритеQЯ не курюQЯ не курюQВы курите
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/bgQПушиш лиQАз не пушаQАз не пушаQПушиш ли
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/isQReykir þúQÉg reyki ekkiQÉg reyki ekkiQReykir þú
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/deQRauchst DuQIk rook nietQIk rook nietQRauchst Du
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/itQFumiQNon fumoQNon fumoQFumi
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/svQRöker duQJag röker inteQJag röker inteQRöker du
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/ltQAr tu rūkaiQAš nerūkauQAš nerūkauQAr tu rūkai
+/disk1/dataset_glq/SP-10_video_frame/dev/21724/enQDo you smokeQI don't smokeQI don't smokeQDo you smoke
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/zhQ我 现 在 该 走 了Q你 现 在 要 走 吗Q你 现 在 要 走 吗Q我 现 在 该 走 了
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/ukQЯ повинен йти заразQТи вже йдешQТи вже йдешQЯ повинен йти зараз
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/ruQМне сейчас надо уходитьQТы уже уходишьQТы уже уходишьQМне сейчас надо уходить
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/bgQТрябва да тръгвам сегаQСега ли си тръгвашQСега ли си тръгвашQТрябва да тръгвам сега
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/isQég ætti að fara núnaQErtu að fara núnaQErtu að fara núnaQég ætti að fara núna
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/deQIch sollte jetzt gehenQGa je nu wegQGa je nu wegQIch sollte jetzt gehen
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/itQDovrei essere fuori oraQSe ne va adessoQSe ne va adessoQDovrei essere fuori ora
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/svQJag borde sticka nuQSka du gå nuQSka du gå nuQJag borde sticka nu
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/ltQAš turėčiau būti jau išėjęsQAr tu dabar išvažiuojiQAr tu dabar išvažiuojiQAš turėčiau būti jau išėjęs
+/disk1/dataset_glq/SP-10_video_frame/dev/21743/enQI should be off nowQAre you leaving nowQAre you leaving nowQI should be off now
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/zhQ你 真 是 太 好 了Q我 好 吗Q我 好 吗Q你 真 是 太 好 了
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/ukQЦе дуже мило з твого бокуQЯк яQЯк яQЦе дуже мило з твого боку
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/ruQМило с твоей стороныQКак яQКак яQМило с твоей стороны
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/bgQТова е много мило от твоя странаQКак съмQКак съмQТова е много мило от твоя страна
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/isQÞetta var mjög fallegt af þérQHvernig hef ég þaðQHvernig hef ég þaðQÞetta var mjög fallegt af þér
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/deQDas ist sehr nett von dirQHoe danQHoe danQDas ist sehr nett von dir
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/itQÈ molto gentile da parte tuaQCome stoQCome stoQÈ molto gentile da parte tua
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/svQDet är väldigt snällt av digQHur är det med migQHur är det med migQDet är väldigt snällt av dig
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/ltQTai labai malonu iš tavo pusėsQKaip ašQKaip ašQTai labai malonu iš tavo pusės
+/disk1/dataset_glq/SP-10_video_frame/dev/21752/enQIt's very nice of youQHow am IQHow am IQIt's very nice of you
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/zhQ很 贵Q贵 吗Q贵 吗Q很 贵
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/ukQЦе дорогоQЦе дорогоQЦе дорогоQЦе дорого
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/ruQЭто дорогоQДорогоQДорогоQЭто дорого
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/bgQСкъпо еQСкъпо ли еQСкъпо ли еQСкъпо е
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/isQÞetta er dýrtQEr það dýrtQEr það dýrtQÞetta er dýrt
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/deQEs ist teuerQIs het duurQIs het duurQEs ist teuer
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/itQÈ caroQÈ caroQÈ caroQÈ caro
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/svQDet är dyrtQÄr det dyrtQÄr det dyrtQDet är dyrt
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/ltQTai branguQAr tai branguQAr tai branguQTai brangu
+/disk1/dataset_glq/SP-10_video_frame/dev/21756/enQIt's expensiveQIs it expensiveQIs it expensiveQIt's expensive
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/zhQ过 了 一 个 愉 快 的 夜 晚 谢 谢 你Q这 是 一 个 什 么 样 的 夜 晚Q这 是 一 个 什 么 样 的 夜 晚Q过 了 一 个 愉 快 的 夜 晚 谢 谢 你
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/ukQДякую за приємний вечірQЩо це за нічQЩо це за нічQДякую за приємний вечір
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/ruQСпасибо за прекрасный вечерQЧто это за ночьQЧто это за ночьQСпасибо за прекрасный вечер
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/bgQБлагодаря ти за приятната вечерQКаква нощ е тазиQКаква нощ е тазиQБлагодаря ти за приятната вечер
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/isQÞakka þér fyrir ánægjulegt kvöldQHvílíkt kvöld þetta varQHvílíkt kvöld þetta varQÞakka þér fyrir ánægjulegt kvöld
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/deQVielen Dank für den schönen AbendQWat voor avond is ditQWat voor avond is ditQVielen Dank für den schönen Abend
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/itQVi ringrazio per la piacevole serataQChe tipo di serata è questaQChe tipo di serata è questaQVi ringrazio per la piacevole serata
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/svQTack för en trevlig kvällQVad är det för kvällQVad är det för kvällQTack för en trevlig kväll
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/ltQAčiū už malonų vakarąQKokia tai naktisQKokia tai naktisQAčiū už malonų vakarą
+/disk1/dataset_glq/SP-10_video_frame/dev/21792/enQThank you for the pleasant eveningQWhat kind of night is thisQWhat kind of night is thisQThank you for the pleasant evening
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/zhQ你 需 要 帮 忙 吗Q我 不 需 要 帮 忙Q我 不 需 要 帮 忙Q你 需 要 帮 忙 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/ukQЩо я можу зробити для васQМені не потрібна допомогаQМені не потрібна допомогаQЩо я можу зробити для вас
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/ruQЧем я могу вам помочьQМне не нужна помощьQМне не нужна помощьQЧем я могу вам помочь
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/bgQКакво мога да направя за тебQНямам нужда от помощQНямам нужда от помощQКакво мога да направя за теб
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/isQhvað get ég gert fyrir þigQÉg þarf enga hjálpQÉg þarf enga hjálpQhvað get ég gert fyrir þig
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/deQWas kann ich für Sie tunQIk heb geen hulp nodigQIk heb geen hulp nodigQWas kann ich für Sie tun
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/itQCosa posso fare per teQNon ho bisogno di aiutoQNon ho bisogno di aiutoQCosa posso fare per te
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/svQVad kan jag göra för digQJag behöver ingen hjälpQJag behöver ingen hjälpQVad kan jag göra för dig
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/ltQKuo galiu jums padėtiQMan nereikia jokios pagalbosQMan nereikia jokios pagalbosQKuo galiu jums padėti
+/disk1/dataset_glq/SP-10_video_frame/dev/21801/enQWhat can l do for youQI don't need any helpQI don't need any helpQWhat can l do for you
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/zhQ你 的 学 历 是 什 么Q我 的 学 历 不 高Q我 的 学 历 不 高Q你 的 学 历 是 什 么
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/ukQЯка у вас освітаQЯ не дуже освіченаQЯ не дуже освіченаQЯка у вас освіта
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/ruQКакой вуз вы заканчивалиQЯ не очень образованQЯ не очень образованQКакой вуз вы заканчивали
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/bgQКакво е твоето образованиеQНе съм много образованQНе съм много образованQКакво е твоето образование
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/isQHver er menntun þínQMenntun mín er ekki mikilQMenntun mín er ekki mikilQHver er menntun þín
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/deQWelche Ausbildung haben SieQIk ben niet erg opgeleidQIk ben niet erg opgeleidQWelche Ausbildung haben Sie
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/itQqual è la tua educazioneQNon sono molto istruitoQNon sono molto istruitoQqual è la tua educazione
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/svQVad har du för utbildningQJag är inte särskilt utbildadQJag är inte särskilt utbildadQVad har du för utbildning
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/ltQKoks tavo išsilavinimasQAš nesu labai išsilavinęsQAš nesu labai išsilavinęsQKoks tavo išsilavinimas
+/disk1/dataset_glq/SP-10_video_frame/dev/21808/enQWhat's your educationQI'm not very educatedQI'm not very educatedQWhat's your education
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/zhQ修 理 费 将 会 是 多 少Q需 要 修 理 费Q需 要 修 理 费Q修 理 费 将 会 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/ukQСкільки коштуватиме ремонтQМені потрібні гроші на ремонтQМені потрібні гроші на ремонтQСкільки коштуватиме ремонт
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/ruQСколько будет стоить ремонтQМне нужны деньги на ремонтQМне нужны деньги на ремонтQСколько будет стоить ремонт
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/bgQКолко ще струва поправкатаQТрябват ми пари за ремонтQТрябват ми пари за ремонтQКолко ще струва поправката
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/isQhvað munu viðgerðirnar kostaQViðgerðarkostnaður er nauðsynlegurQViðgerðarkostnaður er nauðsynlegurQhvað munu viðgerðirnar kosta
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/deQWie viel wird die Reparatur kostenQIk heb geld nodig voor reparatiesQIk heb geld nodig voor reparatiesQWie viel wird die Reparatur kosten
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/itQquale sarà il costo di riparazioneQHo bisogno di soldi per le riparazioniQHo bisogno di soldi per le riparazioniQquale sarà il costo di riparazione
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/svQHur mycket kommer reparationen att kostaQJag behöver pengar till reparationerQJag behöver pengar till reparationerQHur mycket kommer reparationen att kosta
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/ltQKiek kainuos taisymasQMan reikia pinigų remontuiQMan reikia pinigų remontuiQKiek kainuos taisymas
+/disk1/dataset_glq/SP-10_video_frame/dev/21877/enQHow much will the repair costQI need money for repairsQI need money for repairsQHow much will the repair cost
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/zhQ有 见 证 人 吗Q没 有 见 证 人Q没 有 见 证 人Q有 见 证 人 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/ukQЧи є свідкиQНіяких свідківQНіяких свідківQЧи є свідки
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/ruQСвидетели естьQСвидетелей нетQСвидетелей нетQСвидетели есть
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/bgQИма ли някакви свидетелиQНяма свидетелиQНяма свидетелиQИма ли някакви свидетели
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/isQEru einhver vitni hérQÞað eru engin vitniQÞað eru engin vitniQEru einhver vitni hér
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/deQGibt es hier ZeugenQGeen getuigenQGeen getuigenQGibt es hier Zeugen
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/itQCi sono testimoniQNon ci sono testimoniQNon ci sono testimoniQCi sono testimoni
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/svQFinns det några vittnenQInga vittnenQInga vittnenQFinns det några vittnen
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/ltQAr yra liudininkųQJokių liudininkųQJokių liudininkųQAr yra liudininkų
+/disk1/dataset_glq/SP-10_video_frame/dev/21984/enQAre there any witnessesQNo witnessesQNo witnessesQAre there any witnesses
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/zhQ我 们 要 在 那 儿 等 多 久Q我 们 需 要 等 一 会Q我 们 需 要 等 一 会Q我 们 要 在 那 儿 等 多 久
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/ukQЯк довго ми повинні чекати тамQТреба трохи почекатиQТреба трохи почекатиQЯк довго ми повинні чекати там
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/ruQСколько времени мы должны здесь ждатьQНам нужно немного подождатьQНам нужно немного подождатьQСколько времени мы должны здесь ждать
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/bgQКолко дълго трябва да чакаме тамQТрябва да изчакаме малкоQТрябва да изчакаме малкоQКолко дълго трябва да чакаме там
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/isQHversu lengi þurfum við að bíða hérnaQVið verðum að bíða aðeinsQVið verðum að bíða aðeinsQHversu lengi þurfum við að bíða hérna
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/deQWie lange müssen wir dort wartenQWe moeten even wachtenQWe moeten even wachtenQWie lange müssen wir dort warten
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/itQPer quanto tempo dobbiamo aspettare lìQDobbiamo aspettare un po'QDobbiamo aspettare un po'QPer quanto tempo dobbiamo aspettare lì
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/svQHur länge måste vi vänta därQVi måste vänta ett tagQVi måste vänta ett tagQHur länge måste vi vänta där
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/ltQKiek ilgai turėtume čia lauktiQMums reikia šiek tiek palauktiQMums reikia šiek tiek palauktiQKiek ilgai turėtume čia laukti
+/disk1/dataset_glq/SP-10_video_frame/dev/22003/enQHow long must we wait thereQWe need to wait a whileQWe need to wait a whileQHow long must we wait there
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/zhQ我 的 汽 车 出 故 障 了Q你 的 汽 车 怎 么 了Q你 的 汽 车 怎 么 了Q我 的 汽 车 出 故 障 了
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/ukQУ мене поломка машиниQЩо сталося з вашою машиноюQЩо сталося з вашою машиноюQУ мене поломка машини
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/ruQУ меня машина сломаласьQЧто случилось с вашей машинойQЧто случилось с вашей машинойQУ меня машина сломалась
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/bgQКолата ми се развалиQКакво се е случило с колата виQКакво се е случило с колата виQКолата ми се развали
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/isQÉg er með bíl sem bilaðiQHvað varð um bílinn þinnQHvað varð um bílinn þinnQÉg er með bíl sem bilaði
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/deQIch habe eine AutopanneQWat is er met je auto gebeurdQWat is er met je auto gebeurdQIch habe eine Autopanne
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/itQHo un guasto alla macchinaQCosa è successo alla sua autoQCosa è successo alla sua autoQHo un guasto alla macchina
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/svQJag har ett bilhaveriQVad hände med din bilQVad hände med din bilQJag har ett bilhaveri
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/ltQMan sugedo automobilisQKas nutiko jūsų automobiliuiQKas nutiko jūsų automobiliuiQMan sugedo automobilis
+/disk1/dataset_glq/SP-10_video_frame/dev/22013/enQI have a car breakdownQWhat happened to your carQWhat happened to your carQI have a car breakdown
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/zhQ我 想 预 订 一 个 靠 窗 的 座 位Q你 想 预 定 什 么Q你 想 预 定 什 么Q我 想 预 订 一 个 靠 窗 的 座 位
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/ukQЯ хотів би забронювати місце біля вікнаQЩо ви хочете замовитиQЩо ви хочете замовитиQЯ хотів би забронювати місце біля вікна
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/ruQЯ хочу забронировать место у окнаQЧто вы хотите заказатьQЧто вы хотите заказатьQЯ хочу забронировать место у окна
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/bgQБих искал да резервирам място до прозорецаQКакво искате да резервиратеQКакво искате да резервиратеQБих искал да резервирам място до прозореца
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/isQég væri til í því að bóka sæti við glugganQHvað viltu bókaQHvað viltu bókaQég væri til í því að bóka sæti við gluggan
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/deQIch möchte einen Fensterplatz buchenQWat wil je reserverenQWat wil je reserverenQIch möchte einen Fensterplatz buchen
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/itQVorrei prenotare un posto vicino al finestrinoQCosa vuole prenotareQCosa vuole prenotareQVorrei prenotare un posto vicino al finestrino
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/svQJag skulle vilja boka en plats vid fönstretQVad vill du bokaQVad vill du bokaQJag skulle vilja boka en plats vid fönstret
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/ltQNorėčiau užsakyti vietą prie langoQKą norite užsisakytiQKą norite užsisakytiQNorėčiau užsakyti vietą prie lango
+/disk1/dataset_glq/SP-10_video_frame/dev/22023/enQI would like to book a seat at the windowQWhat do you want to bookQWhat do you want to bookQI would like to book a seat at the window
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/zhQ我 想 订 一 个 靠 过 道 的 座 位Q你 想 预 定 什 么 样 的 座 位Q你 想 预 定 什 么 样 的 座 位Q我 想 订 一 个 靠 过 道 的 座 位
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/ukQЯ хотів би забронювати місце біля проходуQЯке місце хочете зарезервуватиQЯке місце хочете зарезервуватиQЯ хотів би забронювати місце біля проходу
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/ruQЯ хочу забронировать место у проходаQКакое место вы хотите забронироватьQКакое место вы хотите забронироватьQЯ хочу забронировать место у прохода
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/bgQБих искал да резервирам място до пътекатаQКакъв вид място искате да резервиратеQКакъв вид място искате да резервиратеQБих искал да резервирам място до пътеката
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/isQég væri til í því að bóka sæti við ganginnQHvers konar sæti viltu bókaQHvers konar sæti viltu bókaQég væri til í því að bóka sæti við ganginn
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/deQIch möchte einen Platz am Gang buchenQWat voor stoel wilt u reserverenQWat voor stoel wilt u reserverenQIch möchte einen Platz am Gang buchen
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/itQVorrei prenotare un posto vicino al corridoioQChe tipo di posto vuole prenotareQChe tipo di posto vuole prenotareQVorrei prenotare un posto vicino al corridoio
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/svQJag skulle vilja boka en plats vid gångenQVilken typ av plats vill du reserveraQVilken typ av plats vill du reserveraQJag skulle vilja boka en plats vid gången
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/ltQNorėčiau užsakyti vietą prie praėjimoQKokią vietą norite rezervuotiQKokią vietą norite rezervuotiQNorėčiau užsakyti vietą prie praėjimo
+/disk1/dataset_glq/SP-10_video_frame/dev/22024/enQI would like to book an aisle seatQWhat kind of seat do you want to reserveQWhat kind of seat do you want to reserveQI would like to book an aisle seat
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/zhQ我 失 业Q你 失 业 了 吗Q你 失 业 了 吗Q我 失 业
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/ukQЯ безробітнийQВи безробітнийQВи безробітнийQЯ безробітний
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/ruQЯ безработныйQВы безработныйQВы безработныйQЯ безработный
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/bgQБезработен съмQБезработен ли стеQБезработен ли стеQБезработен съм
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/isQÉg er atvinnulausQErtu atvinnulausQErtu atvinnulausQÉg er atvinnulaus
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/deQIch bin arbeitslosQBen je werkloosQBen je werkloosQIch bin arbeitslos
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/itQSono disoccupatoQÈ disoccupatoQÈ disoccupatoQSono disoccupato
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/svQJag är arbetslösQÄr du arbetslösQÄr du arbetslösQJag är arbetslös
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/ltQAš esu bedarbisQAr esate bedarbisQAr esate bedarbisQAš esu bedarbis
+/disk1/dataset_glq/SP-10_video_frame/dev/22034/enQI'm unemployedQAre you unemployedQAre you unemployedQI'm unemployed
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/zhQ我 可 以 关 上 窗 户 吗Q我 想 关 上 窗 户Q我 想 关 上 窗 户Q我 可 以 关 上 窗 户 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/ukQЧи можу я закрити вікноQЯ хочу закрити вікноQЯ хочу закрити вікноQЧи можу я закрити вікно
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/ruQМожно закрыть окноQЯ бы хотел закрыть окноQЯ бы хотел закрыть окноQМожно закрыть окно
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/bgQМоже ли да затворя прозорецаQИскам да затворя прозорецаQИскам да затворя прозорецаQМоже ли да затворя прозореца
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/isQMá ég loka glugganumQÉg vil loka glugganumQÉg vil loka glugganumQMá ég loka glugganum
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/deQDarf ich das Fenster zumachenQIk wil graag het raam dichtdoenQIk wil graag het raam dichtdoenQDarf ich das Fenster zumachen
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/itQPotrei chiudere la finestraQVorrei chiudere la finestraQVorrei chiudere la finestraQPotrei chiudere la finestra
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/svQKan jag stänga fönstretQJag skulle vilja stänga fönstretQJag skulle vilja stänga fönstretQKan jag stänga fönstret
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/ltQAr galiu uždaryti langąQNorėčiau uždaryti langąQNorėčiau uždaryti langąQAr galiu uždaryti langą
+/disk1/dataset_glq/SP-10_video_frame/dev/22038/enQMay I closed the windowQI'd like to close the windowQI'd like to close the windowQMay I closed the window
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/zhQ我 可 以 拉 上 窗 帘 吗Q你 可 以 拉 上 窗 帘Q你 可 以 拉 上 窗 帘Q我 可 以 拉 上 窗 帘 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/ukQЧи можу я засмикнути фіранкуQМожете закрити шториQМожете закрити шториQЧи можу я засмикнути фіранку
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/ruQМожно я задерну шторыQВы можете закрыть шторыQВы можете закрыть шторыQМожно я задерну шторы
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/bgQМоже ли да дръпна завесатаQМожете да затворите завеситеQМожете да затворите завеситеQМоже ли да дръпна завесата
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/isQMá ég draga fyrir gardínurnarQÞú getur lokað gluggatjöldunumQÞú getur lokað gluggatjöldunumQMá ég draga fyrir gardínurnar
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/deQDarf ich den Vorhang zuziehenQU kunt de gordijnen sluitenQU kunt de gordijnen sluitenQDarf ich den Vorhang zuziehen
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/itQPosso tirare la tendaQPuò chiudere le tendeQPuò chiudere le tendeQPosso tirare la tenda
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/svQFår jag dra för gardinenQDu kan dra för gardinernaQDu kan dra för gardinernaQFår jag dra för gardinen
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/ltQAr galiu užtraukti užuolaidąQGalite užtraukti užuolaidasQGalite užtraukti užuolaidasQAr galiu užtraukti užuolaidą
+/disk1/dataset_glq/SP-10_video_frame/dev/22039/enQMay I draw the curtainQYou can close the curtainsQYou can close the curtainsQMay I draw the curtain
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/zhQ请 把 简 历 寄 给 我 们Q简 历 怎 么 给 你 们Q简 历 怎 么 给 你 们Q请 把 简 历 寄 给 我 们
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/ukQБудь ласка, відправте нам своє резюмеQЯк мені передати вам моє резюмеQЯк мені передати вам моє резюмеQБудь ласка, відправте нам своє резюме
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/ruQПожалуйста, вышлите нам ваше резюмеQКак мне передать вам мое резюмеQКак мне передать вам мое резюмеQПожалуйста, вышлите нам ваше резюме
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/bgQМоля изпратете ни вашата автобиографияQКак да ви дам автобиографията сиQКак да ви дам автобиографията сиQМоля изпратете ни вашата автобиография
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/isQvinsamlegast, sendu okkur ferilsskránna þínaQHvernig á að gefa þér ferilskráQHvernig á að gefa þér ferilskráQvinsamlegast, sendu okkur ferilsskránna þína
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/deQBitte senden Sie uns Ihren LebenslaufQHoe geef ik u mijn CVQHoe geef ik u mijn CVQBitte senden Sie uns Ihren Lebenslauf
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/itQPotresti per favore inviarci il tuo curriculum vitaeQCome faccio a darle il mio CVQCome faccio a darle il mio CVQPotresti per favore inviarci il tuo curriculum vitae
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/svQSkicka oss din meritförteckning, tackQHur ger jag dig mitt CVQHur ger jag dig mitt CVQSkicka oss din meritförteckning, tack
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/ltQPrašau atsiųsti mums savo CVQKaip man pateikti jums savo gyvenimo aprašymąQKaip man pateikti jums savo gyvenimo aprašymąQPrašau atsiųsti mums savo CV
+/disk1/dataset_glq/SP-10_video_frame/dev/22047/enQPlease, send us your curriculum vitaeQHow do I give you my CVQHow do I give you my CVQPlease, send us your curriculum vitae
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/zhQ这 是 我 的 座 位Q这 是 谁 的 座 位Q这 是 谁 的 座 位Q这 是 我 的 座 位
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/ukQЦе моє місцеQЧиє це місцеQЧиє це місцеQЦе моє місце
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/ruQЭто мое местоQЧье это местоQЧье это местоQЭто мое место
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/bgQТова е моето мястоQЧие е това мястоQЧие е това мястоQТова е моето място
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/isQÞetta er mitt sætiQHver á þetta sætiQHver á þetta sætiQÞetta er mitt sæti
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/deQDas ist mein SitzplatzQVan wie is deze stoelQVan wie is deze stoelQDas ist mein Sitzplatz
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/itQquesto è il mio postoQDi chi è questo postoQDi chi è questo postoQquesto è il mio posto
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/svQDet här är min platsQVems plats är det härQVems plats är det härQDet här är min plats
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/ltQTai mano vietaQKieno tai vietaQKieno tai vietaQTai mano vieta
+/disk1/dataset_glq/SP-10_video_frame/dev/22058/enQThis is my seatQWhose seat is thisQWhose seat is thisQThis is my seat
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/zhQ邮 局 什 么 时 候 关 门Q邮 局 要 关 门 了Q邮 局 要 关 门 了Q邮 局 什 么 时 候 关 门
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/ukQО котрій зачиняється поштаQПошта зачиняєтьсяQПошта зачиняєтьсяQО котрій зачиняється пошта
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/ruQВ какое время закрывается почтаQПочтовое отделение закрываетсяQПочтовое отделение закрываетсяQВ какое время закрывается почта
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/bgQКога затваря пощатаQПощата затваряQПощата затваряQКога затваря пощата
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/isQKlukkan hvað lokar pósthúsiðQPósthúsið er að lokaQPósthúsið er að lokaQKlukkan hvað lokar pósthúsið
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/deQWann schließt das PostamtQHet postkantoor gaat sluitenQHet postkantoor gaat sluitenQWann schließt das Postamt
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/itQA che ora chiude l'ufficio postaleQL'ufficio postale sta chiudendoQL'ufficio postale sta chiudendoQA che ora chiude l'ufficio postale
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/svQVilken tid stänger postenQPostkontoret stängerQPostkontoret stängerQVilken tid stänger posten
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/ltQKada uždaro paštąQPaštas užsidaroQPaštas užsidaroQKada uždaro paštą
+/disk1/dataset_glq/SP-10_video_frame/dev/22087/enQAt what time does the post office closeQThe post office is closingQThe post office is closingQAt what time does the post office close
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/zhQ最 近 的 邮 局 在 哪 里Q我 想 去 最 近 的 邮 局Q我 想 去 最 近 的 邮 局Q最 近 的 邮 局 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/ukQДе найближча поштаQЯ б хотіла піти до найближчого поштового відділенняQЯ б хотіла піти до найближчого поштового відділенняQДе найближча пошта
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/ruQГде ближайшая почтаQЯ бы хотел пойти в ближайшее почтовое отделениеQЯ бы хотел пойти в ближайшее почтовое отделениеQГде ближайшая почта
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/bgQКъде е най-близката пощаQБих искал да отида до най-близката пощаQБих искал да отида до най-близката пощаQКъде е най-близката поща
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/isQHvar er næsta pósthúsQÉg vil fara á næsta pósthúsQÉg vil fara á næsta pósthúsQHvar er næsta pósthús
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/deQWo ist das nächste PostamtQIk wil graag naar het dichtstbijzijnde postkantoorQIk wil graag naar het dichtstbijzijnde postkantoorQWo ist das nächste Postamt
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/itQDove si trova l'ufficio postale più vicinoQVorrei andare all'ufficio postale più vicinoQVorrei andare all'ufficio postale più vicinoQDove si trova l'ufficio postale più vicino
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/svQVar ligger närmaste postkontorQJag skulle vilja gå till närmaste postkontorQJag skulle vilja gå till närmaste postkontorQVar ligger närmaste postkontor
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/ltQKur yra artimiausias paštasQNorėčiau nueiti į artimiausią paštąQNorėčiau nueiti į artimiausią paštąQKur yra artimiausias paštas
+/disk1/dataset_glq/SP-10_video_frame/dev/22101/enQWhere is the nearest post officeQI'd like to go to the nearest post officeQI'd like to go to the nearest post officeQWhere is the nearest post office
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/zhQ你 看 起 来 脸 色 苍 白Q你 看 起 来 不 太 好Q你 看 起 来 不 太 好Q你 看 起 来 脸 色 苍 白
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/ukQТи блідийQТи погано виглядаєшQТи погано виглядаєшQТи блідий
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/ruQВы бледныQТы выглядишь не очень хорошоQТы выглядишь не очень хорошоQВы бледны
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/bgQИзглеждаш бледQНе изглеждате толкова добреQНе изглеждате толкова добреQИзглеждаш блед
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/isQÞú ert föl/fölurQÞú lítur ekki vel útQÞú lítur ekki vel útQÞú ert föl/fölur
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/deQDu bist blassQJe ziet er niet zo goed uitQJe ziet er niet zo goed uitQDu bist blass
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/itQSei pallidoQNon hai un bell'aspettoQNon hai un bell'aspettoQSei pallido
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/svQDu ser blek utQDu ser inte så bra utQDu ser inte så bra utQDu ser blek ut
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/ltQTu atrodai išblyškęsQTu neatrodai labai geraiQTu neatrodai labai geraiQTu atrodai išblyškęs
+/disk1/dataset_glq/SP-10_video_frame/dev/22109/enQYou look paleQYou don't look so goodQYou don't look so goodQYou look pale
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/zhQ他 还 活 着Q他 活 着 吗Q他 活 着 吗Q他 还 活 着
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/ukQВін все ще живийQВін живийQВін живийQВін все ще живий
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/ruQОн еще живQОн живQОн живQОн еще жив
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/bgQТой все още е живQЖив ли е тойQЖив ли е тойQТой все още е жив
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/isQHann er enn á lífiQEr hann á lífiQEr hann á lífiQHann er enn á lífi
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/deQEr lebt nochQLeeft hij nogQLeeft hij nogQEr lebt noch
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/itQÈ ancora vivoQÈ vivoQÈ vivoQÈ ancora vivo
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/svQHan lever fortfarandeQLever hanQLever hanQHan lever fortfarande
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/ltQJis vis dar gyvasQAr jis gyvasQAr jis gyvasQJis vis dar gyvas
+/disk1/dataset_glq/SP-10_video_frame/dev/22364/enQHe is still aliveQIs he aliveQIs he aliveQHe is still alive
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/zhQ我 有 皮 疹Q你 怎 么 了Q你 怎 么 了Q我 有 皮 疹
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/ukQУ мене висипQЩо з тобоюQЩо з тобоюQУ мене висип
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/ruQУ меня сыпьQЧто с тобой случилосьQЧто с тобой случилосьQУ меня сыпь
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/bgQИмам обривQКакво става с тебQКакво става с тебQИмам обрив
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/isQÉg er með útbrotQHvað kom fyrir þigQHvað kom fyrir þigQÉg er með útbrot
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/deQIch habe AusschlagQWat is er met je aan de handQWat is er met je aan de handQIch habe Ausschlag
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/itQHo uno sfogo cutaneoQCosa c'è di sbagliato in teQCosa c'è di sbagliato in teQHo uno sfogo cutaneo
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/svQJag har hudutslagQVad är det för fel på digQVad är det för fel på digQJag har hudutslag
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/ltQMane išbėrėQKas tau nutikoQKas tau nutikoQMane išbėrė
+/disk1/dataset_glq/SP-10_video_frame/dev/22405/enQI have a rashQWhat's the matter with youQWhat's the matter with youQI have a rash
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/zhQ我 不 停 地 吐Q你 怎 么 吐 了Q你 怎 么 吐 了Q我 不 停 地 吐
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/ukQВ мене була блювотаQЧому тебе знудилоQЧому тебе знудилоQВ мене була блювота
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/ruQМеня рветQПочему тебя вырвалоQПочему тебя вырвалоQМеня рвет
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/bgQПовръщахQЗащо повърнахтеQЗащо повърнахтеQПовръщах
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/isQÉg hef verið að ælaQHvernig kastaðirðu uppQHvernig kastaðirðu uppQÉg hef verið að æla
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/deQIch musste erbrechenQWaarom heb je overgegevenQWaarom heb je overgegevenQIch musste erbrechen
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/itQHo vomitatoQPerché hai vomitatoQPerché hai vomitatoQHo vomitato
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/svQJag har kräktsQVarför spydde duQVarför spydde duQJag har kräkts
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/ltQAš vėmiauQKodėl tu išvargaiQKodėl tu išvargaiQAš vėmiau
+/disk1/dataset_glq/SP-10_video_frame/dev/22434/enQI've been vomitingQWhy did you throw upQWhy did you throw upQI've been vomiting
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/zhQ我 给 你 打 一 针Q你 要 干 嘛Q你 要 干 嘛Q我 给 你 打 一 针
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/ukQЯ зроблю вам уколQЩо ти робишQЩо ти робишQЯ зроблю вам укол
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/ruQЯ сделаю тебе уколQЧто ты делаешьQЧто ты делаешьQЯ сделаю тебе укол
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/bgQЩе ти поставя инжекцияQКакво правишQКакво правишQЩе ти поставя инжекция
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/isQég skal gefa þér sprautuQHvað ertu að geraQHvað ertu að geraQég skal gefa þér sprautu
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/deQIch gebe Ihnen eine SpritzeQWat ben je aan het doenQWat ben je aan het doenQIch gebe Ihnen eine Spritze
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/itQTi faccio una iniezioneQCosa stai facendoQCosa stai facendoQTi faccio una iniezione
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/svQJag ska ge dig en injektionQVad håller du på medQVad håller du på medQJag ska ge dig en injektion
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/ltQAš tau suleisiu vaistusQKą tu daraiQKą tu daraiQAš tau suleisiu vaistus
+/disk1/dataset_glq/SP-10_video_frame/dev/22435/enQI'll give you an injectionQWhat are you doingQWhat are you doingQI'll give you an injection
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/zhQ我 也 可 以 玩 吗Q你 要 玩 吗Q你 要 玩 吗Q我 也 可 以 玩 吗
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/ukQА можна мені також погратиQХочеш погратиQХочеш погратиQА можна мені також пограти
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/ruQЯ могу тоже поигратьQХочешь поигратьQХочешь поигратьQЯ могу тоже поиграть
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/bgQМоже ли и аз да играяQИскаш да играешQИскаш да играешQМоже ли и аз да играя
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/isQMá ég spila/leika líkaQViltu spilaQViltu spilaQMá ég spila/leika líka
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/deQKann ich auch spielenQWil je spelenQWil je spelenQKann ich auch spielen
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/itQPosso giocare anch'ioQVuoi giocareQVuoi giocareQPosso giocare anch'io
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/svQFår jag också spelaQVill du spelaQVill du spelaQFår jag också spela
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/ltQAr galiu žaisti ir ašQNori žaistiQNori žaistiQAr galiu žaisti ir aš
+/disk1/dataset_glq/SP-10_video_frame/dev/23031/enQCan I play, tooQYou want to playQYou want to playQCan I play, too
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/zhQ你 明 天 早 上 7 点 给 我 打 电 话 吧Q明 天 早 上 7 点 给 你 打 电 话Q明 天 早 上 7 点 给 你 打 电 话Q你 明 天 早 上 7 点 给 我 打 电 话 吧
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/ukQНе могли б ви подзвонити мені завтра о 7 ранку, будь ласкаQЯ подзвоню тобі завтра о 7 ранкуQЯ подзвоню тобі завтра о 7 ранкуQНе могли б ви подзвонити мені завтра о 7 ранку, будь ласка
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/ruQВы не могли бы позвонить мне завтра в 7 утраQЯ позвоню тебе завтра в 7 утраQЯ позвоню тебе завтра в 7 утраQВы не могли бы позвонить мне завтра в 7 утра
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/bgQМожеш ли да ми се обадиш утре в 7 сутринта, моляQЩе ти се обадя утре в 7 часа сутринтаQЩе ти се обадя утре в 7 часа сутринтаQМожеш ли да ми се обадиш утре в 7 сутринта, моля
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/isQGeturðu hringt klukkan 7 í fyrramálið, plísQÉg hringi í þig á morgun klukkan sjöQÉg hringi í þig á morgun klukkan sjöQGeturðu hringt klukkan 7 í fyrramálið, plís
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/deQKönnen Sie mich bitte morgen um 7 Uhr früh anrufenQIk bel je morgen om 7 uurQIk bel je morgen om 7 uurQKönnen Sie mich bitte morgen um 7 Uhr früh anrufen
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/itQPer favore potresti telefonarmi alle 7 domattinaQTi chiamo domani alle 7QTi chiamo domani alle 7QPer favore potresti telefonarmi alle 7 domattina
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/svQKan du ringa mig kl 7 i morgon bittiQJag ringer dig i morgon kl 0700QJag ringer dig i morgon kl 0700QKan du ringa mig kl 7 i morgon bitti
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/ltQAr gali paskambinti man rytoj 7 val ryteQPaskambinsiu tau rytoj 7 val rytoQPaskambinsiu tau rytoj 7 val rytoQAr gali paskambinti man rytoj 7 val ryte
+/disk1/dataset_glq/SP-10_video_frame/dev/23052/enQCould you give me a call at 7 tomorrow morning, pleaseQI'll call you tomorrow at 7 amQI'll call you tomorrow at 7 amQCould you give me a call at 7 tomorrow morning, please
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/zhQ我 该 如 何 前 往 机 场Q怎 么 去 机 场Q怎 么 去 机 场Q我 该 如 何 前 往 机 场
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/ukQЯк дістатися до аеропортуQЯк мені дістатися до аеропортуQЯк мені дістатися до аеропортуQЯк дістатися до аеропорту
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/ruQКак добраться до аэропортаQКак мне добраться до аэропортаQКак мне добраться до аэропортаQКак добраться до аэропорта
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/bgQКак да стигна до летищетоQКак да стигна до летищетоQКак да стигна до летищетоQКак да стигна до летището
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/isQHvernig kemst ég á flugvöllinnQHvernig á að komast á flugvöllinnQHvernig á að komast á flugvöllinnQHvernig kemst ég á flugvöllinn
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/deQWie komme ich zum FlughafenQHoe kom ik op het vliegveldQHoe kom ik op het vliegveldQWie komme ich zum Flughafen
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/itQCome posso raggiungere l'aeroportoQCome si arriva all'aeroportoQCome si arriva all'aeroportoQCome posso raggiungere l'aeroporto
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/svQHur tar jag mig till flygplatsenQHur tar jag mig till flygplatsenQHur tar jag mig till flygplatsenQHur tar jag mig till flygplatsen
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/ltQKaip patekti į oro uostąQKaip man nuvykti į oro uostąQKaip man nuvykti į oro uostąQKaip patekti į oro uostą
+/disk1/dataset_glq/SP-10_video_frame/dev/23110/enQHow do I get to the airportQHow do I get to the airportQHow do I get to the airportQHow do I get to the airport
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/zhQ从 酒 店 到 车 站 有 多 远Q从 酒 店 到 车 站 不 远Q从 酒 店 到 车 站 不 远Q从 酒 店 到 车 站 有 多 远
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/ukQЯк далеко від готелю до станціїQВід готелю до вокзалу недалекоQВід готелю до вокзалу недалекоQЯк далеко від готелю до станції
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/ruQДалеко ли от отеля до вокзалаQОт отеля до вокзала недалекоQОт отеля до вокзала недалекоQДалеко ли от отеля до вокзала
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/bgQКолко далеч е от хотела до спиркатаQОт хотела до гарата не е далечQОт хотела до гарата не е далечQКолко далеч е от хотела до спирката
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/isQHversu langt er hótlið frá stoppistöðinniQEkki langt frá hótelinu til stöðvarinnarQEkki langt frá hótelinu til stöðvarinnarQHversu langt er hótlið frá stoppistöðinni
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/deQWie weit ist es vom Hotel zum BahnhofQHet is niet ver van het hotel naar het stationQHet is niet ver van het hotel naar het stationQWie weit ist es vom Hotel zum Bahnhof
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/itQquanto dista l'hotel dalla stazioneQL'hotel non è lontano dalla stazioneQL'hotel non è lontano dalla stazioneQquanto dista l'hotel dalla stazione
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/svQHur långt är det från hotellet till stationenQDet är inte långt från hotellet till stationenQDet är inte långt från hotellet till stationenQHur långt är det från hotellet till stationen
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/ltQKaip toli yra stotis nuo viešbučioQNuo viešbučio iki stoties netoliQNuo viešbučio iki stoties netoliQKaip toli yra stotis nuo viešbučio
+/disk1/dataset_glq/SP-10_video_frame/dev/23112/enQHow far is it from the hotel to the stationQIt's not far from the hotel to the stationQIt's not far from the hotel to the stationQHow far is it from the hotel to the station
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/zhQ我 想 告 诉 你 我 的 家 庭 情 况Q你 的 家 庭 情 况 怎 么 样Q你 的 家 庭 情 况 怎 么 样Q我 想 告 诉 你 我 的 家 庭 情 况
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/ukQЯ хочу розповісти вам дещо про мою сім'юQЯка у вас сімейна ситуаціяQЯка у вас сімейна ситуаціяQЯ хочу розповісти вам дещо про мою сім'ю
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/ruQЯ хочу рассказать тебе кое-что о своей семьеQКак обстоят дела в вашей семьеQКак обстоят дела в вашей семьеQЯ хочу рассказать тебе кое-что о своей семье
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/bgQИскам да ти кажа нещо за моето семействоQКакво е положението в семейството виQКакво е положението в семейството виQИскам да ти кажа нещо за моето семейство
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/isQÉg vil segja þér eitt um fjölskylduna mínaQHvernig eru fjölskylduaðstæður þínarQHvernig eru fjölskylduaðstæður þínarQÉg vil segja þér eitt um fjölskylduna mína
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/deQIch möchte Dir etwas über meine Familie erzählenQWat is uw gezinssituatieQWat is uw gezinssituatieQIch möchte Dir etwas über meine Familie erzählen
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/itQVoglio dirti qualcosa riguardo la mia famigliaQqual è la sua situazione familiareQqual è la sua situazione familiareQVoglio dirti qualcosa riguardo la mia famiglia
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/svQJag vill berätta något om min familjQHur är din familjesituationQHur är din familjesituationQJag vill berätta något om min familj
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/ltQAš noriu tau kai ką papasakoti apie savo šeimąQKokia tavo šeimos padėtisQKokia tavo šeimos padėtisQAš noriu tau kai ką papasakoti apie savo šeimą
+/disk1/dataset_glq/SP-10_video_frame/dev/23132/enQI want to tell you something about my familyQWhat's your family situationQWhat's your family situationQI want to tell you something about my family
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/zhQ我 要 订 一 个 双 人 床 房 间Q你 要 订 什 么 房 间Q你 要 订 什 么 房 间Q我 要 订 一 个 双 人 床 房 间
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/ukQЯ хочу зупинитися в двомісному номеріQЯкий номер ви бронюєтеQЯкий номер ви бронюєтеQЯ хочу зупинитися в двомісному номері
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/ruQЯ бы хотел остановиться в комнате на двоихQКакой номер вы бронируетеQКакой номер вы бронируетеQЯ бы хотел остановиться в комнате на двоих
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/bgQБих искал двойна стаяQКаква стая си резервиратеQКаква стая си резервиратеQБих искал двойна стая
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/isQÉg væri til í því að vera í tvöföldu herbergiQHvaða herbergi viltu bókaQHvaða herbergi viltu bókaQÉg væri til í því að vera í tvöföldu herbergi
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/deQIch möchte in einem Doppelzimmer übernachtenQWat voor kamer boek jeQWat voor kamer boek jeQIch möchte in einem Doppelzimmer übernachten
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/itQMi piacerebbe stare in una camera doppiaQChe tipo di camera hai prenotatoQChe tipo di camera hai prenotatoQMi piacerebbe stare in una camera doppia
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/svQJag skulle vilja bo i ett dubbelrumQVilken typ av rum har du bokatQVilken typ av rum har du bokatQJag skulle vilja bo i ett dubbelrum
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/ltQNorėčiau likti dviviečiame kambaryjeQKokį kambarį užsisakoteQKokį kambarį užsisakoteQNorėčiau likti dviviečiame kambaryje
+/disk1/dataset_glq/SP-10_video_frame/dev/23135/enQI'd like to stay in a double roomQWhat kind of room are you bookingQWhat kind of room are you bookingQI'd like to stay in a double room
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/zhQ冬 天 我 去 滑 雪Q什 么 时 候 去 滑 雪Q什 么 时 候 去 滑 雪Q冬 天 我 去 滑 雪
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/ukQВзимку я катаються на лижахQКоли ви збираєтеся кататися на лижахQКоли ви збираєтеся кататися на лижахQВзимку я катаються на лижах
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/ruQЗимой я катаюсь на лыжахQКогда вы собираетесь кататься на лыжахQКогда вы собираетесь кататься на лыжахQЗимой я катаюсь на лыжах
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/bgQПрез зимата ходя да карам скиQКога ще карате скиQКога ще карате скиQПрез зимата ходя да карам ски
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/isQÁ veturnar fer ég á skíðiQHvenær á að fara á skíðiQHvenær á að fara á skíðiQÁ veturnar fer ég á skíði
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/deQIm Winter gehe ich Ski fahrenQWanneer ga je skiënQWanneer ga je skiënQIm Winter gehe ich Ski fahren
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/itQIn inverno vado a sciareQquando andare a sciareQquando andare a sciareQIn inverno vado a sciare
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/svQPå vintern åker jag skidorQNär ska du åka skidorQNär ska du åka skidorQPå vintern åker jag skidor
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/ltQŽiemą aš slidinėjuQKada ketinate slidinėtiQKada ketinate slidinėtiQŽiemą aš slidinėju
+/disk1/dataset_glq/SP-10_video_frame/dev/23144/enQIn winter I go skiingQWhen are you going skiingQWhen are you going skiingQIn winter I go skiing
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/zhQ坐 巴 士 大 约 要 十 分 钟Q坐 巴 士 大 约 要 多 长 时 间Q坐 巴 士 大 约 要 多 长 时 间Q坐 巴 士 大 约 要 十 分 钟
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/ukQЦе займає близько 10 хвилин на автобусіQСкільки часу займе поїздка на автобусіQСкільки часу займе поїздка на автобусіQЦе займає близько 10 хвилин на автобусі
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/ruQЭто десять минут на автобусеQСколько времени займет поездка на автобусеQСколько времени займет поездка на автобусеQЭто десять минут на автобусе
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/bgQОтнема 10 минути с автобусQКолко време ще отнеме пътуването с автобусQКолко време ще отнеме пътуването с автобусQОтнема 10 минути с автобус
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/isQÞað tekur um 10 mínútur í strætóQHversu langan tíma það tekur að taka strætóQHversu langan tíma það tekur að taka strætóQÞað tekur um 10 mínútur í strætó
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/deQEs dauert etwa 10 Minuten mit dem BusQHoe lang duurt de busritQHoe lang duurt de busritQEs dauert etwa 10 Minuten mit dem Bus
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/itQCi vogliono 10 minuti circa di autobusQquanto dura il viaggio in autobusQquanto dura il viaggio in autobusQCi vogliono 10 minuti circa di autobus
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/svQDet tar ca 10 minuter med bussQHur lång tid tar bussresanQHur lång tid tar bussresanQDet tar ca 10 minuter med buss
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/ltQTai 10 minučių važiuojant autobusuQKiek laiko užtruks kelionė autobusuQKiek laiko užtruks kelionė autobusuQTai 10 minučių važiuojant autobusu
+/disk1/dataset_glq/SP-10_video_frame/dev/23159/enQIt takes about 10 minutes by busQHow long will the bus ride takeQHow long will the bus ride takeQIt takes about 10 minutes by bus
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/zhQ从 现 在 起 我 来 照 看 孩 子Q什 么 时 候 开 始 你 来 照 看 孩 子Q什 么 时 候 开 始 你 来 照 看 孩 子Q从 现 在 起 我 来 照 看 孩 子
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/ukQЧас від часу я няньчуся з дітьмиQЗ якого віку ви доглядаєте за дітьмиQЗ якого віку ви доглядаєте за дітьмиQЧас від часу я няньчуся з дітьми
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/ruQВремя от времени я подрабатываю нянькойQС каких пор вы присматриваете за детьмиQС каких пор вы присматриваете за детьмиQВремя от времени я подрабатываю нянькой
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/bgQПонякога се занимавам с гледане на децаQОт кога се грижите за децатаQОт кога се грижите за децатаQПонякога се занимавам с гледане на деца
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/isQNúna og þá passa égQHvenær byrjar þú að passaQHvenær byrjar þú að passaQNúna og þá passa ég
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/deQManchmal gehe ich BabysittenQSinds wanneer pas je op de kinderenQSinds wanneer pas je op de kinderenQManchmal gehe ich Babysitten
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/itQOgni tanto faccio baby sitterQDa quando ti occupi dei bambiniQDa quando ti occupi dei bambiniQOgni tanto faccio baby sitter
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/svQIbland är jag barnvaktQSedan när tar du hand om barnenQSedan när tar du hand om barnenQIbland är jag barnvakt
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/ltQKaip ir anksčiau aš dirbu aukleQNuo kada prižiūrite vaikusQNuo kada prižiūrite vaikusQKaip ir anksčiau aš dirbu aukle
+/disk1/dataset_glq/SP-10_video_frame/dev/23359/enQNow and then I do babysittingQSince when do you look after the childrenQSince when do you look after the childrenQNow and then I do babysitting
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/zhQ她 做 了 很 多 运 动Q她 做 了 什 么Q她 做 了 什 么Q她 做 了 很 多 运 动
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/ukQВона займається різними видами спортуQЩо вона зробилаQЩо вона зробилаQВона займається різними видами спорту
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/ruQОна много занимается спортомQЧто она сделалаQЧто она сделалаQОна много занимается спортом
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/bgQТя спортува многоQКакво е направила тяQКакво е направила тяQТя спортува много
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/isQHún spilar margar íþróttirQÞað sem hún gerðiQÞað sem hún gerðiQHún spilar margar íþróttir
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/deQSie treibt viel SportQWat heeft ze gedaanQWat heeft ze gedaanQSie treibt viel Sport
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/itQLei pratica molti sportQChe cosa ha fattoQChe cosa ha fattoQLei pratica molti sport
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/svQHon utövar många sporterQVad har hon gjortQVad har hon gjortQHon utövar många sporter
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/ltQJi daug sportuojaQKą ji nuveikėQKą ji nuveikėQJi daug sportuoja
+/disk1/dataset_glq/SP-10_video_frame/dev/23677/enQShe does a lot of sportsQWhat did she doQWhat did she doQShe does a lot of sports
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/zhQ比 赛 什 么 时 候 开 始Q比 赛 马 上 要 开 始 了Q比 赛 马 上 要 开 始 了Q比 赛 什 么 时 候 开 始
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/ukQКоли розпочнеться матчQЗабіг ось-ось почнетьсяQЗабіг ось-ось почнетьсяQКоли розпочнеться матч
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/ruQВ какое время начинается матчQГонка вот-вот начнетсяQГонка вот-вот начнетсяQВ какое время начинается матч
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/bgQКога започва мачътQСъстезанието скоро ще започнеQСъстезанието скоро ще започнеQКога започва мачът
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/isQHvenær byrjar leikurinnQKeppnin er að hefjastQKeppnin er að hefjastQHvenær byrjar leikurinn
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/deQWann fängt das Spiel anQDe wedstrijd gaat beginnenQDe wedstrijd gaat beginnenQWann fängt das Spiel an
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/itQquando inizia la partitaQLa gara sta per iniziareQLa gara sta per iniziareQquando inizia la partita
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/svQNär börjar matchenQTävlingen ska snart börjaQTävlingen ska snart börjaQNär börjar matchen
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/ltQKada prasideda rungtynėsQNetrukus prasidės lenktynėsQNetrukus prasidės lenktynėsQKada prasideda rungtynės
+/disk1/dataset_glq/SP-10_video_frame/dev/23816/enQWhen does the match beginQThe race is about to startQThe race is about to startQWhen does the match begin
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/zhQ这 列 火 车 去 哪 里Q这 列 火 车 来 了Q这 列 火 车 来 了Q这 列 火 车 去 哪 里
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/ukQКуди цей поїзд їдеQПоїзд наближаєтьсяQПоїзд наближаєтьсяQКуди цей поїзд їде
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/ruQКуда идет этот поездQЭтот поезд уже едетQЭтот поезд уже едетQКуда идет этот поезд
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/bgQКъде отива този влакQТози влак идваQТози влак идваQКъде отива този влак
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/isQhvert fer þessi lestQLestin er að komaQLestin er að komaQhvert fer þessi lest
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/deQWohin fährt dieser ZugQDeze trein komt eraanQDeze trein komt eraanQWohin fährt dieser Zug
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/itQDov'è diretto questo trenoQquesto treno sta arrivandoQquesto treno sta arrivandoQDov'è diretto questo treno
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/svQVart går det här tågetQDet här tåget kommerQDet här tåget kommerQVart går det här tåget
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/ltQKur šitas traukinys vykstaQŠis traukinys atvažiuojaQŠis traukinys atvažiuojaQKur šitas traukinys vyksta
+/disk1/dataset_glq/SP-10_video_frame/dev/23823/enQWhere does this train goQThis train is comingQThis train is comingQWhere does this train go

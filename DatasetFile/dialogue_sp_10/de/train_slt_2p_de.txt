@@ -1,0 +1,830 @@
+/disk1/dataset_glq/SP-10_video_frame/train/410/deQHalloQHoi
+/disk1/dataset_glq/SP-10_video_frame/train/420/deQjaQJa dat ben ik
+/disk1/dataset_glq/SP-10_video_frame/train/620/deQWie fühlst du dichQIk voel me niet goed
+/disk1/dataset_glq/SP-10_video_frame/train/621/deQWie geht es dirQIk voel me prima
+/disk1/dataset_glq/SP-10_video_frame/train/625/deQWieviel UhrQHoe laat is het
+/disk1/dataset_glq/SP-10_video_frame/train/629/deQEs tut mir leidQDat maakt niet uit
+/disk1/dataset_glq/SP-10_video_frame/train/636/deQWoher kommst duQIk ben hier vroeg
+/disk1/dataset_glq/SP-10_video_frame/train/1297/deQauf WiedersehenQIk zie je snel
+/disk1/dataset_glq/SP-10_video_frame/train/1298/deQGuten MorgenQGoedemorgen
+/disk1/dataset_glq/SP-10_video_frame/train/1299/deQGuten TagQGoedemiddag
+/disk1/dataset_glq/SP-10_video_frame/train/1300/deQGute NachtQGoedemiddag
+/disk1/dataset_glq/SP-10_video_frame/train/1750/deQum 8 UhrQHoe laat is het
+/disk1/dataset_glq/SP-10_video_frame/train/1927/deQTschüssQVaarwel
+/disk1/dataset_glq/SP-10_video_frame/train/2783/deQFrohe WeihnachtenQVrolijk Kerstfeest
+/disk1/dataset_glq/SP-10_video_frame/train/2798/deQIch vermisse dich wirklichQHeb je me gemist
+/disk1/dataset_glq/SP-10_video_frame/train/2799/deQEin schönes WochenendeQHoe was je weekend
+/disk1/dataset_glq/SP-10_video_frame/train/2813/deQWie heißt duQHoe heet je
+/disk1/dataset_glq/SP-10_video_frame/train/2814/deQWie ist dein GebärdennameQWat is je sterrenbeeld
+/disk1/dataset_glq/SP-10_video_frame/train/2815/deQWie alt bist duQIk ben niet zo jong
+/disk1/dataset_glq/SP-10_video_frame/train/2816/deQSie haben RechtQHeb ik gelijk
+/disk1/dataset_glq/SP-10_video_frame/train/3103/deQIch gehe einkaufenQWaar ga je heen
+/disk1/dataset_glq/SP-10_video_frame/train/3104/deQMeine Freunde feiernQWat doen je vrienden
+/disk1/dataset_glq/SP-10_video_frame/train/3109/deQWas ist mit dir losQWat is er mis met jou
+/disk1/dataset_glq/SP-10_video_frame/train/3111/deQich habe dich lange Zeit nicht gesehenQHet is lang geleden
+/disk1/dataset_glq/SP-10_video_frame/train/3112/deQWir treffen uns im KinoQWaar ontmoeten we elkaar
+/disk1/dataset_glq/SP-10_video_frame/train/3113/deQWir werden mit dem Handy telefonierenQWaar praten we
+/disk1/dataset_glq/SP-10_video_frame/train/3114/deQStudieren Sie oder arbeiten SieQIk ben op school
+/disk1/dataset_glq/SP-10_video_frame/train/3116/deQIch treffe gerne neue MenschenQVind je het leuk om nieuwe mensen te ontmoeten
+/disk1/dataset_glq/SP-10_video_frame/train/3117/deQDavid ist ein netter KerlQHoe gaat het met David
+/disk1/dataset_glq/SP-10_video_frame/train/3118/deQKopf hochQBlijf positief
+/disk1/dataset_glq/SP-10_video_frame/train/3214/deQjoan versteht keine französische gebärdenspracheQKent Joan Franse gebarentaal
+/disk1/dataset_glq/SP-10_video_frame/train/3247/deQIch möchte einen HaarschnittQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/3248/deQIch möchte Strähnchen habenQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/3249/deQIch möchte meine Haare färbenQWat wil jij
+/disk1/dataset_glq/SP-10_video_frame/train/3250/deQWas möchten sieQIk wil een biefstuk
+/disk1/dataset_glq/SP-10_video_frame/train/3640/deQWie bist du gehörlos gewordenQIk ben doof
+/disk1/dataset_glq/SP-10_video_frame/train/3641/deQDu siehst gut ausQHoe zie ik eruit
+/disk1/dataset_glq/SP-10_video_frame/train/3642/deQWarum nichtQWat is er aan de hand Ik weet het niet
+/disk1/dataset_glq/SP-10_video_frame/train/3643/deQMelde dich späterQBel je me later
+/disk1/dataset_glq/SP-10_video_frame/train/3644/deQWir sind die bestenQZijn we close
+/disk1/dataset_glq/SP-10_video_frame/train/3645/deQIch bin zu altQHoe oud ben je
+/disk1/dataset_glq/SP-10_video_frame/train/3646/deQDu bist noch zu jungQJe ziet er niet oud uit
+/disk1/dataset_glq/SP-10_video_frame/train/3647/deQWie viel kostet esQHoeveel kost het
+/disk1/dataset_glq/SP-10_video_frame/train/3648/deQWie viel kostet esQHet is niet duur
+/disk1/dataset_glq/SP-10_video_frame/train/3649/deQKann ich hier parkenQKan ik de auto parkeren
+/disk1/dataset_glq/SP-10_video_frame/train/3652/deQIch bin nicht so gut in deiner GebärdenspracheQKen je onze nationale gebarentaal
+/disk1/dataset_glq/SP-10_video_frame/train/3653/deQBitte hilf mirQHeb je hulp nodig
+/disk1/dataset_glq/SP-10_video_frame/train/3654/deQIch mag dich nichtQVind je me leuk
+/disk1/dataset_glq/SP-10_video_frame/train/3655/deQHast du einen FreundQIk heb een vriend
+/disk1/dataset_glq/SP-10_video_frame/train/3657/deQMöchtest du ein Glas WeinQIk wil graag een glas wijn
+/disk1/dataset_glq/SP-10_video_frame/train/3658/deQEr ist ein IdiotQWat is er mis met hem
+/disk1/dataset_glq/SP-10_video_frame/train/3662/deQLass mich in RuheQStoor ik je
+/disk1/dataset_glq/SP-10_video_frame/train/3665/deQSie haben ein großes AlkoholproblemQDrink je veel
+/disk1/dataset_glq/SP-10_video_frame/train/3667/deQWo ist die ToiletteQIk moet naar het toilet
+/disk1/dataset_glq/SP-10_video_frame/train/3668/deQKann ich die Toilette benutzenQIk wil naar het toilet
+/disk1/dataset_glq/SP-10_video_frame/train/3670/deQDas möchte ichQWil je dit
+/disk1/dataset_glq/SP-10_video_frame/train/3671/deQDas mag ich nichtQVind je het leuk
+/disk1/dataset_glq/SP-10_video_frame/train/3672/deQHaben sie mehr davonQIk heb het niet
+/disk1/dataset_glq/SP-10_video_frame/train/3676/deQDas ist nicht wichtigQMaakt het wat uit
+/disk1/dataset_glq/SP-10_video_frame/train/3677/deQDas ist sehr wichtigQMaakt het wat uit
+/disk1/dataset_glq/SP-10_video_frame/train/3678/deQFolgen sie mirQKom met me mee
+/disk1/dataset_glq/SP-10_video_frame/train/3680/deQBis späterQIk zie je later
+/disk1/dataset_glq/SP-10_video_frame/train/3681/deQSie können mit mir fahrenQMag ik je auto meenemen
+/disk1/dataset_glq/SP-10_video_frame/train/3682/deQWarum hast du das gemachtQDat heb ik net gedaan
+/disk1/dataset_glq/SP-10_video_frame/train/3687/deQUmarme michQWat geef ik je
+/disk1/dataset_glq/SP-10_video_frame/train/3688/deQGib mir einen KussQWat geef ik je
+/disk1/dataset_glq/SP-10_video_frame/train/3689/deQIch glaube dir nichtQGeloof je me
+/disk1/dataset_glq/SP-10_video_frame/train/3693/deQIch bin JungfrauQBen je nog maagd
+/disk1/dataset_glq/SP-10_video_frame/train/3694/deQWann fängt die Schule anQIs school in sessie
+/disk1/dataset_glq/SP-10_video_frame/train/3696/deQBitte sagen Sie mirQKun je me dat vertellen
+/disk1/dataset_glq/SP-10_video_frame/train/3699/deQWo ist der nächste AufzugQIk ga naar de lift
+/disk1/dataset_glq/SP-10_video_frame/train/3700/deQWissen sie wo ich hier ein Zimmer finden kannQIk kan een kamer vinden
+/disk1/dataset_glq/SP-10_video_frame/train/3701/deQKönnen Sie mir ein preiswertes Hotel empfehlenQKun je een redelijk geprijsd hotel aanbevelen
+/disk1/dataset_glq/SP-10_video_frame/train/3703/deQKönnen Sie für mich reservierenQIk kan reserveren
+/disk1/dataset_glq/SP-10_video_frame/train/3704/deQIst das weit von hier entferntQHet is niet ver van hier
+/disk1/dataset_glq/SP-10_video_frame/train/3705/deQWie komme ich da hinQIk ga erheen
+/disk1/dataset_glq/SP-10_video_frame/train/3706/deQKönnen Sie mir eine kleine Skizze machenQIk kan een kleine kaart tekenen
+/disk1/dataset_glq/SP-10_video_frame/train/3707/deQHaben Sie ein Zimmer für michQIk kan een kamer voor je regelen
+/disk1/dataset_glq/SP-10_video_frame/train/7572/deQVergiss esQVergeet het maar
+/disk1/dataset_glq/SP-10_video_frame/train/8219/deQEs geht nichtQGa je dat doen
+/disk1/dataset_glq/SP-10_video_frame/train/8240/deQNichts zu tunQWat ga je doen
+/disk1/dataset_glq/SP-10_video_frame/train/8799/deQBist du hungrigQIk heb honger
+/disk1/dataset_glq/SP-10_video_frame/train/8800/deQSind Sie verheiratetQIk ben getrouwd
+/disk1/dataset_glq/SP-10_video_frame/train/8801/deQBürste dein HaarQWat is er met mijn haar gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/8802/deQSchließ die TürQDoe de deur dicht
+/disk1/dataset_glq/SP-10_video_frame/train/8803/deQSchließ das FensterQDoe het raam dicht
+/disk1/dataset_glq/SP-10_video_frame/train/8805/deQHast du ein AutoQIk heb een auto
+/disk1/dataset_glq/SP-10_video_frame/train/8808/deQMöchten Sie ein ErfrischungsgetränkQIk wil iets drinken
+/disk1/dataset_glq/SP-10_video_frame/train/8811/deQEntschuldigungQVergeef je me
+/disk1/dataset_glq/SP-10_video_frame/train/8812/deQVerzeiht mirQVergeef wie
+/disk1/dataset_glq/SP-10_video_frame/train/8820/deQWie gebärdest duQKen je gebarentaal
+/disk1/dataset_glq/SP-10_video_frame/train/8821/deQWie vielQHoeveel geld heb je
+/disk1/dataset_glq/SP-10_video_frame/train/8822/deQWie viele Kinder hast duQIk heb veel kinderen
+/disk1/dataset_glq/SP-10_video_frame/train/8824/deQIch bin verheiratetQBen je getrouwd
+/disk1/dataset_glq/SP-10_video_frame/train/8829/deQIch bin glücklichQBen je gelukkig
+/disk1/dataset_glq/SP-10_video_frame/train/8830/deQIch bin traurigQBen je verdrietig
+/disk1/dataset_glq/SP-10_video_frame/train/8835/deQIch hab mein Buch verlorenQWat heb je verloren
+/disk1/dataset_glq/SP-10_video_frame/train/8836/deQIch habe meinen Schirm verlorenQWat ben je kwijt
+/disk1/dataset_glq/SP-10_video_frame/train/8837/deQIch muss etwas Kaltes trinkenQWat heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/train/8838/deQIch muss meine Zähne putzenQWat heb jij nodig
+/disk1/dataset_glq/SP-10_video_frame/train/8845/deQLasst uns eine Party machenQWat gaan we doen
+/disk1/dataset_glq/SP-10_video_frame/train/8847/deQKann ich dein Auto ausleihenQJe kunt mijn auto lenen
+/disk1/dataset_glq/SP-10_video_frame/train/8848/deQKann ich Ihnen helfenQIk heb een gunst nodig
+/disk1/dataset_glq/SP-10_video_frame/train/8849/deQMein Vater ist letztes Jahr gestorbenQWanneer is je vader gestorven
+/disk1/dataset_glq/SP-10_video_frame/train/8850/deQMeine Internetverbindung ist gestörtQWat is er mis met je internet
+/disk1/dataset_glq/SP-10_video_frame/train/8852/deQWer bist duQWie ben jij Ik weet het niet
+/disk1/dataset_glq/SP-10_video_frame/train/8854/deQWelche Telefonnummer hast DuQIk ben mijn telefoonnummer vergeten
+/disk1/dataset_glq/SP-10_video_frame/train/8855/deQWie ist deine HandynummerQBen je mijn mobiele nummer vergeten
+/disk1/dataset_glq/SP-10_video_frame/train/8857/deQWas ist dein BerufQWat doe je
+/disk1/dataset_glq/SP-10_video_frame/train/8858/deQWie spät ist esQHet is al laat
+/disk1/dataset_glq/SP-10_video_frame/train/8859/deQWann wird geschlossenQHet is sluitingstijd
+/disk1/dataset_glq/SP-10_video_frame/train/8860/deQWann wird geöffnetQOpen de deur
+/disk1/dataset_glq/SP-10_video_frame/train/8862/deQWo ist dein FreundQMijn vriend is er niet
+/disk1/dataset_glq/SP-10_video_frame/train/8865/deQWerQWie ben jij Ik ken hem niet
+/disk1/dataset_glq/SP-10_video_frame/train/8866/deQWer ist der MannQIk ken die kerel niet
+/disk1/dataset_glq/SP-10_video_frame/train/8868/deQMöchten Sie tanzenQIk wil niet dansen
+/disk1/dataset_glq/SP-10_video_frame/train/8871/deQDeine Freundin ist hübschQMijn vriendin is mooi
+/disk1/dataset_glq/SP-10_video_frame/train/8873/deQWo ist McDonald'sQIk wil naar McDonald's
+/disk1/dataset_glq/SP-10_video_frame/train/9292/deQKein Alkohol am SteuerQMag je rijden als je gedronken hebt
+/disk1/dataset_glq/SP-10_video_frame/train/9592/deQEr geht jeden Dienstag ins KinoQHoe laat van de week ga je naar de bioscoop
+/disk1/dataset_glq/SP-10_video_frame/train/9593/deQEr ist 87 Jahre altQHoe oud is hij
+/disk1/dataset_glq/SP-10_video_frame/train/9594/deQVor 2 Jahren habe ich ein neues Haus gekauftQWanneer heb je je nieuwe huis gekocht
+/disk1/dataset_glq/SP-10_video_frame/train/9596/deQIch habe um 2:30 Uhr pm eine VerabredungQHeb je vanmiddag een afspraak
+/disk1/dataset_glq/SP-10_video_frame/train/9597/deQIch zahle alle 3 MonateQHoe vaak betaal je
+/disk1/dataset_glq/SP-10_video_frame/train/9598/deQIch sehe sie jeden SamstagQWanneer zie je hem elke week
+/disk1/dataset_glq/SP-10_video_frame/train/9599/deQIch besuchte meine Tante vor 2 MonatenQWanneer heb je je tante gezien
+/disk1/dataset_glq/SP-10_video_frame/train/9600/deQIch bin 1960 geborenQWanneer ben jij geboren
+/disk1/dataset_glq/SP-10_video_frame/train/9601/deQIch komme nächsten Montag zu dirQWanneer heb je hem gezien
+/disk1/dataset_glq/SP-10_video_frame/train/9602/deQEs ist 10 vor 9QHoe laat is het nu
+/disk1/dataset_glq/SP-10_video_frame/train/9603/deQEs ist 4 Uhr 45QHoe laat is het
+/disk1/dataset_glq/SP-10_video_frame/train/9607/deQDie Zeit ist vorbeiQIs het tijd
+/disk1/dataset_glq/SP-10_video_frame/train/9608/deQFragenQIk heb een vraag
+/disk1/dataset_glq/SP-10_video_frame/train/9609/deQFang an zu schreibenQBen je begonnen met schrijven
+/disk1/dataset_glq/SP-10_video_frame/train/9610/deQSie arbeitet gut in der GruppeQGaat het goed met Bob in het team
+/disk1/dataset_glq/SP-10_video_frame/train/9611/deQMach das Buch zuQWat moeten we doen
+/disk1/dataset_glq/SP-10_video_frame/train/9612/deQHast du bestanden oder bist du durchgefallenQBen je gekwalificeerd
+/disk1/dataset_glq/SP-10_video_frame/train/9614/deQGehst du zur SchuleQWaar ga je heen
+/disk1/dataset_glq/SP-10_video_frame/train/9615/deQEr redet in der Klasse zu vielQHoe doet hij het in de klas
+/disk1/dataset_glq/SP-10_video_frame/train/9620/deQIch bin StudentQBen jij een student
+/disk1/dataset_glq/SP-10_video_frame/train/9622/deQIch studiere KunstQWat studeer je
+/disk1/dataset_glq/SP-10_video_frame/train/9623/deQIch studiere BetriebswirtschaftQWat leer je
+/disk1/dataset_glq/SP-10_video_frame/train/9624/deQIch studiere ChemieQWat leer je
+/disk1/dataset_glq/SP-10_video_frame/train/9625/deQIch studiere ComputertechnikQWat ben je aan het leren
+/disk1/dataset_glq/SP-10_video_frame/train/9626/deQIch studiere psychologische BeratungQWat studeer je
+/disk1/dataset_glq/SP-10_video_frame/train/9627/deQIch studiere PädagogikQWat ben je aan het leren
+/disk1/dataset_glq/SP-10_video_frame/train/9629/deQIch studiere MedizinQWat ben je aan het leren
+/disk1/dataset_glq/SP-10_video_frame/train/9630/deQIch studiere GeschichteQWat studeer je
+/disk1/dataset_glq/SP-10_video_frame/train/9631/deQIch studiere ÖkotrophologieQWat is je hoofdvak
+/disk1/dataset_glq/SP-10_video_frame/train/9632/deQIch studiere MathematikQWat is je hoofdvak
+/disk1/dataset_glq/SP-10_video_frame/train/9634/deQIch studiere PhilosophieQWat is je hoofdvak
+/disk1/dataset_glq/SP-10_video_frame/train/9635/deQIch studiere PhysiotherapieQWat is je hoofdvak
+/disk1/dataset_glq/SP-10_video_frame/train/9636/deQIch studiere PsychologieQWat studeer je
+/disk1/dataset_glq/SP-10_video_frame/train/9637/deQIch studiere NaturwissenschaftenQWat is je hoofdvak
+/disk1/dataset_glq/SP-10_video_frame/train/9639/deQIch studiere TheaterwissenschaftenQWat studeer je
+/disk1/dataset_glq/SP-10_video_frame/train/9641/deQIch habe für meine Arbeit eine Zwei bekommenQWat heb je op papier
+/disk1/dataset_glq/SP-10_video_frame/train/9642/deQIch habe für meine Arbeit eine Drei bekommenQWat staat er op je papier
+/disk1/dataset_glq/SP-10_video_frame/train/9643/deQIch habe für meine Arbeit eine Vier bekommenQWat staat er op je papier
+/disk1/dataset_glq/SP-10_video_frame/train/9646/deQIch habe letztes Jahr meinen Abschluss gemachtQWanneer studeer je af
+/disk1/dataset_glq/SP-10_video_frame/train/9647/deQIch bin gerne früh mit meiner Arbeit fertigQWanneer wil je klaar zijn met je werk
+/disk1/dataset_glq/SP-10_video_frame/train/9648/deQIch lerne gernQStudeer je graag
+/disk1/dataset_glq/SP-10_video_frame/train/9649/deQIch habe die ganze Nacht gelerntQHoe laat heb je geleerd
+/disk1/dataset_glq/SP-10_video_frame/train/9650/deQSie muss auf die Anweisungen hörenQWat moet Jane nog doen
+/disk1/dataset_glq/SP-10_video_frame/train/9651/deQEr kommt oft zu spät zum UnterrichtQWie is er te laat voor de les
+/disk1/dataset_glq/SP-10_video_frame/train/9653/deQMit Mathe habe ich SchwierigkeitenQWat is moeilijk
+/disk1/dataset_glq/SP-10_video_frame/train/9654/deQEr ist ein fleißiger SchülerQWie is een hardwerkende student
+/disk1/dataset_glq/SP-10_video_frame/train/9655/deQMeine Noten werden immer besserQHoe zijn je cijfers
+/disk1/dataset_glq/SP-10_video_frame/train/9656/deQWährend der Klassenarbeit bitte keine UnterhaltungenQKun je praten tijdens examens
+/disk1/dataset_glq/SP-10_video_frame/train/9657/deQSchlag das Buch aufQWat heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/train/9658/deQBitte putzen Sie nicht die TafelQKun je het schoolbord vegen
+/disk1/dataset_glq/SP-10_video_frame/train/9659/deQHör auf zu schreibenQKun je schrijven
+/disk1/dataset_glq/SP-10_video_frame/train/9662/deQWir haben morgen ein KlassenarbeitQHeb je morgen een toets
+/disk1/dataset_glq/SP-10_video_frame/train/9663/deQWelche Kurse wählst Du dieses SemesterQHeb je les
+/disk1/dataset_glq/SP-10_video_frame/train/9664/deQWenn Sie fehlen dann müssen Sie eine Entschuldugung abgebenQMisschien moet ik die missen
+/disk1/dataset_glq/SP-10_video_frame/train/9666/deQDu hast deine Arbeit noch nicht abgegebenQHeb je je werkstuk ingeleverd
+/disk1/dataset_glq/SP-10_video_frame/train/9668/deQBitte unterbrich mich nichtQMag ik onderbreken
+/disk1/dataset_glq/SP-10_video_frame/train/9669/deQDeine Schrift ist unleserlichQHoe gaat het met mijn schrijven
+/disk1/dataset_glq/SP-10_video_frame/train/9670/deQSind deine Koffer gepacktQIs mijn bagage klaar
+/disk1/dataset_glq/SP-10_video_frame/train/9671/deQKannst du fahrenQIk ga rijden
+/disk1/dataset_glq/SP-10_video_frame/train/9673/deQKannst du da wartenQWaar moet ik wachten
+/disk1/dataset_glq/SP-10_video_frame/train/9674/deQKomm mich doch irgendwann mal besuchenQHeb je tijd om me te zien
+/disk1/dataset_glq/SP-10_video_frame/train/9675/deQHast du einen StadtplanQIk heb een kaart van de stad
+/disk1/dataset_glq/SP-10_video_frame/train/9676/deQHaben Sie irgendwelche BroschürenQIk heb een brochure
+/disk1/dataset_glq/SP-10_video_frame/train/9677/deQHast du das TicketQIk heb tickets
+/disk1/dataset_glq/SP-10_video_frame/train/9678/deQWeißt du wie man mit einer Kupplung schaltetQIk weet niet hoe ik de versnellingspook moet gebruiken
+/disk1/dataset_glq/SP-10_video_frame/train/9680/deQSprichst Du FranzösischQSpreekt u Frans
+/disk1/dataset_glq/SP-10_video_frame/train/9681/deQSprichst du DeutschQSpreekt u Duits
+/disk1/dataset_glq/SP-10_video_frame/train/9682/deQSprichst du ItalienischQSpreekt u Italiaans
+/disk1/dataset_glq/SP-10_video_frame/train/9683/deQSprichst du SpanischQSpaans
+/disk1/dataset_glq/SP-10_video_frame/train/9684/deQHast du dein Ticket gekauftQIk heb geen ticket gekocht
+/disk1/dataset_glq/SP-10_video_frame/train/9686/deQWarst du schon einmal in JapanQIk ben in Japan geweest
+/disk1/dataset_glq/SP-10_video_frame/train/9688/deQWie lange bleibst duQIk zou lang kunnen blijven
+/disk1/dataset_glq/SP-10_video_frame/train/9689/deQWas kostet das für eine NachtQHet is geen slechte deal per nacht
+/disk1/dataset_glq/SP-10_video_frame/train/9690/deQIch fliege heute Abend nach New YorkQWaar vlieg je vanavond heen
+/disk1/dataset_glq/SP-10_video_frame/train/9691/deQIch werde ins Hotel gehen und ein Bad nehmenQWaar ga je douchen
+/disk1/dataset_glq/SP-10_video_frame/train/9692/deQIch habe kein Benzin mehrQZit er nog benzine in de auto
+/disk1/dataset_glq/SP-10_video_frame/train/9693/deQIch habe keine GenehmigungQHeb je een rijbewijs
+/disk1/dataset_glq/SP-10_video_frame/train/9695/deQGestern hatte ich einen PlattenQWat is er gisteren met de banden gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/9696/deQIch habe meinen Pass verlorenQWaar is je paspoort
+/disk1/dataset_glq/SP-10_video_frame/train/9698/deQIch brauche ein TaxiQWat voor auto heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/train/9699/deQIch bringe dich zum FlughafenQWaar breng je me naartoe
+/disk1/dataset_glq/SP-10_video_frame/train/9700/deQIch hätte gerne ein DoppelzimmerQWelk huis wil je
+/disk1/dataset_glq/SP-10_video_frame/train/9701/deQIch möchte einequittungQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/9702/deQIch suche ein Zimmer für 1 NachtQWat wil jij
+/disk1/dataset_glq/SP-10_video_frame/train/9703/deQIch möchte ein EinzelzimmerQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/9704/deQIch möchte gerne reservierenQWil je een kamer boeken
+/disk1/dataset_glq/SP-10_video_frame/train/9705/deQIst das Frühstück dabeiQInclusief ontbijt
+/disk1/dataset_glq/SP-10_video_frame/train/9706/deQTriffst du dich mit jemandemQNiemand kent mij
+/disk1/dataset_glq/SP-10_video_frame/train/9709/deQIhr Ticket bitteQIk heb een ticket
+/disk1/dataset_glq/SP-10_video_frame/train/9711/deQFahr langsamer und biege rechts abQDoe eens wat rustiger
+/disk1/dataset_glq/SP-10_video_frame/train/9712/deQIrgendwann werde ich nach Afrika fahrenQWaar ga je op een dag heen
+/disk1/dataset_glq/SP-10_video_frame/train/9713/deQHier anhaltenQWaar stopt het
+/disk1/dataset_glq/SP-10_video_frame/train/9714/deQDer Flughafen ist wegen des Nebels geschlossenQIs de luchthaven gesloten
+/disk1/dataset_glq/SP-10_video_frame/train/9716/deQDer Flug fällt ausQIs de vlucht geannuleerd
+/disk1/dataset_glq/SP-10_video_frame/train/9717/deQDer Abflug verschiebt sich um eine StundeQHoe lang heeft de vlucht vertraging
+/disk1/dataset_glq/SP-10_video_frame/train/9718/deQDas Flugzeug ist bereit zum EinsteigenQGaat u nu aan boord
+/disk1/dataset_glq/SP-10_video_frame/train/9719/deQDie Plätze sind nicht reserviertQKan ik mijn stoel houden
+/disk1/dataset_glq/SP-10_video_frame/train/9720/deQWir haben 2 Stunden AufenthaltQHoe lang is de overstap
+/disk1/dataset_glq/SP-10_video_frame/train/9721/deQWir landen in 10 MinutenQHoe laat landt de vlucht
+/disk1/dataset_glq/SP-10_video_frame/train/9722/deQWann kommt der BusQDe bus komt eraan
+/disk1/dataset_glq/SP-10_video_frame/train/9723/deQWann fliegt das FlugzeugQHet vliegtuig vertrekt
+/disk1/dataset_glq/SP-10_video_frame/train/9724/deQWann fährt der Zug losQDe trein vertrekt
+/disk1/dataset_glq/SP-10_video_frame/train/9725/deQWann muss ich auscheckenQJe moet eerst uitchecken
+/disk1/dataset_glq/SP-10_video_frame/train/9727/deQWo kann ich Tickets kaufenQU moet een kaartje kopen
+/disk1/dataset_glq/SP-10_video_frame/train/9728/deQWo ist das MuseumQIk ga naar het museum
+/disk1/dataset_glq/SP-10_video_frame/train/9730/deQWo ist das TheaterQIk moet naar het theater
+/disk1/dataset_glq/SP-10_video_frame/train/9731/deQWo ist die TouristeninformationQIk kan het toeristeninformatiecentrum niet vinden
+/disk1/dataset_glq/SP-10_video_frame/train/9732/deQWelche Fluggesellschaft nimmst duQIk neem een vlucht
+/disk1/dataset_glq/SP-10_video_frame/train/9735/deQKannst Du mich um 6 Uhr morgens anrufenQWanneer ga je me wakker maken
+/disk1/dataset_glq/SP-10_video_frame/train/9736/deQMöchten Sie eine Zeitschrift oder eine ZeitungQIk wil de krant lezen
+/disk1/dataset_glq/SP-10_video_frame/train/9739/deQMachst du Online-BankingQIk gebruik geen online bankieren
+/disk1/dataset_glq/SP-10_video_frame/train/9740/deQHast du ein SchreibtelefonQIk heb een telefoon met typemachine voor doven
+/disk1/dataset_glq/SP-10_video_frame/train/9743/deQIch mache ein Studium zum Netzwerk-IngenieurQWat ben je aan het leren
+/disk1/dataset_glq/SP-10_video_frame/train/9746/deQMeine Festplatte war kaputtQWat is er met je harde schijf gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/9747/deQIch habe eine DSL-VerbindungQHeb je een breedband internetverbinding
+/disk1/dataset_glq/SP-10_video_frame/train/9748/deQIch habe ein neues Bildbearbeitungs-ProgrammQHeb je een nieuw fotobewerkingsprogramma
+/disk1/dataset_glq/SP-10_video_frame/train/9749/deQIch mag Online-ShoppingQHou je van online winkelen
+/disk1/dataset_glq/SP-10_video_frame/train/9750/deQIch liebe meinen FlachbildschirmQHou je van flatscreens
+/disk1/dataset_glq/SP-10_video_frame/train/9751/deQIch liebe meinen neuen KumpelQHou je van nieuwe partners
+/disk1/dataset_glq/SP-10_video_frame/train/9753/deQIch bekomme zu viel SpamQWat voor soort e-mails krijg je
+/disk1/dataset_glq/SP-10_video_frame/train/9756/deQIch benutze Outlook für meine MailsQGebruikt u e-mail
+/disk1/dataset_glq/SP-10_video_frame/train/9758/deQLeg die Diskette ins LaufwerkQWat sluit je aan
+/disk1/dataset_glq/SP-10_video_frame/train/9761/deQMeine Internetverbindung ist langsamQIs je internet snel
+/disk1/dataset_glq/SP-10_video_frame/train/9762/deQMein Monitor ist defektQWat is er mis met je computer
+/disk1/dataset_glq/SP-10_video_frame/train/9763/deQMein Textverarbeitungsprogramm ist WordQWat is je tekstverwerker
+/disk1/dataset_glq/SP-10_video_frame/train/9764/deQDas ist ein schönes MousepadQZiet je muismat er goed uit
+/disk1/dataset_glq/SP-10_video_frame/train/9765/deQBist du ChristQIk geloof niet in het christendom
+/disk1/dataset_glq/SP-10_video_frame/train/9766/deQBist du Mitglied in einer KircheQIk ga niet naar de kerk
+/disk1/dataset_glq/SP-10_video_frame/train/9770/deQSoll ich die Messe übersetzenQMoet ik voor je vertalen
+/disk1/dataset_glq/SP-10_video_frame/train/9773/deQEr war ein PredigerQWas hij een prediker
+/disk1/dataset_glq/SP-10_video_frame/train/9775/deQIch gehe jeden Sonntag zur KircheQHoe laat ga je naar de kerk
+/disk1/dataset_glq/SP-10_video_frame/train/9777/deQGibt es eine JugendgruppeQEr is geen jeugdgroep
+/disk1/dataset_glq/SP-10_video_frame/train/9784/deQSie ist MissionarinQIs zij een missionaris
+/disk1/dataset_glq/SP-10_video_frame/train/9785/deQWie ist die Adresse der KircheQIk wil naar de kerk
+/disk1/dataset_glq/SP-10_video_frame/train/9786/deQWelche Telefonnummer hat die KircheQWeet je het telefoonnummer van de kerk
+/disk1/dataset_glq/SP-10_video_frame/train/9787/deQWelchen Service bieten Sie anQHij is open
+/disk1/dataset_glq/SP-10_video_frame/train/9788/deQWann sind die GottesdiensteQHij is open
+/disk1/dataset_glq/SP-10_video_frame/train/9789/deQWo findet der Kindergottesdienst stattQKen je de zondagsschool
+/disk1/dataset_glq/SP-10_video_frame/train/9791/deQEr hat zwei UniversitätsabschlüsseQHoeveel afgestudeerden heeft die
+/disk1/dataset_glq/SP-10_video_frame/train/9793/deQIch habe 3 Wochen UrlaubQHoe lang ben je op vakantie
+/disk1/dataset_glq/SP-10_video_frame/train/9794/deQIch habe diesen Film schon dreimal gesehenQHoe vaak heb je de film gezien
+/disk1/dataset_glq/SP-10_video_frame/train/9796/deQIch möchte eine halbe Tasse KaffeeQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/9797/deQIch arbeite 6 Tage in der WocheQHoeveel dagen per week werk je
+/disk1/dataset_glq/SP-10_video_frame/train/9798/deQIch mache seit 12 Wochen DiätQHoe lang ben je al op dieet
+/disk1/dataset_glq/SP-10_video_frame/train/9800/deQMeine Telefonnummer istQWeet je mijn telefoonnummer
+/disk1/dataset_glq/SP-10_video_frame/train/9801/deQIn 3 Monaten habe ich UrlaubQHoeveel maanden is je vakantie
+/disk1/dataset_glq/SP-10_video_frame/train/9803/deQDie Müllabfuhr kommt einmal in der WocheQHoeveel weken staat de vuilniswagen
+/disk1/dataset_glq/SP-10_video_frame/train/9805/deQIn unserem Land leben nur 2 Millionen MenschenQHoeveel mensen zijn er in jouw land
+/disk1/dataset_glq/SP-10_video_frame/train/9806/deQDa waren 150 HochzeitsgästeQHoeveel mensen waren er op de bruiloft
+/disk1/dataset_glq/SP-10_video_frame/train/9808/deQWasser friert bei 0°CQOnder welke omstandigheden bevriest water
+/disk1/dataset_glq/SP-10_video_frame/train/9809/deQHaben Sie freie StellenQWe hebben geen vacatures
+/disk1/dataset_glq/SP-10_video_frame/train/9810/deQEr arbeitet hart in seinem BerufQWerkt hij hard
+/disk1/dataset_glq/SP-10_video_frame/train/9812/deQWas verdient er in dieser StellungQIs het een goede positie
+/disk1/dataset_glq/SP-10_video_frame/train/9813/deQIch bin ArztQBent u dokter
+/disk1/dataset_glq/SP-10_video_frame/train/9814/deQIch bin FeuerwehrmannQBent u brandweerman
+/disk1/dataset_glq/SP-10_video_frame/train/9815/deQIch bin HausfrauQWat voor werk doe je
+/disk1/dataset_glq/SP-10_video_frame/train/9817/deQIch bin PolizistQWat is jouw baan
+/disk1/dataset_glq/SP-10_video_frame/train/9818/deQIch bin SekretärinQWat is jouw job
+/disk1/dataset_glq/SP-10_video_frame/train/9819/deQIch bin SchauspielerQWat is jouw job
+/disk1/dataset_glq/SP-10_video_frame/train/9820/deQIch bin KünstlerQWat is jouw job
+/disk1/dataset_glq/SP-10_video_frame/train/9823/deQIch mag meine ArbeitQVind je je baan leuk
+/disk1/dataset_glq/SP-10_video_frame/train/9824/deQIch möchte für diese Stelle vorsprechenQWil je solliciteren voor deze baan
+/disk1/dataset_glq/SP-10_video_frame/train/9826/deQMein Cousin ist PilotQWat doet je neef
+/disk1/dataset_glq/SP-10_video_frame/train/9827/deQMein Onkel ist BauerQWat doet je oom
+/disk1/dataset_glq/SP-10_video_frame/train/9832/deQEin Bär lebt in seiner HöhleQWaar woont een beer
+/disk1/dataset_glq/SP-10_video_frame/train/9834/deQIst der Schnee geschmolzenQDe sneeuw smelt
+/disk1/dataset_glq/SP-10_video_frame/train/9835/deQHast du schon einmal ein Erdbeben erlebtQIk heb nog nooit een aardbeving meegemaakt
+/disk1/dataset_glq/SP-10_video_frame/train/9837/deQIch fürchte mich vor GewitternQBen je bang voor onweer
+/disk1/dataset_glq/SP-10_video_frame/train/9838/deQIch fürchte mich vor TornadosQBen je bang voor tornado's
+/disk1/dataset_glq/SP-10_video_frame/train/9845/deQEs ist ein wunderschöner TagQWat voor weer is het vandaag
+/disk1/dataset_glq/SP-10_video_frame/train/9847/deQEs schneitQSneeuwt het
+/disk1/dataset_glq/SP-10_video_frame/train/9848/deQHeute ist es windigQWaait het vandaag
+/disk1/dataset_glq/SP-10_video_frame/train/9849/deQGestern hat es geregnetQHeeft het gisteren geregend
+/disk1/dataset_glq/SP-10_video_frame/train/9850/deQHeute Morgen war es kaltQIs het koud vanmorgen
+/disk1/dataset_glq/SP-10_video_frame/train/9851/deQEs wird heute Nacht frierenQVriest het vannacht
+/disk1/dataset_glq/SP-10_video_frame/train/9852/deQVielleicht schneit es morgenQGaat het morgen sneeuwen
+/disk1/dataset_glq/SP-10_video_frame/train/9853/deQEs gießt wie aus EimernQGaat het veel regenen
+/disk1/dataset_glq/SP-10_video_frame/train/9855/deQSeesturmQIs er storm op zee
+/disk1/dataset_glq/SP-10_video_frame/train/9856/deQDie Wettervorhersage sagt einen sonnigen Tag vorausQWat is de voorspelling
+/disk1/dataset_glq/SP-10_video_frame/train/9858/deQEs ist heißQIs de zon heet
+/disk1/dataset_glq/SP-10_video_frame/train/9860/deQDer Wasserfall ist sehr schönQIs de waterval mooi
+/disk1/dataset_glq/SP-10_video_frame/train/9861/deQHeute ist VollmondQHoe is het met de maan
+/disk1/dataset_glq/SP-10_video_frame/train/9862/deQLetztes Jahr hatten wir HochwasserQWanneer komt de overstroming
+/disk1/dataset_glq/SP-10_video_frame/train/9863/deQIn der Nacht gab es ein GewitterQHoe was het weer gisteravond
+/disk1/dataset_glq/SP-10_video_frame/train/9864/deQSich am Kamin aufwärmenQHoe blijf je warm
+/disk1/dataset_glq/SP-10_video_frame/train/9865/deQWir haben uns in der Wüste verlaufenQHoe ben je verdwaald
+/disk1/dataset_glq/SP-10_video_frame/train/9866/deQWieviel Grad ist esQHet was een beetje warm
+/disk1/dataset_glq/SP-10_video_frame/train/9867/deQWas sind das für BäumeQHet is een mooie boom
+/disk1/dataset_glq/SP-10_video_frame/train/9870/deQVon hier kannst du viele Sterne sehenQKun je vanaf hier de sterren zien
+/disk1/dataset_glq/SP-10_video_frame/train/9871/deQKönnen Sie einen 5-Euro-Schein wechselnQIk heb geen kleingeld voor vijf cent
+/disk1/dataset_glq/SP-10_video_frame/train/9872/deQHast du ein 10-Cent-StückQIk heb geen tien cent
+/disk1/dataset_glq/SP-10_video_frame/train/9873/deQHast du ein 5-Cent-StückQIk heb een stuiver
+/disk1/dataset_glq/SP-10_video_frame/train/9875/deQHast du einen SparplanQIk heb een spaarplan
+/disk1/dataset_glq/SP-10_video_frame/train/9876/deQWie viel hast du bezahltQIk betaal veel geld
+/disk1/dataset_glq/SP-10_video_frame/train/9877/deQWie viel schuldet er dirQHij is veel geld schuldig
+/disk1/dataset_glq/SP-10_video_frame/train/9878/deQWie viel Eintritt kostet dasQHet kost geld om binnen te komen
+/disk1/dataset_glq/SP-10_video_frame/train/9879/deQWie teuer ist das BuchQHet is geen duur boek
+/disk1/dataset_glq/SP-10_video_frame/train/9880/deQIch möchte eine Kreditkarte beantragenQHeb je een kaart
+/disk1/dataset_glq/SP-10_video_frame/train/9881/deQIch habe kein GeldQHeb je geld
+/disk1/dataset_glq/SP-10_video_frame/train/9883/deQIch muss zur BankQMoet je naar de bank
+/disk1/dataset_glq/SP-10_video_frame/train/9885/deQIch bin pleiteQBen je blut
+/disk1/dataset_glq/SP-10_video_frame/train/9888/deQWo finde ich einen GeldautomatenQIk moet naar de pinautomaat
+/disk1/dataset_glq/SP-10_video_frame/train/9889/deQWas macht Ihre SteuererklärungQIk moet belasting betalen
+/disk1/dataset_glq/SP-10_video_frame/train/9891/deQHaben Sie am Tag der Arbeit schon etwas vorQIk heb plannen voor de Dag van de Arbeid
+/disk1/dataset_glq/SP-10_video_frame/train/9894/deQHappy HalloweenQGelukkig Halloween
+/disk1/dataset_glq/SP-10_video_frame/train/9896/deQHerzlichen Glückwunsch zum MuttertagQFijne Moederdag
+/disk1/dataset_glq/SP-10_video_frame/train/9898/deQFröhlichen ValentinstagQFijne Valentijnsdag
+/disk1/dataset_glq/SP-10_video_frame/train/9906/deQMuttertagQGelukkige Moederdag
+/disk1/dataset_glq/SP-10_video_frame/train/9907/deQFriede und guter WilleQVrede en Welwillendheid
+/disk1/dataset_glq/SP-10_video_frame/train/9909/deQWeihnachtsgrüßeQVakantiegroeten
+/disk1/dataset_glq/SP-10_video_frame/train/9910/deQSag deinen Großeltern DankeQBedankt voor je grootouders
+/disk1/dataset_glq/SP-10_video_frame/train/9915/deQGeht es dir gutQIk voel me goed
+/disk1/dataset_glq/SP-10_video_frame/train/9917/deQHaben Sie eine KrankenversicherungQIk heb geen ziektekostenverzekering
+/disk1/dataset_glq/SP-10_video_frame/train/9918/deQWurde dir schon einmal ein Zahn gezogenQIk heb nog geen tand laten trekken
+/disk1/dataset_glq/SP-10_video_frame/train/9919/deQIch fühle mich nicht gutQVoel je je goed
+/disk1/dataset_glq/SP-10_video_frame/train/9920/deQIch fühle mich gutQVoel je je goed
+/disk1/dataset_glq/SP-10_video_frame/train/9922/deQMir ist schwindeligQVoel je je duizelig
+/disk1/dataset_glq/SP-10_video_frame/train/9923/deQMir geht es gutQHoe voel je je
+/disk1/dataset_glq/SP-10_video_frame/train/9924/deQIch fühl mich schlechtQVoel je je misselijk
+/disk1/dataset_glq/SP-10_video_frame/train/9925/deQIch fühle mich krankQVoel je je ziek
+/disk1/dataset_glq/SP-10_video_frame/train/9926/deQIch war letzte Woche zu einer Untersuchung beim ArztQHeb je een medische controle gehad
+/disk1/dataset_glq/SP-10_video_frame/train/9928/deQIch habe HustenQMoet u hoesten
+/disk1/dataset_glq/SP-10_video_frame/train/9930/deQIch habe HalsschmerzenQHeb je keelpijn
+/disk1/dataset_glq/SP-10_video_frame/train/9931/deQIch habe BauchschmerzenQWat heb je
+/disk1/dataset_glq/SP-10_video_frame/train/9932/deQIch habe ZahnschmerzenQHeb je kiespijn
+/disk1/dataset_glq/SP-10_video_frame/train/9933/deQIch habe mich erkältetQBen je verkouden
+/disk1/dataset_glq/SP-10_video_frame/train/9935/deQIch habe mein Brille verlorenQWaar is je bril
+/disk1/dataset_glq/SP-10_video_frame/train/9936/deQIch habe keine Medikamente mehrQZijn je medicijnen op
+/disk1/dataset_glq/SP-10_video_frame/train/9937/deQIch muss Medikamente kaufenQGa je medicijnen kopen
+/disk1/dataset_glq/SP-10_video_frame/train/9938/deQIch muss Tabletten nehmenQHeb je medicijnen nodig
+/disk1/dataset_glq/SP-10_video_frame/train/9939/deQIch muss zum ZahnarztQHeb je een tandarts nodig
+/disk1/dataset_glq/SP-10_video_frame/train/9940/deQIch brauche einen ArztQHeb je een dokter nodig
+/disk1/dataset_glq/SP-10_video_frame/train/9941/deQIch war 2 Wochen bettlägrigQHoe lang lig je al in bed
+/disk1/dataset_glq/SP-10_video_frame/train/9942/deQIst es kaputtQIs het goed
+/disk1/dataset_glq/SP-10_video_frame/train/9943/deQEs tut hier wehQHeb je hier pijn
+/disk1/dataset_glq/SP-10_video_frame/train/9944/deQEs ist Zeit Fieber zu messenQMoet ik je temperatuur opnemen
+/disk1/dataset_glq/SP-10_video_frame/train/9947/deQMein Mann hatte eine OPQIs je man geopereerd
+/disk1/dataset_glq/SP-10_video_frame/train/9948/deQMeine Nase läuftQHeeft u een loopneus
+/disk1/dataset_glq/SP-10_video_frame/train/9949/deQIch habe mir den Magen verdorbenQIs je maag van streek
+/disk1/dataset_glq/SP-10_video_frame/train/9950/deQMeine Frau liegt im KrankenhausQWat is er mis met je vrouw
+/disk1/dataset_glq/SP-10_video_frame/train/9951/deQSie müssen ein wenig Blut abnehmenQNeemt u bloed af
+/disk1/dataset_glq/SP-10_video_frame/train/9952/deQIst etwas gebrochenQHet lijkt op een gebroken bot
+/disk1/dataset_glq/SP-10_video_frame/train/9953/deQWas sind Deine SymptomeQEr zijn wat symptomen
+/disk1/dataset_glq/SP-10_video_frame/train/9954/deQWofür ist dieses RezeptQIk zag het weerbericht
+/disk1/dataset_glq/SP-10_video_frame/train/9956/deQWo ist ein KrankenhausQIk wil naar het ziekenhuis
+/disk1/dataset_glq/SP-10_video_frame/train/9958/deQDu hast stark abgenommenQBen je afgevallen
+/disk1/dataset_glq/SP-10_video_frame/train/9959/deQSie brauchen eine SpritzeQHeb je een injectie nodig
+/disk1/dataset_glq/SP-10_video_frame/train/9960/deQDu hast viel Blut verlorenQBloed je
+/disk1/dataset_glq/SP-10_video_frame/train/9961/deQDu musst geröntgt werdenQWat moet je doen
+/disk1/dataset_glq/SP-10_video_frame/train/9965/deQHast du den Nachtisch mitgebrachtQIk wil een toetje
+/disk1/dataset_glq/SP-10_video_frame/train/9966/deQHast du gegessenQIk heb nog niet gegeten
+/disk1/dataset_glq/SP-10_video_frame/train/9970/deQMöchtest du ins Kino gehenQIk wil naar de bioscoop
+/disk1/dataset_glq/SP-10_video_frame/train/9973/deQBitte setz dichQGa alsjeblieft zitten
+/disk1/dataset_glq/SP-10_video_frame/train/9974/deQHast du etwas gegessenQIk heb al gegeten
+/disk1/dataset_glq/SP-10_video_frame/train/9975/deQEr hat den Videorekorder kaputt gemachtQWat is er met je videorecorder gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/9977/deQSeine Nichte wird dir helfenQHelpt zijn nichtje me
+/disk1/dataset_glq/SP-10_video_frame/train/9979/deQWie ist es dir ergangenQHet gaat goed met me
+/disk1/dataset_glq/SP-10_video_frame/train/9983/deQIch bin geschiedenQBen je gescheiden
+/disk1/dataset_glq/SP-10_video_frame/train/9984/deQIch freue mich dich zu sehenQBen je blij me te zien
+/disk1/dataset_glq/SP-10_video_frame/train/9986/deQIch bin SingleQBen je vrijgezel
+/disk1/dataset_glq/SP-10_video_frame/train/9987/deQIch weiß deine Hilfe zu schätzenQWaardeer je mijn hulp
+/disk1/dataset_glq/SP-10_video_frame/train/9988/deQIch sitze gerne in der SonneQWaar zit je graag
+/disk1/dataset_glq/SP-10_video_frame/train/9992/deQIch habe 20 Minuten gewartetQHoe lang wacht je al
+/disk1/dataset_glq/SP-10_video_frame/train/9993/deQIch habe dich lange nicht gesehenQDat is lang geleden
+/disk1/dataset_glq/SP-10_video_frame/train/9996/deQIch habe meine Schreibmaschine verliehenQAan wie heb je je typemachine uitgeleend
+/disk1/dataset_glq/SP-10_video_frame/train/9997/deQIch habe meinen Kamm verlorenQWat bent u kwijt
+/disk1/dataset_glq/SP-10_video_frame/train/10001/deQIch brauche BriefmarkenQHeb je een postzegel nodig
+/disk1/dataset_glq/SP-10_video_frame/train/10003/deQIch möchte meine Zähne putzenQWat wil je hebben
+/disk1/dataset_glq/SP-10_video_frame/train/10005/deQIch bin bald wieder daQBen je terug
+/disk1/dataset_glq/SP-10_video_frame/train/10008/deQEs ist ein JungeQHeb je een jongen of een meisje gekregen
+/disk1/dataset_glq/SP-10_video_frame/train/10010/deQEs ist Party-TimeQHoe laat is het
+/disk1/dataset_glq/SP-10_video_frame/train/10011/deQLass uns in den Zoo gehenQWaar gaan we samen naartoe
+/disk1/dataset_glq/SP-10_video_frame/train/10013/deQLass uns eine Pause machenQMoet je rusten
+/disk1/dataset_glq/SP-10_video_frame/train/10014/deQKomm wir gehen zusammen essenQWaar gaan we heen
+/disk1/dataset_glq/SP-10_video_frame/train/10015/deQKann ich deinen Fön ausleihenQJe mag mijn haardroger gebruiken
+/disk1/dataset_glq/SP-10_video_frame/train/10016/deQKann ich mit dir gehenQJe kunt met mij meekomen
+/disk1/dataset_glq/SP-10_video_frame/train/10017/deQKann ich bitte Ihre Visitenkarte habenQGeef me je kaartje
+/disk1/dataset_glq/SP-10_video_frame/train/10018/deQKann ich dir helfenQJe kunt me helpen
+/disk1/dataset_glq/SP-10_video_frame/train/10019/deQDarf ich Ihnen meine Tochter vorstellenQJe kunt je dochter voorstellen
+/disk1/dataset_glq/SP-10_video_frame/train/10020/deQDarf ich Ihnen meinen Freund vorstellenQJe kunt je vriend voorstellen
+/disk1/dataset_glq/SP-10_video_frame/train/10021/deQDarf ich Ihnen meinen Mann vorstellenQJe kunt je man voorstellen
+/disk1/dataset_glq/SP-10_video_frame/train/10022/deQDarf ich Ihnen meinen Sohn vorstellenQJe kunt je zoon voorstellen
+/disk1/dataset_glq/SP-10_video_frame/train/10024/deQMeine Tante lebt in der StadtQWaar woont je tante
+/disk1/dataset_glq/SP-10_video_frame/train/10026/deQMein Computer ist abgestürztQWat is er mis met je computer
+/disk1/dataset_glq/SP-10_video_frame/train/10027/deQMein Mann ist verstorbenQWat is er mis met je man
+/disk1/dataset_glq/SP-10_video_frame/train/10029/deQMeine Frau ist verstorbenQWat is er mis met je vrouw
+/disk1/dataset_glq/SP-10_video_frame/train/10030/deQNein dankeQDank je wel
+/disk1/dataset_glq/SP-10_video_frame/train/10031/deQÖffne die TürQOpen de deur
+/disk1/dataset_glq/SP-10_video_frame/train/10032/deQÖffne das FensterQOpen het raam
+/disk1/dataset_glq/SP-10_video_frame/train/10033/deQWir haben eine große FamilieQIs je familie groot
+/disk1/dataset_glq/SP-10_video_frame/train/10034/deQWir haben eine kleine FamilieQIs je familie groot
+/disk1/dataset_glq/SP-10_video_frame/train/10036/deQvielleichtQMisschien
+/disk1/dataset_glq/SP-10_video_frame/train/10038/deQWarte bitteQEen moment alstublieft
+/disk1/dataset_glq/SP-10_video_frame/train/10040/deQRauchen verbotenQMag je roken
+/disk1/dataset_glq/SP-10_video_frame/train/10041/deQDas Baby ist süßQIs de baby schattig
+/disk1/dataset_glq/SP-10_video_frame/train/10042/deQsehr interessantQIs het grappig
+/disk1/dataset_glq/SP-10_video_frame/train/10043/deQWasch dein GesichtQWas je gezicht
+/disk1/dataset_glq/SP-10_video_frame/train/10047/deQWie ist dein NameQHoe heet je
+/disk1/dataset_glq/SP-10_video_frame/train/10048/deQWohin gehst duQIk ga weg
+/disk1/dataset_glq/SP-10_video_frame/train/10049/deQWo ist mein TaschenrechnerQIk wil een rekenmachine gebruiken
+/disk1/dataset_glq/SP-10_video_frame/train/10051/deQWo ist die PostQGa naar het postkantoor
+/disk1/dataset_glq/SP-10_video_frame/train/10052/deQWo ist der PausenraumQIk moet naar het toilet
+/disk1/dataset_glq/SP-10_video_frame/train/10053/deQWo bist Du geborenQIk ben geboren
+/disk1/dataset_glq/SP-10_video_frame/train/10054/deQDu siehst aus wie deine MutterQOp wie lijk ik
+/disk1/dataset_glq/SP-10_video_frame/train/10056/deQEin Tisch für 2 Personen bitteQHoe groot is de tafel
+/disk1/dataset_glq/SP-10_video_frame/train/10057/deQMöchten Sie NachtischQIk moet bestellen
+/disk1/dataset_glq/SP-10_video_frame/train/10059/deQMöchten Sie etwas bestellenQIk ga bestellen
+/disk1/dataset_glq/SP-10_video_frame/train/10060/deQKönnen wir einen Tisch reservierenQWe kunnen een tafel reserveren
+/disk1/dataset_glq/SP-10_video_frame/train/10061/deQBitte überprüfen Sie dasQDe rekening betalen
+/disk1/dataset_glq/SP-10_video_frame/train/10062/deQNehmen Sie KreditkartenQWe aanvaarden geen kredietkaarten
+/disk1/dataset_glq/SP-10_video_frame/train/10063/deQMöchten Sie das Getränk light oder normalQIk wil graag een drankje met weinig suiker
+/disk1/dataset_glq/SP-10_video_frame/train/10064/deQMöchtest du Senf Mayonnaise oder beidesQIk wil graag mosterd
+/disk1/dataset_glq/SP-10_video_frame/train/10065/deQMöchtest du den Tee mit ZuckerQIk wil thee zonder suiker
+/disk1/dataset_glq/SP-10_video_frame/train/10066/deQMöchtest du dein Rührei lange gebratenQRoereieren moeten droog en hard zijn
+/disk1/dataset_glq/SP-10_video_frame/train/10068/deQEinen schönen TagQHeb je een goede dag gehad
+/disk1/dataset_glq/SP-10_video_frame/train/10069/deQEr isst zu vielQEet hij veel
+/disk1/dataset_glq/SP-10_video_frame/train/10070/deQWie kann ich dir helfenQIk heb wat hulp nodig
+/disk1/dataset_glq/SP-10_video_frame/train/10071/deQIch bin hungrigQHeb je honger
+/disk1/dataset_glq/SP-10_video_frame/train/10072/deQDas habe ich nicht bestelltQHeb je dat besteld
+/disk1/dataset_glq/SP-10_video_frame/train/10073/deQIch habe noch nicht gegessenQHeb je gegeten
+/disk1/dataset_glq/SP-10_video_frame/train/10074/deQIch liebe SchokoladeQHou je van chocolade
+/disk1/dataset_glq/SP-10_video_frame/train/10075/deQIch mag gerne Sandwiches und HamburgerQWat vind je lekker
+/disk1/dataset_glq/SP-10_video_frame/train/10076/deQIch denke die Rechnung ist fehlerhaftQVind je dat de rekening klopt
+/disk1/dataset_glq/SP-10_video_frame/train/10078/deQIch möchte eine große MilchQWat wil je hebben
+/disk1/dataset_glq/SP-10_video_frame/train/10079/deQIch möchte eine große PepsiQWat wil jij
+/disk1/dataset_glq/SP-10_video_frame/train/10080/deQIch möchte eine mittlere MilchQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/10081/deQIch möchte eine kleine MilchQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/10084/deQIch möchte EisteeQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/10085/deQIch möchte einen NachtischQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/10086/deQIch möchte ein Steak bestellenQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/train/10087/deQIst das genug für DichQIk heb niet genoeg
+/disk1/dataset_glq/SP-10_video_frame/train/10088/deQIst das Trinkgeld schon mit dabeiQFooien zijn niet inbegrepen
+/disk1/dataset_glq/SP-10_video_frame/train/10089/deQGibt es eine Kinder-SpeisekarteQEr is geen kindermenu
+/disk1/dataset_glq/SP-10_video_frame/train/10091/deQKann ich bitte die Speisekarte habenQHier is het menu
+/disk1/dataset_glq/SP-10_video_frame/train/10092/deQSalz und Pfeffer stehen auf dem TischQWaar is het zout en de peper
+/disk1/dataset_glq/SP-10_video_frame/train/10094/deQDer Speck ist zu stark gebratenQWat is te gaar
+/disk1/dataset_glq/SP-10_video_frame/train/10095/deQDer Kuchen ist im OfenQWaar is de taart
+/disk1/dataset_glq/SP-10_video_frame/train/10096/deQDie Cola ist im KühlschrankQWaar is de Coca-Cola
+/disk1/dataset_glq/SP-10_video_frame/train/10097/deQDas Essen ist köstlichQHoe is het eten
+/disk1/dataset_glq/SP-10_video_frame/train/10098/deQDer Service ist sehr schlechtQHoe was de bediening
+/disk1/dataset_glq/SP-10_video_frame/train/10099/deQWofür sollen wir das bezahlenQZijn de prijzen hoog
+/disk1/dataset_glq/SP-10_video_frame/train/10100/deQWas sind die TagesangeboteQWat is de specialiteit
+/disk1/dataset_glq/SP-10_video_frame/train/10101/deQWas willst Du bestellenQIk ga bestellen
+/disk1/dataset_glq/SP-10_video_frame/train/10102/deQWas kann ich Ihnen besorgenQIk wil graag iets voor je doen
+/disk1/dataset_glq/SP-10_video_frame/train/10106/deQWas würden Sie empfehlenQIk heb veel suggesties
+/disk1/dataset_glq/SP-10_video_frame/train/10107/deQWo ist der ServerQDe ober is er
+/disk1/dataset_glq/SP-10_video_frame/train/10108/deQMöchten Sie das mitnehmen oder hier essenQBestel uw eten
+/disk1/dataset_glq/SP-10_video_frame/train/10110/deQMit oder ohne ZwiebelnQIk wil graag uien toevoegen
+/disk1/dataset_glq/SP-10_video_frame/train/10111/deQMit oder ohne PicklesQIk wil graag augurken
+/disk1/dataset_glq/SP-10_video_frame/train/10112/deQSoll es Größe S,M oder L seinQEr is een grote
+/disk1/dataset_glq/SP-10_video_frame/train/10115/deQMöchten Sie KetchupQIk wil geen ketchup
+/disk1/dataset_glq/SP-10_video_frame/train/10118/deQBist Du gehörlosQIk ben niet doof
+/disk1/dataset_glq/SP-10_video_frame/train/10119/deQSind deine Eltern gehörlosQZijn je ouders doof
+/disk1/dataset_glq/SP-10_video_frame/train/10120/deQKannst du von den Lippen absehenQIk kan niet liplezen
+/disk1/dataset_glq/SP-10_video_frame/train/10121/deQHörst du MusikQJe kunt muziek horen
+/disk1/dataset_glq/SP-10_video_frame/train/10122/deQBenutzen Sie ein HörgerätQIk gebruik geen gehoorapparaat
+/disk1/dataset_glq/SP-10_video_frame/train/10124/deQDie Gallaudet-Universität war die erste Universität für GehörloseQWat is 's werelds eerste universiteit voor doven
+/disk1/dataset_glq/SP-10_video_frame/train/10127/deQWie alt warst du als du ertaubt bistQJij bent doof
+/disk1/dataset_glq/SP-10_video_frame/train/10128/deQDas habe ich schon gesagtQDat zei ik niet
+/disk1/dataset_glq/SP-10_video_frame/train/10129/deQIch bin schwerhörigQWat ben je dan
+/disk1/dataset_glq/SP-10_video_frame/train/10130/deQIch lerne GebärdenspracheQHeb je gebarentaal geleerd
+/disk1/dataset_glq/SP-10_video_frame/train/10132/deQIch besuche ASL-KurseQWelke lessen heb je gevolgd
+/disk1/dataset_glq/SP-10_video_frame/train/10134/deQIch kann Fingeralphabet aber ich kann es nicht gut bei anderen verstehenQKun je spellen en lezen
+/disk1/dataset_glq/SP-10_video_frame/train/10136/deQIch finde es toll Fernsehen mit Untertiteln zu schauenQWaar kijk je graag naar op tv
+/disk1/dataset_glq/SP-10_video_frame/train/10137/deQIch kann Musik durch die Schwingungen hörenQWat hoor je graag
+/disk1/dataset_glq/SP-10_video_frame/train/10138/deQIch bete gerne in GebärdenspracheQWaarmee bid je graag
+/disk1/dataset_glq/SP-10_video_frame/train/10139/deQIch habe gestern Abend einen Film mit Untertiteln gesehenQWaar heb je gisteravond naar gekeken
+/disk1/dataset_glq/SP-10_video_frame/train/10142/deQIch bin seit der Geburt gehörlosQBen je doof
+/disk1/dataset_glq/SP-10_video_frame/train/10143/deQIch bin zur Schule mit Hörenden gegangenQWaar ging je naar school
+/disk1/dataset_glq/SP-10_video_frame/train/10144/deQViele gehörlose Schüler gehen in Berufskollegs für HörendeQGaan slechthorende studenten naar de universiteit
+/disk1/dataset_glq/SP-10_video_frame/train/10145/deQMeine Gebärdensprache hat sich jetzt schon verbessertQHeb je je gebarentaal verbeterd
+/disk1/dataset_glq/SP-10_video_frame/train/10146/deQWiederhole das bitteQZeg dat nog eens
+/disk1/dataset_glq/SP-10_video_frame/train/10150/deQWas bedeutet dasQWat bedoel je
+/disk1/dataset_glq/SP-10_video_frame/train/10151/deQWarum möchtest Du Gebärdensprache lernenQWil je gebarentaal leren
+/disk1/dataset_glq/SP-10_video_frame/train/10152/deQKönnen Sie das bitte aufschreibenQMoet je het opschrijven
+/disk1/dataset_glq/SP-10_video_frame/train/10153/deQGestern habe ich Gebärden geübtQWanneer heb je gebarentaal geoefend
+/disk1/dataset_glq/SP-10_video_frame/train/10154/deQDu gebärdest schnellQBen je snel in gebarentaal
+/disk1/dataset_glq/SP-10_video_frame/train/10155/deQWürdest du mir bitte den lila Textmarker gebenQWelke kleur markeerstift heb ik je gegeven
+/disk1/dataset_glq/SP-10_video_frame/train/10156/deQEr hat eine Silbermedaille gewonnenQWelke prijs heeft hij gewonnen
+/disk1/dataset_glq/SP-10_video_frame/train/10157/deQIch habe ein neues gelbes Hemd gekauftQWat heb jij gekocht
+/disk1/dataset_glq/SP-10_video_frame/train/10159/deQIch mag alle RegenbogenfarbenQWelke kleur vind je mooi
+/disk1/dataset_glq/SP-10_video_frame/train/10160/deQIch habe mein Haus grau gestrichenQWelke kleur heb je je huis geverfd
+/disk1/dataset_glq/SP-10_video_frame/train/10162/deQMeine Lieblingsfarbe istQWelke kleur vind jij mooi
+/disk1/dataset_glq/SP-10_video_frame/train/10163/deQMein Garten ist so grünQWelke kleur heeft jouw tuin
+/disk1/dataset_glq/SP-10_video_frame/train/10165/deQIn welcher Farbe möchtest Du die Wand streichenQIk wil de muren een andere kleur geven
+/disk1/dataset_glq/SP-10_video_frame/train/10167/deQBekommen Sie diesen Fleck rausQEr zit hier een vlek
+/disk1/dataset_glq/SP-10_video_frame/train/10168/deQKönnten Sie mir diesen Knopf annähenQDe knopen vallen eraf
+/disk1/dataset_glq/SP-10_video_frame/train/10169/deQHaben Sie irgendwelche schmutzigen KleidungsstückeQIk heb geen vuile kleren
+/disk1/dataset_glq/SP-10_video_frame/train/10170/deQHaben Sie das auch in SchwarzQIk heb geen zwarte
+/disk1/dataset_glq/SP-10_video_frame/train/10171/deQKennst du einen guten FriseurQIk wil naar de kapper
+/disk1/dataset_glq/SP-10_video_frame/train/10172/deQKennst du einen guten Beauty ShopQIk wil naar een schoonheidssalon
+/disk1/dataset_glq/SP-10_video_frame/train/10173/deQEr zieht sich immer gut anQHoe is hij gekleed
+/disk1/dataset_glq/SP-10_video_frame/train/10175/deQIch kann meinen Sicherheitsgurt nicht zumachenQKun je een riem dragen
+/disk1/dataset_glq/SP-10_video_frame/train/10177/deQIch muss einkaufen gehenQWaar ga je heen
+/disk1/dataset_glq/SP-10_video_frame/train/10178/deQIch muss mich rasierenQMoet je geschoren worden
+/disk1/dataset_glq/SP-10_video_frame/train/10180/deQIch muss dieses Hemd bügelnQMoet je overhemd gestreken worden
+/disk1/dataset_glq/SP-10_video_frame/train/10181/deQIch muss mein Hemd waschenQMoet je je hemd wassen
+/disk1/dataset_glq/SP-10_video_frame/train/10182/deQIch möchte einen Pullover kaufenQWat wil je kopen
+/disk1/dataset_glq/SP-10_video_frame/train/10183/deQIch werde diese Krawatte nehmenQWat wil je kopen
+/disk1/dataset_glq/SP-10_video_frame/train/10184/deQIch möchte zum Frisör gehenQWat wil jij
+/disk1/dataset_glq/SP-10_video_frame/train/10186/deQIch würde es gerne anprobierenQWil je het passen
+/disk1/dataset_glq/SP-10_video_frame/train/10187/deQEs ist gut wie es istQIs dat goed
+/disk1/dataset_glq/SP-10_video_frame/train/10188/deQLass es noch etwasQHoe lang ben je al weg
+/disk1/dataset_glq/SP-10_video_frame/train/10190/deQMeine Hose ist zerrissenQZijn je broeken gescheurd
+/disk1/dataset_glq/SP-10_video_frame/train/10191/deQIch habe eine kleine GrößeQWelke maat draag je
+/disk1/dataset_glq/SP-10_video_frame/train/10192/deQHemd und Schuhe sind erforderlichQWat heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/train/10193/deQDas Kleid hat eine seltsame FarbeQWelke kleur heeft die jurk
+/disk1/dataset_glq/SP-10_video_frame/train/10194/deQDas Hemd und Krawatte passen nicht zusammenQPast het hemd bij de das
+/disk1/dataset_glq/SP-10_video_frame/train/10195/deQDas Hemd passt gutQPast dit hemd
+/disk1/dataset_glq/SP-10_video_frame/train/10196/deQWas ziehst Du heute Abend anQWat ik vanavond draag
+/disk1/dataset_glq/SP-10_video_frame/train/10197/deQMein Mantel ist in der Reinigung eingelaufenQWaarom is je jasje gekrompen
+/disk1/dataset_glq/SP-10_video_frame/train/10198/deQWo sind die UmkleidenQIk ga naar de kleedkamer
+/disk1/dataset_glq/SP-10_video_frame/train/10199/deQWo ist die KasseQIk ga naar de kassa
+/disk1/dataset_glq/SP-10_video_frame/train/10201/deQDu trägst keine passenden SockenQHoe zijn mijn sokken
+/disk1/dataset_glq/SP-10_video_frame/train/10202/deQGehst du heute in die Stadtrats-SitzungQIk ga naar een vergadering
+/disk1/dataset_glq/SP-10_video_frame/train/10205/deQHast du die Vorladung zum Gericht bekommenQIk moet voor de rechter verschijnen
+/disk1/dataset_glq/SP-10_video_frame/train/10212/deQIch bin unabhängigQBen je onafhankelijk
+/disk1/dataset_glq/SP-10_video_frame/train/10213/deQIch musste ein Bußgeld für Falschparken bezahlenQJe moet een parkeerboete betalen
+/disk1/dataset_glq/SP-10_video_frame/train/10216/deQIch habe gewählt du auchQIk heb niet gestemd
+/disk1/dataset_glq/SP-10_video_frame/train/10217/deQIch war den ganzen Morgen als Streikposten im EinsatzQWat doe je vanmorgen
+/disk1/dataset_glq/SP-10_video_frame/train/10218/deQWenn du gegen das Gesetz verstößt kannst du ins Gefängnis kommenQWanneer ga je naar de gevangenis
+/disk1/dataset_glq/SP-10_video_frame/train/10223/deQDie Legislative ist verantwortlich für die Verabschiedung der GesetzeQWat is verantwoordelijk voor de wetgeving
+/disk1/dataset_glq/SP-10_video_frame/train/10224/deQDie Polizeistation ist 2 Straßen weiterQWat is de politie
+/disk1/dataset_glq/SP-10_video_frame/train/10226/deQWir müssen Steuern an den Staat zahlenQHoe steunen we de regering
+/disk1/dataset_glq/SP-10_video_frame/train/10227/deQWas hältst Du vom PräsidentenQDe president doet het geweldig
+/disk1/dataset_glq/SP-10_video_frame/train/10228/deQWo kann ich abstimmenQGa jij maar stemmen
+/disk1/dataset_glq/SP-10_video_frame/train/10229/deQWelche Stadt ist die HauptstadtQIk ga naar de hoofdstad
+/disk1/dataset_glq/SP-10_video_frame/train/10230/deQWer ist der neue PräsidentQIk heb de nieuwe president nog niet gezien
+/disk1/dataset_glq/SP-10_video_frame/train/10231/deQWer hat die Wahl gewonnenQIk heb de verkiezingen niet gewonnen
+/disk1/dataset_glq/SP-10_video_frame/train/10233/deQAchtung vor dem HundQPas op voor wat
+/disk1/dataset_glq/SP-10_video_frame/train/10235/deQSich im Kreis drehenQWaar jaag je op
+/disk1/dataset_glq/SP-10_video_frame/train/10236/deQSind Tiere bei Ihnen erlaubtQGeen dieren toegestaan
+/disk1/dataset_glq/SP-10_video_frame/train/10237/deQHast du ein HaustierQIk heb een huisdier
+/disk1/dataset_glq/SP-10_video_frame/train/10238/deQBeißt erQHij bijt niet
+/disk1/dataset_glq/SP-10_video_frame/train/10242/deQEr sieht gemein ausQIs hij gelukkig
+/disk1/dataset_glq/SP-10_video_frame/train/10243/deQSein Fell ist so weichQIs zijn vacht zacht
+/disk1/dataset_glq/SP-10_video_frame/train/10244/deQWie oft soll ich ihn fütternQIk heb hem een paar keer gevoerd
+/disk1/dataset_glq/SP-10_video_frame/train/10246/deQMein Vogel ist krankQWat is er mis met je vogel
+/disk1/dataset_glq/SP-10_video_frame/train/10248/deQTiger sind gefährliche TiereQWat is een gevaarlijk dier
+/disk1/dataset_glq/SP-10_video_frame/train/10249/deQWas bekommt es zu essenQHet heeft het opgegeten
+/disk1/dataset_glq/SP-10_video_frame/train/10250/deQWie heißt dein HaustierQIk heb een huisdier
+/disk1/dataset_glq/SP-10_video_frame/train/10251/deQWo ist ein TierarztQJe hebt een dierenarts nodig
+/disk1/dataset_glq/SP-10_video_frame/train/10253/deQWo ist die ZoohandlungQIk ga naar de dierenwinkel
+/disk1/dataset_glq/SP-10_video_frame/train/10254/deQWo ist der ZooQIk ga naar de dierentuin
+/disk1/dataset_glq/SP-10_video_frame/train/10842/deQAlles erledigtQKlaar
+/disk1/dataset_glq/SP-10_video_frame/train/10843/deQAlle wegQIs er nog meer
+/disk1/dataset_glq/SP-10_video_frame/train/11404/deQSchule ist ausQSchoolvakantie
+/disk1/dataset_glq/SP-10_video_frame/train/12075/deQDie Türe öffnenQHeb je de deur beantwoord
+/disk1/dataset_glq/SP-10_video_frame/train/12076/deQAns Handy gehenQHeb je de telefoon beantwoord
+/disk1/dataset_glq/SP-10_video_frame/train/13391/deQzu verkaufenQVerkocht
+/disk1/dataset_glq/SP-10_video_frame/train/13923/deQalle Rechte liegen beiQVan wie zijn de rechten
+/disk1/dataset_glq/SP-10_video_frame/train/14555/deQFrag michQVraag het aan wie
+/disk1/dataset_glq/SP-10_video_frame/train/14556/deQFrag deine MitschülerQVraag wie
+/disk1/dataset_glq/SP-10_video_frame/train/14568/deQStreiche durchQDoorhalen
+/disk1/dataset_glq/SP-10_video_frame/train/14573/deQGeh wegQGa weg
+/disk1/dataset_glq/SP-10_video_frame/train/14576/deQRate malQRaad eens
+/disk1/dataset_glq/SP-10_video_frame/train/14579/deQNa siehst duQHier ga je
+/disk1/dataset_glq/SP-10_video_frame/train/14585/deQSchauQKijk
+/disk1/dataset_glq/SP-10_video_frame/train/14594/deQBitte gib es mirQAan wie geef je het
+/disk1/dataset_glq/SP-10_video_frame/train/14595/deQWeg damitQNeem het weg
+/disk1/dataset_glq/SP-10_video_frame/train/14596/deQLiesQLezen
+/disk1/dataset_glq/SP-10_video_frame/train/14597/deQErinnere dichQWees voorzichtig
+/disk1/dataset_glq/SP-10_video_frame/train/14599/deQWiederholeQMoet je het herhalen
+/disk1/dataset_glq/SP-10_video_frame/train/14603/deQSteh aufQWacht even
+/disk1/dataset_glq/SP-10_video_frame/train/14605/deQNimm esQNeem het
+/disk1/dataset_glq/SP-10_video_frame/train/14606/deQSprichQSpreek
+/disk1/dataset_glq/SP-10_video_frame/train/14608/deQIch danke dirQGraag gedaan
+/disk1/dataset_glq/SP-10_video_frame/train/14609/deQDas reichtQIs dat genoeg
+/disk1/dataset_glq/SP-10_video_frame/train/14610/deQÜberlegeQIk denk van wel
+/disk1/dataset_glq/SP-10_video_frame/train/14614/deQUnterstreicheQTrek een lijn
+/disk1/dataset_glq/SP-10_video_frame/train/14616/deQWarteQWacht
+/disk1/dataset_glq/SP-10_video_frame/train/14618/deQGut gemachtQHeb je het goed gedaan
+/disk1/dataset_glq/SP-10_video_frame/train/14619/deQWas denkst DuQIk denk het wel
+/disk1/dataset_glq/SP-10_video_frame/train/14620/deQWannQWanneer
+/disk1/dataset_glq/SP-10_video_frame/train/14622/deQWarumQWanneer Waarom
+/disk1/dataset_glq/SP-10_video_frame/train/14624/deQSchreibQSchrijf
+/disk1/dataset_glq/SP-10_video_frame/train/14643/deQIch versteheQBegrijp je het
+/disk1/dataset_glq/SP-10_video_frame/train/15414/deQAntworte mirQWil je antwoorden
+/disk1/dataset_glq/SP-10_video_frame/train/17276/deQIch kann nicht sehenQZie je het
+/disk1/dataset_glq/SP-10_video_frame/train/17277/deQIch mag das alles überhaupt nichtQVind je het mooi
+/disk1/dataset_glq/SP-10_video_frame/train/20036/deQich war dort schon einmalQBen je er geweest
+/disk1/dataset_glq/SP-10_video_frame/train/20099/deQAuf geht'sQKom je
+/disk1/dataset_glq/SP-10_video_frame/train/20100/deQEndlichQTot slot
+/disk1/dataset_glq/SP-10_video_frame/train/20102/deQEs ist mir egalQKan het je wat schelen
+/disk1/dataset_glq/SP-10_video_frame/train/20103/deQEs macht mir nichts ausQIs er een probleem
+/disk1/dataset_glq/SP-10_video_frame/train/20106/deQEs ist gut für unsQIs het goed voor je
+/disk1/dataset_glq/SP-10_video_frame/train/20236/deQGott sei DankQWie bedank je
+/disk1/dataset_glq/SP-10_video_frame/train/20237/deQDas ist eine MengeQHoeveel
+/disk1/dataset_glq/SP-10_video_frame/train/20411/deQWas für ein SchwachsinnQIs het betrouwbaar
+/disk1/dataset_glq/SP-10_video_frame/train/20412/deQWas für eine ErleichterungQHoe was het
+/disk1/dataset_glq/SP-10_video_frame/train/20413/deQSo eine SchandeQHeb je spijt
+/disk1/dataset_glq/SP-10_video_frame/train/20415/deQWas habe ich gesagtQJe praat veel
+/disk1/dataset_glq/SP-10_video_frame/train/20531/deQNicht anfassenQKun je het aanraken
+/disk1/dataset_glq/SP-10_video_frame/train/21534/deQIch reagiere allergisch auf MedikamenteQBen je allergisch voor drugs
+/disk1/dataset_glq/SP-10_video_frame/train/21697/deQHast Du DurstQIk heb dorst
+/disk1/dataset_glq/SP-10_video_frame/train/21698/deQBist Du müdeQIk ben niet moe
+/disk1/dataset_glq/SP-10_video_frame/train/21704/deQKann ich Ihnen etwas zu trinken anbietenQNeem wat te drinken
+/disk1/dataset_glq/SP-10_video_frame/train/21705/deQKann ich mit Kreditkarte bezahlenQIk kan met creditcard betalen
+/disk1/dataset_glq/SP-10_video_frame/train/21709/deQKomm bald wiederQJe bent welkom om terug te komen
+/disk1/dataset_glq/SP-10_video_frame/train/21713/deQKönnen Sie mir bitte eine Plastiktüte gebenQWat heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/train/21714/deQKönnen Sie mir einen Rat gebenQIk zal je advies geven
+/disk1/dataset_glq/SP-10_video_frame/train/21715/deQKönnen Sie mir das zeigenQLaat me zien hoe het moet
+/disk1/dataset_glq/SP-10_video_frame/train/21723/deQBrauchst Du etwasQIk heb veel nodig
+/disk1/dataset_glq/SP-10_video_frame/train/21735/deQHaben Sie etwas BilligeresQIk heb niets goedkopers
+/disk1/dataset_glq/SP-10_video_frame/train/21738/deQWie lange wollen Sie hier bleibenQIk kan lang blijven
+/disk1/dataset_glq/SP-10_video_frame/train/21739/deQEs tut mir leid Sie zu störenQStoor ik je
+/disk1/dataset_glq/SP-10_video_frame/train/21740/deQIch kann nicht schlafenQHeb je niet goed geslapen
+/disk1/dataset_glq/SP-10_video_frame/train/21741/deQIch muss zum Arzt gehenQGa je naar de dokter
+/disk1/dataset_glq/SP-10_video_frame/train/21744/deQIch glaube da ist ein Fehler in der RechnungQIs er een probleem met de rekening
+/disk1/dataset_glq/SP-10_video_frame/train/21745/deQIch habe schon mehrere Male versucht das Rauchen aufzugebenQBen je gestopt met roken
+/disk1/dataset_glq/SP-10_video_frame/train/21747/deQIst das wichtigQHet is niet belangrijk
+/disk1/dataset_glq/SP-10_video_frame/train/21748/deQGibt es darauf eine GarantieQGeen garantie
+/disk1/dataset_glq/SP-10_video_frame/train/21750/deQEs war mir ein VergnügenQBen je vereerd
+/disk1/dataset_glq/SP-10_video_frame/train/21753/deQEs ist nicht das was ich möchteQIs dit wat je wilde
+/disk1/dataset_glq/SP-10_video_frame/train/21754/deQEs ist billigQIs het goedkoop
+/disk1/dataset_glq/SP-10_video_frame/train/21757/deQJetzt bist du an der ReiheQWiens beurt is het
+/disk1/dataset_glq/SP-10_video_frame/train/21771/deQKann ich noch ein Stück bekommenQWelke is voor jou
+/disk1/dataset_glq/SP-10_video_frame/train/21791/deQZiehen Sie Ihren Mantel ausQWat afdoen
+/disk1/dataset_glq/SP-10_video_frame/train/21795/deQWie lange willst Du hier bleibenQIk blijf hier een lange tijd
+/disk1/dataset_glq/SP-10_video_frame/train/21798/deQWas möchtest DuQIk wil veel
+/disk1/dataset_glq/SP-10_video_frame/train/21799/deQWas ist losQHet is niets
+/disk1/dataset_glq/SP-10_video_frame/train/21800/deQWonach suchen SieQIk zoek iets
+/disk1/dataset_glq/SP-10_video_frame/train/21802/deQWas magst DuQIk hou niet van deze
+/disk1/dataset_glq/SP-10_video_frame/train/21803/deQDer Wievielte ist heuteQWelke dag is het vandaag
+/disk1/dataset_glq/SP-10_video_frame/train/21804/deQWie ist das WetterQHet is een mooie dag
+/disk1/dataset_glq/SP-10_video_frame/train/21809/deQWas ist Ihr BerufQIk heb een slecht beroep
+/disk1/dataset_glq/SP-10_video_frame/train/21810/deQWelche Personalnummer haben SieQIk weet uw persoonlijke nummer niet
+/disk1/dataset_glq/SP-10_video_frame/train/21811/deQWas ist Ihr NachnameQHoe heet je
+/disk1/dataset_glq/SP-10_video_frame/train/21812/deQWann bist Du geborenQOp welke dag ben je geboren
+/disk1/dataset_glq/SP-10_video_frame/train/21813/deQWo ist der BahnhofQIk ga naar het station
+/disk1/dataset_glq/SP-10_video_frame/train/21814/deQAuf wen wartest DuQIk wacht op iemand
+/disk1/dataset_glq/SP-10_video_frame/train/21815/deQWer wartet auf SieQEr wacht iemand op me
+/disk1/dataset_glq/SP-10_video_frame/train/21816/deQWen möchten Sie sprechenQIk wil praten
+/disk1/dataset_glq/SP-10_video_frame/train/21817/deQWem gehört das BuchQDit is mijn boek
+/disk1/dataset_glq/SP-10_video_frame/train/21838/deQKönnen Sie mir den Weg auf der Karte zeigenQIk zoek de route op de kaart
+/disk1/dataset_glq/SP-10_video_frame/train/21847/deQKönnen Sie einen Automechaniker schickenQIk heb een automonteur nodig
+/disk1/dataset_glq/SP-10_video_frame/train/21878/deQIch bin noch AnfängerQHoe lang studeer je al
+/disk1/dataset_glq/SP-10_video_frame/train/21879/deQIch möchte Geld schickenQMoet je geld sturen
+/disk1/dataset_glq/SP-10_video_frame/train/21880/deQIch habe mich verirrtQHeb je het gevonden
+/disk1/dataset_glq/SP-10_video_frame/train/21884/deQIst hier in der Nähe ein AutoverleihQIk wil naar een autoverhuurbedrijf
+/disk1/dataset_glq/SP-10_video_frame/train/21913/deQAchtungQWat moet ik zoeken
+/disk1/dataset_glq/SP-10_video_frame/train/21934/deQHier: Kostenloses ParkenQHoe kan ik hier parkeren
+/disk1/dataset_glq/SP-10_video_frame/train/21935/deQHier: Parken verbotenQKun je hier parkeren
+/disk1/dataset_glq/SP-10_video_frame/train/21947/deQMach das Licht anQDoe de lichten aan
+/disk1/dataset_glq/SP-10_video_frame/train/21986/deQAlles ok bei DirQIk voel me niet goed
+/disk1/dataset_glq/SP-10_video_frame/train/21987/deQFühlst Du Dich besserQIk voel me niet goed
+/disk1/dataset_glq/SP-10_video_frame/train/21990/deQKönnen Sie mir einen guten Hausarzt empfehlenQIk heb een homeopaat nodig
+/disk1/dataset_glq/SP-10_video_frame/train/21994/deQHat jemand den Unfall gesehenQNiemand heeft het ongeluk gezien
+/disk1/dataset_glq/SP-10_video_frame/train/21996/deQMöchten Sie einen RückfahrtscheinQIk wil een ticket
+/disk1/dataset_glq/SP-10_video_frame/train/21997/deQKeine SorgeQIk heb een beetje haast
+/disk1/dataset_glq/SP-10_video_frame/train/21998/deQEntschuldigen Sie bitte könnten Sie mir helfen mein Gepäck in die Ablage zu legenQIk krijg mijn bagage niet in het rek
+/disk1/dataset_glq/SP-10_video_frame/train/21999/deQEntschuldigen Sie bitte ist dieser Platz noch freiQDeze stoel is leeg
+/disk1/dataset_glq/SP-10_video_frame/train/22000/deQHaben Sie FieberQIk voel me een beetje ongemakkelijk
+/disk1/dataset_glq/SP-10_video_frame/train/22001/deQWie ist das passiertQEr klopt iets niet
+/disk1/dataset_glq/SP-10_video_frame/train/22002/deQWie lange hält der Zug hierQDe trein staat hier al een hele tijd
+/disk1/dataset_glq/SP-10_video_frame/train/22004/deQIch bin krankQBen je ziek
+/disk1/dataset_glq/SP-10_video_frame/train/22007/deQIch hatte eine Kollision mit einem Auto das mir entgegen kamQWat heb je aangeraakt
+/disk1/dataset_glq/SP-10_video_frame/train/22008/deQIch bin ohnmächtig gewordenQWat is er met je aan de hand
+/disk1/dataset_glq/SP-10_video_frame/train/22011/deQIch fühle mich schwachQHoe voel je je
+/disk1/dataset_glq/SP-10_video_frame/train/22012/deQIch habe gekündigtQHeb je je ontslag gekregen
+/disk1/dataset_glq/SP-10_video_frame/train/22019/deQIch habe einen HochschulabschlussQZit je nog op school
+/disk1/dataset_glq/SP-10_video_frame/train/22021/deQIch brauche einen Arzt schnellQIk ben ziek
+/disk1/dataset_glq/SP-10_video_frame/train/22022/deQEs ist nicht meine SchuldQHet is jouw schuld
+/disk1/dataset_glq/SP-10_video_frame/train/22025/deQIst das ein DirektzugQHet is geen rechtstreekse trein
+/disk1/dataset_glq/SP-10_video_frame/train/22028/deQGibt es Ermäßigungen für KInderQGeen korting voor kinderen
+/disk1/dataset_glq/SP-10_video_frame/train/22029/deQGibt es Ermäßigungen für SchülerQGeen korting voor studenten
+/disk1/dataset_glq/SP-10_video_frame/train/22031/deQIch werde einen Krankenwagen rufenQHeb je een ambulance nodig
+/disk1/dataset_glq/SP-10_video_frame/train/22032/deQIch rufe einen ArztQWie heb je gebeld
+/disk1/dataset_glq/SP-10_video_frame/train/22033/deQIch melde mich auf eine AnzeigeQWelk telefoontje heb je gepleegd
+/disk1/dataset_glq/SP-10_video_frame/train/22035/deQIch bin entlassen wordenQBen ik ontslagen
+/disk1/dataset_glq/SP-10_video_frame/train/22036/deQIch habe den Zug verpasstQWat heb je gemist
+/disk1/dataset_glq/SP-10_video_frame/train/22041/deQDarf ich das Licht anmachenQIk kan de lichten aandoen
+/disk1/dataset_glq/SP-10_video_frame/train/22044/deQMein Reifen ist geplatztQWat is er met je banden gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/22046/deQNein alle Plätze sind besetztQIs er nog een stoel vrij
+/disk1/dataset_glq/SP-10_video_frame/train/22049/deQLegen Sie den Rückwärtsgang einQDraai je om
+/disk1/dataset_glq/SP-10_video_frame/train/22050/deQLösen Sie die BremseQGeef het een zetje
+/disk1/dataset_glq/SP-10_video_frame/train/22054/deQDer Ticketschalter ist geschlossenQIs het boekingskantoor gesloten
+/disk1/dataset_glq/SP-10_video_frame/train/22055/deQDer Ticketschalter ist geöffnetQIs het boekingskantoor open
+/disk1/dataset_glq/SP-10_video_frame/train/22056/deQDer Fahrer fuhr davonQWat doet de machinist met de auto
+/disk1/dataset_glq/SP-10_video_frame/train/22057/deQDer Zug fährt in 10 MinutenQWanneer is de trein vertrokken
+/disk1/dataset_glq/SP-10_video_frame/train/22059/deQDiese Frau ist bewusstlosQIs deze vrouw bij bewustzijn
+/disk1/dataset_glq/SP-10_video_frame/train/22082/deQWir haben eine freie Stelle in unserer FirmaQHebt u vacatures in uw bedrijf
+/disk1/dataset_glq/SP-10_video_frame/train/22083/deQWir hatten einen AutounfallQWie heeft er een auto-ongeluk gehad
+/disk1/dataset_glq/SP-10_video_frame/train/22084/deQWas ist denn mit dir passiertQWat is er met u gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/22085/deQWas ist passiertQEr is iets mis
+/disk1/dataset_glq/SP-10_video_frame/train/22086/deQWas für ein Auto hast DuQMijn auto is dit model
+/disk1/dataset_glq/SP-10_video_frame/train/22088/deQWas ist mit dirQWat mankeert jou
+/disk1/dataset_glq/SP-10_video_frame/train/22089/deQWas kostet das in der StundeQIk reken niet veel per uur
+/disk1/dataset_glq/SP-10_video_frame/train/22090/deQWie heißt diese StraßeQIk weet de naam van deze straat niet
+/disk1/dataset_glq/SP-10_video_frame/train/22092/deQWo sind wir jetztQWe zijn er
+/disk1/dataset_glq/SP-10_video_frame/train/22093/deQWo finde ich das ArbeitsamtQIk ga naar het arbeidsbureau
+/disk1/dataset_glq/SP-10_video_frame/train/22095/deQWo ist ein BuchungsbüroQHeb je de kassa gezien
+/disk1/dataset_glq/SP-10_video_frame/train/22097/deQWo sind SchließfächerQHeb je de kluisjes gezien
+/disk1/dataset_glq/SP-10_video_frame/train/22098/deQWo ist ein WarteraumQHeb je de lounge gezien
+/disk1/dataset_glq/SP-10_video_frame/train/22103/deQWarum fährst Du so schnellQGa je snel
+/disk1/dataset_glq/SP-10_video_frame/train/22106/deQWürden Sie so freundlich sein und den Platz für mich freihaltenQEr zijn geen zitplaatsen meer
+/disk1/dataset_glq/SP-10_video_frame/train/22110/deQDu solltest zum Arzt gehenQWat moet ik doen
+/disk1/dataset_glq/SP-10_video_frame/train/22188/deQTief einatmenQDiep ademhalen
+/disk1/dataset_glq/SP-10_video_frame/train/22230/deQHusten bitteQHoesten alsjeblieft
+/disk1/dataset_glq/SP-10_video_frame/train/22252/deQHaben Sie Erste-Hilfe KenntnisseQIk ken geen eerste hulp
+/disk1/dataset_glq/SP-10_video_frame/train/22253/deQHast Du noch eine andere BrilleQDraag je een bril
+/disk1/dataset_glq/SP-10_video_frame/train/22255/deQNicht einatmenQKun je ademen
+/disk1/dataset_glq/SP-10_video_frame/train/22304/deQZuerst muss ich Ihre Augen untersuchenQWat wil je eerst controleren
+/disk1/dataset_glq/SP-10_video_frame/train/22361/deQEr hat innere VerletzungenQWat mankeert hem
+/disk1/dataset_glq/SP-10_video_frame/train/22362/deQEr blutetQWie bloedt er
+/disk1/dataset_glq/SP-10_video_frame/train/22363/deQEr ist schwer verletztQIs hij ernstig gewond
+/disk1/dataset_glq/SP-10_video_frame/train/22365/deQEr ist bewusstlosQIs hij bij bewustzijn
+/disk1/dataset_glq/SP-10_video_frame/train/22366/deQEr wurde bei einem Autounfall verletztQHoe is hij gewond geraakt
+/disk1/dataset_glq/SP-10_video_frame/train/22371/deQHilf mir die Wunde zu reinigenQHoe heb je de wond behandeld
+/disk1/dataset_glq/SP-10_video_frame/train/22393/deQIch bin ein bisschen heiserQWat is er met je stem gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/22394/deQIch bin farbenblindQBen je kleurenblind
+/disk1/dataset_glq/SP-10_video_frame/train/22396/deQIch kann nicht gut weit sehenQKun je in de verte zien
+/disk1/dataset_glq/SP-10_video_frame/train/22397/deQIch kann seinen Puls nicht fühlenQKun je zijn pols voelen
+/disk1/dataset_glq/SP-10_video_frame/train/22398/deQIch kann meine Hand nicht bewegenQKun je je hoofd bewegen
+/disk1/dataset_glq/SP-10_video_frame/train/22401/deQIch habe einen schlimmen HustenQMoet je erg hoesten
+/disk1/dataset_glq/SP-10_video_frame/train/22403/deQIch habe KrämpfeQHeb je menstruatiekrampen
+/disk1/dataset_glq/SP-10_video_frame/train/22404/deQIch habe AtemproblemeQHeb je moeite met ademhalen
+/disk1/dataset_glq/SP-10_video_frame/train/22406/deQIch habe etwas im AugeQWat is er mis met je ogen
+/disk1/dataset_glq/SP-10_video_frame/train/22408/deQIch benötige eine Urinprobe von IhnenQWilt u een urinemonster
+/disk1/dataset_glq/SP-10_video_frame/train/22409/deQIch brauche eine Blutprobe von IhnenQWilt u een bloedmonster
+/disk1/dataset_glq/SP-10_video_frame/train/22411/deQIch denke ich brauche stärkere BrillengläserQWat vind je van mijn bril
+/disk1/dataset_glq/SP-10_video_frame/train/22412/deQEine Biene hat mich gestochenQWat is er met je aan de hand
+/disk1/dataset_glq/SP-10_video_frame/train/22413/deQIch trage KontaktlinsenQDraag je je bril niet
+/disk1/dataset_glq/SP-10_video_frame/train/22414/deQIch habe keine Lust zu essenQWilt u eten
+/disk1/dataset_glq/SP-10_video_frame/train/22429/deQEs ist ein dumpfer SchmerzQHeb je pijn
+/disk1/dataset_glq/SP-10_video_frame/train/22430/deQEs ist ein brennender SchmerzQWat voor pijn
+/disk1/dataset_glq/SP-10_video_frame/train/22431/deQEs sind ständige SchmerzenQWat voor soort pijn is dit
+/disk1/dataset_glq/SP-10_video_frame/train/22432/deQEs ist ein stechender SchmerzQWat voor soort pijn is het
+/disk1/dataset_glq/SP-10_video_frame/train/22433/deQEs jucktQJeukt het
+/disk1/dataset_glq/SP-10_video_frame/train/22436/deQIch messe Ihren BlutdruckQGaat u mijn bloeddruk meten
+/disk1/dataset_glq/SP-10_video_frame/train/22437/deQIch schwitze sehrQZweet u
+/disk1/dataset_glq/SP-10_video_frame/train/22438/deQIch habe mir die Finger verbranntQWat is er met uw vingers gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/22439/deQIch habe RückenschmerzenQWat is er mis met je rug
+/disk1/dataset_glq/SP-10_video_frame/train/22441/deQIch habe einen stechenden Schmerz im RückenQHeb je ergens een tintelend gevoel
+/disk1/dataset_glq/SP-10_video_frame/train/22442/deQIch habe einen stechenden Schmerz in meiner HüfteQHeb je een tintelend gevoel in je heup
+/disk1/dataset_glq/SP-10_video_frame/train/22443/deQIch habe einen stechenden Schmerz in meiner BrustQHeb je een tintelend gevoel in je borsten
+/disk1/dataset_glq/SP-10_video_frame/train/22577/deQMeine Augen juckenQWaar jeukt het
+/disk1/dataset_glq/SP-10_video_frame/train/22704/deQKrempel die Ärmel hochQWat moet ik doen
+/disk1/dataset_glq/SP-10_video_frame/train/22904/deQSie sind weitsichtigQWat is er mis met je bril
+/disk1/dataset_glq/SP-10_video_frame/train/22905/deQSie sind kurzsichtigQBen je bijziend
+/disk1/dataset_glq/SP-10_video_frame/train/22906/deQSie haben die GrippeQWie heeft er griep
+/disk1/dataset_glq/SP-10_video_frame/train/22907/deQSie haben eine LungenentzündungQWie heeft er longontsteking
+/disk1/dataset_glq/SP-10_video_frame/train/22908/deQSie haben eine MandelentzündungQWie heeft er amandelontsteking
+/disk1/dataset_glq/SP-10_video_frame/train/22909/deQDu muss eine Diät machenQMoet je een dieet volgen
+/disk1/dataset_glq/SP-10_video_frame/train/23006/deQBist Du sicher dass Du nicht hereinkommen möchtestQIk wil niet mee
+/disk1/dataset_glq/SP-10_video_frame/train/23011/deQAm Wochenende gehe ich manchmal in die Disco oder ins KinoQWat doe je dit weekend
+/disk1/dataset_glq/SP-10_video_frame/train/23033/deQKönnen Sie mir das auf der Karte zeigenQIk laat het je zien op de kaart
+/disk1/dataset_glq/SP-10_video_frame/train/23035/deQKönnen Sie mich um 7 Uhr weckenQHoe laat maak ik je wakker
+/disk1/dataset_glq/SP-10_video_frame/train/23048/deQHerzlichen GlückwunschQGefeliciteerd
+/disk1/dataset_glq/SP-10_video_frame/train/23051/deQKönnen Sie mir einen Gefallen tunQWat kan ik voor je doen
+/disk1/dataset_glq/SP-10_video_frame/train/23063/deQHaben alle Zimmer KlimaanlageQNiet alle kamers hebben airconditioning
+/disk1/dataset_glq/SP-10_video_frame/train/23064/deQHaben Sie einen SafeQIk heb geen kluis
+/disk1/dataset_glq/SP-10_video_frame/train/23068/deQHat das Zimmer eine Mini-BarQWat is er in de kamer
+/disk1/dataset_glq/SP-10_video_frame/train/23070/deQFass mich nicht anQIk kan de weg naar het station niet vinden
+/disk1/dataset_glq/SP-10_video_frame/train/23079/deQKönnen Sie mir bitte den Weg zum Bahnhof erklärenQIk kan de weg naar het station niet vinden
+/disk1/dataset_glq/SP-10_video_frame/train/23084/deQDanke gutQWat is er aan de hand
+/disk1/dataset_glq/SP-10_video_frame/train/23092/deQGute BesserungQBeterschap
+/disk1/dataset_glq/SP-10_video_frame/train/23093/deQGuten AbendQGoedenavond
+/disk1/dataset_glq/SP-10_video_frame/train/23094/deQViel GlückQVeel geluk
+/disk1/dataset_glq/SP-10_video_frame/train/23103/deQHast Du schon mal Tennis gespieltQIk hou niet van tennis
+/disk1/dataset_glq/SP-10_video_frame/train/23104/deQHaben Sie ein Einzelzimmer für heute NachtQWat heb je besteld
+/disk1/dataset_glq/SP-10_video_frame/train/23106/deQEr mag RadfahrenQHoudt hij van fietsen
+/disk1/dataset_glq/SP-10_video_frame/train/23115/deQWie teuer ist ein DoppelzimmerQHij deelt een kamer met twee mensen
+/disk1/dataset_glq/SP-10_video_frame/train/23116/deQWie teuer ist ein Ticket nachQIk moet een kaartje kopen
+/disk1/dataset_glq/SP-10_video_frame/train/23117/deQWie möchten Sie zahlenQIk moet betalen
+/disk1/dataset_glq/SP-10_video_frame/train/23119/deQIch hole meinen Sohn vom Kindergarten abQWat doe je op de kleuterschool
+/disk1/dataset_glq/SP-10_video_frame/train/23122/deQIch mag die Arbeit am ComputerQWaar werk je graag mee
+/disk1/dataset_glq/SP-10_video_frame/train/23123/deQIch /disk1/dataset_glq/SP-10_video_frame/trainiere jeden AbendQWat doe je elke avond
+/disk1/dataset_glq/SP-10_video_frame/train/23128/deQIch habe meine Tasche verlorenQWie is zijn tas kwijt
+/disk1/dataset_glq/SP-10_video_frame/train/23130/deQIch brauche Deine HilfeQWie heeft je hulp nodig
+/disk1/dataset_glq/SP-10_video_frame/train/23133/deQIch bleibe 3 NächteQHoe lang blijf je
+/disk1/dataset_glq/SP-10_video_frame/train/23134/deQIch möchte gerne eine Bergwanderung machenQWaar zou je willen gaan wandelen
+/disk1/dataset_glq/SP-10_video_frame/train/23136/deQIch rufe die PolizeiQWie zou je bellen
+/disk1/dataset_glq/SP-10_video_frame/train/23143/deQIm Sommer gehe ich gerne schwimmenQWaar ga je graag heen in de zomer
+/disk1/dataset_glq/SP-10_video_frame/train/23155/deQIst das Abendessen im Preis enthaltenQHet diner is niet inbegrepen
+/disk1/dataset_glq/SP-10_video_frame/train/23156/deQGibt es etwas das ich für Dich tun kannQJe hoeft niets voor me te doen
+/disk1/dataset_glq/SP-10_video_frame/train/23158/deQEs spielt keine RolleQMaakt dat wat uit
+/disk1/dataset_glq/SP-10_video_frame/train/23160/deQEs dauert zu Fuß etwa 10 MinutenQHoe lang is de wandeling
+/disk1/dataset_glq/SP-10_video_frame/train/23161/deQEs ist ein NotfallQWat gebeurt hier allemaal
+/disk1/dataset_glq/SP-10_video_frame/train/23171/deQIst das heute nicht ein schöner TagQWat voor weer is het vandaag
+/disk1/dataset_glq/SP-10_video_frame/train/23176/deQKann ich Ihnen etwas zu trinken anbietenQIk hoef niets te drinken
+/disk1/dataset_glq/SP-10_video_frame/train/23263/deQAhaQBegrijp je dat
+/disk1/dataset_glq/SP-10_video_frame/train/23301/deQSei ruhigQHou je stil
+/disk1/dataset_glq/SP-10_video_frame/train/23320/deQDarf ich das Zimmer zuerst sehenQJe kunt de kamer zien
+/disk1/dataset_glq/SP-10_video_frame/train/23342/deQMein Lieblingshobby ist Fußball spielenQWat is je grootste hobby
+/disk1/dataset_glq/SP-10_video_frame/train/23344/deQMeine Mutter arbeitet als Angestellte in einem BüroQWat doet je moeder voor de kost
+/disk1/dataset_glq/SP-10_video_frame/train/23355/deQNicht schlechtQIs het slecht
+/disk1/dataset_glq/SP-10_video_frame/train/23356/deQIst es nicht wertQIs het de moeite waard
+/disk1/dataset_glq/SP-10_video_frame/train/23365/deQOk ich nehme esQWil je dit
+/disk1/dataset_glq/SP-10_video_frame/train/23367/deQEinmal in der Woche habe ich Handball/disk1/dataset_glq/SP-10_video_frame/trainingQHoeveel keer per week doe je aan handbal
+/disk1/dataset_glq/SP-10_video_frame/train/23371/deQEines meiner Hobbys ist meinen Brieffreunden zu schreibenQWat is je hobby
+/disk1/dataset_glq/SP-10_video_frame/train/23382/deQWie bitteQWat als ik je niet hoor
+/disk1/dataset_glq/SP-10_video_frame/train/23395/deQBitte reinigen Sie mein ZimmerQWat heb je nu nodig
+/disk1/dataset_glq/SP-10_video_frame/train/23700/deQEntschuldigung aber wir sind ausgebuchtQIs het vol
+/disk1/dataset_glq/SP-10_video_frame/train/23753/deQDas Spiel wurde wegen Regens abgesagtQWaarom is de race afgelast
+/disk1/dataset_glq/SP-10_video_frame/train/23755/deQDer Bahnhof ist zu Fuß erreichbarQWaar is het station
+/disk1/dataset_glq/SP-10_video_frame/train/23756/deQSie spielten so gutQHebben jullie het naar jullie zin
+/disk1/dataset_glq/SP-10_video_frame/train/23778/deQBiege links abQNaar links
+/disk1/dataset_glq/SP-10_video_frame/train/23779/deQBiege rechts abQRechtsaf
+/disk1/dataset_glq/SP-10_video_frame/train/23811/deQWelche Sportarten magst DuQIk hou van sport
+/disk1/dataset_glq/SP-10_video_frame/train/23812/deQWas ist der beste Weg zum BahnhofQIk ga naar het station
+/disk1/dataset_glq/SP-10_video_frame/train/23813/deQWas ist losQEr is iets gebeurd
+/disk1/dataset_glq/SP-10_video_frame/train/23815/deQWann wird Frühstück angebotenQIk wil graag ontbijten
+/disk1/dataset_glq/SP-10_video_frame/train/23818/deQWenn es nicht zu heiß ist gehe ich Roller-SkatenQWat doe je als het niet te warm is
+/disk1/dataset_glq/SP-10_video_frame/train/23819/deQWenn das Wetter schlecht ist lese ich Bücher oder schaue FernsehenQWat doe je bij slecht weer
+/disk1/dataset_glq/SP-10_video_frame/train/23820/deQWir mögen es in den Ferien in den Bergen zu wandernQWat doe je op vakantie
+/disk1/dataset_glq/SP-10_video_frame/train/23821/deQWo gibt es hier RestaurantsQIk zag een restaurant
+/disk1/dataset_glq/SP-10_video_frame/train/23822/deQWo kann ich fischenQJe zou kunnen gaan vissen
+/disk1/dataset_glq/SP-10_video_frame/train/23824/deQWo ist die nächste BushaltestelleQIk wil naar het busstation
+/disk1/dataset_glq/SP-10_video_frame/train/23831/deQWürdest Du mich bitte entschuldigenQHet spijt me
+/disk1/dataset_glq/SP-10_video_frame/train/23836/deQIhr Zimmer ist im zweiten Stock auf der rechten SeiteQWaar is mijn kamer

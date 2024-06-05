@@ -1,0 +1,830 @@
+/disk1/dataset_glq/SP-10_video_frame/train/410/zhQ你 好Q你 好Q你 好Q你 好
+/disk1/dataset_glq/SP-10_video_frame/train/420/zhQ是 的Q是 的Q是 的Q是 的
+/disk1/dataset_glq/SP-10_video_frame/train/620/zhQ你 觉 得 怎 么 样Q我 感 觉 不 好Q我 感 觉 不 好Q你 觉 得 怎 么 样
+/disk1/dataset_glq/SP-10_video_frame/train/621/zhQ你 好 吗Q我 很 好Q我 很 好Q你 好 吗
+/disk1/dataset_glq/SP-10_video_frame/train/625/zhQ几 点 啦Q几 点 啦Q几 点 啦Q几 点 啦
+/disk1/dataset_glq/SP-10_video_frame/train/629/zhQ对 不 起Q没 关 系Q没 关 系Q对 不 起
+/disk1/dataset_glq/SP-10_video_frame/train/636/zhQ你 从 哪 里 来 的Q我 很 早 就 来 了Q我 很 早 就 来 了Q你 从 哪 里 来 的
+/disk1/dataset_glq/SP-10_video_frame/train/1297/zhQ再 见Q再 见Q再 见Q再 见
+/disk1/dataset_glq/SP-10_video_frame/train/1298/zhQ早 安Q早 安Q早 安Q早 安
+/disk1/dataset_glq/SP-10_video_frame/train/1299/zhQ下 午 好Q下 午 好Q下 午 好Q下 午 好
+/disk1/dataset_glq/SP-10_video_frame/train/1300/zhQ晚 安Q晚 安Q晚 安Q晚 安
+/disk1/dataset_glq/SP-10_video_frame/train/1750/zhQ八 点 钟Q几 点 了Q几 点 了Q八 点 钟
+/disk1/dataset_glq/SP-10_video_frame/train/1927/zhQ告 别Q告 别Q告 别Q告 别
+/disk1/dataset_glq/SP-10_video_frame/train/2783/zhQ圣 诞 快 乐Q圣 诞 快 乐Q圣 诞 快 乐Q圣 诞 快 乐
+/disk1/dataset_glq/SP-10_video_frame/train/2798/zhQ我 非 常 想 念 你Q你 想 念 我 吗Q你 想 念 我 吗Q我 非 常 想 念 你
+/disk1/dataset_glq/SP-10_video_frame/train/2799/zhQ周 末 愉 快Q周 末 怎 么 样Q周 末 怎 么 样Q周 末 愉 快
+/disk1/dataset_glq/SP-10_video_frame/train/2813/zhQ你 叫 什 么 名 字Q你 叫 什 么 名 字Q你 叫 什 么 名 字Q你 叫 什 么 名 字
+/disk1/dataset_glq/SP-10_video_frame/train/2814/zhQ你 是 什 么 星 座 的Q你 是 什 么 星 座 的Q你 是 什 么 星 座 的Q你 是 什 么 星 座 的
+/disk1/dataset_glq/SP-10_video_frame/train/2815/zhQ你 多 大 了Q我 不 小 了Q我 不 小 了Q你 多 大 了
+/disk1/dataset_glq/SP-10_video_frame/train/2816/zhQ你 是 对 的Q我 对 吗Q我 对 吗Q你 是 对 的
+/disk1/dataset_glq/SP-10_video_frame/train/3103/zhQ我 要 去 购 物Q你 要 去 哪Q你 要 去 哪Q我 要 去 购 物
+/disk1/dataset_glq/SP-10_video_frame/train/3104/zhQ我 的 朋 友 们 聚 会Q你 的 朋 友 们 在 干 嘛Q你 的 朋 友 们 在 干 嘛Q我 的 朋 友 们 聚 会
+/disk1/dataset_glq/SP-10_video_frame/train/3109/zhQ你 怎 么 了Q你 怎 么 了Q你 怎 么 了Q你 怎 么 了
+/disk1/dataset_glq/SP-10_video_frame/train/3111/zhQ我 好 久 没 见 到 你 了Q很 久 没 见 了Q很 久 没 见 了Q我 好 久 没 见 到 你 了
+/disk1/dataset_glq/SP-10_video_frame/train/3112/zhQ我 们 在 电 影 院 见Q我 们 在 哪 见Q我 们 在 哪 见Q我 们 在 电 影 院 见
+/disk1/dataset_glq/SP-10_video_frame/train/3113/zhQ我 们 电 话 里 谈Q在 哪 里 谈Q在 哪 里 谈Q我 们 电 话 里 谈
+/disk1/dataset_glq/SP-10_video_frame/train/3114/zhQ你 在 上 学 还 是 工 作Q我 在 上 学Q我 在 上 学Q你 在 上 学 还 是 工 作
+/disk1/dataset_glq/SP-10_video_frame/train/3116/zhQ我 喜 欢 结 识 新 朋 友Q你 喜 欢 认 识 新 朋 友 吗Q你 喜 欢 认 识 新 朋 友 吗Q我 喜 欢 结 识 新 朋 友
+/disk1/dataset_glq/SP-10_video_frame/train/3117/zhQ大 卫 这 个 人 不 错Q大 卫 怎 么 样Q大 卫 怎 么 样Q大 卫 这 个 人 不 错
+/disk1/dataset_glq/SP-10_video_frame/train/3118/zhQ保 持 乐 观Q保 持 乐 观Q保 持 乐 观Q保 持 乐 观
+/disk1/dataset_glq/SP-10_video_frame/train/3214/zhQ琼 不 懂 法 国 的 手 语Q琼 懂 法 国 的 手 语 吗Q琼 懂 法 国 的 手 语 吗Q琼 不 懂 法 国 的 手 语
+/disk1/dataset_glq/SP-10_video_frame/train/3247/zhQ我 想 理 发Q你 想 干 嘛Q你 想 干 嘛Q我 想 理 发
+/disk1/dataset_glq/SP-10_video_frame/train/3248/zhQ我 想 挑 染Q你 想 干 嘛Q你 想 干 嘛Q我 想 挑 染
+/disk1/dataset_glq/SP-10_video_frame/train/3249/zhQ我 想 染 发Q你 想 干 嘛Q你 想 干 嘛Q我 想 染 发
+/disk1/dataset_glq/SP-10_video_frame/train/3250/zhQ你 要 几 成 熟 的Q我 想 吃 牛 排Q我 想 吃 牛 排Q你 要 几 成 熟 的
+/disk1/dataset_glq/SP-10_video_frame/train/3640/zhQ你 耳 朵 怎 么 聋 的Q我 耳 朵 聋 了Q我 耳 朵 聋 了Q你 耳 朵 怎 么 聋 的
+/disk1/dataset_glq/SP-10_video_frame/train/3641/zhQ你 看 起 来 挺 好Q我 看 起 来 怎 么 样Q我 看 起 来 怎 么 样Q你 看 起 来 挺 好
+/disk1/dataset_glq/SP-10_video_frame/train/3642/zhQ为 什 么 不 呢Q怎 么 了Q怎 么 了Q为 什 么 不 呢
+/disk1/dataset_glq/SP-10_video_frame/train/3643/zhQ稍 后 给 我 打 电 话Q稍 后 打 电 话 吗Q稍 后 打 电 话 吗Q稍 后 给 我 打 电 话
+/disk1/dataset_glq/SP-10_video_frame/train/3644/zhQ我 们 是 最 好 的Q我 们 关 系 好 吗Q我 们 关 系 好 吗Q我 们 是 最 好 的
+/disk1/dataset_glq/SP-10_video_frame/train/3645/zhQ我 太 老 了Q你 多 大Q你 多 大Q我 太 老 了
+/disk1/dataset_glq/SP-10_video_frame/train/3646/zhQ你 太 年 轻 了Q你 看 起 来 不 老Q你 看 起 来 不 老Q你 太 年 轻 了
+/disk1/dataset_glq/SP-10_video_frame/train/3647/zhQ多 少 钱Q多 少 钱Q多 少 钱Q多 少 钱
+/disk1/dataset_glq/SP-10_video_frame/train/3648/zhQ这 个 值 多 少 钱Q这 个 不 贵Q这 个 不 贵Q这 个 值 多 少 钱
+/disk1/dataset_glq/SP-10_video_frame/train/3649/zhQ我 可 以 在 这 儿 停 车 吗Q我 能 停 车 吗Q我 能 停 车 吗Q我 可 以 在 这 儿 停 车 吗
+/disk1/dataset_glq/SP-10_video_frame/train/3652/zhQ我 不 会 你 们 国 家 的 手 语Q你 会 我 们 国 家 的 手 语 吗Q你 会 我 们 国 家 的 手 语 吗Q我 不 会 你 们 国 家 的 手 语
+/disk1/dataset_glq/SP-10_video_frame/train/3653/zhQ请 帮 助 我Q需 要 帮 助 吗Q需 要 帮 助 吗Q请 帮 助 我
+/disk1/dataset_glq/SP-10_video_frame/train/3654/zhQ我 不 喜 欢 你Q你 喜 欢 我 吗Q你 喜 欢 我 吗Q我 不 喜 欢 你
+/disk1/dataset_glq/SP-10_video_frame/train/3655/zhQ你 有 男 朋 友 吗Q我 有 男 朋 友Q我 有 男 朋 友Q你 有 男 朋 友 吗
+/disk1/dataset_glq/SP-10_video_frame/train/3657/zhQ你 想 要 一 杯 葡 萄 酒 吗Q我 要 一 杯 葡 萄 酒Q我 要 一 杯 葡 萄 酒Q你 想 要 一 杯 葡 萄 酒 吗
+/disk1/dataset_glq/SP-10_video_frame/train/3658/zhQ他 是 白 痴Q他 怎 么 了Q他 怎 么 了Q他 是 白 痴
+/disk1/dataset_glq/SP-10_video_frame/train/3662/zhQ不 要 打 扰 我Q打 扰 你 了Q打 扰 你 了Q不 要 打 扰 我
+/disk1/dataset_glq/SP-10_video_frame/train/3665/zhQ你 酗 酒Q你 酗 酒 吗Q你 酗 酒 吗Q你 酗 酒
+/disk1/dataset_glq/SP-10_video_frame/train/3667/zhQ厕 所 在 哪 里Q我 要 去 厕 所Q我 要 去 厕 所Q厕 所 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/3668/zhQ可 以 让 我 用 一 下 卫 生 间 吗Q我 想 用 卫 生 间Q我 想 用 卫 生 间Q可 以 让 我 用 一 下 卫 生 间 吗
+/disk1/dataset_glq/SP-10_video_frame/train/3670/zhQ我 想 要 这 个Q你 要 这 个 吗Q你 要 这 个 吗Q我 想 要 这 个
+/disk1/dataset_glq/SP-10_video_frame/train/3671/zhQ我 不 喜 欢 这 个Q你 喜 欢 这 个 吗Q你 喜 欢 这 个 吗Q我 不 喜 欢 这 个
+/disk1/dataset_glq/SP-10_video_frame/train/3672/zhQ你 还 有 这 个 东 西 吗Q我 没 有 这 个 东 西Q我 没 有 这 个 东 西Q你 还 有 这 个 东 西 吗
+/disk1/dataset_glq/SP-10_video_frame/train/3676/zhQ这 不 是 重 要 的Q这 重 要 吗Q这 重 要 吗Q这 不 是 重 要 的
+/disk1/dataset_glq/SP-10_video_frame/train/3677/zhQ这 个 非 常 重 要Q这 重 要 吗Q这 重 要 吗Q这 个 非 常 重 要
+/disk1/dataset_glq/SP-10_video_frame/train/3678/zhQ跟 我 来Q跟 我 来Q跟 我 来Q跟 我 来
+/disk1/dataset_glq/SP-10_video_frame/train/3680/zhQ再 见Q再 见Q再 见Q再 见
+/disk1/dataset_glq/SP-10_video_frame/train/3681/zhQ你 可 以 坐 我 的 车Q我 可 以 坐 你 的 车 吗Q我 可 以 坐 你 的 车 吗Q你 可 以 坐 我 的 车
+/disk1/dataset_glq/SP-10_video_frame/train/3682/zhQ你 为 什 么 这 样 做Q我 就 这 么 做 了Q我 就 这 么 做 了Q你 为 什 么 这 样 做
+/disk1/dataset_glq/SP-10_video_frame/train/3687/zhQ给 我 一 个 拥 抱Q给 你 什 么Q给 你 什 么Q给 我 一 个 拥 抱
+/disk1/dataset_glq/SP-10_video_frame/train/3688/zhQ给 我 一 个 吻Q给 你 什 么Q给 你 什 么Q给 我 一 个 吻
+/disk1/dataset_glq/SP-10_video_frame/train/3689/zhQ我 不 相 信 你Q你 相 信 我 吗Q你 相 信 我 吗Q我 不 相 信 你
+/disk1/dataset_glq/SP-10_video_frame/train/3693/zhQ我 是 处 女Q你 是 处 女 吗Q你 是 处 女 吗Q我 是 处 女
+/disk1/dataset_glq/SP-10_video_frame/train/3694/zhQ学 校 什 么 时 候 开 学Q学 校 开 学 了 吗Q学 校 开 学 了 吗Q学 校 什 么 时 候 开 学
+/disk1/dataset_glq/SP-10_video_frame/train/3696/zhQ请 告 诉 我Q能 告 诉 我 吗Q能 告 诉 我 吗Q请 告 诉 我
+/disk1/dataset_glq/SP-10_video_frame/train/3699/zhQ最 近 的 电 梯 在 哪 里Q我 要 去 电 梯Q我 要 去 电 梯Q最 近 的 电 梯 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/3700/zhQ你 知 道 我 能 在 哪 里 找 到 一 个 房 间 吗Q我 能 找 到 一 个 房 间Q我 能 找 到 一 个 房 间Q你 知 道 我 能 在 哪 里 找 到 一 个 房 间 吗
+/disk1/dataset_glq/SP-10_video_frame/train/3701/zhQ麻 烦 你 推 荐 一 个 价 格 合 理 的 酒 店 吧Q你 能 推 荐 一 个 价 格 合 理 的 酒 店 吗Q你 能 推 荐 一 个 价 格 合 理 的 酒 店 吗Q麻 烦 你 推 荐 一 个 价 格 合 理 的 酒 店 吧
+/disk1/dataset_glq/SP-10_video_frame/train/3703/zhQ你 能 给 我 预 定 吗Q我 能 预 定Q我 能 预 定Q你 能 给 我 预 定 吗
+/disk1/dataset_glq/SP-10_video_frame/train/3704/zhQ离 这 儿 远 不 远Q离 这 不 远Q离 这 不 远Q离 这 儿 远 不 远
+/disk1/dataset_glq/SP-10_video_frame/train/3705/zhQ我 该 怎 么 到 那 里 去Q我 要 到 那 里 去Q我 要 到 那 里 去Q我 该 怎 么 到 那 里 去
+/disk1/dataset_glq/SP-10_video_frame/train/3706/zhQ你 能 帮 我 画 个 小 地 图 吗Q我 会 画 小 地 图Q我 会 画 小 地 图Q你 能 帮 我 画 个 小 地 图 吗
+/disk1/dataset_glq/SP-10_video_frame/train/3707/zhQ能 给 我 一 个 房 间 吗Q我 能 给 你 一 个 房 间Q我 能 给 你 一 个 房 间Q能 给 我 一 个 房 间 吗
+/disk1/dataset_glq/SP-10_video_frame/train/7572/zhQ忘 掉 吧Q忘 掉 吧Q忘 掉 吧Q忘 掉 吧
+/disk1/dataset_glq/SP-10_video_frame/train/8219/zhQ不 会 的Q会 吗Q会 吗Q不 会 的
+/disk1/dataset_glq/SP-10_video_frame/train/8240/zhQ我 没 什 么 事 要 做Q你 要 做 什 么Q你 要 做 什 么Q我 没 什 么 事 要 做
+/disk1/dataset_glq/SP-10_video_frame/train/8799/zhQ你 饿 了 吗Q我 饿 了Q我 饿 了Q你 饿 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/8800/zhQ你 结 婚 了 吗Q我 结 婚 了Q我 结 婚 了Q你 结 婚 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/8801/zhQ梳 一 梳 你 的 头 发Q我 的 头 发 怎 么 了Q我 的 头 发 怎 么 了Q梳 一 梳 你 的 头 发
+/disk1/dataset_glq/SP-10_video_frame/train/8802/zhQ关 门Q关 门Q关 门Q关 门
+/disk1/dataset_glq/SP-10_video_frame/train/8803/zhQ关 窗Q关 窗Q关 窗Q关 窗
+/disk1/dataset_glq/SP-10_video_frame/train/8805/zhQ你 有 汽 车 吗Q我 有 汽 车Q我 有 汽 车Q你 有 汽 车 吗
+/disk1/dataset_glq/SP-10_video_frame/train/8808/zhQ你 想 要 饮 料 吗Q我 想 喝 东 西Q我 想 喝 东 西Q你 想 要 饮 料 吗
+/disk1/dataset_glq/SP-10_video_frame/train/8811/zhQ请 原 谅Q原 谅 吗Q原 谅 吗Q请 原 谅
+/disk1/dataset_glq/SP-10_video_frame/train/8812/zhQ原 谅 我Q原 谅 谁Q原 谅 谁Q原 谅 我
+/disk1/dataset_glq/SP-10_video_frame/train/8820/zhQ你 怎 么 打 手 语Q你 会 手 语 吗Q你 会 手 语 吗Q你 怎 么 打 手 语
+/disk1/dataset_glq/SP-10_video_frame/train/8821/zhQ多 少 钱Q多 少 钱Q多 少 钱Q多 少 钱
+/disk1/dataset_glq/SP-10_video_frame/train/8822/zhQ你 们 有 几 个 孩 子Q我 有 很 多 孩 子Q我 有 很 多 孩 子Q你 们 有 几 个 孩 子
+/disk1/dataset_glq/SP-10_video_frame/train/8824/zhQ我 结 婚 了Q你 结 婚 了 吗Q你 结 婚 了 吗Q我 结 婚 了
+/disk1/dataset_glq/SP-10_video_frame/train/8829/zhQ我 很 高 兴Q你 高 兴 吗Q你 高 兴 吗Q我 很 高 兴
+/disk1/dataset_glq/SP-10_video_frame/train/8830/zhQ我 难 过Q你 难 过 吗Q你 难 过 吗Q我 难 过
+/disk1/dataset_glq/SP-10_video_frame/train/8835/zhQ我 丢 了 我 的 书Q你 丢 了 什 么Q你 丢 了 什 么Q我 丢 了 我 的 书
+/disk1/dataset_glq/SP-10_video_frame/train/8836/zhQ我 丢 了 我 的 伞Q你 丢 了 什 么Q你 丢 了 什 么Q我 丢 了 我 的 伞
+/disk1/dataset_glq/SP-10_video_frame/train/8837/zhQ我 需 要 一 杯 冷 饮Q你 需 要 什 么Q你 需 要 什 么Q我 需 要 一 杯 冷 饮
+/disk1/dataset_glq/SP-10_video_frame/train/8838/zhQ我 需 要 刷 牙Q你 需 要 什 么Q你 需 要 什 么Q我 需 要 刷 牙
+/disk1/dataset_glq/SP-10_video_frame/train/8845/zhQ让 我 们 来 聚 会 吧Q我 们 去 干 嘛Q我 们 去 干 嘛Q让 我 们 来 聚 会 吧
+/disk1/dataset_glq/SP-10_video_frame/train/8847/zhQ我 可 以 借 你 的 车 用 吗Q你 可 以 借 我 的 车 用Q你 可 以 借 我 的 车 用Q我 可 以 借 你 的 车 用 吗
+/disk1/dataset_glq/SP-10_video_frame/train/8848/zhQ你 需 要 我 帮 忙 吗Q我 需 要 帮 忙Q我 需 要 帮 忙Q你 需 要 我 帮 忙 吗
+/disk1/dataset_glq/SP-10_video_frame/train/8849/zhQ我 的 父 亲 去 年 去 世 了Q你 的 父 亲 什 么 时 候 去 世 的Q你 的 父 亲 什 么 时 候 去 世 的Q我 的 父 亲 去 年 去 世 了
+/disk1/dataset_glq/SP-10_video_frame/train/8850/zhQ我 的 网 络 连 接 中 断 了Q你 的 网 络 出 什 么 问 题 了Q你 的 网 络 出 什 么 问 题 了Q我 的 网 络 连 接 中 断 了
+/disk1/dataset_glq/SP-10_video_frame/train/8852/zhQ你 是 谁Q你 是 谁Q你 是 谁Q你 是 谁
+/disk1/dataset_glq/SP-10_video_frame/train/8854/zhQ你 的 电 话 号 码 是 多 少Q忘 记 我 的 电 话 号 码 了Q忘 记 我 的 电 话 号 码 了Q你 的 电 话 号 码 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/8855/zhQ你 的 手 机 号 码 是 多 少Q忘 记 我 的 手 机 号 码 了Q忘 记 我 的 手 机 号 码 了Q你 的 手 机 号 码 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/8857/zhQ你 从 事 什 么 类 型 的 工 作Q你 是 干 什 么 的Q你 是 干 什 么 的Q你 从 事 什 么 类 型 的 工 作
+/disk1/dataset_glq/SP-10_video_frame/train/8858/zhQ几 点 了Q不 早 了Q不 早 了Q几 点 了
+/disk1/dataset_glq/SP-10_video_frame/train/8859/zhQ什 么 时 候 关 门Q快 关 门 了Q快 关 门 了Q什 么 时 候 关 门
+/disk1/dataset_glq/SP-10_video_frame/train/8860/zhQ什 么 时 候 开 门Q快 开 门 了Q快 开 门 了Q什 么 时 候 开 门
+/disk1/dataset_glq/SP-10_video_frame/train/8862/zhQ你 的 男 朋 友 在 哪 里Q我 男 朋 友 没 来Q我 男 朋 友 没 来Q你 的 男 朋 友 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/8865/zhQ谁 呀Q你 是 谁Q你 是 谁Q谁 呀
+/disk1/dataset_glq/SP-10_video_frame/train/8866/zhQ那 个 人 是 谁Q我 不 认 识 那 个 人Q我 不 认 识 那 个 人Q那 个 人 是 谁
+/disk1/dataset_glq/SP-10_video_frame/train/8868/zhQ你 愿 意 跳 支 舞 吗Q我 不 愿 意 跳 舞Q我 不 愿 意 跳 舞Q你 愿 意 跳 支 舞 吗
+/disk1/dataset_glq/SP-10_video_frame/train/8871/zhQ你 的 女 朋 友 很 漂 亮Q我 女 朋 友 很 漂 亮Q我 女 朋 友 很 漂 亮Q你 的 女 朋 友 很 漂 亮
+/disk1/dataset_glq/SP-10_video_frame/train/8873/zhQ麦 当 劳 在 哪 里Q我 想 去 麦 当 劳Q我 想 去 麦 当 劳Q麦 当 劳 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/9292/zhQ禁 止 酒 后 开 车Q酒 后 能 开 车 吗Q酒 后 能 开 车 吗Q禁 止 酒 后 开 车
+/disk1/dataset_glq/SP-10_video_frame/train/9592/zhQ他 每 星 期 二 去 看 电 影Q你 每 周 啥 时 候 去 看 电 影Q你 每 周 啥 时 候 去 看 电 影Q他 每 星 期 二 去 看 电 影
+/disk1/dataset_glq/SP-10_video_frame/train/9593/zhQ他 87 岁Q他 多 少 岁 了Q他 多 少 岁 了Q他 87 岁
+/disk1/dataset_glq/SP-10_video_frame/train/9594/zhQ我 两 年 前 买 了 新 房 子Q你 什 么 时 候 买 的 新 房 子Q你 什 么 时 候 买 的 新 房 子Q我 两 年 前 买 了 新 房 子
+/disk1/dataset_glq/SP-10_video_frame/train/9596/zhQ我 下 午 两 点 半 有 个 约 会Q你 下 午 有 约 会 吗Q你 下 午 有 约 会 吗Q我 下 午 两 点 半 有 个 约 会
+/disk1/dataset_glq/SP-10_video_frame/train/9597/zhQ我 每 三 个 月 付 费 一 次Q你 多 久 付 费 一 次Q你 多 久 付 费 一 次Q我 每 三 个 月 付 费 一 次
+/disk1/dataset_glq/SP-10_video_frame/train/9598/zhQ我 每 个 星 期 六 都 见 到 她Q你 每 周 什 么 时 候 见 到 他Q你 每 周 什 么 时 候 见 到 他Q我 每 个 星 期 六 都 见 到 她
+/disk1/dataset_glq/SP-10_video_frame/train/9599/zhQ两 个 月 前 我 看 望 了 我 的 姑 妈Q你 什 么 时 候 看 了 你 的 姑 妈Q你 什 么 时 候 看 了 你 的 姑 妈Q两 个 月 前 我 看 望 了 我 的 姑 妈
+/disk1/dataset_glq/SP-10_video_frame/train/9600/zhQ我 生 于 一 九 六 零 年Q你 什 么 时 候 出 生Q你 什 么 时 候 出 生Q我 生 于 一 九 六 零 年
+/disk1/dataset_glq/SP-10_video_frame/train/9601/zhQ我 下 星 期 一 见 你Q什 么 时 候 见Q什 么 时 候 见Q我 下 星 期 一 见 你
+/disk1/dataset_glq/SP-10_video_frame/train/9602/zhQ现 在 8 点 50 分 差 十 分 钟 九 点Q现 在 几 点 了Q现 在 几 点 了Q现 在 8 点 50 分 差 十 分 钟 九 点
+/disk1/dataset_glq/SP-10_video_frame/train/9603/zhQ现 在 四 点 三 刻Q现 在 几 点 了Q现 在 几 点 了Q现 在 四 点 三 刻
+/disk1/dataset_glq/SP-10_video_frame/train/9607/zhQ时 间 到 了Q时 间 到 了 吗Q时 间 到 了 吗Q时 间 到 了
+/disk1/dataset_glq/SP-10_video_frame/train/9608/zhQ有 什 么 问 题 吗Q有 问 题Q有 问 题Q有 什 么 问 题 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9609/zhQ开 始 写 作Q开 始 写 作 了 吗Q开 始 写 作 了 吗Q开 始 写 作
+/disk1/dataset_glq/SP-10_video_frame/train/9610/zhQ鲍 勃 在 团 队 中 表 现 好Q鲍 勃 在 团 队 中 表 现 好 吗Q鲍 勃 在 团 队 中 表 现 好 吗Q鲍 勃 在 团 队 中 表 现 好
+/disk1/dataset_glq/SP-10_video_frame/train/9611/zhQ把 你 的 书 合 上Q需 要 怎 么 做Q需 要 怎 么 做Q把 你 的 书 合 上
+/disk1/dataset_glq/SP-10_video_frame/train/9612/zhQ你 合 格 了 还 是 失 败 了Q你 合 格 了 吗Q你 合 格 了 吗Q你 合 格 了 还 是 失 败 了
+/disk1/dataset_glq/SP-10_video_frame/train/9614/zhQ你 要 去 上 学 吗Q你 要 去 哪Q你 要 去 哪Q你 要 去 上 学 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9615/zhQ他 上 课 时 讲 话 太 多Q他 上 课 怎 么 了Q他 上 课 怎 么 了Q他 上 课 时 讲 话 太 多
+/disk1/dataset_glq/SP-10_video_frame/train/9620/zhQ我 是 个 学 生Q你 是 学 生 吗Q你 是 学 生 吗Q我 是 个 学 生
+/disk1/dataset_glq/SP-10_video_frame/train/9622/zhQ我 学 艺 术 专 业Q你 学 什 么Q你 学 什 么Q我 学 艺 术 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9623/zhQ我 学 贸 易 专 业Q你 学 什 么Q你 学 什 么Q我 学 贸 易 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9624/zhQ我 学 化 学 专 业Q你 学 什 么Q你 学 什 么Q我 学 化 学 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9625/zhQ我 学 计 算 机 专 业Q你 学 什 么Q你 学 什 么Q我 学 计 算 机 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9626/zhQ我 学 咨 询 专 业Q你 学 什 么Q你 学 什 么Q我 学 咨 询 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9627/zhQ我 学 教 育 专 业Q你 学 什 么Q你 学 什 么Q我 学 教 育 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9629/zhQ我 学 健 康 专 业Q你 学 什 么Q你 学 什 么Q我 学 健 康 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9630/zhQ我 读 历 史 专 业Q你 学 什 么Q你 学 什 么Q我 读 历 史 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9631/zhQ我 主 修 家 政Q你 主 修 什 么Q你 主 修 什 么Q我 主 修 家 政
+/disk1/dataset_glq/SP-10_video_frame/train/9632/zhQ我 主 修 数 学Q你 主 修 什 么Q你 主 修 什 么Q我 主 修 数 学
+/disk1/dataset_glq/SP-10_video_frame/train/9634/zhQ我 主 修 哲 学 专 业Q你 主 修 什 么Q你 主 修 什 么Q我 主 修 哲 学 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9635/zhQ我 主 修 物 理 治 疗Q你 主 修 什 么Q你 主 修 什 么Q我 主 修 物 理 治 疗
+/disk1/dataset_glq/SP-10_video_frame/train/9636/zhQ我 学 心 理 学 专 业Q你 学 什 么Q你 学 什 么Q我 学 心 理 学 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9637/zhQ我 主 修 科 学 专 业Q你 主 修 什 么Q你 主 修 什 么Q我 主 修 科 学 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9639/zhQ我 学 戏 剧 专 业Q你 学 什 么Q你 学 什 么Q我 学 戏 剧 专 业
+/disk1/dataset_glq/SP-10_video_frame/train/9641/zhQ我 的 纸 上 有 个 “ B ”Q你 纸 上 有 什 么Q你 纸 上 有 什 么Q我 的 纸 上 有 个 “ B ”
+/disk1/dataset_glq/SP-10_video_frame/train/9642/zhQ我 的 纸 上 有 个 “ C ”Q你 纸 上 有 什 么Q你 纸 上 有 什 么Q我 的 纸 上 有 个 “ C ”
+/disk1/dataset_glq/SP-10_video_frame/train/9643/zhQ我 的 纸 上 有 个 “ D ”Q你 纸 上 有 什 么Q你 纸 上 有 什 么Q我 的 纸 上 有 个 “ D ”
+/disk1/dataset_glq/SP-10_video_frame/train/9646/zhQ我 去 年 毕 业Q你 啥 时 候 毕 业Q你 啥 时 候 毕 业Q我 去 年 毕 业
+/disk1/dataset_glq/SP-10_video_frame/train/9647/zhQ我 喜 欢 提 前 完 成 工 作Q你 喜 欢 什 么 时 候 完 成 工 作Q你 喜 欢 什 么 时 候 完 成 工 作Q我 喜 欢 提 前 完 成 工 作
+/disk1/dataset_glq/SP-10_video_frame/train/9648/zhQ我 喜 欢 学 习Q你 喜 欢 学 习 吗Q你 喜 欢 学 习 吗Q我 喜 欢 学 习
+/disk1/dataset_glq/SP-10_video_frame/train/9649/zhQ我 熬 夜 学 习 了Q你 学 到 几 点Q你 学 到 几 点Q我 熬 夜 学 习 了
+/disk1/dataset_glq/SP-10_video_frame/train/9650/zhQ简 需 要 听 指 示Q简 需 要 做 什 么Q简 需 要 做 什 么Q简 需 要 听 指 示
+/disk1/dataset_glq/SP-10_video_frame/train/9651/zhQ乔 上 课 迟 到 了Q谁 上 课 迟 到 了Q谁 上 课 迟 到 了Q乔 上 课 迟 到 了
+/disk1/dataset_glq/SP-10_video_frame/train/9653/zhQ数 学 对 我 来 说 难 学Q什 么 很 难Q什 么 很 难Q数 学 对 我 来 说 难 学
+/disk1/dataset_glq/SP-10_video_frame/train/9654/zhQ迈 克 是 一 个 勤 奋 的 学 生Q谁 是 一 个 勤 奋 的 学 生Q谁 是 一 个 勤 奋 的 学 生Q迈 克 是 一 个 勤 奋 的 学 生
+/disk1/dataset_glq/SP-10_video_frame/train/9655/zhQ我 的 成 绩 稳 步 提 高Q你 的 成 绩 怎 么 样Q你 的 成 绩 怎 么 样Q我 的 成 绩 稳 步 提 高
+/disk1/dataset_glq/SP-10_video_frame/train/9656/zhQ考 试 期 间 不 许 说 话Q考 试 期 间 能 说 话 吗Q考 试 期 间 能 说 话 吗Q考 试 期 间 不 许 说 话
+/disk1/dataset_glq/SP-10_video_frame/train/9657/zhQ打 开 书 本Q需 要 干 嘛Q需 要 干 嘛Q打 开 书 本
+/disk1/dataset_glq/SP-10_video_frame/train/9658/zhQ请 不 要 擦 黑 板Q能 擦 黑 板 吗Q能 擦 黑 板 吗Q请 不 要 擦 黑 板
+/disk1/dataset_glq/SP-10_video_frame/train/9659/zhQ停 止 写 作Q能 写 作 吗Q能 写 作 吗Q停 止 写 作
+/disk1/dataset_glq/SP-10_video_frame/train/9662/zhQ我 们 明 天 有 考 试Q明 天 有 考 试 吗Q明 天 有 考 试 吗Q我 们 明 天 有 考 试
+/disk1/dataset_glq/SP-10_video_frame/train/9663/zhQ这 学 期 你 上 什 么 课Q你 有 课 吗Q你 有 课 吗Q这 学 期 你 上 什 么 课
+/disk1/dataset_glq/SP-10_video_frame/train/9664/zhQ当 你 缺 席 时 你 必 须 有 一 个 理 由Q我 可 能 要 缺 席 了Q我 可 能 要 缺 席 了Q当 你 缺 席 时 你 必 须 有 一 个 理 由
+/disk1/dataset_glq/SP-10_video_frame/train/9666/zhQ你 还 没 把 你 的 论 文 交 给 我Q你 交 论 文 了 吗Q你 交 论 文 了 吗Q你 还 没 把 你 的 论 文 交 给 我
+/disk1/dataset_glq/SP-10_video_frame/train/9668/zhQ你 不 能 打 断Q我 能 打 断 吗Q我 能 打 断 吗Q你 不 能 打 断
+/disk1/dataset_glq/SP-10_video_frame/train/9669/zhQ你 的 书 写 很 糟 糕Q我 的 书 写 怎 么 样Q我 的 书 写 怎 么 样Q你 的 书 写 很 糟 糕
+/disk1/dataset_glq/SP-10_video_frame/train/9670/zhQ你 的 行 李 打 包 了 吗Q我 的 行 李 准 备 好 了Q我 的 行 李 准 备 好 了Q你 的 行 李 打 包 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9671/zhQ你 会 开 车 吗Q我 会 开 车Q我 会 开 车Q你 会 开 车 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9673/zhQ你 在 那 儿 等 一 下 吧Q我 在 哪 等Q我 在 哪 等Q你 在 那 儿 等 一 下 吧
+/disk1/dataset_glq/SP-10_video_frame/train/9674/zhQ有 空 来 看 我Q有 空 看 我 吗Q有 空 看 我 吗Q有 空 来 看 我
+/disk1/dataset_glq/SP-10_video_frame/train/9675/zhQ你 有 这 个 城 市 的 地 图 吗Q我 有 这 个 城 市 的 地 图Q我 有 这 个 城 市 的 地 图Q你 有 这 个 城 市 的 地 图 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9676/zhQ你 有 宣 传 册 吗Q我 有 宣 传 册Q我 有 宣 传 册Q你 有 宣 传 册 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9677/zhQ你 有 票 吗Q我 有 票Q我 有 票Q你 有 票 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9678/zhQ你 知 道 如 何 使 用 排 档 杆 吗Q我 不 知 道 怎 么 使 用 排 档 杆Q我 不 知 道 怎 么 使 用 排 档 杆Q你 知 道 如 何 使 用 排 档 杆 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9680/zhQ你 会 说 法 语 吗Q要 说 法 语 吗Q要 说 法 语 吗Q你 会 说 法 语 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9681/zhQ你 会 说 德 语 吗Q要 说 德 语 吗Q要 说 德 语 吗Q你 会 说 德 语 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9682/zhQ你 会 说 意 大 利 语 吗Q要 说 意 大 利 语 吗Q要 说 意 大 利 语 吗Q你 会 说 意 大 利 语 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9683/zhQ你 会 说 西 班 牙 语 吗Q要 说 西 班 牙 语 吗Q要 说 西 班 牙 语 吗Q你 会 说 西 班 牙 语 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9684/zhQ你 买 票 了 吗Q我 没 有 买 票Q我 没 有 买 票Q你 买 票 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9686/zhQ你 去 过 日 本 吗Q我 去 过 日 本Q我 去 过 日 本Q你 去 过 日 本 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9688/zhQ你 要 在 这 里 逗 留 多 久Q我 可 能 留 很 久Q我 可 能 留 很 久Q你 要 在 这 里 逗 留 多 久
+/disk1/dataset_glq/SP-10_video_frame/train/9689/zhQ每 一 晚 的 费 用 是 多 少Q每 晚 费 用 不 低Q每 晚 费 用 不 低Q每 一 晚 的 费 用 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/9690/zhQ我 今 晚 飞 往 纽 约Q今 晚 飞 往 哪Q今 晚 飞 往 哪Q我 今 晚 飞 往 纽 约
+/disk1/dataset_glq/SP-10_video_frame/train/9691/zhQ我 要 去 宾 馆 洗 个 澡Q你 要 去 哪 洗 澡Q你 要 去 哪 洗 澡Q我 要 去 宾 馆 洗 个 澡
+/disk1/dataset_glq/SP-10_video_frame/train/9692/zhQ车 没 油 了Q车 还 有 油 吗Q车 还 有 油 吗Q车 没 油 了
+/disk1/dataset_glq/SP-10_video_frame/train/9693/zhQ我 没 有 驾 照Q你 有 驾 照 吗Q你 有 驾 照 吗Q我 没 有 驾 照
+/disk1/dataset_glq/SP-10_video_frame/train/9695/zhQ昨 天 我 有 一 个 轮 胎 漏 气 了Q昨 天 轮 胎 怎 么 了Q昨 天 轮 胎 怎 么 了Q昨 天 我 有 一 个 轮 胎 漏 气 了
+/disk1/dataset_glq/SP-10_video_frame/train/9696/zhQ我 的 护 照 丢 了Q你 的 护 照 哪 去 了Q你 的 护 照 哪 去 了Q我 的 护 照 丢 了
+/disk1/dataset_glq/SP-10_video_frame/train/9698/zhQ我 需 要 一 辆 出 租 车Q你 需 要 什 么 车Q你 需 要 什 么 车Q我 需 要 一 辆 出 租 车
+/disk1/dataset_glq/SP-10_video_frame/train/9699/zhQ我 会 带 你 去 机 场Q你 会 带 我 去 哪Q你 会 带 我 去 哪Q我 会 带 你 去 机 场
+/disk1/dataset_glq/SP-10_video_frame/train/9700/zhQ我 想 要 一 间 双 人 房Q你 想 要 什 么 房Q你 想 要 什 么 房Q我 想 要 一 间 双 人 房
+/disk1/dataset_glq/SP-10_video_frame/train/9701/zhQ我 想 要 一 张 收 据Q你 想 要 什 么Q你 想 要 什 么Q我 想 要 一 张 收 据
+/disk1/dataset_glq/SP-10_video_frame/train/9702/zhQ我 想 要 一 个 晚 上 的 房 间Q你 想 要 什 么Q你 想 要 什 么Q我 想 要 一 个 晚 上 的 房 间
+/disk1/dataset_glq/SP-10_video_frame/train/9703/zhQ我 想 要 一 间 单 人 房Q你 想 要 什 么Q你 想 要 什 么Q我 想 要 一 间 单 人 房
+/disk1/dataset_glq/SP-10_video_frame/train/9704/zhQ我 想 预 订 房 间Q你 要 预 定 房 间 吗Q你 要 预 定 房 间 吗Q我 想 预 订 房 间
+/disk1/dataset_glq/SP-10_video_frame/train/9705/zhQ包 括 早 餐 吗Q包 括 早 餐Q包 括 早 餐Q包 括 早 餐 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9706/zhQ有 人 认 识 你 吗Q没 有 人 认 识 我Q没 有 人 认 识 我Q有 人 认 识 你 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9709/zhQ请 出 示 您 的 票 吧Q我 有 票Q我 有 票Q请 出 示 您 的 票 吧
+/disk1/dataset_glq/SP-10_video_frame/train/9711/zhQ慢 下 来Q慢 一 点Q慢 一 点Q慢 下 来
+/disk1/dataset_glq/SP-10_video_frame/train/9712/zhQ我 有 一 天 要 去 非 洲Q你 有 一 天 要 去 哪Q你 有 一 天 要 去 哪Q我 有 一 天 要 去 非 洲
+/disk1/dataset_glq/SP-10_video_frame/train/9713/zhQ停 止 在 这 里Q停 止 在 哪Q停 止 在 哪Q停 止 在 这 里
+/disk1/dataset_glq/SP-10_video_frame/train/9714/zhQ由 于 大 雾 机 场 关 闭Q机 场 关 闭 了 吗Q机 场 关 闭 了 吗Q由 于 大 雾 机 场 关 闭
+/disk1/dataset_glq/SP-10_video_frame/train/9716/zhQ航 班 取 消 了Q航 班 取 消 了 吗Q航 班 取 消 了 吗Q航 班 取 消 了
+/disk1/dataset_glq/SP-10_video_frame/train/9717/zhQ航 班 延 误 了 一 个 小 时Q航 班 延 误 了 多 长 时 间Q航 班 延 误 了 多 长 时 间Q航 班 延 误 了 一 个 小 时
+/disk1/dataset_glq/SP-10_video_frame/train/9718/zhQ现 在 准 备 登 机 了Q现 在 登 机 吗Q现 在 登 机 吗Q现 在 准 备 登 机 了
+/disk1/dataset_glq/SP-10_video_frame/train/9719/zhQ座 位 不 保 留Q座 位 能 保 留 吗Q座 位 能 保 留 吗Q座 位 不 保 留
+/disk1/dataset_glq/SP-10_video_frame/train/9720/zhQ停 留 两 个 小 时Q停 留 多 长 时 间Q停 留 多 长 时 间Q停 留 两 个 小 时
+/disk1/dataset_glq/SP-10_video_frame/train/9721/zhQ十 分 钟 后 我 们 将 着 陆Q什 么 时 间 着 陆Q什 么 时 间 着 陆Q十 分 钟 后 我 们 将 着 陆
+/disk1/dataset_glq/SP-10_video_frame/train/9722/zhQ公 共 汽 车 什 么 时 候 到 达Q公 共 汽 车 到 达 了Q公 共 汽 车 到 达 了Q公 共 汽 车 什 么 时 候 到 达
+/disk1/dataset_glq/SP-10_video_frame/train/9723/zhQ飞 机 什 么 时 候 起 飞Q飞 机 要 起 飞 了Q飞 机 要 起 飞 了Q飞 机 什 么 时 候 起 飞
+/disk1/dataset_glq/SP-10_video_frame/train/9724/zhQ火 车 什 么 时 候 出 发Q火 车 要 出 发 了Q火 车 要 出 发 了Q火 车 什 么 时 候 出 发
+/disk1/dataset_glq/SP-10_video_frame/train/9725/zhQ退 房 的 时 间 是 几 点Q需 要 先 退 房Q需 要 先 退 房Q退 房 的 时 间 是 几 点
+/disk1/dataset_glq/SP-10_video_frame/train/9727/zhQ我 在 哪 里 买 票Q你 需 要 买 票Q你 需 要 买 票Q我 在 哪 里 买 票
+/disk1/dataset_glq/SP-10_video_frame/train/9728/zhQ博 物 馆 在 哪 里Q我 要 去 博 物 馆Q我 要 去 博 物 馆Q博 物 馆 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/9730/zhQ剧 院 在 哪 里Q我 要 去 剧 院Q我 要 去 剧 院Q剧 院 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/9731/zhQ旅 游 信 息 中 心 在 哪 里Q我 找 不 到 旅 游 信 息 中 心Q我 找 不 到 旅 游 信 息 中 心Q旅 游 信 息 中 心 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/9732/zhQ你 乘 哪 家 航 空 公 司 的 航 班Q我 乘 航 班 走Q我 乘 航 班 走Q你 乘 哪 家 航 空 公 司 的 航 班
+/disk1/dataset_glq/SP-10_video_frame/train/9735/zhQ早 晨 6 点 你 打 电 话 叫 醒 我 吗Q你 什 么 时 候 叫 醒 我Q你 什 么 时 候 叫 醒 我Q早 晨 6 点 你 打 电 话 叫 醒 我 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9736/zhQ你 想 看 杂 志 还 是 报 纸Q我 想 看 报 纸Q我 想 看 报 纸Q你 想 看 杂 志 还 是 报 纸
+/disk1/dataset_glq/SP-10_video_frame/train/9739/zhQ你 用 网 上 银 行 吗Q我 不 用 网 上 银 行Q我 不 用 网 上 银 行Q你 用 网 上 银 行 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9740/zhQ你 有 聋 人 打 字 式 电 话 吗Q我 有 聋 人 打 字 式 电 话Q我 有 聋 人 打 字 式 电 话Q你 有 聋 人 打 字 式 电 话 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9743/zhQ我 学 习 做 网 络 工 程 师Q你 学 习 做 什 么Q你 学 习 做 什 么Q我 学 习 做 网 络 工 程 师
+/disk1/dataset_glq/SP-10_video_frame/train/9746/zhQ我 的 硬 盘 驱 动 器 出 故 障 了Q你 的 硬 盘 驱 动 器 怎 么 了Q你 的 硬 盘 驱 动 器 怎 么 了Q我 的 硬 盘 驱 动 器 出 故 障 了
+/disk1/dataset_glq/SP-10_video_frame/train/9747/zhQ我 有 宽 带 上 网 连 接Q你 有 宽 带 上 网 连 接 吗Q你 有 宽 带 上 网 连 接 吗Q我 有 宽 带 上 网 连 接
+/disk1/dataset_glq/SP-10_video_frame/train/9748/zhQ我 有 一 个 新 的 照 片 编 辑 程 序Q你 有 新 的 照 片 编 辑 程 序 吗Q你 有 新 的 照 片 编 辑 程 序 吗Q我 有 一 个 新 的 照 片 编 辑 程 序
+/disk1/dataset_glq/SP-10_video_frame/train/9749/zhQ我 喜 欢 上 网 购 物Q你 喜 欢 上 网 购 物 吗Q你 喜 欢 上 网 购 物 吗Q我 喜 欢 上 网 购 物
+/disk1/dataset_glq/SP-10_video_frame/train/9750/zhQ我 爱 我 的 纯 平 显 示 器Q你 喜 欢 纯 平 显 示 器 吗Q你 喜 欢 纯 平 显 示 器 吗Q我 爱 我 的 纯 平 显 示 器
+/disk1/dataset_glq/SP-10_video_frame/train/9751/zhQ我 喜 欢 我 的 新 伙 伴Q你 喜 欢 新 伙 伴 吗Q你 喜 欢 新 伙 伴 吗Q我 喜 欢 我 的 新 伙 伴
+/disk1/dataset_glq/SP-10_video_frame/train/9753/zhQ我 收 到 很 多 垃 圾 邮 件Q你 收 到 什 么 邮 件 了Q你 收 到 什 么 邮 件 了Q我 收 到 很 多 垃 圾 邮 件
+/disk1/dataset_glq/SP-10_video_frame/train/9756/zhQ我 使 用 电 子 邮 件Q你 用 电 子 邮 件 吗Q你 用 电 子 邮 件 吗Q我 使 用 电 子 邮 件
+/disk1/dataset_glq/SP-10_video_frame/train/9758/zhQ插 入 软 盘Q插 入 什 么Q插 入 什 么Q插 入 软 盘
+/disk1/dataset_glq/SP-10_video_frame/train/9761/zhQ我 的 网 速 太 慢 了Q你 的 网 速 快 吗Q你 的 网 速 快 吗Q我 的 网 速 太 慢 了
+/disk1/dataset_glq/SP-10_video_frame/train/9762/zhQ我 的 电 脑 死 机 了Q你 的 电 脑 怎 么 了Q你 的 电 脑 怎 么 了Q我 的 电 脑 死 机 了
+/disk1/dataset_glq/SP-10_video_frame/train/9763/zhQ我 的 文 字 处 理 器 是 文 档Q你 的 文 字 处 理 器 是 什 么Q你 的 文 字 处 理 器 是 什 么Q我 的 文 字 处 理 器 是 文 档
+/disk1/dataset_glq/SP-10_video_frame/train/9764/zhQ鼠 标 垫 漂 亮Q鼠 标 垫 好 看 吗Q鼠 标 垫 好 看 吗Q鼠 标 垫 漂 亮
+/disk1/dataset_glq/SP-10_video_frame/train/9765/zhQ你 信 基 督 教 吗Q我 不 信 基 督 教Q我 不 信 基 督 教Q你 信 基 督 教 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9766/zhQ你 参 加 教 会 吗Q我 不 参 加 教 会Q我 不 参 加 教 会Q你 参 加 教 会 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9770/zhQ你 在 讲 道 会 需 要 我 给 你 翻 译 吗Q需 要 我 给 你 翻 译Q需 要 我 给 你 翻 译Q你 在 讲 道 会 需 要 我 给 你 翻 译 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9773/zhQ他 以 前 是 传 道 士Q他 以 前 是 传 道 士 吗Q他 以 前 是 传 道 士 吗Q他 以 前 是 传 道 士
+/disk1/dataset_glq/SP-10_video_frame/train/9775/zhQ我 每 个 星 期 日 都 去 教 堂Q你 什 么 时 间 去 教 堂 呢Q你 什 么 时 间 去 教 堂 呢Q我 每 个 星 期 日 都 去 教 堂
+/disk1/dataset_glq/SP-10_video_frame/train/9777/zhQ有 青 年 小 组 吗Q没 有 青 年 小 组Q没 有 青 年 小 组Q有 青 年 小 组 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9784/zhQ她 是 一 个 传 教 士Q她 是 传 教 士 吗Q她 是 传 教 士 吗Q她 是 一 个 传 教 士
+/disk1/dataset_glq/SP-10_video_frame/train/9785/zhQ教 堂 的 地 址 是 什 么Q我 想 去 教 堂Q我 想 去 教 堂Q教 堂 的 地 址 是 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/9786/zhQ教 堂 的 电 话 号 码 是 多 少Q你 知 道 教 堂 的 电 话 号 码 吗Q你 知 道 教 堂 的 电 话 号 码 吗Q教 堂 的 电 话 号 码 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/9787/zhQ你 提 供 什 么 样 的 服 务 呢Q会 提 供 服 务Q会 提 供 服 务Q你 提 供 什 么 样 的 服 务 呢
+/disk1/dataset_glq/SP-10_video_frame/train/9788/zhQ几 点 开 始 营 业 呢Q已 经 营 业 了Q已 经 营 业 了Q几 点 开 始 营 业 呢
+/disk1/dataset_glq/SP-10_video_frame/train/9789/zhQ主 日 学 校 在 哪 里Q你 知 道 主 日 学 校 吗Q你 知 道 主 日 学 校 吗Q主 日 学 校 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/9791/zhQ他 有 两 个 研 究 生 学 位Q他 有 几 个 研 究 生 学 位Q他 有 几 个 研 究 生 学 位Q他 有 两 个 研 究 生 学 位
+/disk1/dataset_glq/SP-10_video_frame/train/9793/zhQ我 放 假 三 个 星 期Q你 放 假 多 长 时 间Q你 放 假 多 长 时 间Q我 放 假 三 个 星 期
+/disk1/dataset_glq/SP-10_video_frame/train/9794/zhQ我 看 过 这 部 电 影 三 次Q你 看 过 几 遍 电 影Q你 看 过 几 遍 电 影Q我 看 过 这 部 电 影 三 次
+/disk1/dataset_glq/SP-10_video_frame/train/9796/zhQ我 要 半 杯 咖 啡Q你 要 什 么Q你 要 什 么Q我 要 半 杯 咖 啡
+/disk1/dataset_glq/SP-10_video_frame/train/9797/zhQ我 一 周 工 作 六 天Q你 一 周 工 作 几 天Q你 一 周 工 作 几 天Q我 一 周 工 作 六 天
+/disk1/dataset_glq/SP-10_video_frame/train/9798/zhQ我 已 经 节 食 十 二 周 了Q你 节 食 多 长 时 间 了Q你 节 食 多 长 时 间 了Q我 已 经 节 食 十 二 周 了
+/disk1/dataset_glq/SP-10_video_frame/train/9800/zhQ我 的 电 话 号 码 是Q你 知 道 我 的 电 话 号 码 吗Q你 知 道 我 的 电 话 号 码 吗Q我 的 电 话 号 码 是
+/disk1/dataset_glq/SP-10_video_frame/train/9801/zhQ我 的 假 期 是 三 个 月Q你 的 假 期 是 几 个 月Q你 的 假 期 是 几 个 月Q我 的 假 期 是 三 个 月
+/disk1/dataset_glq/SP-10_video_frame/train/9803/zhQ垃 圾 车 是 一 周 一 次Q垃 圾 车 几 周 一 次Q垃 圾 车 几 周 一 次Q垃 圾 车 是 一 周 一 次
+/disk1/dataset_glq/SP-10_video_frame/train/9805/zhQ我 们 国 家 只 有 200 万 人 口Q你 们 国 家 有 多 少 人Q你 们 国 家 有 多 少 人Q我 们 国 家 只 有 200 万 人 口
+/disk1/dataset_glq/SP-10_video_frame/train/9806/zhQ150 人 出 席 婚 礼 了Q多 少 人 出 席 婚 礼 了Q多 少 人 出 席 婚 礼 了Q150 人 出 席 婚 礼 了
+/disk1/dataset_glq/SP-10_video_frame/train/9808/zhQ水 在 华 氏 32 度 时 会 结 冰Q水 在 什 么 情 况 下 会 结 冰Q水 在 什 么 情 况 下 会 结 冰Q水 在 华 氏 32 度 时 会 结 冰
+/disk1/dataset_glq/SP-10_video_frame/train/9809/zhQ你 们 有 空 缺 吗Q我 们 没 有 空 缺Q我 们 没 有 空 缺Q你 们 有 空 缺 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9810/zhQ他 努 力 工 作Q他 努 力 工 作 吗Q他 努 力 工 作 吗Q他 努 力 工 作
+/disk1/dataset_glq/SP-10_video_frame/train/9812/zhQ这 个 职 位 挣 多 少 钱Q这 个 职 位 好 吗Q这 个 职 位 好 吗Q这 个 职 位 挣 多 少 钱
+/disk1/dataset_glq/SP-10_video_frame/train/9813/zhQ我 是 医 生Q你 是 医 生 吗Q你 是 医 生 吗Q我 是 医 生
+/disk1/dataset_glq/SP-10_video_frame/train/9814/zhQ我 是 消 防 员Q你 是 消 防 员 吗Q你 是 消 防 员 吗Q我 是 消 防 员
+/disk1/dataset_glq/SP-10_video_frame/train/9815/zhQ我 是 家 庭 主 妇Q你 是 什 么 工 作Q你 是 什 么 工 作Q我 是 家 庭 主 妇
+/disk1/dataset_glq/SP-10_video_frame/train/9817/zhQ我 是 警 察Q你 是 什 么 工 作Q你 是 什 么 工 作Q我 是 警 察
+/disk1/dataset_glq/SP-10_video_frame/train/9818/zhQ我 是 秘 书Q你 是 什 么 工 作Q你 是 什 么 工 作Q我 是 秘 书
+/disk1/dataset_glq/SP-10_video_frame/train/9819/zhQ我 是 演 员Q你 是 什 么 工 作Q你 是 什 么 工 作Q我 是 演 员
+/disk1/dataset_glq/SP-10_video_frame/train/9820/zhQ我 是 艺 术 家Q你 是 什 么 工 作Q你 是 什 么 工 作Q我 是 艺 术 家
+/disk1/dataset_glq/SP-10_video_frame/train/9823/zhQ我 喜 欢 我 的 工 作Q你 喜 欢 你 的 工 作 吗Q你 喜 欢 你 的 工 作 吗Q我 喜 欢 我 的 工 作
+/disk1/dataset_glq/SP-10_video_frame/train/9824/zhQ我 想 面 试 这 份 工 作Q你 想 面 试 这 份 工 作 吗Q你 想 面 试 这 份 工 作 吗Q我 想 面 试 这 份 工 作
+/disk1/dataset_glq/SP-10_video_frame/train/9826/zhQ我 的 表 弟 是 一 个 飞 行 员Q你 表 弟 是 什 么 职 业Q你 表 弟 是 什 么 职 业Q我 的 表 弟 是 一 个 飞 行 员
+/disk1/dataset_glq/SP-10_video_frame/train/9827/zhQ我 的 叔 叔 是 一 个 农 民Q你 叔 叔 做 什 么 的Q你 叔 叔 做 什 么 的Q我 的 叔 叔 是 一 个 农 民
+/disk1/dataset_glq/SP-10_video_frame/train/9832/zhQ一 只 熊 住 在 洞 里Q一 只 熊 住 在 哪Q一 只 熊 住 在 哪Q一 只 熊 住 在 洞 里
+/disk1/dataset_glq/SP-10_video_frame/train/9834/zhQ雪 融 化 了 吗Q雪 融 化 了Q雪 融 化 了Q雪 融 化 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9835/zhQ你 曾 经 体 验 过 地 震 吗Q我 没 有 体 验 过 地 震Q我 没 有 体 验 过 地 震Q你 曾 经 体 验 过 地 震 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9837/zhQ我 害 怕 雷 暴Q你 害 怕 雷 暴 吗Q你 害 怕 雷 暴 吗Q我 害 怕 雷 暴
+/disk1/dataset_glq/SP-10_video_frame/train/9838/zhQ我 害 怕 龙 卷 风Q你 害 怕 龙 卷 风 吗Q你 害 怕 龙 卷 风 吗Q我 害 怕 龙 卷 风
+/disk1/dataset_glq/SP-10_video_frame/train/9845/zhQ今 天 天 光 作 美Q今 天 天 气 怎 么 样Q今 天 天 气 怎 么 样Q今 天 天 光 作 美
+/disk1/dataset_glq/SP-10_video_frame/train/9847/zhQ下 雪 了Q下 雪 了 吗Q下 雪 了 吗Q下 雪 了
+/disk1/dataset_glq/SP-10_video_frame/train/9848/zhQ今 天 风 很 大Q今 天 风 大 吗Q今 天 风 大 吗Q今 天 风 很 大
+/disk1/dataset_glq/SP-10_video_frame/train/9849/zhQ昨 天 下 雨 了Q昨 天 下 雨 了 吗Q昨 天 下 雨 了 吗Q昨 天 下 雨 了
+/disk1/dataset_glq/SP-10_video_frame/train/9850/zhQ今 天 早 上 很 冷Q今 天 早 上 冷 吗Q今 天 早 上 冷 吗Q今 天 早 上 很 冷
+/disk1/dataset_glq/SP-10_video_frame/train/9851/zhQ今 晚 将 会 冻 冰Q今 晚 会 冻 冰 吗Q今 晚 会 冻 冰 吗Q今 晚 将 会 冻 冰
+/disk1/dataset_glq/SP-10_video_frame/train/9852/zhQ也 许 明 天 会 下 雪Q明 天 会 下 雪 吗Q明 天 会 下 雪 吗Q也 许 明 天 会 下 雪
+/disk1/dataset_glq/SP-10_video_frame/train/9853/zhQ倾 盆 大 雨Q雨 大 吗Q雨 大 吗Q倾 盆 大 雨
+/disk1/dataset_glq/SP-10_video_frame/train/9855/zhQ海 上 风 暴Q海 上 有 风 暴 吗Q海 上 有 风 暴 吗Q海 上 风 暴
+/disk1/dataset_glq/SP-10_video_frame/train/9856/zhQ天 气 预 报 说 是 晴 天Q天 气 预 报 怎 么 说Q天 气 预 报 怎 么 说Q天 气 预 报 说 是 晴 天
+/disk1/dataset_glq/SP-10_video_frame/train/9858/zhQ太 阳 是 热 的Q太 阳 热 吗Q太 阳 热 吗Q太 阳 是 热 的
+/disk1/dataset_glq/SP-10_video_frame/train/9860/zhQ瀑 布 美 丽Q瀑 布 美 丽 吗Q瀑 布 美 丽 吗Q瀑 布 美 丽
+/disk1/dataset_glq/SP-10_video_frame/train/9861/zhQ今 晚 满 月Q月 亮 怎 么 样Q月 亮 怎 么 样Q今 晚 满 月
+/disk1/dataset_glq/SP-10_video_frame/train/9862/zhQ去 年 发 洪 水 了Q什 么 时 候 发 洪 水 了Q什 么 时 候 发 洪 水 了Q去 年 发 洪 水 了
+/disk1/dataset_glq/SP-10_video_frame/train/9863/zhQ昨 晚 有 雷 声 和 闪 电Q昨 晚 天 气 怎 么 样Q昨 晚 天 气 怎 么 样Q昨 晚 有 雷 声 和 闪 电
+/disk1/dataset_glq/SP-10_video_frame/train/9864/zhQ壁 炉 取 暖Q怎 么 取 暖Q怎 么 取 暖Q壁 炉 取 暖
+/disk1/dataset_glq/SP-10_video_frame/train/9865/zhQ我 们 在 沙 漠 中 迷 路 了Q你 们 怎 么 会 迷 路Q你 们 怎 么 会 迷 路Q我 们 在 沙 漠 中 迷 路 了
+/disk1/dataset_glq/SP-10_video_frame/train/9866/zhQ温 度 是 多 少Q温 度 有 点 高Q温 度 有 点 高Q温 度 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/9867/zhQ这 是 什 么 类 型 的 树Q这 个 树 挺 好 看Q这 个 树 挺 好 看Q这 是 什 么 类 型 的 树
+/disk1/dataset_glq/SP-10_video_frame/train/9870/zhQ从 这 里 你 可 以 看 到 很 多 星 星Q从 这 里 能 看 到 星 星 吗Q从 这 里 能 看 到 星 星 吗Q从 这 里 你 可 以 看 到 很 多 星 星
+/disk1/dataset_glq/SP-10_video_frame/train/9871/zhQ你 可 以 换 一 下 五 块 的 零 钱 吗Q我 没 有 五 块 的 零 钱Q我 没 有 五 块 的 零 钱Q你 可 以 换 一 下 五 块 的 零 钱 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9872/zhQ你 有 十 美 分 硬 币 吗Q我 没 有 十 美 分 硬 币Q我 没 有 十 美 分 硬 币Q你 有 十 美 分 硬 币 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9873/zhQ你 有 五 分 镍 币 吗Q我 有 五 分 镍 币Q我 有 五 分 镍 币Q你 有 五 分 镍 币 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9875/zhQ你 有 储 蓄 计 划 吗Q我 有 储 蓄 计 划Q我 有 储 蓄 计 划Q你 有 储 蓄 计 划 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9876/zhQ你 付 了 多 少 钱Q我 付 了 很 多 钱Q我 付 了 很 多 钱Q你 付 了 多 少 钱
+/disk1/dataset_glq/SP-10_video_frame/train/9877/zhQ他 欠 了 多 少 钱Q他 欠 了 很 多 钱Q他 欠 了 很 多 钱Q他 欠 了 多 少 钱
+/disk1/dataset_glq/SP-10_video_frame/train/9878/zhQ进 去 要 花 多 少 钱Q进 去 要 花 钱Q进 去 要 花 钱Q进 去 要 花 多 少 钱
+/disk1/dataset_glq/SP-10_video_frame/train/9879/zhQ这 本 书 价 格 是 多 少Q这 本 书 不 贵Q这 本 书 不 贵Q这 本 书 价 格 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/9880/zhQ我 申 办 信 用 卡Q你 办 卡 吗Q你 办 卡 吗Q我 申 办 信 用 卡
+/disk1/dataset_glq/SP-10_video_frame/train/9881/zhQ我 没 有 钱Q你 有 钱 吗Q你 有 钱 吗Q我 没 有 钱
+/disk1/dataset_glq/SP-10_video_frame/train/9883/zhQ我 需 要 去 银 行Q你 需 要 去 银 行 吗Q你 需 要 去 银 行 吗Q我 需 要 去 银 行
+/disk1/dataset_glq/SP-10_video_frame/train/9885/zhQ我 破 产 了Q你 破 产 了 吗Q你 破 产 了 吗Q我 破 产 了
+/disk1/dataset_glq/SP-10_video_frame/train/9888/zhQ我 在 哪 里 可 以 找 到 自 动 取 款 机Q我 需 要 去 自 动 取 款 机Q我 需 要 去 自 动 取 款 机Q我 在 哪 里 可 以 找 到 自 动 取 款 机
+/disk1/dataset_glq/SP-10_video_frame/train/9889/zhQ谁 对 你 征 税Q我 被 征 税 了Q我 被 征 税 了Q谁 对 你 征 税
+/disk1/dataset_glq/SP-10_video_frame/train/9891/zhQ劳 动 节 你 有 什 么 安 排 吗Q劳 动 节 我 有 安 排Q劳 动 节 我 有 安 排Q劳 动 节 你 有 什 么 安 排 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9894/zhQ万 圣 节 快 乐Q万 圣 节 快 乐Q万 圣 节 快 乐Q万 圣 节 快 乐
+/disk1/dataset_glq/SP-10_video_frame/train/9896/zhQ母 亲 节 快 乐Q母 亲 节 快 乐Q母 亲 节 快 乐Q母 亲 节 快 乐
+/disk1/dataset_glq/SP-10_video_frame/train/9898/zhQ情 人 节 快 乐Q情 人 节 快 乐Q情 人 节 快 乐Q情 人 节 快 乐
+/disk1/dataset_glq/SP-10_video_frame/train/9906/zhQ母 亲 节Q母 亲 节Q母 亲 节Q母 亲 节
+/disk1/dataset_glq/SP-10_video_frame/train/9907/zhQ和 平 与 美 好Q和 平 与 美 好Q和 平 与 美 好Q和 平 与 美 好
+/disk1/dataset_glq/SP-10_video_frame/train/9909/zhQ节 日 问 候Q节 日 问 候Q节 日 问 候Q节 日 问 候
+/disk1/dataset_glq/SP-10_video_frame/train/9910/zhQ谢 谢 你 的 祖 父 母Q感 谢 你 的 祖 父 母Q感 谢 你 的 祖 父 母Q谢 谢 你 的 祖 父 母
+/disk1/dataset_glq/SP-10_video_frame/train/9915/zhQ你 觉 得 一 切 都 好 吗Q我 觉 得 一 切 都 好Q我 觉 得 一 切 都 好Q你 觉 得 一 切 都 好 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9917/zhQ你 有 医 疗 保 险 吗Q我 没 有 医 疗 保 险Q我 没 有 医 疗 保 险Q你 有 医 疗 保 险 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9918/zhQ你 拔 过 牙 吗Q我 没 有 拔 过 牙Q我 没 有 拔 过 牙Q你 拔 过 牙 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9919/zhQ我 不 舒 服Q你 舒 服 吗Q你 舒 服 吗Q我 不 舒 服
+/disk1/dataset_glq/SP-10_video_frame/train/9920/zhQ我 感 觉 好 了Q你 感 觉 好 了 吗Q你 感 觉 好 了 吗Q我 感 觉 好 了
+/disk1/dataset_glq/SP-10_video_frame/train/9922/zhQ我 感 觉 有 点 晕 眩Q你 感 觉 晕 眩 吗Q你 感 觉 晕 眩 吗Q我 感 觉 有 点 晕 眩
+/disk1/dataset_glq/SP-10_video_frame/train/9923/zhQ我 感 觉 很 好Q你 感 觉 怎 么 样Q你 感 觉 怎 么 样Q我 感 觉 很 好
+/disk1/dataset_glq/SP-10_video_frame/train/9924/zhQ我 觉 得 恶 心Q你 觉 得 恶 心 吗Q你 觉 得 恶 心 吗Q我 觉 得 恶 心
+/disk1/dataset_glq/SP-10_video_frame/train/9925/zhQ我 觉 得 难 受Q你 难 受 吗Q你 难 受 吗Q我 觉 得 难 受
+/disk1/dataset_glq/SP-10_video_frame/train/9926/zhQ我 上 星 期 做 了 体 检Q你 做 过 体 检 吗Q你 做 过 体 检 吗Q我 上 星 期 做 了 体 检
+/disk1/dataset_glq/SP-10_video_frame/train/9928/zhQ我 有 点 咳 嗽Q你 咳 嗽 吗Q你 咳 嗽 吗Q我 有 点 咳 嗽
+/disk1/dataset_glq/SP-10_video_frame/train/9930/zhQ我 嗓 子 痛Q你 嗓 子 痛 吗Q你 嗓 子 痛 吗Q我 嗓 子 痛
+/disk1/dataset_glq/SP-10_video_frame/train/9931/zhQ我 肚 子 疼Q你 怎 么 了Q你 怎 么 了Q我 肚 子 疼
+/disk1/dataset_glq/SP-10_video_frame/train/9932/zhQ我 的 牙 疼 了Q你 的 牙 疼 吗Q你 的 牙 疼 吗Q我 的 牙 疼 了
+/disk1/dataset_glq/SP-10_video_frame/train/9933/zhQ我 感 冒 了Q你 感 冒 了 吗Q你 感 冒 了 吗Q我 感 冒 了
+/disk1/dataset_glq/SP-10_video_frame/train/9935/zhQ我 的 眼 镜 丢 了Q你 的 眼 镜 呢Q你 的 眼 镜 呢Q我 的 眼 镜 丢 了
+/disk1/dataset_glq/SP-10_video_frame/train/9936/zhQ我 的 药 用 完 了Q你 的 药 用 完 了 吗Q你 的 药 用 完 了 吗Q我 的 药 用 完 了
+/disk1/dataset_glq/SP-10_video_frame/train/9937/zhQ我 得 去 买 一 些 药Q你 去 买 药 吗Q你 去 买 药 吗Q我 得 去 买 一 些 药
+/disk1/dataset_glq/SP-10_video_frame/train/9938/zhQ我 必 须 吃 药Q你 需 要 吃 药 吗Q你 需 要 吃 药 吗Q我 必 须 吃 药
+/disk1/dataset_glq/SP-10_video_frame/train/9939/zhQ我 需 要 一 个 牙 医Q你 需 要 牙 医 吗Q你 需 要 牙 医 吗Q我 需 要 一 个 牙 医
+/disk1/dataset_glq/SP-10_video_frame/train/9940/zhQ我 需 要 一 个 医 生Q你 需 要 医 生 吗Q你 需 要 医 生 吗Q我 需 要 一 个 医 生
+/disk1/dataset_glq/SP-10_video_frame/train/9941/zhQ我 在 床 上 躺 了 两 周Q你 在 床 上 躺 了 多 久Q你 在 床 上 躺 了 多 久Q我 在 床 上 躺 了 两 周
+/disk1/dataset_glq/SP-10_video_frame/train/9942/zhQ它 坏 了 吗Q它 是 好 的 吗Q它 是 好 的 吗Q它 坏 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9943/zhQ这 里 疼 痛Q你 这 里 疼 痛 吗Q你 这 里 疼 痛 吗Q这 里 疼 痛
+/disk1/dataset_glq/SP-10_video_frame/train/9944/zhQ该 给 你 量 体 温 了Q要 量 体 温 了 吗Q要 量 体 温 了 吗Q该 给 你 量 体 温 了
+/disk1/dataset_glq/SP-10_video_frame/train/9947/zhQ我 丈 夫 以 前 有 个 手 术Q你 丈 夫 有 手 术 吗Q你 丈 夫 有 手 术 吗Q我 丈 夫 以 前 有 个 手 术
+/disk1/dataset_glq/SP-10_video_frame/train/9948/zhQ我 流 鼻 涕 了Q你 流 鼻 涕 了 吗Q你 流 鼻 涕 了 吗Q我 流 鼻 涕 了
+/disk1/dataset_glq/SP-10_video_frame/train/9949/zhQ我 的 胃 不 舒 服Q你 的 胃 不 舒 服 吗Q你 的 胃 不 舒 服 吗Q我 的 胃 不 舒 服
+/disk1/dataset_glq/SP-10_video_frame/train/9950/zhQ我 太 太 在 住 院 了Q你 太 太 怎 么 了Q你 太 太 怎 么 了Q我 太 太 在 住 院 了
+/disk1/dataset_glq/SP-10_video_frame/train/9951/zhQ他 们 必 须 提 取 一 些 血Q你 们 要 提 取 血 吗Q你 们 要 提 取 血 吗Q他 们 必 须 提 取 一 些 血
+/disk1/dataset_glq/SP-10_video_frame/train/9952/zhQ骨 折 了 吗Q好 像 骨 折 了Q好 像 骨 折 了Q骨 折 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9953/zhQ你 有 什 么 症 状Q有 一 些 症 状Q有 一 些 症 状Q你 有 什 么 症 状
+/disk1/dataset_glq/SP-10_video_frame/train/9954/zhQ天 气 预 报 怎 么 说Q我 看 天 气 预 报 了Q我 看 天 气 预 报 了Q天 气 预 报 怎 么 说
+/disk1/dataset_glq/SP-10_video_frame/train/9956/zhQ我 在 哪 里 可 以 找 到 医 院Q我 想 去 医 院Q我 想 去 医 院Q我 在 哪 里 可 以 找 到 医 院
+/disk1/dataset_glq/SP-10_video_frame/train/9958/zhQ你 已 经 减 肥 了Q你 减 肥 了 吗Q你 减 肥 了 吗Q你 已 经 减 肥 了
+/disk1/dataset_glq/SP-10_video_frame/train/9959/zhQ你 必 须 打 一 针Q你 要 打 针 吗Q你 要 打 针 吗Q你 必 须 打 一 针
+/disk1/dataset_glq/SP-10_video_frame/train/9960/zhQ你 流 了 很 多 血Q你 流 血 了 吗Q你 流 血 了 吗Q你 流 了 很 多 血
+/disk1/dataset_glq/SP-10_video_frame/train/9961/zhQ你 需 要 做 一 次 x 光 透 视Q你 需 要 做 什 么Q你 需 要 做 什 么Q你 需 要 做 一 次 x 光 透 视
+/disk1/dataset_glq/SP-10_video_frame/train/9965/zhQ你 带 甜 点 了 吗Q我 想 吃 甜 点Q我 想 吃 甜 点Q你 带 甜 点 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9966/zhQ你 吃 饭 了 吗Q我 没 有 吃 饭Q我 没 有 吃 饭Q你 吃 饭 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9970/zhQ你 想 去 看 电 影 吗Q我 想 去 看 电 影Q我 想 去 看 电 影Q你 想 去 看 电 影 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9973/zhQ请 坐Q请 坐Q请 坐Q请 坐
+/disk1/dataset_glq/SP-10_video_frame/train/9974/zhQ你 吃 过 饭 了 吗Q我 吃 过 饭 了Q我 吃 过 饭 了Q你 吃 过 饭 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/9975/zhQ他 把 录 像 机 弄 坏 了Q你 的 录 像 机 怎 么 了Q你 的 录 像 机 怎 么 了Q他 把 录 像 机 弄 坏 了
+/disk1/dataset_glq/SP-10_video_frame/train/9977/zhQ他 侄 女 会 帮 我Q他 侄 女 帮 我 吗Q他 侄 女 帮 我 吗Q他 侄 女 会 帮 我
+/disk1/dataset_glq/SP-10_video_frame/train/9979/zhQ你 最 近 过 得 怎 么 样Q我 最 近 过 得 很 好Q我 最 近 过 得 很 好Q你 最 近 过 得 怎 么 样
+/disk1/dataset_glq/SP-10_video_frame/train/9983/zhQ我 离 婚 了Q你 离 婚 了 吗Q你 离 婚 了 吗Q我 离 婚 了
+/disk1/dataset_glq/SP-10_video_frame/train/9984/zhQ我 很 高 兴 见 到 你Q你 见 到 我 高 兴 吗Q你 见 到 我 高 兴 吗Q我 很 高 兴 见 到 你
+/disk1/dataset_glq/SP-10_video_frame/train/9986/zhQ我 单 身Q你 是 单 身 吗Q你 是 单 身 吗Q我 单 身
+/disk1/dataset_glq/SP-10_video_frame/train/9987/zhQ我 感 谢 你 的 帮 助Q你 感 谢 我 的 帮 助 吗Q你 感 谢 我 的 帮 助 吗Q我 感 谢 你 的 帮 助
+/disk1/dataset_glq/SP-10_video_frame/train/9988/zhQ我 喜 欢 坐 在 阳 光 下Q你 喜 欢 坐 在 哪Q你 喜 欢 坐 在 哪Q我 喜 欢 坐 在 阳 光 下
+/disk1/dataset_glq/SP-10_video_frame/train/9992/zhQ我 已 经 等 了 二 十 分 钟 了Q你 等 了 多 久Q你 等 了 多 久Q我 已 经 等 了 二 十 分 钟 了
+/disk1/dataset_glq/SP-10_video_frame/train/9993/zhQ我 好 久 没 见 到 你 了Q很 久 没 见 了Q很 久 没 见 了Q我 好 久 没 见 到 你 了
+/disk1/dataset_glq/SP-10_video_frame/train/9996/zhQ我 把 打 字 机 借 给 别 人 了Q你 把 打 字 机 借 给 谁 了Q你 把 打 字 机 借 给 谁 了Q我 把 打 字 机 借 给 别 人 了
+/disk1/dataset_glq/SP-10_video_frame/train/9997/zhQ我 丢 了 我 的 梳 子Q你 丢 了 什 么Q你 丢 了 什 么Q我 丢 了 我 的 梳 子
+/disk1/dataset_glq/SP-10_video_frame/train/10001/zhQ我 需 要 邮 票Q你 需 要 邮 票 吗Q你 需 要 邮 票 吗Q我 需 要 邮 票
+/disk1/dataset_glq/SP-10_video_frame/train/10003/zhQ我 想 刷 牙Q你 想 干 嘛Q你 想 干 嘛Q我 想 刷 牙
+/disk1/dataset_glq/SP-10_video_frame/train/10005/zhQ我 很 快 就 会 回 来Q你 回 来 了 吗Q你 回 来 了 吗Q我 很 快 就 会 回 来
+/disk1/dataset_glq/SP-10_video_frame/train/10008/zhQ生 了 一 个 男 孩Q生 了 男 孩 还 是 女 孩Q生 了 男 孩 还 是 女 孩Q生 了 一 个 男 孩
+/disk1/dataset_glq/SP-10_video_frame/train/10010/zhQ这 是 搞 派 对 时 间Q这 是 什 么 时 间Q这 是 什 么 时 间Q这 是 搞 派 对 时 间
+/disk1/dataset_glq/SP-10_video_frame/train/10011/zhQ一 起 去 动 物 园Q一 起 去 哪Q一 起 去 哪Q一 起 去 动 物 园
+/disk1/dataset_glq/SP-10_video_frame/train/10013/zhQ让 我 们 休 息 一 下Q需 要 休 息 吗Q需 要 休 息 吗Q让 我 们 休 息 一 下
+/disk1/dataset_glq/SP-10_video_frame/train/10014/zhQ让 我 们 去 一 家 餐 馆Q我 们 去 哪Q我 们 去 哪Q让 我 们 去 一 家 餐 馆
+/disk1/dataset_glq/SP-10_video_frame/train/10015/zhQ我 可 以 借 用 你 的 吹 风 机 吗Q你 可 以 用 我 的 吹 风 机Q你 可 以 用 我 的 吹 风 机Q我 可 以 借 用 你 的 吹 风 机 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10016/zhQ我 可 以 和 你 一 起 去 吗Q你 可 以 和 我 一 起 去Q你 可 以 和 我 一 起 去Q我 可 以 和 你 一 起 去 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10017/zhQ请 给 我 你 的 名 片 吧Q把 名 片 给 我Q把 名 片 给 我Q请 给 我 你 的 名 片 吧
+/disk1/dataset_glq/SP-10_video_frame/train/10018/zhQ我 可 以 帮 你 吗Q你 可 以 帮 我Q你 可 以 帮 我Q我 可 以 帮 你 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10019/zhQ我 可 以 介 绍 一 下 我 的 女 儿 吗Q你 可 以 介 绍 你 的 女 儿Q你 可 以 介 绍 你 的 女 儿Q我 可 以 介 绍 一 下 我 的 女 儿 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10020/zhQ我 可 以 介 绍 我 的 朋 友 吗Q你 可 以 介 绍 你 的 朋 友Q你 可 以 介 绍 你 的 朋 友Q我 可 以 介 绍 我 的 朋 友 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10021/zhQ我 可 以 介 绍 一 下 我 的 丈 夫 吗Q你 可 以 介 绍 你 的 丈 夫Q你 可 以 介 绍 你 的 丈 夫Q我 可 以 介 绍 一 下 我 的 丈 夫 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10022/zhQ我 可 以 介 绍 一 下 我 的 儿 子 吗Q你 可 以 介 绍 你 的 儿 子Q你 可 以 介 绍 你 的 儿 子Q我 可 以 介 绍 一 下 我 的 儿 子 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10024/zhQ我 姨 姑 住 在 小 镇Q你 姨 姑 住 在 哪Q你 姨 姑 住 在 哪Q我 姨 姑 住 在 小 镇
+/disk1/dataset_glq/SP-10_video_frame/train/10026/zhQ我 的 电 脑 坏 了Q你 的 电 脑 怎 么 了Q你 的 电 脑 怎 么 了Q我 的 电 脑 坏 了
+/disk1/dataset_glq/SP-10_video_frame/train/10027/zhQ我 丈 夫 去 世 了Q你 丈 夫 怎 么 了Q你 丈 夫 怎 么 了Q我 丈 夫 去 世 了
+/disk1/dataset_glq/SP-10_video_frame/train/10029/zhQ我 的 太 太 去 世 了Q你 太 太 怎 么 了Q你 太 太 怎 么 了Q我 的 太 太 去 世 了
+/disk1/dataset_glq/SP-10_video_frame/train/10030/zhQ不 谢 谢 你Q感 谢 你 吗Q感 谢 你 吗Q不 谢 谢 你
+/disk1/dataset_glq/SP-10_video_frame/train/10031/zhQ开 门Q开 门Q开 门Q开 门
+/disk1/dataset_glq/SP-10_video_frame/train/10032/zhQ开 窗Q开 窗Q开 窗Q开 窗
+/disk1/dataset_glq/SP-10_video_frame/train/10033/zhQ我 们 的 家 庭 非 常 大Q你 们 的 家 庭 大 吗Q你 们 的 家 庭 大 吗Q我 们 的 家 庭 非 常 大
+/disk1/dataset_glq/SP-10_video_frame/train/10034/zhQ我 们 家 很 小Q你 们 家 大 吗Q你 们 家 大 吗Q我 们 家 很 小
+/disk1/dataset_glq/SP-10_video_frame/train/10036/zhQ也 许Q也 许Q也 许Q也 许
+/disk1/dataset_glq/SP-10_video_frame/train/10038/zhQ请 稍 等Q请 稍 等Q请 稍 等Q请 稍 等
+/disk1/dataset_glq/SP-10_video_frame/train/10040/zhQ禁 止 吸 烟Q能 吸 烟 吗Q能 吸 烟 吗Q禁 止 吸 烟
+/disk1/dataset_glq/SP-10_video_frame/train/10041/zhQ婴 儿 很 可 爱Q婴 儿 可 爱 吗Q婴 儿 可 爱 吗Q婴 儿 很 可 爱
+/disk1/dataset_glq/SP-10_video_frame/train/10042/zhQ非 常 有 趣Q有 趣 吗Q有 趣 吗Q非 常 有 趣
+/disk1/dataset_glq/SP-10_video_frame/train/10043/zhQ洗 脸Q洗 脸Q洗 脸Q洗 脸
+/disk1/dataset_glq/SP-10_video_frame/train/10047/zhQ你 叫 什 么 名 字Q你 叫 什 么 名 字Q你 叫 什 么 名 字Q你 叫 什 么 名 字
+/disk1/dataset_glq/SP-10_video_frame/train/10048/zhQ你 要 去 哪 里Q我 要 走 了Q我 要 走 了Q你 要 去 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10049/zhQ我 的 计 算 器 在 哪 里Q我 想 用 计 算 器Q我 想 用 计 算 器Q我 的 计 算 器 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10051/zhQ邮 局 在 哪 里Q去 邮 局 吧Q去 邮 局 吧Q邮 局 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10052/zhQ厕 所 在 哪 里Q我 要 去 厕 所Q我 要 去 厕 所Q厕 所 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10053/zhQ你 出 生 在 哪 里Q我 出 生 了Q我 出 生 了Q你 出 生 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10054/zhQ你 长 得 像 你 母 亲Q我 长 得 像 谁Q我 长 得 像 谁Q你 长 得 像 你 母 亲
+/disk1/dataset_glq/SP-10_video_frame/train/10056/zhQ请 安 排 一 张 两 个 人 的 桌 子Q安 排 多 大 的 桌 子Q安 排 多 大 的 桌 子Q请 安 排 一 张 两 个 人 的 桌 子
+/disk1/dataset_glq/SP-10_video_frame/train/10057/zhQ需 要 餐 后 甜 点 吗Q需 要 点 餐Q需 要 点 餐Q需 要 餐 后 甜 点 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10059/zhQ你 准 备 点 餐 吗Q我 准 备 点 餐Q我 准 备 点 餐Q你 准 备 点 餐 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10060/zhQ我 们 可 以 预 定 一 桌 席 位 吗Q我 们 可 以 预 定 一 桌 席 位Q我 们 可 以 预 定 一 桌 席 位Q我 们 可 以 预 定 一 桌 席 位 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10061/zhQ买 单Q买 单Q买 单Q买 单
+/disk1/dataset_glq/SP-10_video_frame/train/10062/zhQ你 们 接 受 信 用 卡 付 账 吗Q我 们 不 接 受 信 用 卡 付 账Q我 们 不 接 受 信 用 卡 付 账Q你 们 接 受 信 用 卡 付 账 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10063/zhQ你 想 要 低 糖 饮 料 还 是 普 通 饮 酒Q我 想 要 低 糖 饮 料Q我 想 要 低 糖 饮 料Q你 想 要 低 糖 饮 料 还 是 普 通 饮 酒
+/disk1/dataset_glq/SP-10_video_frame/train/10064/zhQ你 想 要 芥 末 酱 蛋 黄 酱 还 是 两 个 都 要 呢Q我 想 要 芥 末 酱Q我 想 要 芥 末 酱Q你 想 要 芥 末 酱 蛋 黄 酱 还 是 两 个 都 要 呢
+/disk1/dataset_glq/SP-10_video_frame/train/10065/zhQ你 想 要 加 糖 的 还 是 不 加 糖 的 茶 呢Q我 想 要 不 加 糖 的 茶Q我 想 要 不 加 糖 的 茶Q你 想 要 加 糖 的 还 是 不 加 糖 的 茶 呢
+/disk1/dataset_glq/SP-10_video_frame/train/10066/zhQ你 要 把 炒 鸡 蛋 弄 成 干 硬 些 吗Q炒 鸡 蛋 应 该 干 硬 些Q炒 鸡 蛋 应 该 干 硬 些Q你 要 把 炒 鸡 蛋 弄 成 干 硬 些 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10068/zhQ度 过 愉 快 的 一 天Q这 一 天 愉 快 吗Q这 一 天 愉 快 吗Q度 过 愉 快 的 一 天
+/disk1/dataset_glq/SP-10_video_frame/train/10069/zhQ他 吃 的 太 多 了Q他 吃 的 多 吗Q他 吃 的 多 吗Q他 吃 的 太 多 了
+/disk1/dataset_glq/SP-10_video_frame/train/10070/zhQ我 怎 么 帮 助 你Q我 需 要 帮 助Q我 需 要 帮 助Q我 怎 么 帮 助 你
+/disk1/dataset_glq/SP-10_video_frame/train/10071/zhQ我 饿 了Q你 饿 了 吗Q你 饿 了 吗Q我 饿 了
+/disk1/dataset_glq/SP-10_video_frame/train/10072/zhQ我 没 有 订 购 那 个Q你 订 购 那 个 了 吗Q你 订 购 那 个 了 吗Q我 没 有 订 购 那 个
+/disk1/dataset_glq/SP-10_video_frame/train/10073/zhQ我 还 没 吃 饭Q你 吃 饭 了 吗Q你 吃 饭 了 吗Q我 还 没 吃 饭
+/disk1/dataset_glq/SP-10_video_frame/train/10074/zhQ我 喜 欢 巧 克 力Q你 喜 欢 巧 克 力 吗Q你 喜 欢 巧 克 力 吗Q我 喜 欢 巧 克 力
+/disk1/dataset_glq/SP-10_video_frame/train/10075/zhQ我 喜 欢 三 明 治 和 汉 堡 包Q你 喜 欢 什 么Q你 喜 欢 什 么Q我 喜 欢 三 明 治 和 汉 堡 包
+/disk1/dataset_glq/SP-10_video_frame/train/10076/zhQ我 认 为 这 个 帐 单 不 正 确Q你 认 为 账 单 正 确 吗Q你 认 为 账 单 正 确 吗Q我 认 为 这 个 帐 单 不 正 确
+/disk1/dataset_glq/SP-10_video_frame/train/10078/zhQ我 想 要 一 大 杯 牛 奶Q你 想 要 什 么Q你 想 要 什 么Q我 想 要 一 大 杯 牛 奶
+/disk1/dataset_glq/SP-10_video_frame/train/10079/zhQ我 想 要 一 大 杯 百 事 可 乐Q你 想 要 什 么Q你 想 要 什 么Q我 想 要 一 大 杯 百 事 可 乐
+/disk1/dataset_glq/SP-10_video_frame/train/10080/zhQ我 想 要 一 个 中 等 的 牛 奶Q你 想 要 什 么Q你 想 要 什 么Q我 想 要 一 个 中 等 的 牛 奶
+/disk1/dataset_glq/SP-10_video_frame/train/10081/zhQ我 想 要 一 点 牛 奶Q你 想 要 什 么Q你 想 要 什 么Q我 想 要 一 点 牛 奶
+/disk1/dataset_glq/SP-10_video_frame/train/10084/zhQ我 要 冰 茶Q你 想 要 什 么Q你 想 要 什 么Q我 要 冰 茶
+/disk1/dataset_glq/SP-10_video_frame/train/10085/zhQ我 想 要 甜 点Q你 想 要 什 么Q你 想 要 什 么Q我 想 要 甜 点
+/disk1/dataset_glq/SP-10_video_frame/train/10086/zhQ我 想 点 牛 排Q你 想 点 什 么Q你 想 点 什 么Q我 想 点 牛 排
+/disk1/dataset_glq/SP-10_video_frame/train/10087/zhQ你 够 了 吗Q我 不 够Q我 不 够Q你 够 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10088/zhQ小 费 包 括 在 内 吗Q小 费 不 包 括 在 内Q小 费 不 包 括 在 内Q小 费 包 括 在 内 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10089/zhQ有 儿 童 的 菜 单 吗Q没 有 儿 童 的 菜 单Q没 有 儿 童 的 菜 单Q有 儿 童 的 菜 单 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10091/zhQ请 给 我 菜 单 吧Q给 你 菜 单Q给 你 菜 单Q请 给 我 菜 单 吧
+/disk1/dataset_glq/SP-10_video_frame/train/10092/zhQ盐 和 胡 椒 在 桌 子 上Q盐 和 胡 椒 在 哪Q盐 和 胡 椒 在 哪Q盐 和 胡 椒 在 桌 子 上
+/disk1/dataset_glq/SP-10_video_frame/train/10094/zhQ培 根 咸 肉 是 过 头 了Q什 么 过 头 了Q什 么 过 头 了Q培 根 咸 肉 是 过 头 了
+/disk1/dataset_glq/SP-10_video_frame/train/10095/zhQ蛋 糕 在 烤 箱 里Q蛋 糕 在 哪Q蛋 糕 在 哪Q蛋 糕 在 烤 箱 里
+/disk1/dataset_glq/SP-10_video_frame/train/10096/zhQ可 口 可 乐 在 冰 箱 里Q可 口 可 乐 在 哪Q可 口 可 乐 在 哪Q可 口 可 乐 在 冰 箱 里
+/disk1/dataset_glq/SP-10_video_frame/train/10097/zhQ饭 菜 好 吃 极 了Q饭 菜 好 吃 吗Q饭 菜 好 吃 吗Q饭 菜 好 吃 极 了
+/disk1/dataset_glq/SP-10_video_frame/train/10098/zhQ服 务 差Q服 务 怎 么 样Q服 务 怎 么 样Q服 务 差
+/disk1/dataset_glq/SP-10_video_frame/train/10099/zhQ这 些 价 格 是 多 少Q价 格 高 吗Q价 格 高 吗Q这 些 价 格 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/10100/zhQ今 天 的 特 色 菜 是 什 么Q特 色 菜 是 什 么Q特 色 菜 是 什 么Q今 天 的 特 色 菜 是 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/10101/zhQ你 要 点 菜 了 吗Q我 要 点 菜 了Q我 要 点 菜 了Q你 要 点 菜 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10102/zhQ我 可 以 为 你 做 什 么 吗Q我 想 为 你 做 点 事Q我 想 为 你 做 点 事Q我 可 以 为 你 做 什 么 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10106/zhQ你 有 什 么 建 议 呢Q我 有 很 多 建 议Q我 有 很 多 建 议Q你 有 什 么 建 议 呢
+/disk1/dataset_glq/SP-10_video_frame/train/10107/zhQ服 务 员 在 哪 里Q服 务 员 在 这 里Q服 务 员 在 这 里Q服 务 员 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10108/zhQ点 餐 带 走 还 是 在 这 里 就 餐 呢Q点 餐 吧Q点 餐 吧Q点 餐 带 走 还 是 在 这 里 就 餐 呢
+/disk1/dataset_glq/SP-10_video_frame/train/10110/zhQ加 还 是 不 加 洋 葱Q我 想 加 洋 葱Q我 想 加 洋 葱Q加 还 是 不 加 洋 葱
+/disk1/dataset_glq/SP-10_video_frame/train/10111/zhQ加 还 是 不 加 咸 菜Q我 想 加 咸 菜Q我 想 加 咸 菜Q加 还 是 不 加 咸 菜
+/disk1/dataset_glq/SP-10_video_frame/train/10112/zhQ有 大 号 中 号 还 是 小 号Q有 大 号Q有 大 号Q有 大 号 中 号 还 是 小 号
+/disk1/dataset_glq/SP-10_video_frame/train/10115/zhQ你 想 要 蕃 茄 酱 吗Q我 不 想 要 蕃 茄 酱Q我 不 想 要 蕃 茄 酱Q你 想 要 蕃 茄 酱 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10118/zhQ你 是 聋 人 吗Q我 不 是 聋 人Q我 不 是 聋 人Q你 是 聋 人 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10119/zhQ你 父 母 是 聋 人 吗Q你 父 母 是 不 是 聋 人Q你 父 母 是 不 是 聋 人Q你 父 母 是 聋 人 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10120/zhQ你 能 看 懂 唇 语 吗Q我 看 不 懂 唇 语Q我 看 不 懂 唇 语Q你 能 看 懂 唇 语 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10121/zhQ你 能 听 到 音 乐 吗Q你 能 听 到 音 乐Q你 能 听 到 音 乐Q你 能 听 到 音 乐 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10122/zhQ你 使 用 助 听 器 吗Q我 不 使 用 助 听 器Q我 不 使 用 助 听 器Q你 使 用 助 听 器 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10124/zhQ美 国 加 劳 德 特 大 学 是 世 界 第 一 所 聋 人 大 学Q什 么 是 世 界 第 一 所 聋 人 大 学Q什 么 是 世 界 第 一 所 聋 人 大 学Q美 国 加 劳 德 特 大 学 是 世 界 第 一 所 聋 人 大 学
+/disk1/dataset_glq/SP-10_video_frame/train/10127/zhQ你 几 岁 耳 聋 的Q你 聋 了Q你 聋 了Q你 几 岁 耳 聋 的
+/disk1/dataset_glq/SP-10_video_frame/train/10128/zhQ我 已 经 说 过 了Q我 没 有 说 过Q我 没 有 说 过Q我 已 经 说 过 了
+/disk1/dataset_glq/SP-10_video_frame/train/10129/zhQ我 是 重 听 人Q你 是 什 么 人Q你 是 什 么 人Q我 是 重 听 人
+/disk1/dataset_glq/SP-10_video_frame/train/10130/zhQ我 正 在 学 手 语Q你 学 过 手 语 吗Q你 学 过 手 语 吗Q我 正 在 学 手 语
+/disk1/dataset_glq/SP-10_video_frame/train/10132/zhQ我 上 美 国 手 语 课Q你 上 什 么 课 了Q你 上 什 么 课 了Q我 上 美 国 手 语 课
+/disk1/dataset_glq/SP-10_video_frame/train/10134/zhQ我 能 自 己 指 拼 但 不 能 认 读 出 来Q你 能 指 拼 和 认 读 吗Q你 能 指 拼 和 认 读 吗Q我 能 自 己 指 拼 但 不 能 认 读 出 来
+/disk1/dataset_glq/SP-10_video_frame/train/10136/zhQ我 喜 欢 看 有 字 幕 的 电 视Q你 喜 欢 看 什 么 电 视Q你 喜 欢 看 什 么 电 视Q我 喜 欢 看 有 字 幕 的 电 视
+/disk1/dataset_glq/SP-10_video_frame/train/10137/zhQ我 听 到 音 乐 通 过 其 振 动Q你 听 到 什 么 了Q你 听 到 什 么 了Q我 听 到 音 乐 通 过 其 振 动
+/disk1/dataset_glq/SP-10_video_frame/train/10138/zhQ我 爱 用 手 语 祈 祷Q你 爱 用 什 么 祈 祷Q你 爱 用 什 么 祈 祷Q我 爱 用 手 语 祈 祷
+/disk1/dataset_glq/SP-10_video_frame/train/10139/zhQ我 昨 晚 看 了 一 部 配 字 幕 的 电 影Q你 昨 晚 看 什 么 了Q你 昨 晚 看 什 么 了Q我 昨 晚 看 了 一 部 配 字 幕 的 电 影
+/disk1/dataset_glq/SP-10_video_frame/train/10142/zhQ我 先 天 聋Q你 聋 了 吗Q你 聋 了 吗Q我 先 天 聋
+/disk1/dataset_glq/SP-10_video_frame/train/10143/zhQ我 以 前 在 普 通 学 校 上 学Q你 以 前 在 哪 上 学Q你 以 前 在 哪 上 学Q我 以 前 在 普 通 学 校 上 学
+/disk1/dataset_glq/SP-10_video_frame/train/10144/zhQ许 多 听 障 学 生 进 入 大 学Q听 障 学 生 进 入 大 学 了 吗Q听 障 学 生 进 入 大 学 了 吗Q许 多 听 障 学 生 进 入 大 学
+/disk1/dataset_glq/SP-10_video_frame/train/10145/zhQ我 的 手 语 进 步 了Q你 的 手 语 进 步 了 吗Q你 的 手 语 进 步 了 吗Q我 的 手 语 进 步 了
+/disk1/dataset_glq/SP-10_video_frame/train/10146/zhQ请 再 说 一 遍Q再 说 几 遍Q再 说 几 遍Q请 再 说 一 遍
+/disk1/dataset_glq/SP-10_video_frame/train/10150/zhQ这 是 什 么 意 思Q什 么 意 思Q什 么 意 思Q这 是 什 么 意 思
+/disk1/dataset_glq/SP-10_video_frame/train/10151/zhQ你 为 什 么 想 学 手 语Q你 想 学 手 语 吗Q你 想 学 手 语 吗Q你 为 什 么 想 学 手 语
+/disk1/dataset_glq/SP-10_video_frame/train/10152/zhQ请 你 写 下 来 吧Q需 要 写 下 来 吗Q需 要 写 下 来 吗Q请 你 写 下 来 吧
+/disk1/dataset_glq/SP-10_video_frame/train/10153/zhQ昨 天 我 练 习 了 手 语Q你 什 么 时 候 练 习 手 语 了Q你 什 么 时 候 练 习 手 语 了Q昨 天 我 练 习 了 手 语
+/disk1/dataset_glq/SP-10_video_frame/train/10154/zhQ你 打 手 语 很 快Q你 打 手 语 快 吗Q你 打 手 语 快 吗Q你 打 手 语 很 快
+/disk1/dataset_glq/SP-10_video_frame/train/10155/zhQ给 我 紫 色 荧 光 笔Q给 你 什 么 颜 色 荧 光 笔Q给 你 什 么 颜 色 荧 光 笔Q给 我 紫 色 荧 光 笔
+/disk1/dataset_glq/SP-10_video_frame/train/10156/zhQ他 获 得 银 奖Q他 获 得 什 么 奖Q他 获 得 什 么 奖Q他 获 得 银 奖
+/disk1/dataset_glq/SP-10_video_frame/train/10157/zhQ我 买 了 新 的 金 色 衬 衫Q你 买 了 什 么Q你 买 了 什 么Q我 买 了 新 的 金 色 衬 衫
+/disk1/dataset_glq/SP-10_video_frame/train/10159/zhQ我 都 喜 欢 彩 虹 的 颜 色Q你 喜 欢 什 么 颜 色Q你 喜 欢 什 么 颜 色Q我 都 喜 欢 彩 虹 的 颜 色
+/disk1/dataset_glq/SP-10_video_frame/train/10160/zhQ我 把 房 子 漆 成 灰 色Q你 把 房 子 漆 成 什 么 颜 色Q你 把 房 子 漆 成 什 么 颜 色Q我 把 房 子 漆 成 灰 色
+/disk1/dataset_glq/SP-10_video_frame/train/10162/zhQ我 喜 欢 的 颜 色 是Q你 喜 欢 什 么 颜 色Q你 喜 欢 什 么 颜 色Q我 喜 欢 的 颜 色 是
+/disk1/dataset_glq/SP-10_video_frame/train/10163/zhQ我 的 花 园 是 绿 色 的Q你 的 花 园 是 什 么 颜 色Q你 的 花 园 是 什 么 颜 色Q我 的 花 园 是 绿 色 的
+/disk1/dataset_glq/SP-10_video_frame/train/10165/zhQ你 打 算 把 墙 漆 成 什 么 颜 色Q我 想 把 墙 漆 个 颜 色Q我 想 把 墙 漆 个 颜 色Q你 打 算 把 墙 漆 成 什 么 颜 色
+/disk1/dataset_glq/SP-10_video_frame/train/10167/zhQ你 能 把 这 个 污 迹 弄 掉 吗Q这 里 有 污 迹Q这 里 有 污 迹Q你 能 把 这 个 污 迹 弄 掉 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10168/zhQ你 能 帮 我 缝 一 个 纽 扣 吗Q纽 扣 快 掉 了Q纽 扣 快 掉 了Q你 能 帮 我 缝 一 个 纽 扣 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10169/zhQ你 有 脏 衣 服 吗Q我 没 有 脏 衣 服Q我 没 有 脏 衣 服Q你 有 脏 衣 服 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10170/zhQ你 有 黑 色 的 吗Q我 没 有 黑 色 的Q我 没 有 黑 色 的Q你 有 黑 色 的 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10171/zhQ你 知 道 比 较 好 的 理 发 店 吗Q我 想 去 理 发Q我 想 去 理 发Q你 知 道 比 较 好 的 理 发 店 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10172/zhQ你 知 道 比 较 好 的 美 容 院 吗Q我 想 去 美 容 院Q我 想 去 美 容 院Q你 知 道 比 较 好 的 美 容 院 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10173/zhQ他 总 是 衣 着 整 洁Q他 衣 着 怎 么 样Q他 衣 着 怎 么 样Q他 总 是 衣 着 整 洁
+/disk1/dataset_glq/SP-10_video_frame/train/10175/zhQ我 不 能 系 上 腰 带Q你 能 系 上 腰 带 吗Q你 能 系 上 腰 带 吗Q我 不 能 系 上 腰 带
+/disk1/dataset_glq/SP-10_video_frame/train/10177/zhQ我 要 去 购 物Q你 要 去 哪Q你 要 去 哪Q我 要 去 购 物
+/disk1/dataset_glq/SP-10_video_frame/train/10178/zhQ我 需 要 剃 须Q你 需 要 剃 须 吗Q你 需 要 剃 须 吗Q我 需 要 剃 须
+/disk1/dataset_glq/SP-10_video_frame/train/10180/zhQ我 需 要 熨 这 件 衬 衫Q你 需 要 烫 衬 衫 吗Q你 需 要 烫 衬 衫 吗Q我 需 要 熨 这 件 衬 衫
+/disk1/dataset_glq/SP-10_video_frame/train/10181/zhQ我 需 要 洗 我 的 衬 衫Q你 需 要 洗 衬 衫 吗Q你 需 要 洗 衬 衫 吗Q我 需 要 洗 我 的 衬 衫
+/disk1/dataset_glq/SP-10_video_frame/train/10182/zhQ我 想 买 一 件 毛 衣Q你 想 买 什 么Q你 想 买 什 么Q我 想 买 一 件 毛 衣
+/disk1/dataset_glq/SP-10_video_frame/train/10183/zhQ我 要 那 条 领 带Q你 想 要 什 么Q你 想 要 什 么Q我 要 那 条 领 带
+/disk1/dataset_glq/SP-10_video_frame/train/10184/zhQ我 想 理 发Q你 想 干 嘛Q你 想 干 嘛Q我 想 理 发
+/disk1/dataset_glq/SP-10_video_frame/train/10186/zhQ我 想 试 一 试Q你 想 试 吗Q你 想 试 吗Q我 想 试 一 试
+/disk1/dataset_glq/SP-10_video_frame/train/10187/zhQ那 样 很 好Q这 样 好 吗Q这 样 好 吗Q那 样 很 好
+/disk1/dataset_glq/SP-10_video_frame/train/10188/zhQ离 开 一 段 时 间 了Q离 开 多 长 时 间 了Q离 开 多 长 时 间 了Q离 开 一 段 时 间 了
+/disk1/dataset_glq/SP-10_video_frame/train/10190/zhQ我 的 裤 子 破 了Q你 的 裤 子 破 了 吗Q你 的 裤 子 破 了 吗Q我 的 裤 子 破 了
+/disk1/dataset_glq/SP-10_video_frame/train/10191/zhQ我 穿 小 号 的 尺 码Q你 穿 多 大 的 尺 码Q你 穿 多 大 的 尺 码Q我 穿 小 号 的 尺 码
+/disk1/dataset_glq/SP-10_video_frame/train/10192/zhQ衬 衫 和 鞋 子 是 必 需 的Q什 么 是 必 需 的Q什 么 是 必 需 的Q衬 衫 和 鞋 子 是 必 需 的
+/disk1/dataset_glq/SP-10_video_frame/train/10193/zhQ那 件 衣 服 是 一 个 奇 怪 的 颜 色Q那 件 衣 服 是 什 么 颜 色Q那 件 衣 服 是 什 么 颜 色Q那 件 衣 服 是 一 个 奇 怪 的 颜 色
+/disk1/dataset_glq/SP-10_video_frame/train/10194/zhQ衬 衫 和 领 带 不 搭 配Q衬 衫 和 领 带 搭 配 吗Q衬 衫 和 领 带 搭 配 吗Q衬 衫 和 领 带 不 搭 配
+/disk1/dataset_glq/SP-10_video_frame/train/10195/zhQ这 件 衬 衫 适 合Q这 件 衬 衫 合 适 吗Q这 件 衬 衫 合 适 吗Q这 件 衬 衫 适 合
+/disk1/dataset_glq/SP-10_video_frame/train/10196/zhQ你 今 晚 穿 什 么Q我 今 晚 穿 好 的 衣 服Q我 今 晚 穿 好 的 衣 服Q你 今 晚 穿 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/10197/zhQ我 把 外 套 送 去 洗 衣 店 清 洗 后 就 缩 水 了Q你 的 外 套 怎 么 缩 水 了Q你 的 外 套 怎 么 缩 水 了Q我 把 外 套 送 去 洗 衣 店 清 洗 后 就 缩 水 了
+/disk1/dataset_glq/SP-10_video_frame/train/10198/zhQ更 衣 室 在 哪 里Q我 要 去 更 衣 室Q我 要 去 更 衣 室Q更 衣 室 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10199/zhQ收 银 台 在 哪 里Q我 要 去 收 银 台Q我 要 去 收 银 台Q收 银 台 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10201/zhQ你 的 袜 子 不 搭 配 吗Q我 的 袜 子 好 看 吗Q我 的 袜 子 好 看 吗Q你 的 袜 子 不 搭 配 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10202/zhQ你 要 去 参 加 市 议 会 吗Q我 去 参 会 了Q我 去 参 会 了Q你 要 去 参 加 市 议 会 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10205/zhQ你 是 否 收 到 了 一 份 法 院 出 庭 通 知Q我 收 到 了 法 院 出 庭 通 知Q我 收 到 了 法 院 出 庭 通 知Q你 是 否 收 到 了 一 份 法 院 出 庭 通 知
+/disk1/dataset_glq/SP-10_video_frame/train/10212/zhQ我 独 立 了Q你 独 立 了 吗Q你 独 立 了 吗Q我 独 立 了
+/disk1/dataset_glq/SP-10_video_frame/train/10213/zhQ我 不 得 不 交 停 车 罚 款Q你 得 交 停 车 罚 款Q你 得 交 停 车 罚 款Q我 不 得 不 交 停 车 罚 款
+/disk1/dataset_glq/SP-10_video_frame/train/10216/zhQ我 投 票 了 你 投 了 吗Q我 没 有 投 票Q我 没 有 投 票Q我 投 票 了 你 投 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10217/zhQ我 整 个 上 午 在 站 岗Q你 上 午 在 干 嘛Q你 上 午 在 干 嘛Q我 整 个 上 午 在 站 岗
+/disk1/dataset_glq/SP-10_video_frame/train/10218/zhQ如 果 你 违 反 法 律 可 能 会 进 监 狱Q什 么 情 况 下 会 进 监 狱Q什 么 情 况 下 会 进 监 狱Q如 果 你 违 反 法 律 可 能 会 进 监 狱
+/disk1/dataset_glq/SP-10_video_frame/train/10223/zhQ议 会 负 责 立 法Q什 么 负 责 立 法Q什 么 负 责 立 法Q议 会 负 责 立 法
+/disk1/dataset_glq/SP-10_video_frame/train/10224/zhQ警 察 局 是 两 个 街 区Q警 察 局 是 什 么Q警 察 局 是 什 么Q警 察 局 是 两 个 街 区
+/disk1/dataset_glq/SP-10_video_frame/train/10226/zhQ我 们 必 须 纳 税 来 支 持 政 府Q我 们 怎 么 支 持 政 府Q我 们 怎 么 支 持 政 府Q我 们 必 须 纳 税 来 支 持 政 府
+/disk1/dataset_glq/SP-10_video_frame/train/10227/zhQ你 认 为 总 统 怎 么 样Q总 统 做 得 很 好Q总 统 做 得 很 好Q你 认 为 总 统 怎 么 样
+/disk1/dataset_glq/SP-10_video_frame/train/10228/zhQ我 在 哪 里 投 票Q你 去 投 票 吧Q你 去 投 票 吧Q我 在 哪 里 投 票
+/disk1/dataset_glq/SP-10_video_frame/train/10229/zhQ首 都 是 哪 个 城 市Q我 去 看 看 首 都Q我 去 看 看 首 都Q首 都 是 哪 个 城 市
+/disk1/dataset_glq/SP-10_video_frame/train/10230/zhQ新 总 统 是 谁Q我 没 见 过 新 总 统Q我 没 见 过 新 总 统Q新 总 统 是 谁
+/disk1/dataset_glq/SP-10_video_frame/train/10231/zhQ谁 赢 得 了 竞 选Q我 没 有 赢 得 竞 选Q我 没 有 赢 得 竞 选Q谁 赢 得 了 竞 选
+/disk1/dataset_glq/SP-10_video_frame/train/10233/zhQ谨 防 恶 犬Q谨 防 什 么Q谨 防 什 么Q谨 防 恶 犬
+/disk1/dataset_glq/SP-10_video_frame/train/10235/zhQ追 咬 尾 巴Q追 咬 什 么Q追 咬 什 么Q追 咬 尾 巴
+/disk1/dataset_glq/SP-10_video_frame/train/10236/zhQ你 允 许 携 带 动 物 吗Q不 允 许 携 带 动 物Q不 允 许 携 带 动 物Q你 允 许 携 带 动 物 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10237/zhQ你 有 宠 物 吗Q我 有 宠 物Q我 有 宠 物Q你 有 宠 物 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10238/zhQ它 咬 人 吗Q它 不 咬 人Q它 不 咬 人Q它 咬 人 吗
+/disk1/dataset_glq/SP-10_video_frame/train/10242/zhQ他 好 像 不 高 兴Q他 高 兴 吗Q他 高 兴 吗Q他 好 像 不 高 兴
+/disk1/dataset_glq/SP-10_video_frame/train/10243/zhQ皮 毛 很 软Q皮 毛 软 吗Q皮 毛 软 吗Q皮 毛 很 软
+/disk1/dataset_glq/SP-10_video_frame/train/10244/zhQ我 应 该 多 久 喂 一 次Q我 喂 了 好 几 次Q我 喂 了 好 几 次Q我 应 该 多 久 喂 一 次
+/disk1/dataset_glq/SP-10_video_frame/train/10246/zhQ我 的 鸟 病 了Q你 的 鸟 怎 么 了Q你 的 鸟 怎 么 了Q我 的 鸟 病 了
+/disk1/dataset_glq/SP-10_video_frame/train/10248/zhQ老 虎 是 危 险 的 动 物Q什 么 是 危 险 的 动 物Q什 么 是 危 险 的 动 物Q老 虎 是 危 险 的 动 物
+/disk1/dataset_glq/SP-10_video_frame/train/10249/zhQ它 吃 什 么Q它 吃 了Q它 吃 了Q它 吃 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/10250/zhQ你 的 宠 物 叫 什 么 名 字Q我 有 一 个 宠 物Q我 有 一 个 宠 物Q你 的 宠 物 叫 什 么 名 字
+/disk1/dataset_glq/SP-10_video_frame/train/10251/zhQ我 在 哪 里 可 以 找 到 兽 医Q你 需 要 兽 医Q你 需 要 兽 医Q我 在 哪 里 可 以 找 到 兽 医
+/disk1/dataset_glq/SP-10_video_frame/train/10253/zhQ宠 物 店 在 哪 里Q我 去 宠 物 店 呀Q我 去 宠 物 店 呀Q宠 物 店 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10254/zhQ动 物 园 在 哪 里Q我 去 动 物 园 呀Q我 去 动 物 园 呀Q动 物 园 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/10842/zhQ完 成 了Q完 成 了 吗Q完 成 了 吗Q完 成 了
+/disk1/dataset_glq/SP-10_video_frame/train/10843/zhQ全 没 了Q还 有 吗Q还 有 吗Q全 没 了
+/disk1/dataset_glq/SP-10_video_frame/train/11404/zhQ学 校 放 假 了Q学 校 放 假 了 吗Q学 校 放 假 了 吗Q学 校 放 假 了
+/disk1/dataset_glq/SP-10_video_frame/train/12075/zhQ应 门Q应 门Q应 门Q应 门
+/disk1/dataset_glq/SP-10_video_frame/train/12076/zhQ接 手 机 电 话Q接 电 话 了 吗Q接 电 话 了 吗Q接 手 机 电 话
+/disk1/dataset_glq/SP-10_video_frame/train/13391/zhQ出 售Q出 售Q出 售Q出 售
+/disk1/dataset_glq/SP-10_video_frame/train/13923/zhQ版 权 所 有Q版 权 归 谁Q版 权 归 谁Q版 权 所 有
+/disk1/dataset_glq/SP-10_video_frame/train/14555/zhQ问 我 吧Q问 谁Q问 谁Q问 我 吧
+/disk1/dataset_glq/SP-10_video_frame/train/14556/zhQ询 问 别 的 学 生 吧Q询 问 谁Q询 问 谁Q询 问 别 的 学 生 吧
+/disk1/dataset_glq/SP-10_video_frame/train/14568/zhQ划 掉Q划 掉Q划 掉Q划 掉
+/disk1/dataset_glq/SP-10_video_frame/train/14573/zhQ走 开Q走 开Q走 开Q走 开
+/disk1/dataset_glq/SP-10_video_frame/train/14576/zhQ猜 一 猜Q猜 一 猜Q猜 一 猜Q猜 一 猜
+/disk1/dataset_glq/SP-10_video_frame/train/14579/zhQ给 你Q给 你Q给 你Q给 你
+/disk1/dataset_glq/SP-10_video_frame/train/14585/zhQ看 吧Q看 吧Q看 吧Q看 吧
+/disk1/dataset_glq/SP-10_video_frame/train/14594/zhQ请 把 它 给 我Q把 它 给 谁Q把 它 给 谁Q请 把 它 给 我
+/disk1/dataset_glq/SP-10_video_frame/train/14595/zhQ拿 开Q拿 开Q拿 开Q拿 开
+/disk1/dataset_glq/SP-10_video_frame/train/14596/zhQ读 书 吧Q读 书 吗Q读 书 吗Q读 书 吧
+/disk1/dataset_glq/SP-10_video_frame/train/14597/zhQ当 心Q当 心Q当 心Q当 心
+/disk1/dataset_glq/SP-10_video_frame/train/14599/zhQ重 复 一 遍 吧Q需 要 重 复 吗Q需 要 重 复 吗Q重 复 一 遍 吧
+/disk1/dataset_glq/SP-10_video_frame/train/14603/zhQ坚 持Q坚 持Q坚 持Q坚 持
+/disk1/dataset_glq/SP-10_video_frame/train/14605/zhQ拿 吧Q拿 吧Q拿 吧Q拿 吧
+/disk1/dataset_glq/SP-10_video_frame/train/14606/zhQ说 话Q说 话Q说 话Q说 话
+/disk1/dataset_glq/SP-10_video_frame/train/14608/zhQ谢 谢 你Q不 客 气Q不 客 气Q谢 谢 你
+/disk1/dataset_glq/SP-10_video_frame/train/14609/zhQ那 就 已 经 足 够Q够 吗Q够 吗Q那 就 已 经 足 够
+/disk1/dataset_glq/SP-10_video_frame/train/14610/zhQ认 为Q认 为Q认 为Q认 为
+/disk1/dataset_glq/SP-10_video_frame/train/14614/zhQ划 线Q划 线Q划 线Q划 线
+/disk1/dataset_glq/SP-10_video_frame/train/14616/zhQ等 一 下Q等 等Q等 等Q等 一 下
+/disk1/dataset_glq/SP-10_video_frame/train/14618/zhQ干 得 好Q干 得 好 吗Q干 得 好 吗Q干 得 好
+/disk1/dataset_glq/SP-10_video_frame/train/14619/zhQ你 怎 么 想 的Q我 这 么 想Q我 这 么 想Q你 怎 么 想 的
+/disk1/dataset_glq/SP-10_video_frame/train/14620/zhQ什 么 时 候Q啥 时 候Q啥 时 候Q什 么 时 候
+/disk1/dataset_glq/SP-10_video_frame/train/14622/zhQ为 什 么Q为 什 么Q为 什 么Q为 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/14624/zhQ写Q写Q写Q写
+/disk1/dataset_glq/SP-10_video_frame/train/14643/zhQ我 懂 了Q懂 了 吗Q懂 了 吗Q我 懂 了
+/disk1/dataset_glq/SP-10_video_frame/train/15414/zhQ回 答 我 啊Q要 回 答 吗Q要 回 答 吗Q回 答 我 啊
+/disk1/dataset_glq/SP-10_video_frame/train/17276/zhQ我 看 不 见Q看 见 了 吗Q看 见 了 吗Q我 看 不 见
+/disk1/dataset_glq/SP-10_video_frame/train/17277/zhQ我 一 点 也 不 喜 欢 它Q你 喜 欢 它 吗Q你 喜 欢 它 吗Q我 一 点 也 不 喜 欢 它
+/disk1/dataset_glq/SP-10_video_frame/train/20036/zhQ我 已 经 去 过 那 儿 了Q你 去 过 那 儿 了 吗Q你 去 过 那 儿 了 吗Q我 已 经 去 过 那 儿 了
+/disk1/dataset_glq/SP-10_video_frame/train/20099/zhQ来 啊Q来 吗Q来 吗Q来 啊
+/disk1/dataset_glq/SP-10_video_frame/train/20100/zhQ最 后Q最 后Q最 后Q最 后
+/disk1/dataset_glq/SP-10_video_frame/train/20102/zhQ我 不 在 乎Q你 在 乎 吗Q你 在 乎 吗Q我 不 在 乎
+/disk1/dataset_glq/SP-10_video_frame/train/20103/zhQ我 无 所 谓Q有 问 题 吗Q有 问 题 吗Q我 无 所 谓
+/disk1/dataset_glq/SP-10_video_frame/train/20106/zhQ这 对 我 们 有 好 处Q对 你 们 有 好 处 吗Q对 你 们 有 好 处 吗Q这 对 我 们 有 好 处
+/disk1/dataset_glq/SP-10_video_frame/train/20236/zhQ感 谢 上 帝Q感 谢 谁Q感 谢 谁Q感 谢 上 帝
+/disk1/dataset_glq/SP-10_video_frame/train/20237/zhQ很 多 啊Q多 吗Q多 吗Q很 多 啊
+/disk1/dataset_glq/SP-10_video_frame/train/20411/zhQ真 是 胡 说 八 道Q说 的 可 靠 吗Q说 的 可 靠 吗Q真 是 胡 说 八 道
+/disk1/dataset_glq/SP-10_video_frame/train/20412/zhQ真 令 人 欣 慰Q说 得 怎 么 样Q说 得 怎 么 样Q真 令 人 欣 慰
+/disk1/dataset_glq/SP-10_video_frame/train/20413/zhQ真 遗 憾Q遗 憾 吗Q遗 憾 吗Q真 遗 憾
+/disk1/dataset_glq/SP-10_video_frame/train/20415/zhQ我 说 了 什 么 呢Q你 说 了 很 多Q你 说 了 很 多Q我 说 了 什 么 呢
+/disk1/dataset_glq/SP-10_video_frame/train/20531/zhQ不 要 触 摸Q能 触 摸 吗Q能 触 摸 吗Q不 要 触 摸
+/disk1/dataset_glq/SP-10_video_frame/train/21534/zhQ我 对 药 物 过 敏Q你 对 药 物 过 敏 吗Q你 对 药 物 过 敏 吗Q我 对 药 物 过 敏
+/disk1/dataset_glq/SP-10_video_frame/train/21697/zhQ你 口 渴 吗Q我 口 渴 了Q我 口 渴 了Q你 口 渴 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21698/zhQ你 累 吗Q我 不 累Q我 不 累Q你 累 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21704/zhQ你 想 喝 点 什 么Q喝 点 东 西 吧Q喝 点 东 西 吧Q你 想 喝 点 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/21705/zhQ我 可 以 用 信 用 卡 付 款 吗Q我 能 用 信 用 卡 付 款Q我 能 用 信 用 卡 付 款Q我 可 以 用 信 用 卡 付 款 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21709/zhQ欢 迎 再 来Q欢 迎 再 来Q欢 迎 再 来Q欢 迎 再 来
+/disk1/dataset_glq/SP-10_video_frame/train/21713/zhQ请 你 给 我 一 个 塑 料 袋 吧Q需 要 什 么Q需 要 什 么Q请 你 给 我 一 个 塑 料 袋 吧
+/disk1/dataset_glq/SP-10_video_frame/train/21714/zhQ你 给 我 提 建 议 吧Q我 给 你 提 建 议Q我 给 你 提 建 议Q你 给 我 提 建 议 吧
+/disk1/dataset_glq/SP-10_video_frame/train/21715/zhQ你 给 我 示 范 怎 么 做 吗Q给 我 示 范 做 法Q给 我 示 范 做 法Q你 给 我 示 范 怎 么 做 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21723/zhQ你 需 要 什 么 吗Q我 需 要 很 多Q我 需 要 很 多Q你 需 要 什 么 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21735/zhQ你 有 更 便 宜 一 些 的 吗Q我 没 有 更 便 宜 的Q我 没 有 更 便 宜 的Q你 有 更 便 宜 一 些 的 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21738/zhQ你 要 在 这 里 逗 留 多 久Q我 可 能 留 很 久Q我 可 能 留 很 久Q你 要 在 这 里 逗 留 多 久
+/disk1/dataset_glq/SP-10_video_frame/train/21739/zhQ对 不 起 打 扰 你 了Q打 扰 你 了 吗Q打 扰 你 了 吗Q对 不 起 打 扰 你 了
+/disk1/dataset_glq/SP-10_video_frame/train/21740/zhQ我 失 眠 了Q你 没 睡 好 吗Q你 没 睡 好 吗Q我 失 眠 了
+/disk1/dataset_glq/SP-10_video_frame/train/21741/zhQ我 得 去 看 医 生Q你 要 去 看 医 生 吗Q你 要 去 看 医 生 吗Q我 得 去 看 医 生
+/disk1/dataset_glq/SP-10_video_frame/train/21744/zhQ我 认 为 帐 单 有 错 误Q账 单 有 问 题 吗Q账 单 有 问 题 吗Q我 认 为 帐 单 有 错 误
+/disk1/dataset_glq/SP-10_video_frame/train/21745/zhQ我 试 着 戒 了 几 次 烟Q你 戒 烟 了 吗Q你 戒 烟 了 吗Q我 试 着 戒 了 几 次 烟
+/disk1/dataset_glq/SP-10_video_frame/train/21747/zhQ重 要 吗Q不 重 要Q不 重 要Q重 要 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21748/zhQ这 有 保 修 吗Q没 有 保 修Q没 有 保 修Q这 有 保 修 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21750/zhQ这 是 我 的 荣 幸Q你 感 到 荣 幸 吗Q你 感 到 荣 幸 吗Q这 是 我 的 荣 幸
+/disk1/dataset_glq/SP-10_video_frame/train/21753/zhQ那 不 是 我 想 要 的Q这 是 你 想 要 的 吗Q这 是 你 想 要 的 吗Q那 不 是 我 想 要 的
+/disk1/dataset_glq/SP-10_video_frame/train/21754/zhQ这 很 便 宜Q便 宜 吗Q便 宜 吗Q这 很 便 宜
+/disk1/dataset_glq/SP-10_video_frame/train/21757/zhQ该 轮 到 你 了Q轮 到 谁 了Q轮 到 谁 了Q该 轮 到 你 了
+/disk1/dataset_glq/SP-10_video_frame/train/21771/zhQ请 给 我 另 一 件 吧Q给 你 哪 件Q给 你 哪 件Q请 给 我 另 一 件 吧
+/disk1/dataset_glq/SP-10_video_frame/train/21791/zhQ脱 下 你 的 外 套Q脱 下 什 么Q脱 下 什 么Q脱 下 你 的 外 套
+/disk1/dataset_glq/SP-10_video_frame/train/21795/zhQ你 要 在 这 里 呆 多 久Q我 要 在 这 很 久Q我 要 在 这 很 久Q你 要 在 这 里 呆 多 久
+/disk1/dataset_glq/SP-10_video_frame/train/21798/zhQ你 想 要 什 么Q我 想 要 得 很 多Q我 想 要 得 很 多Q你 想 要 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/21799/zhQ怎 么 啦Q没 什 么Q没 什 么Q怎 么 啦
+/disk1/dataset_glq/SP-10_video_frame/train/21800/zhQ你 在 找 什 么Q我 在 找 东 西Q我 在 找 东 西Q你 在 找 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/21802/zhQ你 喜 欢 什 么Q我 不 喜 欢 这 些Q我 不 喜 欢 这 些Q你 喜 欢 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/21803/zhQ今 天 是 几 月 几 号Q今 天 什 么 日 子Q今 天 什 么 日 子Q今 天 是 几 月 几 号
+/disk1/dataset_glq/SP-10_video_frame/train/21804/zhQ天 气 怎 么 样Q天 气 很 好Q天 气 很 好Q天 气 怎 么 样
+/disk1/dataset_glq/SP-10_video_frame/train/21809/zhQ你 从 事 什 么 职 业Q我 从 事 的 职 业 不 好Q我 从 事 的 职 业 不 好Q你 从 事 什 么 职 业
+/disk1/dataset_glq/SP-10_video_frame/train/21810/zhQ你 的 个 人 号 码 是 多 少Q我 不 知 道 你 的 个 人 号 码Q我 不 知 道 你 的 个 人 号 码Q你 的 个 人 号 码 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/21811/zhQ你 姓 什 么Q你 叫 什 么Q你 叫 什 么Q你 姓 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/21812/zhQ你 的 出 生 日 期 是 什 么Q你 哪 天 出 生 的Q你 哪 天 出 生 的Q你 的 出 生 日 期 是 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/21813/zhQ车 站 在 哪 里Q我 打 算 去 车 站Q我 打 算 去 车 站Q车 站 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/21814/zhQ你 在 等 谁Q我 在 等 人Q我 在 等 人Q你 在 等 谁
+/disk1/dataset_glq/SP-10_video_frame/train/21815/zhQ谁 在 等 你Q有 人 在 等 我Q有 人 在 等 我Q谁 在 等 你
+/disk1/dataset_glq/SP-10_video_frame/train/21816/zhQ你 想 和 谁 说 话Q我 想 说 话Q我 想 说 话Q你 想 和 谁 说 话
+/disk1/dataset_glq/SP-10_video_frame/train/21817/zhQ这 是 谁 的 书Q这 是 我 的 书Q这 是 我 的 书Q这 是 谁 的 书
+/disk1/dataset_glq/SP-10_video_frame/train/21838/zhQ请 你 在 地 图 上 给 我 指 出 路 线 好 吗Q我 在 找 地 图 上 的 路 线Q我 在 找 地 图 上 的 路 线Q请 你 在 地 图 上 给 我 指 出 路 线 好 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21847/zhQ你 能 派 汽 车 修 理 工 来 这 儿 吗Q我 需 要 一 个 汽 车 修 理 工Q我 需 要 一 个 汽 车 修 理 工Q你 能 派 汽 车 修 理 工 来 这 儿 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21878/zhQ我 刚 开 始 学Q你 学 了 多 长 时 间Q你 学 了 多 长 时 间Q我 刚 开 始 学
+/disk1/dataset_glq/SP-10_video_frame/train/21879/zhQ我 想 要 汇 款Q你 需 要 汇 款 吗Q你 需 要 汇 款 吗Q我 想 要 汇 款
+/disk1/dataset_glq/SP-10_video_frame/train/21880/zhQ我 迷 路 了Q你 找 到 了 吗Q你 找 到 了 吗Q我 迷 路 了
+/disk1/dataset_glq/SP-10_video_frame/train/21884/zhQ这 附 近 有 租 车 公 司 吗Q我 想 去 租 车 公 司Q我 想 去 租 车 公 司Q这 附 近 有 租 车 公 司 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21913/zhQ注 意 点Q注 意 什 么Q注 意 什 么Q注 意 点
+/disk1/dataset_glq/SP-10_video_frame/train/21934/zhQ这 里 免 费 停 车Q这 里 怎 么 停 车Q这 里 怎 么 停 车Q这 里 免 费 停 车
+/disk1/dataset_glq/SP-10_video_frame/train/21935/zhQ这 里 禁 止 停 车Q这 里 能 停 车 吗Q这 里 能 停 车 吗Q这 里 禁 止 停 车
+/disk1/dataset_glq/SP-10_video_frame/train/21947/zhQ开 灯Q开 灯Q开 灯Q开 灯
+/disk1/dataset_glq/SP-10_video_frame/train/21986/zhQ你 还 好 吗Q我 不 好Q我 不 好Q你 还 好 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21987/zhQ你 感 觉 好 点 了 吗Q我 感 觉 不 好Q我 感 觉 不 好Q你 感 觉 好 点 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21990/zhQ你 给 我 推 荐 好 的 家 庭 保 健 医 生 吧Q我 需 要 家 庭 保 健 医 生Q我 需 要 家 庭 保 健 医 生Q你 给 我 推 荐 好 的 家 庭 保 健 医 生 吧
+/disk1/dataset_glq/SP-10_video_frame/train/21994/zhQ有 人 看 到 那 个 事 故 吗Q没 人 看 到 那 个 事 故Q没 人 看 到 那 个 事 故Q有 人 看 到 那 个 事 故 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21996/zhQ你 想 要 来 回 票 吗Q我 想 要 一 张 票Q我 想 要 一 张 票Q你 想 要 来 回 票 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21997/zhQ别 着 急Q有 点 着 急Q有 点 着 急Q别 着 急
+/disk1/dataset_glq/SP-10_video_frame/train/21998/zhQ劳 驾 你 能 帮 我 把 行 李 抬 到 行 李 架 上 吗Q我 好 像 无 法 把 行 李 抬 到 行 李 架 上Q我 好 像 无 法 把 行 李 抬 到 行 李 架 上Q劳 驾 你 能 帮 我 把 行 李 抬 到 行 李 架 上 吗
+/disk1/dataset_glq/SP-10_video_frame/train/21999/zhQ请 问 这 座 位 有 人 吗Q这 个 座 位 没 有 人Q这 个 座 位 没 有 人Q请 问 这 座 位 有 人 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22000/zhQ你 发 烧 了 吗Q我 有 点 不 舒 服Q我 有 点 不 舒 服Q你 发 烧 了 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22001/zhQ这 怎 么 回 事 的Q出 事 了Q出 事 了Q这 怎 么 回 事 的
+/disk1/dataset_glq/SP-10_video_frame/train/22002/zhQ这 趟 列 车 要 在 这 里 停 留 多 久Q列 车 停 留 在 这 里 很 久 了Q列 车 停 留 在 这 里 很 久 了Q这 趟 列 车 要 在 这 里 停 留 多 久
+/disk1/dataset_glq/SP-10_video_frame/train/22004/zhQ我 病 了Q你 病 了 吗Q你 病 了 吗Q我 病 了
+/disk1/dataset_glq/SP-10_video_frame/train/22007/zhQ我 碰 到 一 个 正 在 逆 行 的 汽 车Q你 碰 到 什 么 了Q你 碰 到 什 么 了Q我 碰 到 一 个 正 在 逆 行 的 汽 车
+/disk1/dataset_glq/SP-10_video_frame/train/22008/zhQ我 晕 倒 了Q你 怎 么 了Q你 怎 么 了Q我 晕 倒 了
+/disk1/dataset_glq/SP-10_video_frame/train/22011/zhQ我 感 觉 虚 弱Q你 感 觉 怎 么 样Q你 感 觉 怎 么 样Q我 感 觉 虚 弱
+/disk1/dataset_glq/SP-10_video_frame/train/22012/zhQ我 发 通 知 了Q你 收 到 通 知 了 吗Q你 收 到 通 知 了 吗Q我 发 通 知 了
+/disk1/dataset_glq/SP-10_video_frame/train/22019/zhQ我 已 经 大 学 毕 业 了Q你 还 在 上 大 学 吗Q你 还 在 上 大 学 吗Q我 已 经 大 学 毕 业 了
+/disk1/dataset_glq/SP-10_video_frame/train/22021/zhQ我 急 需 一 个 医 生Q我 有 病Q我 有 病Q我 急 需 一 个 医 生
+/disk1/dataset_glq/SP-10_video_frame/train/22022/zhQ这 不 是 我 的 错Q这 是 你 的 错Q这 是 你 的 错Q这 不 是 我 的 错
+/disk1/dataset_glq/SP-10_video_frame/train/22025/zhQ这 是 直 达 列 车 吗Q这 不 是 直 达 列 车Q这 不 是 直 达 列 车Q这 是 直 达 列 车 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22028/zhQ孩 子 们 有 折 扣 吗Q孩 子 们 没 有 折 扣Q孩 子 们 没 有 折 扣Q孩 子 们 有 折 扣 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22029/zhQ学 生 有 折 扣 吗Q学 生 没 有 折 扣Q学 生 没 有 折 扣Q学 生 有 折 扣 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22031/zhQ我 会 叫 救 护 车Q你 需 要 救 护 车 吗Q你 需 要 救 护 车 吗Q我 会 叫 救 护 车
+/disk1/dataset_glq/SP-10_video_frame/train/22032/zhQ我 会 打 电 话 给 医 生Q你 打 电 话 给 谁Q你 打 电 话 给 谁Q我 会 打 电 话 给 医 生
+/disk1/dataset_glq/SP-10_video_frame/train/22033/zhQ我 接 了 一 个 广 告 电 话 给 与 答 复Q你 接 了 什 么 电 话Q你 接 了 什 么 电 话Q我 接 了 一 个 广 告 电 话 给 与 答 复
+/disk1/dataset_glq/SP-10_video_frame/train/22035/zhQ我 被 解 雇 了Q我 被 解 雇 了 吗Q我 被 解 雇 了 吗Q我 被 解 雇 了
+/disk1/dataset_glq/SP-10_video_frame/train/22036/zhQ我 错 过 了 火 车Q你 错 过 了 什 么Q你 错 过 了 什 么Q我 错 过 了 火 车
+/disk1/dataset_glq/SP-10_video_frame/train/22041/zhQ我 可 以 开 灯 吗Q我 可 以 开 灯Q我 可 以 开 灯Q我 可 以 开 灯 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22044/zhQ我 的 轮 胎 爆 炸 了Q你 的 轮 胎 怎 么 了Q你 的 轮 胎 怎 么 了Q我 的 轮 胎 爆 炸 了
+/disk1/dataset_glq/SP-10_video_frame/train/22046/zhQ没 有 座 位 了Q还 有 座 位 吗Q还 有 座 位 吗Q没 有 座 位 了
+/disk1/dataset_glq/SP-10_video_frame/train/22049/zhQ掉 头Q掉 头Q掉 头Q掉 头
+/disk1/dataset_glq/SP-10_video_frame/train/22050/zhQ加 足 马 力Q加 足 马 力Q加 足 马 力Q加 足 马 力
+/disk1/dataset_glq/SP-10_video_frame/train/22054/zhQ订 票 办 公 室 关 门 了Q订 票 办 公 室 关 门 了 吗Q订 票 办 公 室 关 门 了 吗Q订 票 办 公 室 关 门 了
+/disk1/dataset_glq/SP-10_video_frame/train/22055/zhQ订 票 办 公 室 开 门 了Q订 票 办 公 室 开 门 了 吗Q订 票 办 公 室 开 门 了 吗Q订 票 办 公 室 开 门 了
+/disk1/dataset_glq/SP-10_video_frame/train/22056/zhQ司 机 开 车 离 去Q司 机 开 车 干 嘛 去 了Q司 机 开 车 干 嘛 去 了Q司 机 开 车 离 去
+/disk1/dataset_glq/SP-10_video_frame/train/22057/zhQ火 车 十 分 钟 后 离 开Q火 车 什 么 时 候 离 开Q火 车 什 么 时 候 离 开Q火 车 十 分 钟 后 离 开
+/disk1/dataset_glq/SP-10_video_frame/train/22059/zhQ这 个 女 人 是 无 意 识 的Q这 个 女 人 有 意 识 吗Q这 个 女 人 有 意 识 吗Q这 个 女 人 是 无 意 识 的
+/disk1/dataset_glq/SP-10_video_frame/train/22082/zhQ我 们 公 司 有 个 空 缺Q你 们 公 司 有 空 缺 吗Q你 们 公 司 有 空 缺 吗Q我 们 公 司 有 个 空 缺
+/disk1/dataset_glq/SP-10_video_frame/train/22083/zhQ我 们 发 生 了 一 场 车 祸Q谁 发 生 了 一 场 车 祸Q谁 发 生 了 一 场 车 祸Q我 们 发 生 了 一 场 车 祸
+/disk1/dataset_glq/SP-10_video_frame/train/22084/zhQ你 怎 么 了Q你 怎 么 了Q你 怎 么 了Q你 怎 么 了
+/disk1/dataset_glq/SP-10_video_frame/train/22085/zhQ发 生 了 什 么 事Q出 事 了Q出 事 了Q发 生 了 什 么 事
+/disk1/dataset_glq/SP-10_video_frame/train/22086/zhQ你 的 车 是 哪 个 款 的Q我 的 车 是 这 个 款 的Q我 的 车 是 这 个 款 的Q你 的 车 是 哪 个 款 的
+/disk1/dataset_glq/SP-10_video_frame/train/22088/zhQ你 怎 么 了Q你 怎 么 了Q你 怎 么 了Q你 怎 么 了
+/disk1/dataset_glq/SP-10_video_frame/train/22089/zhQ每 小 时 收 费 多 少Q每 小 时 收 费 不 高Q每 小 时 收 费 不 高Q每 小 时 收 费 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/22090/zhQ这 条 街 名 叫 什 么Q我 不 知 道 这 条 街 名Q我 不 知 道 这 条 街 名Q这 条 街 名 叫 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/22092/zhQ我 们 现 在 在 哪 里Q我 们 到 了Q我 们 到 了Q我 们 现 在 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/22093/zhQ我 在 哪 里 可 以 找 到 就 业 中 心Q我 要 去 就 业 中 心Q我 要 去 就 业 中 心Q我 在 哪 里 可 以 找 到 就 业 中 心
+/disk1/dataset_glq/SP-10_video_frame/train/22095/zhQ售 票 处 在 哪 里Q你 看 到 售 票 处 了 吗Q你 看 到 售 票 处 了 吗Q售 票 处 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/22097/zhQ储 物 柜 在 哪 里Q你 看 到 储 物 柜 了 吗Q你 看 到 储 物 柜 了 吗Q储 物 柜 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/22098/zhQ休 息 室 在 哪 里Q你 看 到 休 息 室 了 吗Q你 看 到 休 息 室 了 吗Q休 息 室 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/22103/zhQ你 为 什 么 开 那 么 快Q你 开 得 快 吗Q你 开 得 快 吗Q你 为 什 么 开 那 么 快
+/disk1/dataset_glq/SP-10_video_frame/train/22106/zhQ麻 烦 你 能 给 我 留 坐 吗Q没 有 座 了Q没 有 座 了Q麻 烦 你 能 给 我 留 坐 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22110/zhQ你 应 该 去 看 医 生Q我 应 该 去 干 嘛Q我 应 该 去 干 嘛Q你 应 该 去 看 医 生
+/disk1/dataset_glq/SP-10_video_frame/train/22188/zhQ深 呼 吸Q深 呼 吸Q深 呼 吸Q深 呼 吸
+/disk1/dataset_glq/SP-10_video_frame/train/22230/zhQ请 咳 嗽Q请 咳 嗽Q请 咳 嗽Q请 咳 嗽
+/disk1/dataset_glq/SP-10_video_frame/train/22252/zhQ你 知 道 基 本 的 急 救 方 法 吗Q我 不 知 道 基 本 的 急 救 方 法Q我 不 知 道 基 本 的 急 救 方 法Q你 知 道 基 本 的 急 救 方 法 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22253/zhQ你 戴 其 他 眼 镜 吗Q你 戴 眼 镜 吗Q你 戴 眼 镜 吗Q你 戴 其 他 眼 镜 吗
+/disk1/dataset_glq/SP-10_video_frame/train/22255/zhQ不 要 呼 吸Q能 呼 吸 吗Q能 呼 吸 吗Q不 要 呼 吸
+/disk1/dataset_glq/SP-10_video_frame/train/22304/zhQ首 先 我 要 检 查 你 的 眼 睛Q首 先 你 要 检 查 什 么Q首 先 你 要 检 查 什 么Q首 先 我 要 检 查 你 的 眼 睛
+/disk1/dataset_glq/SP-10_video_frame/train/22361/zhQ他 有 内 伤Q他 怎 么 了Q他 怎 么 了Q他 有 内 伤
+/disk1/dataset_glq/SP-10_video_frame/train/22362/zhQ他 出 血 了Q谁 出 血 了Q谁 出 血 了Q他 出 血 了
+/disk1/dataset_glq/SP-10_video_frame/train/22363/zhQ他 受 了 重 伤Q他 受 伤 严 重 吗Q他 受 伤 严 重 吗Q他 受 了 重 伤
+/disk1/dataset_glq/SP-10_video_frame/train/22365/zhQ他 失 去 意 识 了Q他 有 意 识 吗Q他 有 意 识 吗Q他 失 去 意 识 了
+/disk1/dataset_glq/SP-10_video_frame/train/22366/zhQ他 因 车 祸 受 过 伤Q他 怎 么 受 的 伤Q他 怎 么 受 的 伤Q他 因 车 祸 受 过 伤
+/disk1/dataset_glq/SP-10_video_frame/train/22371/zhQ帮 我 清 洁 伤 口Q怎 么 处 理 伤 口Q怎 么 处 理 伤 口Q帮 我 清 洁 伤 口
+/disk1/dataset_glq/SP-10_video_frame/train/22393/zhQ我 嗓 子 有 点 嘶 哑Q你 的 嗓 子 怎 么 了Q你 的 嗓 子 怎 么 了Q我 嗓 子 有 点 嘶 哑
+/disk1/dataset_glq/SP-10_video_frame/train/22394/zhQ我 患 有 色 盲Q你 是 色 盲 吗Q你 是 色 盲 吗Q我 患 有 色 盲
+/disk1/dataset_glq/SP-10_video_frame/train/22396/zhQ我 看 不 清 远 处Q你 能 看 清 远 处 吗Q你 能 看 清 远 处 吗Q我 看 不 清 远 处
+/disk1/dataset_glq/SP-10_video_frame/train/22397/zhQ我 摸 不 到 他 的 脉 搏Q你 能 摸 到 他 的 脉 搏 吗Q你 能 摸 到 他 的 脉 搏 吗Q我 摸 不 到 他 的 脉 搏
+/disk1/dataset_glq/SP-10_video_frame/train/22398/zhQ我 的 头 不 能 动Q你 的 头 能 动 吗Q你 的 头 能 动 吗Q我 的 头 不 能 动
+/disk1/dataset_glq/SP-10_video_frame/train/22401/zhQ我 咳 嗽 的 很 厉 害Q你 咳 嗽 厉 害 吗Q你 咳 嗽 厉 害 吗Q我 咳 嗽 的 很 厉 害
+/disk1/dataset_glq/SP-10_video_frame/train/22403/zhQ我 痛 经Q你 痛 经 吗Q你 痛 经 吗Q我 痛 经
+/disk1/dataset_glq/SP-10_video_frame/train/22404/zhQ我 呼 吸 困 难Q你 呼 吸 困 难 吗Q你 呼 吸 困 难 吗Q我 呼 吸 困 难
+/disk1/dataset_glq/SP-10_video_frame/train/22406/zhQ我 眼 睛 里 有 东 西Q你 眼 睛 怎 么 了Q你 眼 睛 怎 么 了Q我 眼 睛 里 有 东 西
+/disk1/dataset_glq/SP-10_video_frame/train/22408/zhQ我 需 要 你 的 尿 液 样 本Q你 要 尿 液 样 本 吗Q你 要 尿 液 样 本 吗Q我 需 要 你 的 尿 液 样 本
+/disk1/dataset_glq/SP-10_video_frame/train/22409/zhQ我 需 要 你 的 血 液 样 本Q你 需 要 血 液 样 本 吗Q你 需 要 血 液 样 本 吗Q我 需 要 你 的 血 液 样 本
+/disk1/dataset_glq/SP-10_video_frame/train/22411/zhQ我 觉 得 我 的 眼 镜 度 数 太 低Q你 觉 得 我 的 眼 镜 度 数 怎 么 样Q你 觉 得 我 的 眼 镜 度 数 怎 么 样Q我 觉 得 我 的 眼 镜 度 数 太 低
+/disk1/dataset_glq/SP-10_video_frame/train/22412/zhQ我 被 蜜 蜂 蜇 了Q你 怎 么 了Q你 怎 么 了Q我 被 蜜 蜂 蜇 了
+/disk1/dataset_glq/SP-10_video_frame/train/22413/zhQ我 戴 隐 形 眼 镜Q你 没 戴 眼 镜 吗Q你 没 戴 眼 镜 吗Q我 戴 隐 形 眼 镜
+/disk1/dataset_glq/SP-10_video_frame/train/22414/zhQ我 不 想 吃 东 西Q你 要 吃 东 西 吗Q你 要 吃 东 西 吗Q我 不 想 吃 东 西
+/disk1/dataset_glq/SP-10_video_frame/train/22429/zhQ这 是 一 种 隐 痛Q有 痛 感 吗Q有 痛 感 吗Q这 是 一 种 隐 痛
+/disk1/dataset_glq/SP-10_video_frame/train/22430/zhQ这 是 一 种 烧 灼 痛Q这 是 什 么 痛Q这 是 什 么 痛Q这 是 一 种 烧 灼 痛
+/disk1/dataset_glq/SP-10_video_frame/train/22431/zhQ这 是 一 种 持 续 的 痛 苦Q这 是 一 种 怎 样 的 痛 苦Q这 是 一 种 怎 样 的 痛 苦Q这 是 一 种 持 续 的 痛 苦
+/disk1/dataset_glq/SP-10_video_frame/train/22432/zhQ这 是 一 种 刺 痛Q这 是 什 么 痛Q这 是 什 么 痛Q这 是 一 种 刺 痛
+/disk1/dataset_glq/SP-10_video_frame/train/22433/zhQ痒 痒Q痒 吗Q痒 吗Q痒 痒
+/disk1/dataset_glq/SP-10_video_frame/train/22436/zhQ我 会 给 你 量 量 血 压Q你 要 给 我 量 血 压 吗Q你 要 给 我 量 血 压 吗Q我 会 给 你 量 量 血 压
+/disk1/dataset_glq/SP-10_video_frame/train/22437/zhQ我 出 了 很 多 汗Q你 出 汗 了 吗Q你 出 汗 了 吗Q我 出 了 很 多 汗
+/disk1/dataset_glq/SP-10_video_frame/train/22438/zhQ我 的 手 指 烧 伤 了Q你 的 手 指 怎 么 了Q你 的 手 指 怎 么 了Q我 的 手 指 烧 伤 了
+/disk1/dataset_glq/SP-10_video_frame/train/22439/zhQ我 背 痛Q你 的 背 怎 么 了Q你 的 背 怎 么 了Q我 背 痛
+/disk1/dataset_glq/SP-10_video_frame/train/22441/zhQ我 背 上 有 刺 痛 的 感 觉Q你 哪 里 有 刺 痛 的 感 觉Q你 哪 里 有 刺 痛 的 感 觉Q我 背 上 有 刺 痛 的 感 觉
+/disk1/dataset_glq/SP-10_video_frame/train/22442/zhQ我 的 臀 部 有 刺 痛 的 感 觉Q你 的 臀 部 有 刺 痛 的 感 觉 吗Q你 的 臀 部 有 刺 痛 的 感 觉 吗Q我 的 臀 部 有 刺 痛 的 感 觉
+/disk1/dataset_glq/SP-10_video_frame/train/22443/zhQ我 的 乳 房 有 刺 痛 的 感 觉Q你 的 乳 房 有 刺 痛 的 感 觉 吗Q你 的 乳 房 有 刺 痛 的 感 觉 吗Q我 的 乳 房 有 刺 痛 的 感 觉
+/disk1/dataset_glq/SP-10_video_frame/train/22577/zhQ我 的 眼 睛 痒Q哪 里 痒Q哪 里 痒Q我 的 眼 睛 痒
+/disk1/dataset_glq/SP-10_video_frame/train/22704/zhQ卷 起 你 的 袖 子Q怎 么 办Q怎 么 办Q卷 起 你 的 袖 子
+/disk1/dataset_glq/SP-10_video_frame/train/22904/zhQ你 眼 镜 远 视Q你 的 眼 镜 怎 么 了Q你 的 眼 镜 怎 么 了Q你 眼 镜 远 视
+/disk1/dataset_glq/SP-10_video_frame/train/22905/zhQ你 眼 睛 近 视Q你 近 视 吗Q你 近 视 吗Q你 眼 睛 近 视
+/disk1/dataset_glq/SP-10_video_frame/train/22906/zhQ你 得 了 流 感Q谁 得 了 流 感Q谁 得 了 流 感Q你 得 了 流 感
+/disk1/dataset_glq/SP-10_video_frame/train/22907/zhQ你 得 了 肺 炎Q谁 得 了 肺 炎Q谁 得 了 肺 炎Q你 得 了 肺 炎
+/disk1/dataset_glq/SP-10_video_frame/train/22908/zhQ你 得 了 扁 桃 体 炎Q谁 得 了 扁 桃 体 炎Q谁 得 了 扁 桃 体 炎Q你 得 了 扁 桃 体 炎
+/disk1/dataset_glq/SP-10_video_frame/train/22909/zhQ你 必 须 遵 循 饮 食 规 律Q要 遵 循 饮 食 规 律 吗Q要 遵 循 饮 食 规 律 吗Q你 必 须 遵 循 饮 食 规 律
+/disk1/dataset_glq/SP-10_video_frame/train/23006/zhQ你 确 实 你 不 想 来 吗Q我 不 想 来Q我 不 想 来Q你 确 实 你 不 想 来 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23011/zhQ周 末 我 有 时 去 舞 厅 或 者 去 看 电 影Q周 末 你 去 干 什 么Q周 末 你 去 干 什 么Q周 末 我 有 时 去 舞 厅 或 者 去 看 电 影
+/disk1/dataset_glq/SP-10_video_frame/train/23033/zhQ你 能 在 地 图 上 指 给 我 看 好 吗Q我 在 地 图 上 指 给 你 看Q我 在 地 图 上 指 给 你 看Q你 能 在 地 图 上 指 给 我 看 好 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23035/zhQ请 你 7 点 叫 醒 我 好 吗Q几 点 叫 醒 你Q几 点 叫 醒 你Q请 你 7 点 叫 醒 我 好 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23048/zhQ祝 贺Q祝 贺Q祝 贺Q祝 贺
+/disk1/dataset_glq/SP-10_video_frame/train/23051/zhQ你 能 帮 我 一 个 忙 吗Q我 能 帮 你 什 么Q我 能 帮 你 什 么Q你 能 帮 我 一 个 忙 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23063/zhQ所 有 的 房 间 都 有 空 调 吗Q不 是 所 有 的 房 间 都 有 空 调Q不 是 所 有 的 房 间 都 有 空 调Q所 有 的 房 间 都 有 空 调 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23064/zhQ你 有 保 险 柜 吗Q我 没 有 保 险 柜Q我 没 有 保 险 柜Q你 有 保 险 柜 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23068/zhQ房 间 里 有 迷 你 吧 台 吗Q房 间 里 有 什 么Q房 间 里 有 什 么Q房 间 里 有 迷 你 吧 台 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23070/zhQ别 碰 我Q怎 么 了Q怎 么 了Q别 碰 我
+/disk1/dataset_glq/SP-10_video_frame/train/23079/zhQ劳 驾 你 能 告 诉 我 去 车 站 的 路 吗Q我 找 不 到 去 车 站 的 路 了Q我 找 不 到 去 车 站 的 路 了Q劳 驾 你 能 告 诉 我 去 车 站 的 路 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23084/zhQ好 的 谢 谢 你Q怎 么 了Q怎 么 了Q好 的 谢 谢 你
+/disk1/dataset_glq/SP-10_video_frame/train/23092/zhQ早 日 恢 复 健 康Q早 日 恢 复 健 康Q早 日 恢 复 健 康Q早 日 恢 复 健 康
+/disk1/dataset_glq/SP-10_video_frame/train/23093/zhQ晚 上 好Q晚 上 好Q晚 上 好Q晚 上 好
+/disk1/dataset_glq/SP-10_video_frame/train/23094/zhQ祝 你 好 运Q祝 你 好 运Q祝 你 好 运Q祝 你 好 运
+/disk1/dataset_glq/SP-10_video_frame/train/23103/zhQ你 打 过 网 球 吗Q我 不 喜 欢 网 球Q我 不 喜 欢 网 球Q你 打 过 网 球 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23104/zhQ你 已 经 订 了 今 晚 一 个 单 人 间 吗Q你 订 了 什 么Q你 订 了 什 么Q你 已 经 订 了 今 晚 一 个 单 人 间 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23106/zhQ他 喜 欢 骑 车Q他 喜 欢 骑 车 吗Q他 喜 欢 骑 车 吗Q他 喜 欢 骑 车
+/disk1/dataset_glq/SP-10_video_frame/train/23115/zhQ两 个 人 住 的 一 个 房 间 多 少 钱Q他 是 两 个 人 住 的 一 个 房 间Q他 是 两 个 人 住 的 一 个 房 间Q两 个 人 住 的 一 个 房 间 多 少 钱
+/disk1/dataset_glq/SP-10_video_frame/train/23116/zhQ一 张 票 价 格 是 多 少Q我 需 要 买 票Q我 需 要 买 票Q一 张 票 价 格 是 多 少
+/disk1/dataset_glq/SP-10_video_frame/train/23117/zhQ请 问 您 怎 样 付 款Q我 要 付 款Q我 要 付 款Q请 问 您 怎 样 付 款
+/disk1/dataset_glq/SP-10_video_frame/train/23119/zhQ我 去 幼 儿 园 接 我 儿 子Q你 去 幼 儿 园 干 什 么Q你 去 幼 儿 园 干 什 么Q我 去 幼 儿 园 接 我 儿 子
+/disk1/dataset_glq/SP-10_video_frame/train/23122/zhQ我 喜 欢 用 电 脑 工 作Q你 喜 欢 用 什 么 工 作Q你 喜 欢 用 什 么 工 作Q我 喜 欢 用 电 脑 工 作
+/disk1/dataset_glq/SP-10_video_frame/train/23123/zhQ我 每 天 晚 上 都 去 训 练Q你 每 天 晚 上 去 干 嘛Q你 每 天 晚 上 去 干 嘛Q我 每 天 晚 上 都 去 训 练
+/disk1/dataset_glq/SP-10_video_frame/train/23128/zhQ我 丢 了 我 的 包Q谁 丢 了 包Q谁 丢 了 包Q我 丢 了 我 的 包
+/disk1/dataset_glq/SP-10_video_frame/train/23130/zhQ我 需 要 你 的 帮 助Q谁 需 要 你 的 帮 助Q谁 需 要 你 的 帮 助Q我 需 要 你 的 帮 助
+/disk1/dataset_glq/SP-10_video_frame/train/23133/zhQ我 将 住 上 三 夜Q你 会 住 上 多 久Q你 会 住 上 多 久Q我 将 住 上 三 夜
+/disk1/dataset_glq/SP-10_video_frame/train/23134/zhQ我 想 去 山 上 徒 步Q你 想 去 哪 徒 步Q你 想 去 哪 徒 步Q我 想 去 山 上 徒 步
+/disk1/dataset_glq/SP-10_video_frame/train/23136/zhQ我 会 打 电 话 给 警 察Q你 会 打 电 话 给 谁Q你 会 打 电 话 给 谁Q我 会 打 电 话 给 警 察
+/disk1/dataset_glq/SP-10_video_frame/train/23143/zhQ夏 天 我 喜 欢 去 游 泳Q夏 天 你 喜 欢 去 哪Q夏 天 你 喜 欢 去 哪Q夏 天 我 喜 欢 去 游 泳
+/disk1/dataset_glq/SP-10_video_frame/train/23155/zhQ晚 餐 包 括 在 内 吗Q不 包 括 晚 餐Q不 包 括 晚 餐Q晚 餐 包 括 在 内 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23156/zhQ还 需 要 我 为 你 做 什 么 吗Q不 需 要 为 我 做 事Q不 需 要 为 我 做 事Q还 需 要 我 为 你 做 什 么 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23158/zhQ没 关 系Q有 关 系 吗Q有 关 系 吗Q没 关 系
+/disk1/dataset_glq/SP-10_video_frame/train/23160/zhQ步 行 十 分 钟Q步 行 多 长 时 间Q步 行 多 长 时 间Q步 行 十 分 钟
+/disk1/dataset_glq/SP-10_video_frame/train/23161/zhQ这 是 一 个 紧 急 情 况Q这 是 什 么 情 况Q这 是 什 么 情 况Q这 是 一 个 紧 急 情 况
+/disk1/dataset_glq/SP-10_video_frame/train/23171/zhQ今 天 天 气 好 是 不 是Q今 天 天 气 怎 么 样Q今 天 天 气 怎 么 样Q今 天 天 气 好 是 不 是
+/disk1/dataset_glq/SP-10_video_frame/train/23176/zhQ你 需 要 一 份 饮 料 吗Q我 不 需 要 饮 料Q我 不 需 要 饮 料Q你 需 要 一 份 饮 料 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23263/zhQ我 明 白 了Q你 明 白 吗Q你 明 白 吗Q我 明 白 了
+/disk1/dataset_glq/SP-10_video_frame/train/23301/zhQ保 持 安 静Q保 持 安 静Q保 持 安 静Q保 持 安 静
+/disk1/dataset_glq/SP-10_video_frame/train/23320/zhQ我 能 先 看 一 看 房 间 吗Q你 可 以 看 房 间Q你 可 以 看 房 间Q我 能 先 看 一 看 房 间 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23342/zhQ我 的 主 要 爱 好 是 踢 足 球Q你 的 主 要 爱 好 是 什 么Q你 的 主 要 爱 好 是 什 么Q我 的 主 要 爱 好 是 踢 足 球
+/disk1/dataset_glq/SP-10_video_frame/train/23344/zhQ我 的 妈 妈 是 一 名 办 公 室 职 员Q你 的 妈 妈 是 什 么 职 业Q你 的 妈 妈 是 什 么 职 业Q我 的 妈 妈 是 一 名 办 公 室 职 员
+/disk1/dataset_glq/SP-10_video_frame/train/23355/zhQ不 太 坏Q坏 吗Q坏 吗Q不 太 坏
+/disk1/dataset_glq/SP-10_video_frame/train/23356/zhQ不 值 得 的Q值 得 吗Q值 得 吗Q不 值 得 的
+/disk1/dataset_glq/SP-10_video_frame/train/23365/zhQ好 吧 我 就 要 这 个Q你 要 这 个 吗Q你 要 这 个 吗Q好 吧 我 就 要 这 个
+/disk1/dataset_glq/SP-10_video_frame/train/23367/zhQ我 一 周 做 一 次 手 球 练 习Q你 一 周 做 几 次 手 球 练 习Q你 一 周 做 几 次 手 球 练 习Q我 一 周 做 一 次 手 球 练 习
+/disk1/dataset_glq/SP-10_video_frame/train/23371/zhQ我 的 爱 好 就 是 写 信 给 我 的 笔 友 或 者 寄 点 什 么Q你 的 爱 好 是 什 么Q你 的 爱 好 是 什 么Q我 的 爱 好 就 是 写 信 给 我 的 笔 友 或 者 寄 点 什 么
+/disk1/dataset_glq/SP-10_video_frame/train/23382/zhQ请 再 说 一 遍Q没 听 清 怎 么 办Q没 听 清 怎 么 办Q请 再 说 一 遍
+/disk1/dataset_glq/SP-10_video_frame/train/23395/zhQ请 打 扫 我 的 房 间Q现 在 需 要 干 什 么Q现 在 需 要 干 什 么Q请 打 扫 我 的 房 间
+/disk1/dataset_glq/SP-10_video_frame/train/23700/zhQ对 不 起 全 满 了Q满 了 吗Q满 了 吗Q对 不 起 全 满 了
+/disk1/dataset_glq/SP-10_video_frame/train/23753/zhQ因 为 下 雨 比 赛 取 消 了Q为 什 么 比 赛 取 消 了Q为 什 么 比 赛 取 消 了Q因 为 下 雨 比 赛 取 消 了
+/disk1/dataset_glq/SP-10_video_frame/train/23755/zhQ车 站 在 步 行 距 离 之 内Q车 站 在 哪Q车 站 在 哪Q车 站 在 步 行 距 离 之 内
+/disk1/dataset_glq/SP-10_video_frame/train/23756/zhQ他 们 玩 得 很 好Q你 们 玩 得 好 吗Q你 们 玩 得 好 吗Q他 们 玩 得 很 好
+/disk1/dataset_glq/SP-10_video_frame/train/23778/zhQ左 拐Q左 拐Q左 拐Q左 拐
+/disk1/dataset_glq/SP-10_video_frame/train/23779/zhQ右 拐Q右 拐Q右 拐Q右 拐
+/disk1/dataset_glq/SP-10_video_frame/train/23811/zhQ你 喜 欢 什 么 运 动 呢Q我 喜 欢 运 动Q我 喜 欢 运 动Q你 喜 欢 什 么 运 动 呢
+/disk1/dataset_glq/SP-10_video_frame/train/23812/zhQ怎 么 去 车 站 最 好 呢Q我 要 去 车 站Q我 要 去 车 站Q怎 么 去 车 站 最 好 呢
+/disk1/dataset_glq/SP-10_video_frame/train/23813/zhQ有 什 么 事 吗Q有 事Q有 事Q有 什 么 事 吗
+/disk1/dataset_glq/SP-10_video_frame/train/23815/zhQ什 么 时 候 供 应 早 餐Q我 想 吃 早 餐Q我 想 吃 早 餐Q什 么 时 候 供 应 早 餐
+/disk1/dataset_glq/SP-10_video_frame/train/23818/zhQ天 气 不 太 热 的 时 候 我 会 去 溜 旱 冰Q天 气 不 太 热 的 时 候 你 会 去 干 什 么Q天 气 不 太 热 的 时 候 你 会 去 干 什 么Q天 气 不 太 热 的 时 候 我 会 去 溜 旱 冰
+/disk1/dataset_glq/SP-10_video_frame/train/23819/zhQ天 气 不 好 我 就 看 书 或 看 电 视Q天 气 不 好 你 干 什 么Q天 气 不 好 你 干 什 么Q天 气 不 好 我 就 看 书 或 看 电 视
+/disk1/dataset_glq/SP-10_video_frame/train/23820/zhQ假 期 中 我 喜 欢 在 山 上 散 步Q假 期 你 喜 欢 干 什 么Q假 期 你 喜 欢 干 什 么Q假 期 中 我 喜 欢 在 山 上 散 步
+/disk1/dataset_glq/SP-10_video_frame/train/23821/zhQ餐 馆 集 中 的 地 方 在 哪 里Q我 看 到 餐 馆 了Q我 看 到 餐 馆 了Q餐 馆 集 中 的 地 方 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/23822/zhQ我 可 以 在 哪 里 钓 鱼Q你 可 以 去 钓 鱼Q你 可 以 去 钓 鱼Q我 可 以 在 哪 里 钓 鱼
+/disk1/dataset_glq/SP-10_video_frame/train/23824/zhQ最 近 的 公 共 汽 车 站 在 哪 里Q我 想 去 公 共 汽 车 站Q我 想 去 公 共 汽 车 站Q最 近 的 公 共 汽 车 站 在 哪 里
+/disk1/dataset_glq/SP-10_video_frame/train/23831/zhQ请 你 原 谅 我 吧Q我 对 不 起 你Q我 对 不 起 你Q请 你 原 谅 我 吧
+/disk1/dataset_glq/SP-10_video_frame/train/23836/zhQ你 的 房 间 在 二 楼 右 边Q我 的 房 间 在 哪 里Q我 的 房 间 在 哪 里Q你 的 房 间 在 二 楼 右 边

@@ -1,0 +1,185 @@
+/disk1/dataset_glq/SP-10_video_frame/test/1296/deQBitte sehrQBitte sehrQHet is goedQWat wil je zienQZijn de goederen van de markt
+/disk1/dataset_glq/SP-10_video_frame/test/1587/deQSchön dich zu sehenQSchön dich zu sehenQBen je blij me te zienQIs de score hoogQEr zijn veel kinderen
+/disk1/dataset_glq/SP-10_video_frame/test/2784/deQFrohes neues JahrQFrohes neues JahrQGelukkig NieuwjaarQVind je hem leukQWanneer plant je zaden
+/disk1/dataset_glq/SP-10_video_frame/test/2817/deQIch möchte dass du meinen Freund triffstQIch möchte dass du meinen Freund triffstQWie wil je dat ik ontmoetQHoeveel kinderen hebben zeQCut
+/disk1/dataset_glq/SP-10_video_frame/test/3105/deQDieser Kerl ist voller EnergieQDieser Kerl ist voller EnergieQHeeft deze persoon energieQHet schoolbord vegenQWat heb je vandaag gekocht
+/disk1/dataset_glq/SP-10_video_frame/test/3107/deQich reise gerneQich reise gerneQWat vind je leuk aan hemQIk zoek het hoofdpostkantoorQIk wilde dit zeggen
+/disk1/dataset_glq/SP-10_video_frame/test/3108/deQIch habe ihn lange Zeit nicht gesehenQIch habe ihn lange Zeit nicht gesehenQHoe lang is het geleden dat je hem gezien hebtQWe hebben geen kamerQIk zoek het hoofdpostkantoor
+/disk1/dataset_glq/SP-10_video_frame/test/3659/deQIch mag ihnQIch mag ihnQVind je hem leukQIk spreek geen EngelsQWanneer vergeet je je taken te doen
+/disk1/dataset_glq/SP-10_video_frame/test/3660/deQIch habe bauchschmerzenQIch habe bauchschmerzenQWat is er mis met je maagQHoe vaakQWaar ga je heen voor informatie
+/disk1/dataset_glq/SP-10_video_frame/test/3661/deQIch habe FieberQIch habe FieberQHeb je koortsQZie ik er goed uitQIs de score hoog
+/disk1/dataset_glq/SP-10_video_frame/test/3666/deQDas verstehe ich nichtQDas verstehe ich nichtQBegrijp je hetQZie ik er goed uitQWanneer plant je zaden
+/disk1/dataset_glq/SP-10_video_frame/test/3669/deQWann öffnen SieQWann öffnen SieQWe zijn tegenwoordig open voor zakenQZou je voor mijn bedrijf willen werkenQBetaal je te veel
+/disk1/dataset_glq/SP-10_video_frame/test/3673/deQIch bin nicht gehörlosQIch bin nicht gehörlosQBen je doofQHeb je een jongen of een meisje gekregenQWat is er met je aan de hand
+/disk1/dataset_glq/SP-10_video_frame/test/3674/deQIch kann nicht hörenQIch kann nicht hörenQKun je me horenQSluit je je chequeboek afQHeb je je gewassen
+/disk1/dataset_glq/SP-10_video_frame/test/3675/deQIch habe AngstQIch habe AngstQBen je bangQVoel je je al beterQWat wil je zien
+/disk1/dataset_glq/SP-10_video_frame/test/3684/deQVon wem bist du schwangerQVon wem bist du schwangerQIk ben zwangerQWat gebeurt er als het licht rood isQHet gaat lang duren
+/disk1/dataset_glq/SP-10_video_frame/test/3697/deQKomm wir gehen zum StrandQKomm wir gehen zum StrandQWaar gaan we heenQIk wil nietsQWat heb je haar vorige week geschreven
+/disk1/dataset_glq/SP-10_video_frame/test/6765/deQsich in die Bücher vertiefenQsich in die Bücher vertiefenQStudeer je hardQWat heb je gezienQSchool is niet ver
+/disk1/dataset_glq/SP-10_video_frame/test/8804/deQHast du ihn gefragtQHast du ihn gefragtQIk heb het hem niet gevraagdQHoe reis jeQHeb je een hond
+/disk1/dataset_glq/SP-10_video_frame/test/8809/deQMöch/disk1/dataset_glq/SP-10_video_frame/test du Milch und ZuckerQMöch/disk1/dataset_glq/SP-10_video_frame/test du Milch und ZuckerQWat wil jeQHoe kan ik doorgaanQOeps
+/disk1/dataset_glq/SP-10_video_frame/test/8828/deQMir geht es gutQMir geht es gutQHoe gaat het met jeQEr is een restauratiewagen in de treinQHeb je een hond
+/disk1/dataset_glq/SP-10_video_frame/test/8831/deQIch bin müdeQIch bin müdeQBen je moeQWaar werkt haar dochterQWaar ga je heen voor informatie
+/disk1/dataset_glq/SP-10_video_frame/test/8832/deQIch habe eine FrageQIch habe eine FrageQHeb je een probleemQWat gebeurt er als het licht rood isQEr zijn hier veel sportfaciliteiten
+/disk1/dataset_glq/SP-10_video_frame/test/8851/deQMein Name istQMein Name istQHoe heet jeQIk wil naar de volgende bushalteQHeb je een kamer
+/disk1/dataset_glq/SP-10_video_frame/test/8853/deQWie ist deine AdresseQWie ist deine AdresseQIk weet je adres nietQIk spreek geen EngelsQIk zoek een foodtruck
+/disk1/dataset_glq/SP-10_video_frame/test/8863/deQWo wohnst duQWo wohnst duQIk woon hierQWaar ben je afgestudeerdQIs de luchtvochtigheid hoog vandaag
+/disk1/dataset_glq/SP-10_video_frame/test/8864/deQWoher kommst DuQWoher kommst DuQIk woon hierQBen je blij me te zienQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/test/8867/deQWarum sagst Du dasQWarum sagst Du dasQIk wilde dit zeggenQIn wat voor soort muziek ben je geïnteresseerdQIk ben zwanger
+/disk1/dataset_glq/SP-10_video_frame/test/8870/deQDu siehst hübsch ausQDu siehst hübsch ausQZie ik er goed uitQHeb je een probleemQHet is ver weg
+/disk1/dataset_glq/SP-10_video_frame/test/9595/deQIch mache meinen Abschluss in 2 JahrenQIch mache meinen Abschluss in 2 JahrenQWanneer studeer je afQKun je me horenQIk wil salsa
+/disk1/dataset_glq/SP-10_video_frame/test/9604/deQEs ist 6 Uhr 15QEs ist 6 Uhr 15QHoe laat is het nuQWat wil jijQWaarom bedank je me
+/disk1/dataset_glq/SP-10_video_frame/test/9621/deQIch bin jetzt in der HochschuleQIch bin jetzt in der HochschuleQWat studeer je nuQIs gebarentaal muziek mooiQHeb je je gewassen
+/disk1/dataset_glq/SP-10_video_frame/test/9628/deQIch studiere EnglischQIch studiere EnglischQWat is je hoofdvakQHeeft deze persoon energieQWie wil je dat ik ontmoet
+/disk1/dataset_glq/SP-10_video_frame/test/9638/deQIch studiere SonderpädagogikQIch studiere SonderpädagogikQWat is jouw hoofdvakQHij heeft zijn injecties gehadQHet gaat lang duren
+/disk1/dataset_glq/SP-10_video_frame/test/9660/deQSie ist nicht respektvoll zu den LehrernQSie ist nicht respektvoll zu den LehrernQHeeft Susan respect voor haar lerarenQWat ben je kwijtQSluit je je chequeboek af
+/disk1/dataset_glq/SP-10_video_frame/test/9667/deQDu musst in die Bibliothek gehen und nachschauenQDu musst in die Bibliothek gehen und nachschauenQWaar ga je heen voor informatieQHet is bijna tijd voor de volgende lesQWat heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/test/9679/deQSprichst du EnglischQSprichst du EnglischQIk spreek geen EngelsQJe bent verkoudenQWat wil je zien
+/disk1/dataset_glq/SP-10_video_frame/test/9687/deQWie weit ist esQWie weit ist esQHet is ver wegQIk voel me niet goedQWat is er mis met je neus
+/disk1/dataset_glq/SP-10_video_frame/test/9694/deQIch mag es mit dem Zug zu fahrenQIch mag es mit dem Zug zu fahrenQWaar reis je graag meeQWelke muis gebruik jeQWanneer vergeet je je taken te doen
+/disk1/dataset_glq/SP-10_video_frame/test/9708/deQBiege links ab und halte dann anQBiege links ab und halte dann anQHoe reis jeQWat is er met je aan de handQIk woon hier
+/disk1/dataset_glq/SP-10_video_frame/test/9733/deQPrüfst Du den ÖlstandQPrüfst Du den ÖlstandQMoet ik de olie controlerenQHet gaat lang durenQWie wil je
+/disk1/dataset_glq/SP-10_video_frame/test/9734/deQKönnen Sie mir bitte ein Taxi rufenQKönnen Sie mir bitte ein Taxi rufenQWat voor auto kan ik voor je bellenQBen je bangQWat is er met je aan de hand
+/disk1/dataset_glq/SP-10_video_frame/test/9745/deQHeute habe ich von meiner Mutter eine E-Mail bekommenQHeute habe ich von meiner Mutter eine E-Mail bekommenQWat heb je vandaag gekochtQHet schoolbord vegenQVerdien je genoeg geld
+/disk1/dataset_glq/SP-10_video_frame/test/9752/deQIch brauche eine bessere FirewallQIch brauche eine bessere FirewallQWelke firewall heb je nodigQWat studeer je nuQIk zoek het hoofdpostkantoor
+/disk1/dataset_glq/SP-10_video_frame/test/9755/deQIch benutze eine optische MausQIch benutze eine optische MausQWelke muis gebruik jeQWat heb je haar vorige week geschrevenQIk zoek een geldwisselkantoor
+/disk1/dataset_glq/SP-10_video_frame/test/9769/deQHaben Sie einen DolmetscherserviceQHaben Sie einen DolmetscherserviceQIk heb een vertaaldienstQHeeft Susan respect voor haar lerarenQIn wat voor soort muziek ben je geïnteresseerd
+/disk1/dataset_glq/SP-10_video_frame/test/9781/deQUnsere Musik ist modernQUnsere Musik ist modernQWat voor muziek speel jeQWat ben je kwijtQWaar breng je me heen
+/disk1/dataset_glq/SP-10_video_frame/test/9795/deQIch habe 2 Wochenenden im Monat freiQIch habe 2 Wochenenden im Monat freiQHoeveel weekends per maand heb je vrijQWat verwacht je danQIk heb het hem niet gevraagd
+/disk1/dataset_glq/SP-10_video_frame/test/9807/deQSie haben 11 KinderQSie haben 11 KinderQHoeveel kinderen hebben zeQWat vind je leuk aan hemQHeerlijk
+/disk1/dataset_glq/SP-10_video_frame/test/9811/deQSein Sohn möchte Astronaut werdenQSein Sohn möchte Astronaut werdenQWat wil zijn zoon wordenQWaar ga je heen voor informatieQIk woon hier
+/disk1/dataset_glq/SP-10_video_frame/test/9822/deQIch verdiene zu wenig GeldQIch verdiene zu wenig GeldQVerdien je genoeg geldQWat heb je gezienQWat is er mis met jou
+/disk1/dataset_glq/SP-10_video_frame/test/9828/deQSie hat einen leichten JobQSie hat einen leichten JobQWat voor werk heb jeQHoeveel heb je gezegdQWelke firewall heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/test/9830/deQWas arbei/disk1/dataset_glq/SP-10_video_frame/test DuQWas arbei/disk1/dataset_glq/SP-10_video_frame/test DuQIk werk veelQOh mijn GodQHeerlijk
+/disk1/dataset_glq/SP-10_video_frame/test/9831/deQWo arbei/disk1/dataset_glq/SP-10_video_frame/test duQWo arbei/disk1/dataset_glq/SP-10_video_frame/test duQIk werk nuQWat is er met je remmen gebeurdQDit pakje ziet er een beetje zwaar uit
+/disk1/dataset_glq/SP-10_video_frame/test/9839/deQIch mag den Herbst am liebstenQIch mag den Herbst am liebstenQWat is je favoriete seizoenQWat leer je om te doenQWie meenemen
+/disk1/dataset_glq/SP-10_video_frame/test/9840/deQIch mag den Frühling am liebstenQIch mag den Frühling am liebstenQWat is je favoriete seizoenQWaarom bloedt hijQIk kan je een gynaecoloog aanraden
+/disk1/dataset_glq/SP-10_video_frame/test/9841/deQIch mag den Sommer am liebstenQIch mag den Sommer am liebstenQWat is je favoriete seizoenQHeb je een afspraakje vandaagQHoe doe je gebarentaal
+/disk1/dataset_glq/SP-10_video_frame/test/9843/deQIch mag den Winter am liebstenQIch mag den Winter am liebstenQWat is je favoriete seizoenQBen je bangQOeps
+/disk1/dataset_glq/SP-10_video_frame/test/9844/deQIch habe die Samen im letzten Herbst gepflanztQIch habe die Samen im letzten Herbst gepflanztQWanneer plant je zadenQZijn de goederen van de marktQWie wil je
+/disk1/dataset_glq/SP-10_video_frame/test/9846/deQEs regnetQEs regnetQRegent hetQHeb je je geschorenQWat is er mis met je gezicht
+/disk1/dataset_glq/SP-10_video_frame/test/9857/deQHeute haben wir eine hohe LuftfeuchtigkeitQHeute haben wir eine hohe LuftfeuchtigkeitQIs de luchtvochtigheid hoog vandaagQWaar trek je je kleren uitQWat is je hoofdvak
+/disk1/dataset_glq/SP-10_video_frame/test/9874/deQHast du 25 CentQHast du 25 CentQIk heb wat muntenQWat is je hoofdvakQMoet ik een formulier invullen
+/disk1/dataset_glq/SP-10_video_frame/test/9882/deQIch muss meine Finanzen in Ordnung bringenQIch muss meine Finanzen in Ordnung bringenQSluit je je chequeboek afQWat vind je leuk aan hemQZijn de goederen van de markt
+/disk1/dataset_glq/SP-10_video_frame/test/9884/deQIch habe weniger bezahlt als duQIch habe weniger bezahlt als duQBetaal je te veelQWaarom bloedt hijQIs het niet op voorraad
+/disk1/dataset_glq/SP-10_video_frame/test/9897/deQFröhliches ThanksgivingQFröhliches ThanksgivingQGelukkige ThanksgivingQWat is je hoofdvakQIs de score hoog
+/disk1/dataset_glq/SP-10_video_frame/test/9901/deQFerienheimQFerienheimQVakantiehuisQIk ben zwangerQWaar is de YMCA
+/disk1/dataset_glq/SP-10_video_frame/test/9921/deQMir geht es jetzt besserQMir geht es jetzt besserQVoel je je al beterQWaar is de YMCAQStudeer je hard
+/disk1/dataset_glq/SP-10_video_frame/test/9946/deQMein Kopf tut wehQMein Kopf tut wehQHeb je hoofdpijnQIk zoek een foodtruckQWanneer studeer je af
+/disk1/dataset_glq/SP-10_video_frame/test/9976/deQIhre Tochter arbeitet hierQIhre Tochter arbeitet hierQWaar werkt haar dochterQWat wil je zienQWat voor advocaat heb je nodig als je naar de rechtbank gaat
+/disk1/dataset_glq/SP-10_video_frame/test/9980/deQWie viele Kinder kommenQWie viele Kinder kommenQEr zijn veel kinderenQIs de luchtvochtigheid hoog vandaagQWat heb je vandaag gekocht
+/disk1/dataset_glq/SP-10_video_frame/test/9982/deQIch habe schon geduschtQIch habe schon geduschtQHeb je je gewassenQDit pakje ziet er een beetje zwaar uitQHeeft Susan respect voor haar leraren
+/disk1/dataset_glq/SP-10_video_frame/test/9994/deQIch habe mich noch nicht rasiertQIch habe mich noch nicht rasiertQHeb je je geschorenQWat heb je gezienQWat is er mis met je neus
+/disk1/dataset_glq/SP-10_video_frame/test/9995/deQIch muss nach Hause gehenQIch muss nach Hause gehenQWat ben je aan het doenQWie meenemenQWaar wil je heen
+/disk1/dataset_glq/SP-10_video_frame/test/9998/deQIch habe meinen Stift verlorenQIch habe meinen Stift verlorenQWat ben je kwijtQIk heb iets van je afgepaktQIk wil een kamer met een bad
+/disk1/dataset_glq/SP-10_video_frame/test/10006/deQIch habe ihr letzte Woche einen Brief geschriebenQIch habe ihr letzte Woche einen Brief geschriebenQWat heb je haar vorige week geschrevenQIk heb geen kleingeldQHeeft deze persoon energie
+/disk1/dataset_glq/SP-10_video_frame/test/10009/deQEs ist ein MädchenQEs ist ein MädchenQHeb je een jongen of een meisje gekregenQWat wil zijn zoon wordenQIk wil graag je telefoon gebruiken
+/disk1/dataset_glq/SP-10_video_frame/test/10023/deQDarf ich Ihnen meine Frau vorstellenQDarf ich Ihnen meine Frau vorstellenQJe kunt je vrouw voorstellenQWat leer je om te doenQIk kan je een gynaecoloog aanraden
+/disk1/dataset_glq/SP-10_video_frame/test/10035/deQEntschuldigen Sie michQEntschuldigen Sie michQHoe vaakQIk kan je band niet vervangenQIn wat voor soort muziek ben je geïnteresseerd
+/disk1/dataset_glq/SP-10_video_frame/test/10077/deQIch möchte eine große ColaQIch möchte eine große ColaQWat wil jeQHet is ver wegQRegent het
+/disk1/dataset_glq/SP-10_video_frame/test/10083/deQIch möchte heißen TeeQIch möchte heißen TeeQWat wil jijQWat ben je aan het doenQVerdien je geld met kranten bezorgen
+/disk1/dataset_glq/SP-10_video_frame/test/10093/deQDanke dass du mit uns gegessen hastQDanke dass du mit uns gegessen hastQWaarom bedank je meQMoet ik de olie controlerenQWat gebeurt er als het licht rood is
+/disk1/dataset_glq/SP-10_video_frame/test/10104/deQWelches Salatdressing möchs/disk1/dataset_glq/SP-10_video_frame/test duQWelches Salatdressing möchs/disk1/dataset_glq/SP-10_video_frame/test duQIk wil salsaQHij heeft zijn injecties gehadQWat doe je zaterdag
+/disk1/dataset_glq/SP-10_video_frame/test/10114/deQMöchten Sie Pommes dazu bestellenQMöchten Sie Pommes dazu bestellenQDaar wil ik frietjes bijQMoet ik de olie controlerenQWaar wil je heen
+/disk1/dataset_glq/SP-10_video_frame/test/10125/deQWie kommt es dass du dich für Gebärdensprache interessierstQWie kommt es dass du dich für Gebärdensprache interessierstQIk ben geïnteresseerd in gebarentaalQWat heb je gezienQWat wil je zien
+/disk1/dataset_glq/SP-10_video_frame/test/10131/deQIch mache ein Dolmetscher-StudiumQIch mache ein Dolmetscher-StudiumQWat leer je om te doenQHoe gaat het met jeQIk heb een ander hotel aanbevolen
+/disk1/dataset_glq/SP-10_video_frame/test/10140/deQIch kann ein bisschen sprechenQIch kann ein bisschen sprechenQHoeveel heb je gezegdQIk kan je band niet vervangenQWat vind je leuk aan hem
+/disk1/dataset_glq/SP-10_video_frame/test/10141/deQIch möchte den Gehörlosenverein besuchenQIch möchte den Gehörlosenverein besuchenQWaar wil je heenQHeb je een probleemQWat is je verjaardagscadeau
+/disk1/dataset_glq/SP-10_video_frame/test/10147/deQBitte gebärde langsamQBitte gebärde langsamQHoe doe je gebarentaalQWat heb je haar vorige week geschrevenQIk heb het hem niet gevraagd
+/disk1/dataset_glq/SP-10_video_frame/test/10148/deQGebärdete Musik ist so schönQGebärdete Musik ist so schönQIs gebarentaal muziek mooiQMoet ik de olie controlerenQWat ben je kwijt
+/disk1/dataset_glq/SP-10_video_frame/test/10161/deQMein Auto ist leuchtend rotQMein Auto ist leuchtend rotQWelke kleur heeft jouw autoQWaar ben je afgestudeerdQWat is er mis met je gezicht
+/disk1/dataset_glq/SP-10_video_frame/test/10185/deQIch würde gerne einige Ringe sehenQIch würde gerne einige Ringe sehenQWat wil je zienQIk heb een vertaaldienstQIn wat voor soort muziek ben je geïnteresseerd
+/disk1/dataset_glq/SP-10_video_frame/test/10189/deQDas Wechselgeld stimmt nichtQDas Wechselgeld stimmt nichtQHeb je het goed veranderdQHet is goedQWie wil je
+/disk1/dataset_glq/SP-10_video_frame/test/10200/deQWer hat mein genommenQWer hat mein genommenQIk heb iets van je afgepaktQIk heb wat muntenQWaar stap je op
+/disk1/dataset_glq/SP-10_video_frame/test/10203/deQDie Pfadfinder sind ein guter VereinQDie Pfadfinder sind ein guter VereinQWat voor organisatie is de padvinderijQWat wil je doenQWat doe je zaterdag
+/disk1/dataset_glq/SP-10_video_frame/test/10204/deQDer Kongress ist für die Verabschiedung der Gesetze zuständigQDer Kongress ist für die Verabschiedung der Gesetze zuständigQWat is verantwoordelijk voor de wetgevingQBen je blij me te zienQIk zoek het hoofdpostkantoor
+/disk1/dataset_glq/SP-10_video_frame/test/10219/deQWenn du vor Gericht musst dann brauchst du einen guten AnwaltQWenn du vor Gericht musst dann brauchst du einen guten AnwaltQWat voor advocaat heb je nodig als je naar de rechtbank gaatQWat is er met je aan de handQIk heb het hem niet gevraagd
+/disk1/dataset_glq/SP-10_video_frame/test/10222/deQDer Stadtrat wird in dieser Woche abstimmenQDer Stadtrat wird in dieser Woche abstimmenQStemt de gemeenteraad deze weekQWie meenemenQWelke firewall heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/test/10225/deQDie Jugendherberge ist gleich um die EckeQDie Jugendherberge ist gleich um die EckeQWaar is de YMCAQWanneer studeer je afQWaar gaan we heen
+/disk1/dataset_glq/SP-10_video_frame/test/10239/deQWurde er kastriertQWurde er kastriertQIk ben neutraalQWat wil zijn zoon wordenQZie ik er goed uit
+/disk1/dataset_glq/SP-10_video_frame/test/10240/deQWurde er schon geimpftQWurde er schon geimpftQHij heeft zijn injecties gehadQHeb je het goed veranderdQWat is er met je remmen gebeurd
+/disk1/dataset_glq/SP-10_video_frame/test/10245/deQIch habe einen HundQIch habe einen HundQHeb je een hondQHoe heet jeQWaar stap je op
+/disk1/dataset_glq/SP-10_video_frame/test/11691/deQBei Rot hier haltenQBei Rot hier haltenQWat gebeurt er als het licht rood isQJe kunt je vrouw voorstellenQIk weet je adres niet
+/disk1/dataset_glq/SP-10_video_frame/test/13264/deQÄnderung in der NutzungQÄnderung in der NutzungQWat veranderenQKun je me horenQWat heb je gezien
+/disk1/dataset_glq/SP-10_video_frame/test/13310/deQCutQCutQCutQIk heb wat muntenQHeb je het gemist
+/disk1/dataset_glq/SP-10_video_frame/test/14488/deQzurzeit nicht lieferbarQzurzeit nicht lieferbarQIs het niet op voorraadQIk zoek een geldwisselkantoorQHoe lang is het geleden dat je hem gezien hebt
+/disk1/dataset_glq/SP-10_video_frame/test/14557/deQSchlechtQSchlechtQOepsQIk zoek het hoofdpostkantoorQWe zijn tegenwoordig open voor zaken
+/disk1/dataset_glq/SP-10_video_frame/test/14562/deQMach die Tafel sauberQMach die Tafel sauberQHet schoolbord vegenQIk spreek geen EngelsQHet gaat lang duren
+/disk1/dataset_glq/SP-10_video_frame/test/14604/deQBring es wegQBring es wegQWie meenemenQHoe laat is het nuQWat voor werk heb je
+/disk1/dataset_glq/SP-10_video_frame/test/14621/deQWoQWoQWaarheenQHoeveel heb je gezegdQIk heb iets van je afgepakt
+/disk1/dataset_glq/SP-10_video_frame/test/20110/deQMein GottQMein GottQOh mijn GodQHet is goedQIk werk veel
+/disk1/dataset_glq/SP-10_video_frame/test/20252/deQblass werdenQblass werdenQWat is er mis met je gezichtQOh mijn GodQHoe zit het met de koppeling
+/disk1/dataset_glq/SP-10_video_frame/test/20407/deQWir wissen was du vorhastQWir wissen was du vorhastQWat heb je gezienQHoeveel kinderen hebben zeQWat is er mis met je neus
+/disk1/dataset_glq/SP-10_video_frame/test/20422/deQDas geht zu weitQDas geht zu weitQWat is er met je aan de handQIn wat voor soort muziek ben je geïnteresseerdQWaar stap je op
+/disk1/dataset_glq/SP-10_video_frame/test/21722/deQStört Sie der RauchQStört Sie der RauchQIk vind het niet erg om te rokenQWat is er mis met je neusQIn wat voor soort muziek ben je geïnteresseerd
+/disk1/dataset_glq/SP-10_video_frame/test/21734/deQHaben Sie WechselgeldQHaben Sie WechselgeldQIk heb geen kleingeldQHet is ver wegQWat is je verjaardagscadeau
+/disk1/dataset_glq/SP-10_video_frame/test/21742/deQIch hoffe es gefällt Ihnen in unserem HausQIch hoffe es gefällt Ihnen in unserem HausQWat verwacht je danQIk heb een ander hotel aanbevolenQIk zoek een geldwisselkantoor
+/disk1/dataset_glq/SP-10_video_frame/test/21755/deQEs ist köstlichQEs ist köstlichQHeerlijkQWat is er met je remmen gebeurdQBen je verdwaald
+/disk1/dataset_glq/SP-10_video_frame/test/21758/deQIch bringe Sie nach HauseQIch bringe Sie nach HauseQWaar breng je me heenQIk vind het niet erg om te rokenQGelukkige Thanksgiving
+/disk1/dataset_glq/SP-10_video_frame/test/21759/deQIch nehme esQIch nehme esQWie wil jeQWaarheenQIk spreek geen Engels
+/disk1/dataset_glq/SP-10_video_frame/test/21793/deQDie Ware ist nicht am LagerQDie Ware ist nicht am LagerQZijn de goederen van de marktQIk kan je band niet vervangenQWat heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/test/21794/deQDiese Waren haben einen festen PreisQDiese Waren haben einen festen PreisQIs er een vaste prijs voor deze goederenQWie wil jeQHet schoolbord vegen
+/disk1/dataset_glq/SP-10_video_frame/test/21805/deQWas soll ich tunQWas soll ich tunQDat is goedQIk kan je helpen met de karQHoe gaat het met je
+/disk1/dataset_glq/SP-10_video_frame/test/21806/deQWann schließen die GeschäfteQWann schließen die GeschäfteQIs de winkel geslotenQWaar ben je afgestudeerdQDaar wil ik frietjes bij
+/disk1/dataset_glq/SP-10_video_frame/test/21807/deQWas möch/disk1/dataset_glq/SP-10_video_frame/test du gerneQWas möch/disk1/dataset_glq/SP-10_video_frame/test du gerneQIk wil nietsQKun je me horenQHeb je een hond
+/disk1/dataset_glq/SP-10_video_frame/test/21836/deQKönnten Sie mir den Reifen wechselnQKönnten Sie mir den Reifen wechselnQIk kan je band niet vervangenQHeb je een probleemQMoet ik een formulier invullen
+/disk1/dataset_glq/SP-10_video_frame/test/21839/deQKönnten Sie bitte das Paket wiegenQKönnten Sie bitte das Paket wiegenQDit pakje ziet er een beetje zwaar uitQWat is verantwoordelijk voor de wetgevingQIk wil naar de volgende bushalte
+/disk1/dataset_glq/SP-10_video_frame/test/21874/deQHier ist deine MailQHier ist deine MailQAan wie is het geadresseerdQWaar stap je opQHeb je je geschoren
+/disk1/dataset_glq/SP-10_video_frame/test/21876/deQWie lange wird es dauernQWie lange wird es dauernQHet gaat lang durenQHeb je een afspraakje vandaagQRegent het
+/disk1/dataset_glq/SP-10_video_frame/test/21881/deQIch möchte diesen Brief per Einschreiben schickenQIch möchte diesen Brief per Einschreiben schickenQWat wil je doenQIk wil nietsQHet is de eerste keer dat ik het heb
+/disk1/dataset_glq/SP-10_video_frame/test/21891/deQGehen Sie geradeausQGehen Sie geradeausQHoe kan ik doorgaanQHeb je het goed veranderdQGelukkig Nieuwjaar
+/disk1/dataset_glq/SP-10_video_frame/test/21988/deQKönnen Sie uns helfen das Auto auf den Seitenstreifen zu schiebenQKönnen Sie uns helfen das Auto auf den Seitenstreifen zu schiebenQIk kan je helpen met de karQWat is er mis met je neusQVerdien je geld met kranten bezorgen
+/disk1/dataset_glq/SP-10_video_frame/test/21991/deQKönnen Sie mir einen guten Frauenarzt empfehlenQKönnen Sie mir einen guten Frauenarzt empfehlenQIk kan je een gynaecoloog aanradenQIs voetbal leukQIk wil een kamer met een bad
+/disk1/dataset_glq/SP-10_video_frame/test/22005/deQIch möchte in Ihrer Firma arbeitenQIch möchte in Ihrer Firma arbeitenQZou je voor mijn bedrijf willen werkenQIk kan je een gynaecoloog aanradenQHet is de eerste keer dat ik het heb
+/disk1/dataset_glq/SP-10_video_frame/test/22017/deQIch habe die Lehrerausbildung abgeschlossenQIch habe die Lehrerausbildung abgeschlossenQWaar ben je afgestudeerdQWaar stap je opQWanneer plant je zaden
+/disk1/dataset_glq/SP-10_video_frame/test/22027/deQHat der Zug ein RestaurantQHat der Zug ein RestaurantQEr is een restauratiewagen in de treinQGelukkig NieuwjaarQIs het niet op voorraad
+/disk1/dataset_glq/SP-10_video_frame/test/22037/deQLassen Sie die Kupplung kommenQLassen Sie die Kupplung kommenQHoe zit het met de koppelingQWie wil je dat ik ontmoetQWat ben je kwijt
+/disk1/dataset_glq/SP-10_video_frame/test/22042/deQMeine Bremsen haben versagtQMeine Bremsen haben versagtQWat is er met je remmen gebeurdQWat is er mis met jouQHet is bijna tijd voor de volgende les
+/disk1/dataset_glq/SP-10_video_frame/test/22045/deQHeute keine TermineQHeute keine TermineQHeb je een afspraakje vandaagQWe zijn tegenwoordig open voor zakenQWat wil zijn zoon worden
+/disk1/dataset_glq/SP-10_video_frame/test/22048/deQTreten Sie die KupplungQTreten Sie die KupplungQWaar stap je opQIk kan je band niet vervangenQControleer je pols
+/disk1/dataset_glq/SP-10_video_frame/test/22094/deQWo kann ich bitte Tickets bekommenQWo kann ich bitte Tickets bekommenQIk wil een kaartje kopenQWe zijn tegenwoordig open voor zakenQHet schoolbord vegen
+/disk1/dataset_glq/SP-10_video_frame/test/22099/deQWo ist eine WechselstubeQWo ist eine WechselstubeQIk zoek een geldwisselkantoorQWat is er mis met je gezichtQWat is verantwoordelijk voor de wetgeving
+/disk1/dataset_glq/SP-10_video_frame/test/22100/deQWo ist das HauptpostamtQWo ist das HauptpostamtQIk zoek het hoofdpostkantoorQBen je bangQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/test/22102/deQWo ist der SpeisewagenQWo ist der SpeisewagenQIk zoek een foodtruckQWeet je wat ik bedoelQJe moet betalen voor het vliegveld
+/disk1/dataset_glq/SP-10_video_frame/test/22107/deQWürden Sie bitte dieses Formular ausfüllenQWürden Sie bitte dieses Formular ausfüllenQMoet ik een formulier invullenQHeb je koortsQWe zijn tegenwoordig open voor zaken
+/disk1/dataset_glq/SP-10_video_frame/test/22108/deQDu siehst nicht gut ausQDu siehst nicht gut ausQZie ik er goed uitQBen je ziekQHeb je een jongen of een meisje gekregen
+/disk1/dataset_glq/SP-10_video_frame/test/22212/deQPrüfen Sie den PulsQPrüfen Sie den PulsQControleer je polsQIk kan je een gynaecoloog aanradenQIs voetbal leuk
+/disk1/dataset_glq/SP-10_video_frame/test/22372/deQHilf mir die Blutung zu stoppenQHilf mir die Blutung zu stoppenQWaarom bloedt hijQIs de luchtvochtigheid hoog vandaagQHoe laat is het nu
+/disk1/dataset_glq/SP-10_video_frame/test/22399/deQIch habe mir eine Grippe eingefangenQIch habe mir eine Grippe eingefangenQJe bent verkoudenQWaarheenQDaar wil ik frietjes bij
+/disk1/dataset_glq/SP-10_video_frame/test/22400/deQIch habe NasenblutenQIch habe NasenblutenQWat is er mis met je neusQIk zoek een foodtruckQIk vind het niet erg om te roken
+/disk1/dataset_glq/SP-10_video_frame/test/22407/deQIch habe VerdauungsstörungenQIch habe VerdauungsstörungenQHoe is het met je spijsverteringQWelke firewall heb je nodigQWelke muis gebruik je
+/disk1/dataset_glq/SP-10_video_frame/test/22425/deQHaben Sie das zum ersten Mal gehabtQHaben Sie das zum ersten Mal gehabtQHet is de eerste keer dat ik het hebQWat wil jeQWat doe je zaterdag
+/disk1/dataset_glq/SP-10_video_frame/test/22440/deQIch habe KopfschmerzenQIch habe KopfschmerzenQHeb je hoofdpijnQWanneer plant je zadenQWaar reis je graag mee
+/disk1/dataset_glq/SP-10_video_frame/test/22638/deQMachen Sie bitte den Oberkörper freiQMachen Sie bitte den Oberkörper freiQWaar trek je je kleren uitQHoe laat is het nuQIs er een vaste prijs voor deze goederen
+/disk1/dataset_glq/SP-10_video_frame/test/22791/deQStrecken Sie die Zunge herausQStrecken Sie die Zunge herausQWat heb je nodigQVerdien je genoeg geldQIk ben zwanger
+/disk1/dataset_glq/SP-10_video_frame/test/22886/deQWas bedrückt dichQWas bedrückt dichQIk voel me niet goedQVind je hem leukQWat is verantwoordelijk voor de wetgeving
+/disk1/dataset_glq/SP-10_video_frame/test/22910/deQDu musst nichts essenQDu musst nichts essenQKun je etenQHoeveel weekends per maand heb je vrijQWat wil je
+/disk1/dataset_glq/SP-10_video_frame/test/23032/deQKann ich Dein Telefon benutzenQKann ich Dein Telefon benutzenQIk wil graag je telefoon gebruikenQWaar gaan we heenQWat gebeurt er als het licht rood is
+/disk1/dataset_glq/SP-10_video_frame/test/23034/deQKönnen Sie mir ein anderes Hotel empfehlenQKönnen Sie mir ein anderes Hotel empfehlenQIk heb een ander hotel aanbevolenQWat gebeurt er als het licht rood isQWie wil je
+/disk1/dataset_glq/SP-10_video_frame/test/23065/deQHaben Sie freie ZimmerQHaben Sie freie ZimmerQWe hebben geen kamerQWanneer plant je zadenQWat is verantwoordelijk voor de wetgeving
+/disk1/dataset_glq/SP-10_video_frame/test/23105/deQEr hat die nächste Runde nicht erreichtQEr hat die nächste Runde nicht erreichtQHeeft hij de volgende ronde gehaaldQWaar trek je je kleren uitQWaar stap je op
+/disk1/dataset_glq/SP-10_video_frame/test/23114/deQWie viel kostet es um zum Flughafen zu kommenQWie viel kostet es um zum Flughafen zu kommenQJe moet betalen voor het vliegveldQWaarom bloedt hijQWat wil zijn zoon worden
+/disk1/dataset_glq/SP-10_video_frame/test/23120/deQIch trage Zeitungen aus um etwas Geld zu verdienenQIch trage Zeitungen aus um etwas Geld zu verdienenQVerdien je geld met kranten bezorgenQWelke firewall heb je nodigQWat voor advocaat heb je nodig als je naar de rechtbank gaat
+/disk1/dataset_glq/SP-10_video_frame/test/23121/deQIch verstehe nichtQIch verstehe nichtQWeet je wat ik bedoelQWat ben je aan het doenQWaar ga je heen voor informatie
+/disk1/dataset_glq/SP-10_video_frame/test/23124/deQIch habe zu meinem Geburtstag einen neuen Computer bekommenQIch habe zu meinem Geburtstag einen neuen Computer bekommenQWat is je verjaardagscadeauQIk wil salsaQWaar trek je je kleren uit
+/disk1/dataset_glq/SP-10_video_frame/test/23125/deQIch höre gerne PopmusikQIch höre gerne PopmusikQNaar wat voor muziek luister je graagQHeb je je gewassenQHoe heet je
+/disk1/dataset_glq/SP-10_video_frame/test/23126/deQIch besuche gerne Freunde um mit Ihnen über Dies und Das zu redenQIch besuche gerne Freunde um mit Ihnen über Dies und Das zu redenQWat doe je graagQControleer je polsQWat wil ze spelen
+/disk1/dataset_glq/SP-10_video_frame/test/23137/deQMir geht es gut dankeQMir geht es gut dankeQHoe gaat het met je Met mij gaat het goedQBen je blij me te zienQWie wil je
+/disk1/dataset_glq/SP-10_video_frame/test/23138/deQIch interessiere mich für PunkQIch interessiere mich für PunkQIn wat voor soort muziek ben je geïnteresseerdQHeb je je geschorenQHeb je een probleem
+/disk1/dataset_glq/SP-10_video_frame/test/23139/deQIch habe mich verlaufenQIch habe mich verlaufenQBen je verdwaaldQWaar gaan we heenQWaar gaan jullie heen
+/disk1/dataset_glq/SP-10_video_frame/test/23140/deQIch bin krankQIch bin krankQBen je ziekQWanneer studeer je afQHeb je koorts
+/disk1/dataset_glq/SP-10_video_frame/test/23141/deQIch wurde verletztQIch wurde verletztQWat is er mis met jouQIs voetbal leukQWanneer plant je zaden
+/disk1/dataset_glq/SP-10_video_frame/test/23154/deQWie weit ist es von der Schule zum BahnhofQWie weit ist es von der Schule zum BahnhofQSchool is niet verQHet gaat lang durenQSluit je je chequeboek af
+/disk1/dataset_glq/SP-10_video_frame/test/23366/deQSamstags muss ich für die Familie kochenQSamstags muss ich für die Familie kochenQWat doe je zaterdagQHeerlijkQWat voor auto kan ik voor je bellen
+/disk1/dataset_glq/SP-10_video_frame/test/23394/deQFußball spielen macht SpaßQFußball spielen macht SpaßQIs voetbal leukQWat is je verjaardagscadeauQWaar reis je graag mee
+/disk1/dataset_glq/SP-10_video_frame/test/23678/deQSie möchte Skateboarden gehenQSie möchte Skateboarden gehenQWat wil ze spelenQIk werk veelQWat voor auto kan ik voor je bellen
+/disk1/dataset_glq/SP-10_video_frame/test/23699/deQManchmal lese ich so viel dass ich die Hausaufgaben vergesseQManchmal lese ich so viel dass ich die Hausaufgaben vergesseQWanneer vergeet je je taken te doenQStemt de gemeenteraad deze weekQIk ben neutraal
+/disk1/dataset_glq/SP-10_video_frame/test/23701/deQEntschuldigung aber wir sind heute Abend ausgebuchtQEntschuldigung aber wir sind heute Abend ausgebuchtQHeb je een kamerQHoe laat is het nuQWat is er mis met je gezicht
+/disk1/dataset_glq/SP-10_video_frame/test/23746/deQBring mich bitte zum FlughafenQBring mich bitte zum FlughafenQWaar gaan jullie heenQSluit je je chequeboek afQZien jullie elkaar weer
+/disk1/dataset_glq/SP-10_video_frame/test/23807/deQWir werden sehenQWir werden sehenQZien jullie elkaar weerQCutQStemt de gemeenteraad deze week
+/disk1/dataset_glq/SP-10_video_frame/test/23810/deQWelche Sportanlagen gibt es hierQWelche Sportanlagen gibt es hierQEr zijn hier veel sportfaciliteitenQStemt de gemeenteraad deze weekQWelke firewall heb je nodig
+/disk1/dataset_glq/SP-10_video_frame/test/23814/deQWas ist das ErgebnisQWas ist das ErgebnisQIs de score hoogQIk wil een kaartje kopenQHoe gaat het met je
+/disk1/dataset_glq/SP-10_video_frame/test/23817/deQWann ist die nächste UnterrichtsstundeQWann ist die nächste UnterrichtsstundeQHet is bijna tijd voor de volgende lesQZie ik er goed uitQIk werk veel
+/disk1/dataset_glq/SP-10_video_frame/test/23825/deQWo befindet sich die nächste Bushal/disk1/dataset_glq/SP-10_video_frame/testelleQWo befindet sich die nächste Bushal/disk1/dataset_glq/SP-10_video_frame/testelleQIk wil naar de volgende bushalteQHoe lang is het geleden dat je hem gezien hebtQStudeer je hard
+/disk1/dataset_glq/SP-10_video_frame/test/23832/deQMöchten Sie ein Zimmer mit Bad oder DuscheQMöchten Sie ein Zimmer mit Bad oder DuscheQIk wil een kamer met een badQBen je verdwaaldQWaar werkt haar dochter
+/disk1/dataset_glq/SP-10_video_frame/test/23835/deQDas darfst du nicht verpassenQDas darfst du nicht verpassenQHeb je het gemistQWat heb je gezienQDaar wil ik frietjes bij

@@ -1,0 +1,4 @@
+dataset_root: /disk1/dataset_glq/SP-10_video_frame
+dict_path: ./preprocess/phoenix2014/gloss_dict.npy
+evaluation_dir: ./evaluation/dialogue_sp10
+evaluation_prefix: dialogue_sp10-groundtruth

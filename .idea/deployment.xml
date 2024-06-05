@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="gaoliqing@211.81.55.162:22 (1)" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true" compareModeInSync="TEXT">
+    <serverData>
+      <paths name="211.81.55.162">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaoliqing@211.81.55.149:8022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaoliqing@211.81.55.162:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gaoliqing/code_glq/CVPR_2022/GBT" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/gaoliqing/code_glq/CVPR_2022/context_csl-daily_contrastive/checkpoints" />
+            <excludedPath path="/home/gaoliqing/code_glq/CVPR_2022/context_csl-daily_contrastive/CSL-TJU_insert_com_T" />
+            <excludedPath path="/home/gaoliqing/code_glq/CVPR_2022/context_csl-daily_contrastive/evaluation" />
+            <excludedPath path="/home/gaoliqing/code_glq/CVPR_2022/context_csl-daily_contrastive/mmseg" />
+            <excludedPath path="/home/gaoliqing/code_glq/CVPR_2022/context_csl-daily_contrastive/pretrain" />
+            <excludedPath path="/home/gaoliqing/code_glq/CVPR_2022/context_csl-daily_contrastive/software" />
+            <excludedPath path="/home/gaoliqing/code_glq/CVPR_2022/context_csl-daily_contrastive/text_sign_loadPretrained_0layer_twostream_hybridattnfusion3layer_res_vac_loadPretrainVAC_slrstudent_2teacher_dist5" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="gaoliqing@211.81.55.162:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaoliqing@211.81.55.162:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaoliqing@211.81.55.162:3007">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaoliqing@211.81.55.163:7022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaoliqing@211.81.55.163:7022 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jsnliu@172.26.175.4:8022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jsnliu@211.81.55.149:8022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lihaibo@211.81.55.149:5022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lihaibo@211.81.55.149:5022 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lihaibo@211.81.55.149:5022 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lihaibo@211.81.55.149:5022 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lihaibo@211.81.55.149:5022 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lzk@211.81.55.149:8022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lzk@211.81.55.163:7022 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.10.111.36:2022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@211.81.55.162:3007">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@211.81.55.162:3007 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@211.81.55.162:3007 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

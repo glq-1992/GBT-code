@@ -1,0 +1,99 @@
+batch_size: 2
+bert_args:
+  adaptive_weight: 0
+  add_attn_fuse: 0
+  bert_model: bert-base-german-cased-v1
+  config_path: null
+  drop_prob: 0.1
+  enable_butd: null
+  fp32_embedding: false
+  global_rank: 0
+  label_smoothing: 0
+  len_vis_input: 36
+  loss_type: ctc
+  max_position_embeddings: null
+  model_recover_path: null
+  neg_num: 0
+  no_h0: 0
+  no_vision: 0
+  num_hidden_layers_clip: 2
+  num_hidden_layers_gloss: 2
+  num_hidden_layers_question: 2
+  output_dir: /disk1/shipeng/slrBertPheonix
+  relax_projection: 0
+  task_idx_proj: 3
+  type_vocab_size: 2
+  visdial_v: 1.0
+config: ./configs/baseline_slt_phoenix_bert_sign_text_graph.yaml
+dataset: dialogue_pheonix
+dataset_info:
+  dataset_root: /hd3/phoenix2014-release/phoenix-2014-multisigner
+  dict_path: ./preprocess/phoenix2014/gloss_dict.npy
+  evaluation_dir: ./evaluation/slr_eval_pheonixT
+  evaluation_prefix: dialogue_pheonix-groundtruth
+decode_mode: beam
+device: 3
+dict: DatasetFile/dialogue_pheonix/vocab.txt
+dict_text: DatasetFile/dialogue_pheonix/vocab_label_text.txt
+eval_interval: 1
+evaluate_tool: sclite
+feeder: dataset.dataloader_video_pheonix_sign_text_slt_contrastive.BaseFeeder
+feeder_args:
+  datatype: video
+  drop_ratio: 1.0
+  frame_interval: 1
+  mode: train
+  num_gloss: -1
+ignore_weights: []
+load_checkpoints: null
+
+log_interval: 300
+loss_weights:
+#  SeqCTC: 1.0
+#  ConvCTCSign: 1.0   #slr
+  SeqCTCSign: 1.0
+#  Dist: 25.0 #slr
+  TranslationCrossEntropy: 1.0
+#  Contractive_gobal: 5.0
+#  Contractive_local: 5.0
+
+model: slr_slt_bert_network_sign_text_graph_bias.SLRModel  #slr_slt_bert_network_sign_text_graph_german, slr_slt_bert_network_sign_text_graph
+model_args:
+  c2d_type: resnet18
+  conv_type: 2
+
+
+num_epoch: 300
+num_worker: 2
+optimizer_args:
+  base_lr: 0.00005  #0.0001, 5.0e-05
+  bert_different_layer_lr: none
+  learning_ratio: 1
+  nesterov: false
+  optimizer: Adam
+  start_epoch: 0
+  step: #[5,]
+  - 5
+  - 30
+  - 50
+  weight_decay: 0.0001
+phase: train
+print_log: true
+random_fix: true
+random_seed: 0
+save_interval: 1
+slt_args:
+  dropout: 0.1
+  embeddings:
+    activation_type: softsign
+    dropout: 0.1
+    embedding_dim: 768
+    norm_type: batch
+    scale: false
+  ff_size: 2048
+  hidden_size: 768
+  num_heads: 8
+  num_layers: 3
+  type: transformer
+test_batch_size: 2
+work_dir: /disk1/

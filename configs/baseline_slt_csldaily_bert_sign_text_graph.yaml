@@ -1,0 +1,105 @@
+feeder: dataset.dataloader_video_csldaily_sign_text_slt_charlevel.BaseFeeder
+phase: train
+dataset: dialogue_csldaily_new
+
+dict: DatasetFile/dialogue_csldaily/gloss_map.txt
+dict_text: DatasetFile/dialogue_csldaily/char_map.txt
+# dataset: phoenix14-si5
+num_epoch: 300
+work_dir: /disk1/
+batch_size: 2
+random_seed: 0
+test_batch_size: 2
+num_worker: 2
+device: 0
+log_interval: 300
+eval_interval: 1
+save_interval: 1
+# python in default
+evaluate_tool: sclite  #python or sclite
+loss_weights:
+#  ConvCTCSign: 1.0   #slr
+#  SeqCTCSign: 1.0
+  # # # # # next_sentence_loss: 1.0
+#  Dist: 25.0 #slr
+#  SeqCTC: 1.0 #without
+  TranslationCrossEntropy: 1.0
+  Contractive_gobal: 5.0
+  Contractive_local: 5.0
+
+
+
+optimizer_args:
+  optimizer: Adam
+  base_lr: 0.00005 #0.00005
+  step: [10, 30, 50]
+
+  learning_ratio: 1
+  weight_decay: 0.0001
+  start_epoch: 0
+  nesterov: False
+  bert_different_layer_lr: 'none'
+
+
+feeder_args:
+  mode: 'train'
+  datatype: 'video'
+  num_gloss: -1
+  drop_ratio: 1.0
+  frame_interval: 1
+
+
+
+model: slr_slt_bert_network_sign_text_graph_bias.SLRModel
+decode_mode: beam
+model_args:
+  c2d_type: resnet18
+  conv_type: 2
+bert_args:
+  bert_model: bert-base-chinese
+  type_vocab_size: 2  # ??
+  relax_projection: 0 # ??
+  task_idx_proj: 3 #?? img2txt | vqa2| ctrl2 | visdial | visdial_short_hist | visdial_nsp
+  label_smoothing: 0
+  fp32_embedding: false
+  output_dir: /disk1/shipeng/slrBertTJUQA
+  global_rank: 0
+  drop_prob: 0.1
+  len_vis_input: 36 #
+  visdial_v: 1.0
+  loss_type: ctc
+  neg_num: 0
+  adaptive_weight: 0
+  add_attn_fuse: 0
+  no_h0: 0
+  no_vision: 0
+  model_recover_path: null
+  config_path: null
+  max_position_embeddings: null
+  enable_butd: null
+  num_hidden_layers_clip: 2
+  num_hidden_layers_gloss: 2
+  num_hidden_layers_question: 2
+  # num_hidden_layers_sign: 2
+  # num_hidden_layers_text: 0
+  # num_hidden_layers_fusion: 3
+slt_args: 
+  type: transformer
+  num_layers: 3
+  num_heads: 8
+  embeddings:
+      embedding_dim: 768
+      scale: false
+      dropout: 0.1
+      norm_type: batch
+      activation_type: softsign
+  hidden_size: 768
+  ff_size: 2048
+  dropout: 0.1
+
+
+
+
+
+
+
