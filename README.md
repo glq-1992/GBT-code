@@ -13,7 +13,7 @@
 
 2. Download the CSL-Daily Dataset [[download link]](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/). 
 
-3. Download the CSL-Daily Dataset [[download link]](https://github.com/MLSLT/SP-10). 
+3. Download the SP-10 Dataset [[download link]](https://github.com/MLSLT/SP-10). 
 
 3. Download the QSL Dataset [[download link]](https://github.com/glq-1992/QSL). 
 
